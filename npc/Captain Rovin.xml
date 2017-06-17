@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Captain Rovin" script="Captain Rovin.lua" walkinterval="2000">
+	<health now="150" max="150"/>
+	<look type="278" head="97" body="100" legs="41" feet="40" corpse="2212" addons="1"/>
+</npc>

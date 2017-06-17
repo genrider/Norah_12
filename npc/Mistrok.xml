@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Mistrok" script="furniture.lua" walkinterval="0" floorchange="0">
+	<health now="150" max="150"/>
+	<look type="133" head="98" body="116" legs="43" feet="95" addons="3"/>
+</npc>

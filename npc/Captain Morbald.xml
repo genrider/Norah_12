@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Captain Morbald" script="Captain Morbald.lua" walkinterval="2000">
+	<health now="150" max="150"/>
+	<look type="251" head="44" body="91" legs="7" feet="132" corpse="2212" addons="3"/>
+</npc>
