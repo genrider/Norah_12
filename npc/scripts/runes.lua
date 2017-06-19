@@ -12,6 +12,7 @@ npcHandler:addModule(shopModule)
 
 	-------RUNES------
 	shopModule:addBuyableItem({'blank rune'}, 				2260, 10,		'blank rune')
+	--[[
 	------Attack------
 	shopModule:addBuyableItem({'light magic missile rune'}, 2287, 4,		'light magic missile rune')
 	shopModule:addBuyableItem({'heavy magic missile rune'}, 2311, 12,		'heavy magic missile rune')
@@ -48,6 +49,7 @@ npcHandler:addModule(shopModule)
 	shopModule:addBuyableItem({'destroy field rune'}, 		2261, 15,		'destroy field rune')
 	shopModule:addBuyableItem({'paralyze rune'}, 			2278, 700,		'paralyze rune')
 	shopModule:addBuyableItem({'wild growth rune'}, 		2269, 160,		'wild growth rune')
+	]]--
 
 
 keywordHandler:addKeyword({'magic'}, StdModule.say, {npcHandler = npcHandler, text = "I'm selling runes. If you like to see my offers, ask me for a {trade}."})

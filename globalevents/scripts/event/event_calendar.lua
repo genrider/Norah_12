@@ -57,7 +57,7 @@ function doExecuteScheduledEvent(day, hour, id)
 		sendChannelMessage(32, TALKTYPE_CHANNEL_O, "[Notice]: Unable to start " .. events_calendar_list[id] .. ". The event is already running.")
 		return true
 	end
-
+--[[
 	if id == 1 then
 		EXP_init()
 		return true
@@ -71,6 +71,7 @@ function doExecuteScheduledEvent(day, hour, id)
 		SPIDER_init()
 		return true
 	end
+	]]--
 end
 
 function onThink(interval)

@@ -47,9 +47,9 @@
 		<voice sentence="FCHHHHH" yell="1" />
 	</voices>
 	<loot>
-		<item id="2148" countmax="70" chance="47500" /><!-- gold coin -->
-		<item id="2148" countmax="45" chance="37500" /><!-- gold coin -->
-		<item id="12413" chance="9740" /><!-- dragon's tail -->
+		<item id="2148" countmax="80" chance="47500" /><!-- gold coin -->
+		<item id="2148" countmax="65" chance="37500" /><!-- gold coin -->
+		<item id="12413" chance="11740" /><!-- dragon's tail -->
 		<item id="2672" countmax="3" chance="65500" /><!-- dragon ham -->
 		<item id="2509" chance="15000" /><!-- steel shield -->
 		<item id="2455" chance="10000" /><!-- crossbow -->
@@ -59,10 +59,10 @@
 		<item id="2413" chance="2550" /><!-- broadsword -->
 		<item id="7588" chance="2100" /><!-- strong health potion -->
 		<item id="2387" chance="2160" /><!-- double axe -->
-		<item id="2187" chance="1905" /><!-- wand of inferno -->
+		<item id="2187" chance="1005" /><!-- wand of inferno <1905> -->
 		<item id="5920" chance="2000" /><!-- green dragon scale -->
 		<item id="2434" chance="1660" /><!-- dragon hammer -->
-		<item id="5877" chance="1505" /><!-- green dragon leather -->
+		<item id="5877" chance="2005" /><!-- green dragon leather -->
 		<item id="2145" chance="980" /><!-- small diamond -->
 		<item id="2516" chance="820" /><!-- dragon shield -->
 		<item id="2409" chance="620" /><!-- serpent sword -->
