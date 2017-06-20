@@ -63,16 +63,20 @@ function onUse(player, item, fromPosition, target, toPosition, isHotkey)
 			local rareChance = math.random(1, 100)
 			if rareChance == 1 then
 				player:addItem(7158, 1)
+				player:addExperience(3400,yes)
 				return true
 			elseif rareChance <= 4 then
 				player:addItem(2669, 1)
+				player:addExperience(1500,yes)
 				return true
 			elseif rareChance <= 10 then
 				player:addItem(7159, 1)
+				player:addExperience(600,yes)
 				return true
 			end
 		end
 		player:addItem("fish", 1)
+		player:addExperience(150,yes)
 	end
 	return true
 end
