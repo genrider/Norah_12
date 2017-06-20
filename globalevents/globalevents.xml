@@ -6,9 +6,9 @@
 	<globalevent name="Save" interval="900000" script="save.lua" />
 	
 	<globalevent name="RentThink" interval="15000" script="checkmount.lua" />
-	<!-- Event -->
+	<!-- Event 
 	<globalevent name="event calendar" interval="60000" script="event/event_calendar.lua" />
-	
+	-->
 	<!-- Demon Oak Quest -->
 	<globalevent name="DemonOakVoices" interval="15000" script="demon oak quest/voices.lua" />
 	

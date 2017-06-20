@@ -8,8 +8,8 @@ function onGetFormulaValues(player, level, maglevel)
 	local min = (level / 5) + (maglevel * 1.8) + 12
 	local max = (level / 5) + (maglevel * 3) + 17
 	]]--
-	local max = ((maglevel * maglevel)/11.5) + level
-	local min = max - (level/2)
+	local min = (((maglevel/9) * (maglevel/10))*2.1) + level
+	local max = (((maglevel/9) * (maglevel/10))*3.5) + level
 	return -min, -max
 end
 

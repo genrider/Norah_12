@@ -18,8 +18,8 @@ function onUse(player, item, fromPosition, target, toPosition, isHotkey)
         return player:say("Limit is 4 players!", TALKTYPE_MONSTER_SAY, false, nil, fromPosition)
     end
 
-    if #players == 1 then
-        return player:say("At least 2 players are needed!", TALKTYPE_MONSTER_SAY, false, nil, fromPosition)
+    if #players <4 then
+        return player:say("At least 4 players are needed!", TALKTYPE_MONSTER_SAY, false, nil, fromPosition)
     end
 
     newBoard()

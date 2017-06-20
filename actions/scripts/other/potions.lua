@@ -50,15 +50,15 @@ local potions = {
 	[26030] = { -- ultimate spirit potion
 		vocations = {3, 7},
 		minLevel = 130,
-		healthToAdd = { min = 400, max = 600},
-		manaToAdd = { min = 150, max = 250},
+		healthToAdd = { min = 550, max = 680},
+		manaToAdd = { min = 200, max = 290},
 		emptyFlask = 7635
 	},
 	[8472] = { -- great spitit potion
 		vocations = {3, 7},
 		minLevel = 80,
-		healthToAdd = { min = 250, max = 350},
-		manaToAdd = { min = 100, max = 200},
+		healthToAdd = { min = 310, max = 420},
+		manaToAdd = { min = 150, max = 250},
 		emptyFlask = 7635
 	},
 	[7588] = { -- strong health potion

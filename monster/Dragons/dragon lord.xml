@@ -50,7 +50,7 @@
 		<voice sentence="YOU WILL BURN!" yell="1" />
 	</voices>
 	<loot>
-		<item id="2152" countmax="4" chance="10750" /><!-- gold coin -->
+		<item id="2152" countmax="4" chance="25750" /><!-- gold coin -->
 		<item id="2148" countmax="45" chance="33750" /><!-- gold coin -->
 		<item id="1976" chance="9000" /><!-- gemmed book -->
 		<item id="2672" countmax="5" chance="80000" /><!-- dragon ham -->

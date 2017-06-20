@@ -2445,9 +2445,9 @@
 		<attribute key="transformDeEquipTo" value="2168" />
 		<attribute key="duration" value="1200" />
 		<attribute key="healthGain" value="2" />
-		<attribute key="healthTicks" value="6000" />
+		<attribute key="healthTicks" value="4000" />
 		<attribute key="manaGain" value="8" />
-		<attribute key="manaTicks" value="6000" />
+		<attribute key="manaTicks" value="4000" />
 		<attribute key="showduration" value="1" />
 		<attribute key="showattributes" value="1" />
 	</item>
@@ -2458,7 +2458,7 @@
 		<attribute key="transformDeEquipTo" value="2169" />
 		<attribute key="duration" value="600" />
 		<attribute key="showduration" value="1" />
-		<attribute key="speed" value="60" />
+		<attribute key="speed" value="80" />
 		<attribute key="showattributes" value="1" />
 	</item>
 	<item id="2207" article="a" name="sword ring">
@@ -2540,9 +2540,9 @@
 		<attribute key="transformDeEquipTo" value="2214" />
 		<attribute key="duration" value="450" />
 		<attribute key="healthGain" value="6" />
-		<attribute key="healthTicks" value="6000" />
+		<attribute key="healthTicks" value="4000" />
 		<attribute key="manaGain" value="24" />
-		<attribute key="manaTicks" value="6000" />
+		<attribute key="manaTicks" value="4000" />
 		<attribute key="showduration" value="1" />
 		<attribute key="showattributes" value="1" />
 	</item>
@@ -4463,7 +4463,7 @@
 		<attribute key="slotType" value="legs" />
 	</item>
 	<item id="2649" name="leather legs">
-		<attribute key="description" value="The are very comfortable" />
+		<attribute key="description" value="They are very comfortable" />
 		<attribute key="weight" value="1800" />
 		<attribute key="armor" value="1" />
 		<attribute key="slotType" value="legs" />
@@ -31195,8 +31195,9 @@
 		<attribute key="weight" value="1800" />
 	</item>
 	<item id="23816" article="a" name="war backpack">
-		<attribute key="weight" value="1800" />
-		<attribute key="writeable" value="0" />
+		<attribute key="weight" value="-15000" />
+		<attribute key="containerSize" value="28" />
+		<attribute key="slotType" value="backpack" />
 		<attribute key="description" value="Carry all you need for battle in it." />
 	</item>
 	<item id="23817" article="a" name="dead woodling">
