@@ -70,8 +70,8 @@
 		<item id="11113" chance="9640" /><!-- orc tooth -->
 		<item id="12436" chance="4610" /><!-- skull belt -->
 		<item id="12409" chance="24350" /><!-- broken helmet -->
-		<item id="2499" chance="1500" /><!-- amazon helmet -->
-		<item id="2537" chance="1500" /><!-- amazon shield -->
-		<item id="2500" chance="1500" /><!-- amazon armor -->
+		<item id="2499" chance="900" /><!-- amazon helmet -->
+		<item id="2537" chance="900" /><!-- amazon shield -->
+		<item id="2500" chance="900" /><!-- amazon armor -->
 	</loot>
 </monster>

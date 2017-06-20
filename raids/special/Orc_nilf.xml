@@ -4,7 +4,7 @@
 	<announce delay="21000" type="Event" message="Nilfgaard is under attack!." />
 	
 	<!-- brama południe -->
-	<areaspawn delay="30000" fromx="552" fromy="377" fromz="7" tox="581" toy="392" toz="7">
+	<areaspawn delay="30000" fromx="895" fromy="687" fromz="7" tox="930" toy="717" toz="7">
     <monster name="Orc" amount="20" />
 	<monster name="Orc Spearman" amount="15" />
 	<monster name="Orc Warrior" amount="12" />
@@ -16,7 +16,7 @@
 	<monster name="Orc Warlord Event" amount="5" />
 	</areaspawn>
 	
-	<!-- brama wschód -->
+	<!-- brama wschód 
 	<areaspawn delay="30000" fromx="611" fromy="259" fromz="7" tox="626" toy="288" toz="7">
     <monster name="Orc" amount="20" />
 	<monster name="Orc Spearman" amount="15" />
@@ -28,5 +28,5 @@
 	<monster name="Orc Leader" amount="5" />
 	<monster name="Orc Warlord Event" amount="5" />
 	</areaspawn>
-  
+  -->
 </raid>

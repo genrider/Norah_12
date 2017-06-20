@@ -38,13 +38,13 @@
 		</defense>
 	</defenses>
 	<elements>
-		<element physicalPercent="98"/>
-		<element icePercent="98"/>
-		<element energyPercent="98"/>
-		<element earthPercent="98"/>
-		<element holyPercent="95"/>
-		<element deathPercent="98"/>
-		<element firePercent="98"/>
+		<element physicalPercent="68"/>
+		<element icePercent="78"/>
+		<element energyPercent="78"/>
+		<element earthPercent="38"/>
+		<element holyPercent="75"/>
+		<element deathPercent="88"/>
+		<element firePercent="78"/>
 		<element drownPercent="-205"/>
 	</elements>
 	<immunities>
