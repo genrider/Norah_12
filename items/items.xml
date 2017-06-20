@@ -19022,9 +19022,23 @@
 	<item fromid="10709" toid="10710" article="a" name="serpent's statue" />
 	<item fromid="10711" toid="10712" article="a" name="dragon statue" />
 	<item fromid="10713" toid="10718" name="serpent decoration" />
-	<item fromid="10719" toid="10720" name="friendship amulet">
-		<attribute key="description" value="It shines as beautifully as a good friendship." />
-		<attribute key="weight" value="520" />
+	<item id="10719" name="friendship amulet">
+		<attribute key="slotType" value="necklace" />
+		<attribute key="transformEquipTo" value="10720" />
+		<attribute key="stopduration" value="1" />
+		<attribute key="showduration" value="1" />
+	</item>
+	<item id="10720" name="friendship amulet (faster regeneration)">
+		<attribute key="slotType" value="necklace" />
+		<attribute key="decayTo" value="0" />
+		<attribute key="transformDeEquipTo" value="10719" />
+		<attribute key="duration" value="1200" />
+		<attribute key="healthGain" value="8" />
+		<attribute key="healthTicks" value="4000" />
+		<attribute key="manaGain" value="24" />
+		<attribute key="manaTicks" value="4000" />
+		<attribute key="showduration" value="1" />
+		<attribute key="showattributes" value="1" />
 	</item>
 	<item id="10721" name="zaoan decoration" />
 	<item fromid="10722" toid="10723" name="skull decoration" />

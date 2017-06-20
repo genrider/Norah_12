@@ -250,37 +250,6 @@
 		<monster name="Giant Spider" x="-1" y="1" z="3" spawntime="60" />
 		<monster name="Tarantula" x="1" y="1" z="3" spawntime="60" />
 	</spawn>
-	<spawn centerx="581" centery="676" centerz="3" radius="1">
-		<monster name="Marid" x="-1" y="0" z="3" spawntime="30" />
-	</spawn>
-	<spawn centerx="605" centery="677" centerz="3" radius="1">
-		<monster name="Marid" x="-1" y="0" z="3" spawntime="30" />
-	</spawn>
-	<spawn centerx="584" centery="680" centerz="3" radius="1">
-		<monster name="Blue Djinn" x="-1" y="-1" z="3" spawntime="30" />
-	</spawn>
-	<spawn centerx="602" centery="680" centerz="3" radius="1">
-		<monster name="Marid" x="0" y="-1" z="3" spawntime="30" />
-	</spawn>
-	<spawn centerx="580" centery="681" centerz="3" radius="1">
-		<monster name="Blue Djinn" x="1" y="1" z="3" spawntime="30" />
-	</spawn>
-	<spawn centerx="602" centery="694" centerz="3" radius="1">
-		<monster name="Marid" x="-1" y="1" z="3" spawntime="30" />
-	</spawn>
-	<spawn centerx="578" centery="696" centerz="3" radius="1">
-		<monster name="Marid" x="1" y="1" z="3" spawntime="30" />
-	</spawn>
-	<spawn centerx="584" centery="697" centerz="3" radius="1">
-		<monster name="Blue Djinn" x="-1" y="0" z="3" spawntime="30" />
-	</spawn>
-	<spawn centerx="602" centery="698" centerz="3" radius="1">
-		<monster name="Marid" x="1" y="0" z="3" spawntime="30" />
-		<monster name="Blue Djinn" x="-1" y="1" z="3" spawntime="30" />
-	</spawn>
-	<spawn centerx="582" centery="700" centerz="3" radius="1">
-		<monster name="Blue Djinn" x="-1" y="-1" z="3" spawntime="30" />
-	</spawn>
 	<spawn centerx="334" centery="744" centerz="3" radius="2" />
 	<spawn centerx="242" centery="757" centerz="3" radius="17" />
 	<spawn centerx="546" centery="758" centerz="3" radius="1">
@@ -810,9 +779,6 @@
 		<monster name="Giant Spider" x="-1" y="0" z="4" spawntime="60" />
 		<monster name="Tarantula" x="0" y="1" z="4" spawntime="60" />
 	</spawn>
-	<spawn centerx="606" centery="655" centerz="4" radius="1">
-		<monster name="Efreet" x="-1" y="1" z="4" spawntime="60" />
-	</spawn>
 	<spawn centerx="694" centery="656" centerz="4" radius="1">
 		<monster name="Giant Spider" x="0" y="1" z="4" spawntime="60" />
 	</spawn>
@@ -824,21 +790,6 @@
 		<monster name="Tarantula" x="1" y="-1" z="4" spawntime="60" />
 		<monster name="Giant Spider" x="-1" y="1" z="4" spawntime="60" />
 	</spawn>
-	<spawn centerx="580" centery="659" centerz="4" radius="1">
-		<monster name="Efreet" x="-1" y="0" z="4" spawntime="60" />
-	</spawn>
-	<spawn centerx="585" centery="659" centerz="4" radius="1">
-		<monster name="Green Djinn" x="-1" y="0" z="4" spawntime="60" />
-	</spawn>
-	<spawn centerx="607" centery="659" centerz="4" radius="1">
-		<monster name="Green Djinn" x="-1" y="0" z="4" spawntime="60" />
-	</spawn>
-	<spawn centerx="590" centery="660" centerz="4" radius="1">
-		<monster name="Efreet" x="-1" y="0" z="4" spawntime="60" />
-	</spawn>
-	<spawn centerx="602" centery="660" centerz="4" radius="1">
-		<monster name="Efreet" x="0" y="-1" z="4" spawntime="60" />
-	</spawn>
 	<spawn centerx="835" centery="661" centerz="4" radius="5">
 		<monster name="Cyclops Drone" x="4" y="-1" z="4" spawntime="60" />
 		<monster name="Cyclops Smith" x="-1" y="5" z="4" spawntime="60" />
@@ -848,75 +799,21 @@
 		<monster name="Cyclops Drone" x="3" y="-1" z="4" spawntime="60" />
 		<monster name="Cyclops" x="-1" y="3" z="4" spawntime="60" />
 	</spawn>
-	<spawn centerx="589" centery="664" centerz="4" radius="1">
-		<monster name="Efreet" x="-1" y="0" z="4" spawntime="60" />
-	</spawn>
 	<spawn centerx="701" centery="664" centerz="4" radius="1">
 		<monster name="Giant Spider" x="1" y="1" z="4" spawntime="60" />
-	</spawn>
-	<spawn centerx="602" centery="665" centerz="4" radius="1">
-		<monster name="Green Djinn" x="0" y="-1" z="4" spawntime="60" />
-	</spawn>
-	<spawn centerx="582" centery="667" centerz="4" radius="1">
-		<monster name="Green Djinn" x="-1" y="-1" z="4" spawntime="60" />
-	</spawn>
-	<spawn centerx="605" centery="667" centerz="4" radius="1">
-		<monster name="Efreet" x="1" y="-1" z="4" spawntime="60" />
 	</spawn>
 	<spawn centerx="842" centery="667" centerz="4" radius="5">
 		<monster name="Hunter" x="0" y="-2" z="4" spawntime="60" />
 		<monster name="Enlightened of the Cult" x="-2" y="1" z="4" spawntime="60" />
 		<monster name="Hunter" x="2" y="1" z="4" spawntime="60" />
 	</spawn>
-	<spawn centerx="604" centery="677" centerz="4" radius="1">
-		<monster name="Marid" x="-1" y="0" z="4" spawntime="30" />
-	</spawn>
 	<spawn centerx="830" centery="677" centerz="4" radius="5">
 		<monster name="Cyclops" x="1" y="-2" z="4" spawntime="60" />
 		<monster name="Cyclops" x="-2" y="0" z="4" spawntime="60" />
 		<monster name="Cyclops Smith" x="3" y="0" z="4" spawntime="60" />
 	</spawn>
-	<spawn centerx="583" centery="680" centerz="4" radius="1">
-		<monster name="Marid" x="-1" y="0" z="4" spawntime="30" />
-	</spawn>
-	<spawn centerx="593" centery="681" centerz="4" radius="1">
-		<monster name="Blue Djinn" x="-1" y="0" z="4" spawntime="30" />
-	</spawn>
-	<spawn centerx="604" centery="681" centerz="4" radius="1">
-		<monster name="Marid" x="-1" y="0" z="4" spawntime="30" />
-	</spawn>
 	<spawn centerx="1260" centery="686" centerz="4" radius="5">
 		<monster name="Merlkin" x="-2" y="-2" z="4" spawntime="60" />
-	</spawn>
-	<spawn centerx="583" centery="688" centerz="4" radius="1">
-		<monster name="Marid" x="0" y="-1" z="4" spawntime="30" />
-	</spawn>
-	<spawn centerx="587" centery="688" centerz="4" radius="1">
-		<monster name="Blue Djinn" x="0" y="-1" z="4" spawntime="30" />
-	</spawn>
-	<spawn centerx="594" centery="688" centerz="4" radius="1">
-		<monster name="Marid" x="-1" y="0" z="4" spawntime="30" />
-	</spawn>
-	<spawn centerx="600" centery="688" centerz="4" radius="1">
-		<monster name="Marid" x="0" y="-1" z="4" spawntime="30" />
-	</spawn>
-	<spawn centerx="588" centery="694" centerz="4" radius="1">
-		<monster name="Blue Djinn" x="0" y="-1" z="4" spawntime="30" />
-	</spawn>
-	<spawn centerx="593" centery="694" centerz="4" radius="1">
-		<monster name="Blue Djinn" x="0" y="-1" z="4" spawntime="30" />
-	</spawn>
-	<spawn centerx="604" centery="696" centerz="4" radius="1">
-		<monster name="Blue Djinn" x="-1" y="0" z="4" spawntime="30" />
-	</spawn>
-	<spawn centerx="584" centery="697" centerz="4" radius="1">
-		<monster name="Marid" x="-1" y="-1" z="4" spawntime="30" />
-	</spawn>
-	<spawn centerx="581" centery="700" centerz="4" radius="1">
-		<monster name="Marid" x="1" y="-1" z="4" spawntime="30" />
-	</spawn>
-	<spawn centerx="602" centery="700" centerz="4" radius="1">
-		<monster name="Marid" x="-1" y="0" z="4" spawntime="30" />
 	</spawn>
 	<spawn centerx="955" centery="711" centerz="4" radius="5">
 		<monster name="Orc Warlord" x="-2" y="-2" z="4" spawntime="60" />
@@ -1816,43 +1713,13 @@
 	<spawn centerx="709" centery="655" centerz="5" radius="1">
 		<monster name="Giant Spider" x="-1" y="-1" z="5" spawntime="60" />
 	</spawn>
-	<spawn centerx="582" centery="658" centerz="5" radius="1">
-		<monster name="Green Djinn" x="0" y="-1" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="589" centery="658" centerz="5" radius="1">
-		<monster name="Efreet" x="-1" y="-1" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="601" centery="660" centerz="5" radius="1">
-		<monster name="Efreet" x="0" y="-1" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="606" centery="660" centerz="5" radius="1">
-		<monster name="Green Djinn" x="-1" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="586" centery="661" centerz="5" radius="1">
-		<monster name="Green Djinn" x="1" y="0" z="5" spawntime="60" />
-	</spawn>
 	<spawn centerx="702" centery="662" centerz="5" radius="1">
 		<monster name="Giant Spider" x="1" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="590" centery="663" centerz="5" radius="1">
-		<monster name="Efreet" x="-1" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="604" centery="664" centerz="5" radius="1">
-		<monster name="Efreet" x="0" y="-1" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="809" centery="664" centerz="5" radius="5">
 		<monster name="Cyclops Drone" x="3" y="-2" z="5" spawntime="60" />
 		<monster name="Cyclops Drone" x="-3" y="3" z="5" spawntime="60" />
 		<monster name="Cyclops Drone" x="-2" y="3" z="5" spawntime="768" />
-	</spawn>
-	<spawn centerx="581" centery="666" centerz="5" radius="1">
-		<monster name="Green Djinn" x="-1" y="1" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="587" centery="667" centerz="5" radius="1">
-		<monster name="Green Djinn" x="-1" y="0" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="606" centery="668" centerz="5" radius="1">
-		<monster name="Green Djinn" x="0" y="-1" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="521" centery="669" centerz="5" radius="1">
 		<monster name="Wyvern" x="-1" y="1" z="5" spawntime="60" />
@@ -1863,22 +1730,10 @@
 	<spawn centerx="522" centery="678" centerz="5" radius="1">
 		<monster name="Wyvern" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
-	<spawn centerx="579" centery="678" centerz="5" radius="1">
-		<monster name="Marid" x="0" y="-1" z="5" spawntime="30" />
-	</spawn>
-	<spawn centerx="583" centery="678" centerz="5" radius="1">
-		<monster name="Blue Djinn" x="0" y="-1" z="5" spawntime="30" />
-	</spawn>
-	<spawn centerx="600" centery="680" centerz="5" radius="1">
-		<monster name="Blue Djinn" x="0" y="-1" z="5" spawntime="30" />
-	</spawn>
 	<spawn centerx="806" centery="680" centerz="5" radius="5">
 		<monster name="Cyclops Drone" x="2" y="-4" z="5" spawntime="60" />
 		<monster name="Cyclops" x="0" y="1" z="5" spawntime="60" />
 		<monster name="Cyclops" x="4" y="3" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="591" centery="681" centerz="5" radius="1">
-		<monster name="Blue Djinn" x="1" y="-1" z="5" spawntime="30" />
 	</spawn>
 	<spawn centerx="786" centery="683" centerz="5" radius="5">
 		<monster name="Cyclops Drone" x="-3" y="-3" z="5" spawntime="60" />
@@ -1898,19 +1753,7 @@
 		<monster name="Merlkin" x="-1" y="0" z="5" spawntime="60" />
 		<monster name="Merlkin" x="3" y="3" z="5" spawntime="60" />
 	</spawn>
-	<spawn centerx="580" centery="685" centerz="5" radius="1">
-		<monster name="Blue Djinn" x="0" y="-1" z="5" spawntime="30" />
-	</spawn>
-	<spawn centerx="589" centery="685" centerz="5" radius="1">
-		<monster name="Marid" x="1" y="-1" z="5" spawntime="30" />
-	</spawn>
-	<spawn centerx="594" centery="685" centerz="5" radius="1">
-		<monster name="Marid" x="-1" y="-1" z="5" spawntime="30" />
-	</spawn>
 	<spawn centerx="1259" centery="685" centerz="5" radius="5" />
-	<spawn centerx="591" centery="689" centerz="5" radius="1">
-		<monster name="Blue Djinn" x="0" y="-1" z="5" spawntime="30" />
-	</spawn>
 	<spawn centerx="838" centery="691" centerz="5" radius="5">
 		<monster name="Cyclops" x="-1" y="-2" z="5" spawntime="60" />
 		<monster name="Cyclops Drone" x="3" y="0" z="5" spawntime="60" />
@@ -1925,22 +1768,6 @@
 		<monster name="Orc Warlord" x="1" y="-2" z="5" spawntime="60" />
 		<monster name="Orc Warlord" x="-3" y="1" z="5" spawntime="60" />
 		<monster name="Orc Berserker" x="1" y="2" z="5" spawntime="60" />
-	</spawn>
-	<spawn centerx="600" centery="695" centerz="5" radius="1">
-		<monster name="Blue Djinn" x="1" y="0" z="5" spawntime="30" />
-	</spawn>
-	<spawn centerx="583" centery="696" centerz="5" radius="1">
-		<monster name="Blue Djinn" x="0" y="-1" z="5" spawntime="30" />
-	</spawn>
-	<spawn centerx="592" centery="697" centerz="5" radius="1">
-		<monster name="Blue Djinn" x="1" y="0" z="5" spawntime="30" />
-	</spawn>
-	<spawn centerx="602" centery="699" centerz="5" radius="1">
-		<monster name="Blue Djinn" x="0" y="-1" z="5" spawntime="30" />
-		<monster name="Blue Djinn" x="1" y="-1" z="5" spawntime="30" />
-	</spawn>
-	<spawn centerx="582" centery="700" centerz="5" radius="1">
-		<monster name="Blue Djinn" x="-1" y="0" z="5" spawntime="30" />
 	</spawn>
 	<spawn centerx="977" centery="701" centerz="5" radius="10">
 		<monster name="Orc Warlord" x="-1" y="0" z="5" spawntime="60" />
@@ -4666,26 +4493,8 @@
 		<monster name="Merlkin" x="-1" y="4" z="6" spawntime="60" />
 		<monster name="Kongra" x="0" y="5" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="582" centery="657" centerz="6" radius="1">
-		<monster name="Green Djinn" x="-1" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="587" centery="657" centerz="6" radius="1">
-		<monster name="Green Djinn" x="1" y="0" z="6" spawntime="60" />
-	</spawn>
 	<spawn centerx="530" centery="660" centerz="6" radius="1">
 		<monster name="Wyvern" x="1" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="609" centery="660" centerz="6" radius="1">
-		<monster name="Green Djinn" x="-1" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="579" centery="662" centerz="6" radius="1">
-		<monster name="Green Djinn" x="-1" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="589" centery="662" centerz="6" radius="1">
-		<monster name="Green Djinn" x="-1" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="605" centery="663" centerz="6" radius="1">
-		<monster name="Green Djinn" x="-1" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="1257" centery="663" centerz="6" radius="6">
 		<monster name="Kongra" x="-3" y="-4" z="6" spawntime="60" />
@@ -4694,12 +4503,6 @@
 		<monster name="Merlkin" x="-5" y="3" z="6" spawntime="60" />
 		<monster name="Sibang" x="-1" y="4" z="6" spawntime="60" />
 		<monster name="Kongra" x="4" y="4" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="589" centery="666" centerz="6" radius="1">
-		<monster name="Green Djinn" x="-1" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="583" centery="667" centerz="6" radius="1">
-		<monster name="Green Djinn" x="-1" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="1280" centery="669" centerz="6" radius="5">
 		<monster name="Kongra" x="-3" y="-2" z="6" spawntime="60" />
@@ -4715,15 +4518,6 @@
 	</spawn>
 	<spawn centerx="511" centery="676" centerz="6" radius="1">
 		<monster name="Wyvern" x="1" y="-1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="593" centery="679" centerz="6" radius="1">
-		<monster name="Blue Djinn" x="0" y="-1" z="6" spawntime="30" />
-	</spawn>
-	<spawn centerx="603" centery="680" centerz="6" radius="1">
-		<monster name="Blue Djinn" x="1" y="0" z="6" spawntime="30" />
-	</spawn>
-	<spawn centerx="580" centery="681" centerz="6" radius="1">
-		<monster name="Blue Djinn" x="0" y="-1" z="6" spawntime="30" />
 	</spawn>
 	<spawn centerx="702" centery="682" centerz="6" radius="1">
 		<npc name="Oldrak" x="-1" y="0" z="6" spawntime="60" direction="2" />
@@ -4741,9 +4535,6 @@
 	</spawn>
 	<spawn centerx="528" centery="684" centerz="6" radius="1">
 		<monster name="Wyvern" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="603" centery="684" centerz="6" radius="1">
-		<monster name="Blue Djinn" x="-1" y="0" z="6" spawntime="30" />
 	</spawn>
 	<spawn centerx="651" centery="684" centerz="6" radius="1">
 		<npc name="Khaishvila" x="-1" y="-1" z="6" spawntime="60" direction="2" />
@@ -4763,12 +4554,6 @@
 	<spawn centerx="536" centery="688" centerz="6" radius="1">
 		<monster name="Wyvern" x="0" y="-1" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="581" centery="688" centerz="6" radius="1">
-		<monster name="Blue Djinn" x="0" y="-1" z="6" spawntime="30" />
-	</spawn>
-	<spawn centerx="602" centery="689" centerz="6" radius="1">
-		<monster name="Marid" x="0" y="-1" z="6" spawntime="30" />
-	</spawn>
 	<spawn centerx="959" centery="691" centerz="6" radius="10">
 		<monster name="Orc Marauder" x="0" y="-2" z="6" spawntime="60" />
 		<monster name="Orc Leader" x="-5" y="-1" z="6" spawntime="60" />
@@ -4778,17 +4563,8 @@
 	<spawn centerx="528" centery="692" centerz="6" radius="1">
 		<monster name="Wyvern" x="1" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="585" centery="697" centerz="6" radius="1">
-		<monster name="Blue Djinn" x="-1" y="0" z="6" spawntime="30" />
-	</spawn>
 	<spawn centerx="915" centery="697" centerz="6" radius="1">
 		<npc name="Muthautra" x="-1" y="0" z="6" spawntime="60" direction="2" />
-	</spawn>
-	<spawn centerx="604" centery="698" centerz="6" radius="1">
-		<monster name="Marid" x="-1" y="0" z="6" spawntime="30" />
-	</spawn>
-	<spawn centerx="580" centery="700" centerz="6" radius="1">
-		<monster name="Blue Djinn" x="1" y="-1" z="6" spawntime="30" />
 	</spawn>
 	<spawn centerx="978" centery="701" centerz="6" radius="4">
 		<monster name="Orc Leader" x="0" y="0" z="6" spawntime="60" />
@@ -9390,9 +9166,6 @@
 	<spawn centerx="842" centery="655" centerz="7" radius="1">
 		<monster name="Enlightened of the Cult" x="0" y="-1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="606" centery="656" centerz="7" radius="1">
-		<monster name="Green Djinn" x="0" y="-1" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="700" centery="656" centerz="7" radius="1">
 		<npc name="Valber" x="0" y="-1" z="7" spawntime="60" direction="2" />
 	</spawn>
@@ -9405,12 +9178,6 @@
 	<spawn centerx="833" centery="656" centerz="7" radius="1">
 		<monster name="Acolyte of the Cult" x="0" y="-1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="584" centery="657" centerz="7" radius="1">
-		<monster name="Green Djinn" x="0" y="-1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="603" centery="657" centerz="7" radius="1">
-		<monster name="Green Djinn" x="-1" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="901" centery="657" centerz="7" radius="1">
 		<monster name="Bonelord" x="1" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -9419,9 +9186,6 @@
 	</spawn>
 	<spawn centerx="942" centery="657" centerz="7" radius="1">
 		<monster name="Bonelord" x="1" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="595" centery="658" centerz="7" radius="1">
-		<monster name="Green Djinn" x="-1" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="623" centery="658" centerz="7" radius="1">
 		<monster name="Donkey" x="1" y="0" z="7" spawntime="60" />
@@ -9442,20 +9206,8 @@
 	<spawn centerx="784" centery="659" centerz="7" radius="1">
 		<monster name="Minotaur" x="0" y="-1" z="7" spawntime="768" />
 	</spawn>
-	<spawn centerx="610" centery="660" centerz="7" radius="1">
-		<monster name="Green Djinn" x="0" y="-1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="574" centery="661" centerz="7" radius="1">
-		<monster name="Green Djinn" x="0" y="-1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="588" centery="661" centerz="7" radius="1">
-		<monster name="Green Djinn" x="0" y="-1" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="945" centery="661" centerz="7" radius="1">
 		<monster name="Bonelord" x="0" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="596" centery="662" centerz="7" radius="1">
-		<monster name="Green Djinn" x="0" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="787" centery="662" centerz="7" radius="1">
 		<monster name="Minotaur" x="-1" y="-1" z="7" spawntime="60" />
@@ -9465,9 +9217,6 @@
 	</spawn>
 	<spawn centerx="924" centery="662" centerz="7" radius="1">
 		<monster name="Bonelord" x="1" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="579" centery="663" centerz="7" radius="1">
-		<monster name="Green Djinn" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="623" centery="663" centerz="7" radius="1">
 		<monster name="Snake" x="-1" y="1" z="7" spawntime="60" />
@@ -9480,9 +9229,6 @@
 	</spawn>
 	<spawn centerx="938" centery="663" centerz="7" radius="1">
 		<monster name="Bonelord" x="1" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="573" centery="664" centerz="7" radius="1">
-		<monster name="Green Djinn" x="-1" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="643" centery="664" centerz="7" radius="1">
 		<monster name="Snake" x="-1" y="-1" z="7" spawntime="60" />
@@ -9500,26 +9246,14 @@
 	<spawn centerx="358" centery="665" centerz="7" radius="1">
 		<monster name="Tarantula" x="-1" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="596" centery="665" centerz="7" radius="1">
-		<monster name="Green Djinn" x="-1" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="601" centery="665" centerz="7" radius="1">
-		<monster name="Green Djinn" x="0" y="1" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="834" centery="665" centerz="7" radius="1">
 		<monster name="Acolyte of the Cult" x="1" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="916" centery="665" centerz="7" radius="1">
 		<monster name="Bonelord" x="1" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="606" centery="666" centerz="7" radius="1">
-		<monster name="Green Djinn" x="0" y="1" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="839" centery="666" centerz="7" radius="1">
 		<monster name="Novice of the Cult" x="-1" y="-1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="585" centery="668" centerz="7" radius="1">
-		<monster name="Green Djinn" x="1" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1152" centery="668" centerz="7" radius="17">
 		<monster name="Dromedary" x="-9" y="-9" z="7" spawntime="60" />
@@ -9586,25 +9320,10 @@
 		<monster name="Sibang" x="-5" y="14" z="7" spawntime="60" />
 		<monster name="Sibang" x="-20" y="17" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="604" centery="678" centerz="7" radius="1">
-		<monster name="Blue Djinn" x="-1" y="0" z="7" spawntime="30" />
-	</spawn>
 	<spawn centerx="807" centery="678" centerz="7" radius="5">
 		<monster name="Skeleton Warrior" x="-2" y="-4" z="7" spawntime="60" />
 		<monster name="Skeleton" x="1" y="1" z="7" spawntime="60" />
 		<monster name="Skeleton" x="2" y="1" z="7" spawntime="768" />
-	</spawn>
-	<spawn centerx="580" centery="680" centerz="7" radius="1">
-		<monster name="Blue Djinn" x="0" y="-1" z="7" spawntime="30" />
-	</spawn>
-	<spawn centerx="593" centery="681" centerz="7" radius="1">
-		<monster name="Blue Djinn" x="-1" y="-1" z="7" spawntime="30" />
-	</spawn>
-	<spawn centerx="602" centery="681" centerz="7" radius="1">
-		<monster name="Blue Djinn" x="0" y="-1" z="7" spawntime="30" />
-	</spawn>
-	<spawn centerx="610" centery="682" centerz="7" radius="1">
-		<monster name="Blue Djinn" x="0" y="-1" z="7" spawntime="30" />
 	</spawn>
 	<spawn centerx="903" centery="682" centerz="7" radius="1">
 		<monster name="Bandit" x="-1" y="-1" z="7" spawntime="768" />
@@ -9617,12 +9336,6 @@
 		<monster name="Skeleton" x="1" y="1" z="7" spawntime="60" />
 		<monster name="Skeleton" x="5" y="3" z="7" spawntime="60" />
 		<monster name="Skeleton Warrior" x="3" y="5" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="579" centery="688" centerz="7" radius="1">
-		<monster name="Blue Djinn" x="-1" y="-1" z="7" spawntime="30" />
-	</spawn>
-	<spawn centerx="601" centery="688" centerz="7" radius="1">
-		<monster name="Blue Djinn" x="1" y="-1" z="7" spawntime="30" />
 	</spawn>
 	<spawn centerx="817" centery="689" centerz="7" radius="5">
 		<monster name="Skeleton" x="-1" y="1" z="7" spawntime="60" />
@@ -9657,17 +9370,11 @@
 		<monster name="Bandit" x="-10" y="9" z="7" spawntime="60" />
 		<monster name="Bandit" x="-8" y="11" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="591" centery="690" centerz="7" radius="1">
-		<monster name="Blue Djinn" x="-1" y="-1" z="7" spawntime="30" />
-	</spawn>
 	<spawn centerx="877" centery="691" centerz="7" radius="1">
 		<monster name="Thornback Tortoise" x="0" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="503" centery="692" centerz="7" radius="1">
 		<monster name="Tarantula" x="-1" y="-1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="609" centery="692" centerz="7" radius="1">
-		<monster name="Blue Djinn" x="0" y="-1" z="7" spawntime="30" />
 	</spawn>
 	<spawn centerx="805" centery="692" centerz="7" radius="5">
 		<monster name="Skeleton Warrior" x="-3" y="-4" z="7" spawntime="60" />
@@ -9698,20 +9405,8 @@
 		<monster name="Sheep" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Sheep" x="-1" y="1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="583" centery="697" centerz="7" radius="1">
-		<monster name="Blue Djinn" x="0" y="-1" z="7" spawntime="30" />
-	</spawn>
-	<spawn centerx="592" centery="697" centerz="7" radius="1">
-		<monster name="Blue Djinn" x="-1" y="1" z="7" spawntime="30" />
-	</spawn>
 	<spawn centerx="866" centery="698" centerz="7" radius="1">
 		<monster name="Thornback Tortoise" x="-1" y="-1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="603" centery="699" centerz="7" radius="1">
-		<monster name="Blue Djinn" x="-1" y="0" z="7" spawntime="30" />
-	</spawn>
-	<spawn centerx="581" centery="701" centerz="7" radius="1">
-		<monster name="Blue Djinn" x="-1" y="-1" z="7" spawntime="30" />
 	</spawn>
 	<spawn centerx="808" centery="701" centerz="7" radius="5">
 		<monster name="Skeleton Warrior" x="-1" y="1" z="7" spawntime="60" />
@@ -9778,6 +9473,9 @@
 		<monster name="Orc" x="-15" y="25" z="7" spawntime="768" />
 		<monster name="Orc Rider" x="-13" y="25" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="577" centery="703" centerz="7" radius="1">
+		<monster name="Wasp" x="-1" y="-1" z="7" spawntime="512" />
+	</spawn>
 	<spawn centerx="858" centery="703" centerz="7" radius="1">
 		<monster name="Thornback Tortoise" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
@@ -9790,10 +9488,6 @@
 	</spawn>
 	<spawn centerx="380" centery="706" centerz="7" radius="1">
 		<monster name="Tarantula" x="1" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="577" centery="706" centerz="7" radius="1">
-		<monster name="Wasp" x="-1" y="-1" z="7" spawntime="512" />
-		<monster name="Wasp" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="915" centery="707" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="-1" z="7" spawntime="60" />
