@@ -19022,7 +19022,9 @@
 	<item fromid="10709" toid="10710" article="a" name="serpent's statue" />
 	<item fromid="10711" toid="10712" article="a" name="dragon statue" />
 	<item fromid="10713" toid="10718" name="serpent decoration" />
+	
 	<item id="10719" name="friendship amulet">
+		<attribute key="description" value="It's gift from the best friend." />
 		<attribute key="slotType" value="necklace" />
 		<attribute key="transformEquipTo" value="10720" />
 		<attribute key="stopduration" value="1" />

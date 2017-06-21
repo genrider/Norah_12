@@ -497,6 +497,11 @@
 	<movevent event="DeEquip" itemid="25430" slot="feet" function="onDeEquipItem" />
 
 	<!-- Amulets -->
+	
+	<movevent event="Equip" itemid="10720" slot="necklace" function="onEquipItem" /><!-- Friendship necklace -->
+	<movevent event="DeEquip" itemid="10720" slot="necklace" function="onDeEquipItem" />    
+	<movevent event="Equip" itemid="10719" slot="necklace" function="onEquipItem" />
+	<movevent event="DeEquip" itemid="10719" slot="necklace" function="onDeEquipItem" />										
 	<movevent event="Equip" itemid="2161" slot="necklace" function="onEquipItem" />
 	<movevent event="DeEquip" itemid="2161" slot="necklace" function="onDeEquipItem" />
 	<movevent event="Equip" itemid="2170" slot="necklace" function="onEquipItem" />
@@ -604,7 +609,7 @@
 	<movevent event="DeEquip" itemid="2204" slot="ring" function="onDeEquipItem" />
 	<movevent event="Equip" itemid="2168" slot="ring" function="onEquipItem" />
 	<movevent event="Equip" itemid="2205" slot="ring" function="onEquipItem" />
-	<movevent event="DeEquip" itemid="2205" slot="ring" function="onDeEquipItem" />
+	<movevent event="DeEquip" itemid="2205" slot="ring" function="onDeEquipItem" />	
 	<movevent event="Equip" itemid="2169" slot="ring" function="onEquipItem" />
 	<movevent event="Equip" itemid="2206" slot="ring" function="onEquipItem" />
 	<movevent event="DeEquip" itemid="2206" slot="ring" function="onDeEquipItem" />
