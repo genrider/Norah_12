@@ -66,7 +66,7 @@
 	<house name="Erliam 4" houseid="95" entryx="646" entryy="585" entryz="6" rent="0" townid="1" size="11" />
 	<house name="Erliam 5" houseid="96" entryx="651" entryy="585" entryz="6" rent="0" townid="1" size="10" />
 	<house name="Erliam 6" houseid="97" entryx="656" entryy="585" entryz="6" rent="0" townid="1" size="10" />
-	<house name="Erliam 7" houseid="98" entryx="673" entryy="579" entryz="5" rent="0" townid="1" size="41" />
+	<house name="Erliam 7" houseid="98" entryx="673" entryy="579" entryz="5" rent="0" townid="1" size="43" />
 	<house name="Erliam 8" houseid="99" entryx="688" entryy="586" entryz="5" rent="0" townid="1" size="92" />
 	<house name="Fideric 1" houseid="100" entryx="693" entryy="617" entryz="7" rent="0" townid="1" size="27" />
 	<house name="Fideric 2" houseid="101" entryx="689" entryy="617" entryz="7" rent="0" townid="1" size="27" />
@@ -91,9 +91,9 @@
 	<house name="Philen 7" houseid="148" entryx="707" entryy="599" entryz="6" rent="0" townid="1" size="20" />
 	<house name="Philen 8" houseid="149" entryx="703" entryy="599" entryz="6" rent="0" townid="1" size="37" />
 	<house name="Pont Vanis Castle" houseid="150" entryx="629" entryy="566" entryz="5" rent="0" townid="1" size="399" />
-	<house name="Roremy 1" houseid="151" entryx="637" entryy="548" entryz="7" rent="0" townid="1" size="24" />
-	<house name="Roremy 3" houseid="153" entryx="647" entryy="548" entryz="7" rent="0" townid="1" size="24" />
-	<house name="Roremy 5" houseid="155" entryx="657" entryy="548" entryz="7" rent="0" townid="1" size="24" />
+	<house name="Roremy 1" houseid="151" entryx="637" entryy="548" entryz="7" rent="0" townid="1" size="23" />
+	<house name="Roremy 3" houseid="153" entryx="647" entryy="548" entryz="7" rent="0" townid="1" size="23" />
+	<house name="Roremy 5" houseid="155" entryx="657" entryy="548" entryz="7" rent="0" townid="1" size="23" />
 	<house name="Wilward 1" houseid="174" entryx="664" entryy="555" entryz="7" rent="0" townid="1" size="16" />
 	<house name="Wilward 2" houseid="175" entryx="671" entryy="558" entryz="7" rent="0" townid="1" size="20" />
 	<house name="Wilward 3" houseid="176" entryx="672" entryy="557" entryz="7" rent="0" townid="1" size="13" />

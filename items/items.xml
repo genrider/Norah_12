@@ -21,6 +21,7 @@
 	<item id="354" name="muddy floor" />
 	<item id="355" name="muddy floor">
 		<attribute key="fluidSource" value="mud" />
+		
 	</item>
 	<item fromid="356" toid="367" article="a" name="dirt wall" />
 	<item id="368" name="earth ground" />
