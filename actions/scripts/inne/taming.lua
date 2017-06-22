@@ -316,7 +316,7 @@ local config = {
 			{sound = 'GRRRRRRRRRRR', text = 'The shock head is growling at you.'}
 		},
 		success = {sound = 'Grrrrrrr', text = 'You tamed the shock head.'}
-	}
+	},
 	[23557] = {
 		name = 'walker',
 		id = 43,
