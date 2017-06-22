@@ -702,8 +702,8 @@
 		<monster name="Merlkin" x="-2" y="-2" z="4" spawntime="60" />
 	</spawn>
 	<spawn centerx="955" centery="711" centerz="4" radius="5">
-		<monster name="Orc Warlord" x="-2" y="-2" z="4" spawntime="60" />
-		<monster name="Orc Warlord" x="2" y="-1" z="4" spawntime="60" />
+		<monster name="Orc Berserker" x="0" y="-2" z="4" spawntime="60" />
+		<monster name="Orc Berserker" x="-1" y="0" z="4" spawntime="60" />
 	</spawn>
 	<spawn centerx="687" centery="751" centerz="4" radius="1">
 		<monster name="Dragon Lord" x="-1" y="0" z="4" spawntime="60" />
@@ -1445,6 +1445,12 @@
 	<spawn centerx="1279" centery="669" centerz="5" radius="5">
 		<monster name="Merlkin" x="1" y="0" z="5" spawntime="60" />
 	</spawn>
+	<spawn centerx="594" centery="674" centerz="5" radius="1">
+		<monster name="Earth Elemental" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="593" centery="676" centerz="5" radius="1">
+		<monster name="Earth Elemental" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
 	<spawn centerx="522" centery="678" centerz="5" radius="1">
 		<monster name="Wyvern" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
@@ -1487,7 +1493,6 @@
 		<monster name="Orc Berserker" x="1" y="2" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="977" centery="701" centerz="5" radius="10">
-		<monster name="Orc Warlord" x="-1" y="0" z="5" spawntime="60" />
 		<monster name="Orc Leader" x="0" y="2" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="787" centery="704" centerz="5" radius="5">
@@ -1498,7 +1503,7 @@
 	<spawn centerx="956" centery="709" centerz="5" radius="10">
 		<monster name="Orc Marauder" x="0" y="-1" z="5" spawntime="60" />
 		<monster name="Orc Marauder" x="-4" y="1" z="5" spawntime="60" />
-		<monster name="Orc Warlord" x="-1" y="3" z="5" spawntime="60" />
+		<monster name="Orc Berserker" x="-1" y="1" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="638" centery="710" centerz="5" radius="1">
 		<monster name="Wyvern" x="0" y="1" z="5" spawntime="60" />
@@ -1508,9 +1513,7 @@
 	</spawn>
 	<spawn centerx="939" centery="715" centerz="5" radius="10">
 		<monster name="Orc Berserker" x="-4" y="-9" z="5" spawntime="60" />
-		<monster name="Orc Berserker" x="-5" y="-8" z="5" spawntime="60" />
-		<monster name="Orc Berserker" x="2" y="-4" z="5" spawntime="60" />
-		<monster name="Orc Berserker" x="2" y="-3" z="5" spawntime="768" />
+		<monster name="Orc Berserker" x="2" y="-6" z="5" spawntime="60" />
 		<monster name="Orc Berserker" x="1" y="1" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="747" centery="730" centerz="5" radius="1">
@@ -1543,10 +1546,10 @@
 	<spawn centerx="973" centery="746" centerz="5" radius="30">
 		<monster name="Orc Warlord" x="14" y="-24" z="5" spawntime="60" />
 		<monster name="Orc Marauder" x="-10" y="-20" z="5" spawntime="60" />
-		<monster name="Orc Leader" x="-4" y="-20" z="5" spawntime="60" />
+		<monster name="Orc Berserker" x="-5" y="-20" z="5" spawntime="60" />
 		<monster name="Orc Marauder" x="11" y="-20" z="5" spawntime="60" />
 		<monster name="Orc Berserker" x="0" y="-19" z="5" spawntime="60" />
-		<monster name="Orc Berserker" x="-7" y="-13" z="5" spawntime="60" />
+		<monster name="Orc Leader" x="-7" y="-13" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="521" centery="747" centerz="5" radius="1">
 		<monster name="Dragon Lord" x="0" y="1" z="5" spawntime="60" />
@@ -3767,16 +3770,22 @@
 	<spawn centerx="511" centery="676" centerz="6" radius="1">
 		<monster name="Wyvern" x="1" y="-1" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="600" centery="677" centerz="6" radius="1">
+		<monster name="Earth Elemental" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="602" centery="681" centerz="6" radius="1">
+		<monster name="Earth Elemental" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="577" centery="682" centerz="6" radius="1">
+		<monster name="Earth Elemental" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="702" centery="682" centerz="6" radius="1">
 		<npc name="Oldrak" x="-1" y="0" z="6" spawntime="60" direction="2" />
 	</spawn>
 	<spawn centerx="942" centery="682" centerz="6" radius="10">
 		<monster name="Orc Warrior" x="-2" y="-4" z="6" spawntime="60" />
-		<monster name="Orc Warrior" x="-2" y="-2" z="6" spawntime="768" />
 		<monster name="Orc Warrior" x="2" y="-2" z="6" spawntime="60" />
-		<monster name="Orc Warrior" x="3" y="-2" z="6" spawntime="768" />
 		<monster name="Orc Warrior" x="4" y="-2" z="6" spawntime="768" />
-		<monster name="Orc Warrior" x="7" y="-1" z="6" spawntime="60" />
 		<monster name="Orc Berserker" x="-2" y="4" z="6" spawntime="60" />
 		<monster name="Orc Warrior" x="-1" y="7" z="6" spawntime="60" />
 		<monster name="Orc Warrior" x="-1" y="8" z="6" spawntime="768" />
@@ -3799,14 +3808,24 @@
 		<monster name="Kongra" x="5" y="2" z="6" spawntime="60" />
 		<monster name="Kongra" x="-5" y="6" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="585" centery="685" centerz="6" radius="1">
+		<monster name="Earth Elemental" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="594" centery="687" centerz="6" radius="1">
+		<monster name="Earth Elemental" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="536" centery="688" centerz="6" radius="1">
 		<monster name="Wyvern" x="0" y="-1" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="586" centery="690" centerz="6" radius="1">
+		<monster name="Earth Elemental" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="575" centery="691" centerz="6" radius="1">
+		<monster name="Earth Elemental" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="959" centery="691" centerz="6" radius="10">
 		<monster name="Orc Marauder" x="0" y="-2" z="6" spawntime="60" />
-		<monster name="Orc Leader" x="-5" y="-1" z="6" spawntime="60" />
 		<monster name="Orc Marauder" x="-2" y="0" z="6" spawntime="60" />
-		<monster name="Orc Warlord" x="-1" y="2" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="528" centery="692" centerz="6" radius="1">
 		<monster name="Wyvern" x="1" y="0" z="6" spawntime="60" />
@@ -3814,9 +3833,8 @@
 	<spawn centerx="915" centery="697" centerz="6" radius="1">
 		<npc name="Muthautra" x="-1" y="0" z="6" spawntime="60" direction="2" />
 	</spawn>
-	<spawn centerx="978" centery="701" centerz="6" radius="4">
-		<monster name="Orc Leader" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Orc Leader" x="-2" y="1" z="6" spawntime="60" />
+	<spawn centerx="977" centery="701" centerz="6" radius="4">
+		<monster name="Orc Berserker" x="0" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="478" centery="705" centerz="6" radius="1">
 		<monster name="Wyvern" x="1" y="0" z="6" spawntime="60" />
@@ -3828,14 +3846,13 @@
 		<monster name="Orc Warrior" x="0" y="-7" z="6" spawntime="60" />
 		<monster name="Orc" x="-6" y="-4" z="6" spawntime="60" />
 		<monster name="Orc Warrior" x="-8" y="-3" z="6" spawntime="60" />
-		<monster name="Orc" x="-6" y="-2" z="6" spawntime="60" />
 		<monster name="Orc Warrior" x="-1" y="-1" z="6" spawntime="60" />
 		<monster name="Orc Warrior" x="-1" y="6" z="6" spawntime="60" />
 		<monster name="Orc Berserker" x="0" y="9" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="955" centery="709" centerz="6" radius="4">
-		<monster name="Orc Leader" x="0" y="0" z="6" spawntime="60" />
-		<monster name="Orc Leader" x="-1" y="2" z="6" spawntime="60" />
+	<spawn centerx="954" centery="710" centerz="6" radius="4">
+		<monster name="Orc Berserker" x="2" y="-1" z="6" spawntime="60" />
+		<monster name="Orc Warrior" x="1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="751" centery="711" centerz="6" radius="1">
 		<monster name="Dragon" x="0" y="-1" z="6" spawntime="60" />
@@ -3900,15 +3917,14 @@
 		<monster name="Wyvern" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="971" centery="741" centerz="6" radius="30">
+		<monster name="Orc Berserker" x="0" y="-27" z="6" spawntime="60" />
 		<monster name="Orc Rider" x="-1" y="-24" z="6" spawntime="60" />
 		<monster name="Orc Shaman" x="-3" y="-23" z="6" spawntime="60" />
-		<monster name="Orc Leader" x="1" y="-23" z="6" spawntime="60" />
 		<monster name="Orc Marauder" x="-6" y="-21" z="6" spawntime="60" />
 		<monster name="Orc Rider" x="6" y="-17" z="6" spawntime="60" />
 		<monster name="Orc Marauder" x="9" y="-15" z="6" spawntime="60" />
 		<monster name="Orc Shaman" x="7" y="-13" z="6" spawntime="60" />
 		<monster name="Orc Warlord" x="11" y="13" z="6" spawntime="60" />
-		<monster name="Orc Warlord" x="13" y="14" z="6" spawntime="60" />
 		<monster name="Orc Shaman" x="-10" y="24" z="6" spawntime="60" />
 		<monster name="Orc Shaman" x="-8" y="25" z="6" spawntime="60" />
 		<monster name="Orc Warlord" x="-7" y="26" z="6" spawntime="60" />
@@ -7572,8 +7588,20 @@
 	<spawn centerx="464" centery="652" centerz="7" radius="1">
 		<monster name="Mutated Human" x="-1" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="587" centery="652" centerz="7" radius="1">
+		<monster name="Forest Fury" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="598" centery="652" centerz="7" radius="1">
+		<monster name="Deer" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="761" centery="652" centerz="7" radius="1">
 		<monster name="Wasp" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="576" centery="653" centerz="7" radius="1">
+		<monster name="Leaf Golem" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="609" centery="653" centerz="7" radius="1">
+		<monster name="Doom Deer" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="734" centery="653" centerz="7" radius="1">
 		<monster name="Wasp" x="1" y="-1" z="7" spawntime="60" />
@@ -7588,6 +7616,15 @@
 	<spawn centerx="927" centery="653" centerz="7" radius="1">
 		<monster name="Elder Bonelord" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="582" centery="654" centerz="7" radius="1">
+		<monster name="Squirrel" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="596" centery="654" centerz="7" radius="1">
+		<monster name="Forest Fury" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="604" centery="654" centerz="7" radius="1">
+		<monster name="Forest Fury" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="626" centery="654" centerz="7" radius="1">
 		<monster name="Donkey" x="-1" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -7600,11 +7637,26 @@
 	<spawn centerx="908" centery="654" centerz="7" radius="1">
 		<monster name="Bonelord" x="1" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="571" centery="655" centerz="7" radius="1">
+		<monster name="Doom Deer" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="579" centery="655" centerz="7" radius="1">
+		<monster name="Doom Deer" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="592" centery="655" centerz="7" radius="1">
+		<monster name="Leaf Golem" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="610" centery="655" centerz="7" radius="1">
+		<monster name="Deer" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="793" centery="655" centerz="7" radius="1">
 		<monster name="Minotaur" x="0" y="1" z="7" spawntime="768" />
 	</spawn>
 	<spawn centerx="842" centery="655" centerz="7" radius="1">
 		<monster name="Enlightened of the Cult" x="0" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="573" centery="656" centerz="7" radius="1">
+		<monster name="Deer" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="700" centery="656" centerz="7" radius="1">
 		<npc name="Valber" x="0" y="-1" z="7" spawntime="60" direction="2" />
@@ -7618,6 +7670,9 @@
 	<spawn centerx="833" centery="656" centerz="7" radius="1">
 		<monster name="Acolyte of the Cult" x="0" y="-1" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="584" centery="657" centerz="7" radius="1">
+		<monster name="Forest Fury" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="901" centery="657" centerz="7" radius="1">
 		<monster name="Bonelord" x="1" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -7626,6 +7681,9 @@
 	</spawn>
 	<spawn centerx="942" centery="657" centerz="7" radius="1">
 		<monster name="Bonelord" x="1" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="611" centery="658" centerz="7" radius="1">
+		<monster name="Leaf Golem" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="623" centery="658" centerz="7" radius="1">
 		<monster name="Donkey" x="1" y="0" z="7" spawntime="60" />
@@ -7636,8 +7694,14 @@
 	<spawn centerx="931" centery="658" centerz="7" radius="1">
 		<monster name="Elder Bonelord" x="0" y="-1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="574" centery="659" centerz="7" radius="1">
-		<monster name="Doom Deer" x="0" y="0" z="7" spawntime="60" />
+	<spawn centerx="593" centery="659" centerz="7" radius="1">
+		<monster name="Leaf Golem" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="600" centery="659" centerz="7" radius="1">
+		<monster name="Deer" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="604" centery="659" centerz="7" radius="1">
+		<monster name="Leaf Golem" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="741" centery="659" centerz="7" radius="1">
 		<monster name="Wasp" x="0" y="-1" z="7" spawntime="60" />
@@ -7649,20 +7713,17 @@
 	<spawn centerx="784" centery="659" centerz="7" radius="1">
 		<monster name="Minotaur" x="0" y="-1" z="7" spawntime="768" />
 	</spawn>
-	<spawn centerx="599" centery="660" centerz="7" radius="1">
-		<monster name="Doom Deer" x="0" y="0" z="7" spawntime="60" />
+	<spawn centerx="583" centery="660" centerz="7" radius="1">
+		<monster name="Deer" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="613" centery="660" centerz="7" radius="1">
-		<monster name="Doom Deer" x="0" y="0" z="7" spawntime="60" />
+	<spawn centerx="609" centery="660" centerz="7" radius="1">
+		<monster name="Deer" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="945" centery="661" centerz="7" radius="1">
 		<monster name="Bonelord" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="579" centery="662" centerz="7" radius="1">
-		<monster name="Doom Deer" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="590" centery="662" centerz="7" radius="1">
-		<monster name="Doom Deer" x="0" y="0" z="7" spawntime="60" />
+	<spawn centerx="574" centery="662" centerz="7" radius="1">
+		<monster name="Leaf Golem" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="787" centery="662" centerz="7" radius="1">
 		<monster name="Minotaur" x="-1" y="-1" z="7" spawntime="60" />
@@ -7672,6 +7733,12 @@
 	</spawn>
 	<spawn centerx="924" centery="662" centerz="7" radius="1">
 		<monster name="Bonelord" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="590" centery="663" centerz="7" radius="1">
+		<monster name="Squirrel" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="614" centery="663" centerz="7" radius="1">
+		<monster name="Forest Fury" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="623" centery="663" centerz="7" radius="1">
 		<monster name="Snake" x="-1" y="1" z="7" spawntime="60" />
@@ -7684,6 +7751,9 @@
 	</spawn>
 	<spawn centerx="938" centery="663" centerz="7" radius="1">
 		<monster name="Bonelord" x="1" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="572" centery="664" centerz="7" radius="1">
+		<monster name="Squirrel" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="643" centery="664" centerz="7" radius="1">
 		<monster name="Snake" x="-1" y="-1" z="7" spawntime="60" />
@@ -7701,20 +7771,41 @@
 	<spawn centerx="358" centery="665" centerz="7" radius="1">
 		<monster name="Tarantula" x="-1" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="609" centery="665" centerz="7" radius="1">
+		<monster name="Leaf Golem" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="834" centery="665" centerz="7" radius="1">
 		<monster name="Acolyte of the Cult" x="1" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="916" centery="665" centerz="7" radius="1">
 		<monster name="Bonelord" x="1" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="578" centery="666" centerz="7" radius="1">
+		<monster name="Deer" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="584" centery="666" centerz="7" radius="1">
+		<monster name="Forest Fury" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="598" centery="666" centerz="7" radius="1">
+		<monster name="Doom Deer" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="602" centery="666" centerz="7" radius="1">
+		<monster name="Leaf Golem" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="839" centery="666" centerz="7" radius="1">
 		<monster name="Novice of the Cult" x="-1" y="-1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="608" centery="667" centerz="7" radius="1">
-		<monster name="Doom Deer" x="0" y="0" z="7" spawntime="60" />
+	<spawn centerx="611" centery="667" centerz="7" radius="1">
+		<monster name="Leaf Golem" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="573" centery="668" centerz="7" radius="1">
-		<monster name="Forest Fury" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Doom Deer" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="591" centery="668" centerz="7" radius="1">
+		<monster name="Leaf Golem" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="609" centery="668" centerz="7" radius="1">
+		<monster name="Deer" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1152" centery="668" centerz="7" radius="17">
 		<monster name="Dromedary" x="-9" y="-9" z="7" spawntime="60" />
@@ -7725,20 +7816,17 @@
 		<monster name="Dromedary" x="5" y="6" z="7" spawntime="60" />
 		<monster name="Dromedary" x="-9" y="10" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="581" centery="669" centerz="7" radius="1">
-		<monster name="Forest Fury" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="794" centery="669" centerz="7" radius="5">
 		<monster name="Skeleton" x="-2" y="-2" z="7" spawntime="60" />
 		<monster name="Skeleton Warrior" x="-2" y="1" z="7" spawntime="60" />
 		<monster name="Skeleton" x="3" y="3" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="591" centery="670" centerz="7" radius="1">
-		<monster name="Doom Deer" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="911" centery="670" centerz="7" radius="1">
 		<monster name="Bonelord" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Bonelord" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="610" centery="671" centerz="7" radius="1">
+		<monster name="Squirrel" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="746" centery="671" centerz="7" radius="1">
 		<monster name="Wasp" x="-1" y="-1" z="7" spawntime="60" />
@@ -7747,19 +7835,28 @@
 	<spawn centerx="920" centery="671" centerz="7" radius="1">
 		<monster name="Bonelord" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="602" centery="673" centerz="7" radius="1">
+	<spawn centerx="570" centery="672" centerz="7" radius="1">
 		<monster name="Forest Fury" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="571" centery="674" centerz="7" radius="1">
-		<monster name="Forest Fury" x="0" y="0" z="7" spawntime="60" />
+	<spawn centerx="603" centery="672" centerz="7" radius="1">
+		<monster name="Doom Deer" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="577" centery="674" centerz="7" radius="1">
-		<monster name="Forest Fury" x="0" y="0" z="7" spawntime="60" />
+	<spawn centerx="614" centery="672" centerz="7" radius="1">
+		<monster name="Doom Deer" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="573" centery="674" centerz="7" radius="1">
+		<monster name="Deer" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="449" centery="676" centerz="7" radius="1">
 		<monster name="Tarantula" x="-1" y="-1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="594" centery="677" centerz="7" radius="1">
+	<spawn centerx="573" centery="677" centerz="7" radius="1">
+		<monster name="Leaf Golem" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="584" centery="677" centerz="7" radius="1">
+		<monster name="Forest Fury" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="607" centery="677" centerz="7" radius="1">
 		<monster name="Forest Fury" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1280" centery="677" centerz="7" radius="30">
@@ -7799,27 +7896,33 @@
 		<monster name="Sibang" x="-5" y="14" z="7" spawntime="60" />
 		<monster name="Sibang" x="-20" y="17" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="604" centery="678" centerz="7" radius="1">
-		<monster name="Forest Fury" x="0" y="0" z="7" spawntime="60" />
+	<spawn centerx="590" centery="678" centerz="7" radius="1">
+		<monster name="Leaf Golem" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="807" centery="678" centerz="7" radius="5">
 		<monster name="Skeleton Warrior" x="-2" y="-4" z="7" spawntime="60" />
 		<monster name="Skeleton" x="1" y="1" z="7" spawntime="60" />
 		<monster name="Skeleton" x="2" y="1" z="7" spawntime="768" />
 	</spawn>
-	<spawn centerx="584" centery="679" centerz="7" radius="1">
-		<monster name="Forest Fury" x="0" y="0" z="7" spawntime="60" />
+	<spawn centerx="571" centery="680" centerz="7" radius="1">
+		<monster name="Squirrel" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="610" centery="681" centerz="7" radius="1">
-		<monster name="Leaf Golem" x="0" y="0" z="7" spawntime="60" />
+	<spawn centerx="589" centery="680" centerz="7" radius="1">
+		<monster name="Deer" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="613" centery="681" centerz="7" radius="1">
+		<monster name="Doom Deer" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="903" centery="682" centerz="7" radius="1">
 		<monster name="Bandit" x="-1" y="-1" z="7" spawntime="768" />
 		<monster name="Bandit" x="0" y="-1" z="7" spawntime="60" />
 		<monster name="Bandit" x="-1" y="0" z="7" spawntime="768" />
 	</spawn>
-	<spawn centerx="575" centery="683" centerz="7" radius="1">
-		<monster name="Forest Fury" x="0" y="0" z="7" spawntime="60" />
+	<spawn centerx="591" centery="685" centerz="7" radius="1">
+		<monster name="Squirrel" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="595" centery="685" centerz="7" radius="1">
+		<monster name="Deer" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="788" centery="685" centerz="7" radius="5">
 		<monster name="Skeleton Warrior" x="1" y="-3" z="7" spawntime="60" />
@@ -7828,11 +7931,23 @@
 		<monster name="Skeleton" x="5" y="3" z="7" spawntime="60" />
 		<monster name="Skeleton Warrior" x="3" y="5" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="580" centery="686" centerz="7" radius="1">
-		<monster name="Forest Fury" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="601" centery="688" centerz="7" radius="1">
+	<spawn centerx="605" centery="686" centerz="7" radius="1">
 		<monster name="Leaf Golem" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="613" centery="686" centerz="7" radius="1">
+		<monster name="Deer" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="579" centery="687" centerz="7" radius="1">
+		<monster name="Earth Elemental" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="591" centery="687" centerz="7" radius="1">
+		<monster name="Leaf Golem" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="611" centery="689" centerz="7" radius="1">
+		<monster name="Leaf Golem" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="618" centery="689" centerz="7" radius="1">
+		<monster name="Squirrel" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="817" centery="689" centerz="7" radius="5">
 		<monster name="Skeleton" x="-1" y="1" z="7" spawntime="60" />
@@ -7867,14 +7982,23 @@
 		<monster name="Bandit" x="-10" y="9" z="7" spawntime="60" />
 		<monster name="Bandit" x="-8" y="11" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="592" centery="691" centerz="7" radius="1">
-		<monster name="Leaf Golem" x="0" y="0" z="7" spawntime="60" />
+	<spawn centerx="605" centery="691" centerz="7" radius="1">
+		<monster name="Doom Deer" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="609" centery="691" centerz="7" radius="1">
+		<monster name="Squirrel" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="632" centery="691" centerz="7" radius="1">
+		<monster name="Squirrel" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="877" centery="691" centerz="7" radius="1">
 		<monster name="Thornback Tortoise" x="0" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="503" centery="692" centerz="7" radius="1">
 		<monster name="Tarantula" x="-1" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="622" centery="692" centerz="7" radius="1">
+		<monster name="Squirrel" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="805" centery="692" centerz="7" radius="5">
 		<monster name="Skeleton Warrior" x="-3" y="-4" z="7" spawntime="60" />
@@ -7885,6 +8009,9 @@
 		<monster name="Black Sheep" x="0" y="-1" z="7" spawntime="60" />
 		<monster name="Sheep" x="-1" y="0" z="7" spawntime="60" />
 		<monster name="Sheep" x="0" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="589" centery="694" centerz="7" radius="1">
+		<monster name="Deer" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="793" centery="694" centerz="7" radius="5">
 		<monster name="Skeleton" x="-1" y="2" z="7" spawntime="60" />
@@ -7898,10 +8025,13 @@
 	<spawn centerx="902" centery="694" centerz="7" radius="1">
 		<monster name="Bandit" x="-1" y="-1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="581" centery="695" centerz="7" radius="1">
+	<spawn centerx="594" centery="695" centerz="7" radius="1">
 		<monster name="Leaf Golem" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="595" centery="695" centerz="7" radius="1">
+	<spawn centerx="603" centery="695" centerz="7" radius="1">
+		<monster name="Deer" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="607" centery="695" centerz="7" radius="1">
 		<monster name="Leaf Golem" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="371" centery="696" centerz="7" radius="1">
@@ -7911,14 +8041,32 @@
 		<monster name="Sheep" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Sheep" x="-1" y="1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="609" centery="696" centerz="7" radius="1">
+	<spawn centerx="591" centery="696" centerz="7" radius="1">
+		<monster name="Squirrel" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="580" centery="697" centerz="7" radius="1">
+		<monster name="Doom Deer" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="584" centery="698" centerz="7" radius="1">
+		<monster name="Forest Fury" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="591" centery="698" centerz="7" radius="1">
 		<monster name="Leaf Golem" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="595" centery="698" centerz="7" radius="1">
+		<monster name="Doom Deer" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="604" centery="698" centerz="7" radius="1">
+		<monster name="Forest Fury" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="866" centery="698" centerz="7" radius="1">
 		<monster name="Thornback Tortoise" x="-1" y="-1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="587" centery="699" centerz="7" radius="1">
-		<monster name="Leaf Golem" x="0" y="0" z="7" spawntime="60" />
+	<spawn centerx="582" centery="699" centerz="7" radius="1">
+		<monster name="Squirrel" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="607" centery="699" centerz="7" radius="1">
+		<monster name="Doom Deer" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="808" centery="701" centerz="7" radius="5">
 		<monster name="Skeleton Warrior" x="-1" y="1" z="7" spawntime="60" />
@@ -7941,25 +8089,18 @@
 		<monster name="Orc" x="-16" y="-7" z="7" spawntime="60" />
 		<monster name="Orc" x="8" y="-4" z="7" spawntime="60" />
 		<monster name="Orc Warrior" x="12" y="-4" z="7" spawntime="60" />
-		<monster name="Orc Berserker" x="-23" y="-2" z="7" spawntime="60" />
 		<monster name="Orc Shaman" x="-14" y="-2" z="7" spawntime="60" />
 		<monster name="Orc Warrior" x="-11" y="-2" z="7" spawntime="768" />
 		<monster name="Orc" x="17" y="-2" z="7" spawntime="60" />
-		<monster name="Orc Marauder" x="-15" y="-1" z="7" spawntime="60" />
 		<monster name="Orc" x="-17" y="0" z="7" spawntime="60" />
 		<monster name="Orc" x="-2" y="0" z="7" spawntime="60" />
-		<monster name="Orc" x="-11" y="1" z="7" spawntime="768" />
 		<monster name="Orc Marauder" x="-4" y="1" z="7" spawntime="60" />
 		<monster name="Orc" x="12" y="1" z="7" spawntime="60" />
 		<monster name="Orc Berserker" x="-25" y="2" z="7" spawntime="60" />
 		<monster name="Orc" x="-9" y="2" z="7" spawntime="60" />
 		<monster name="Orc" x="3" y="2" z="7" spawntime="60" />
 		<monster name="Orc Shaman" x="12" y="2" z="7" spawntime="60" />
-		<monster name="Orc Warrior" x="1" y="3" z="7" spawntime="60" />
 		<monster name="Orc Rider" x="-5" y="5" z="7" spawntime="60" />
-		<monster name="Orc Warrior" x="-1" y="5" z="7" spawntime="768" />
-		<monster name="Orc" x="1" y="6" z="7" spawntime="768" />
-		<monster name="Orc" x="-16" y="7" z="7" spawntime="768" />
 		<monster name="Orc Shaman" x="-9" y="7" z="7" spawntime="60" />
 		<monster name="Orc Warrior" x="-3" y="7" z="7" spawntime="60" />
 		<monster name="Orc Warrior" x="18" y="7" z="7" spawntime="60" />
@@ -7972,7 +8113,7 @@
 		<monster name="Orc Warrior" x="23" y="10" z="7" spawntime="768" />
 		<monster name="Orc" x="15" y="11" z="7" spawntime="60" />
 		<monster name="Orc" x="21" y="12" z="7" spawntime="768" />
-		<monster name="Orc Leader" x="-21" y="13" z="7" spawntime="60" />
+		<monster name="Orc Berserker" x="-21" y="13" z="7" spawntime="60" />
 		<monster name="Orc" x="-16" y="13" z="7" spawntime="60" />
 		<monster name="Orc Warrior" x="17" y="13" z="7" spawntime="60" />
 		<monster name="Orc Spearman" x="18" y="13" z="7" spawntime="60" />
@@ -8190,17 +8331,16 @@
 	<spawn centerx="973" centery="751" centerz="7" radius="30">
 		<monster name="Orc Marauder" x="15" y="-19" z="7" spawntime="60" />
 		<monster name="Orc Rider" x="22" y="-18" z="7" spawntime="60" />
-		<monster name="Orc Warlord" x="5" y="-16" z="7" spawntime="60" />
-		<monster name="Orc Rider" x="-23" y="-15" z="7" spawntime="60" />
+		<monster name="Orc Berserker" x="-28" y="-17" z="7" spawntime="60" />
+		<monster name="Orc Berserker" x="-21" y="-14" z="7" spawntime="60" />
+		<monster name="Orc Rider" x="-29" y="-13" z="7" spawntime="60" />
 		<monster name="Orc Berserker" x="16" y="-13" z="7" spawntime="60" />
-		<monster name="Orc Warlord" x="-29" y="-12" z="7" spawntime="60" />
-		<monster name="Orc Warlord" x="-22" y="-12" z="7" spawntime="60" />
 		<monster name="Orc Shaman" x="-24" y="-11" z="7" spawntime="60" />
 		<monster name="Orc Berserker" x="2" y="-11" z="7" spawntime="60" />
 		<monster name="Orc Marauder" x="-17" y="-10" z="7" spawntime="60" />
 		<monster name="Orc Shaman" x="21" y="-10" z="7" spawntime="60" />
-		<monster name="Orc Warlord" x="-4" y="-7" z="7" spawntime="60" />
-		<monster name="Orc Berserker" x="14" y="-7" z="7" spawntime="60" />
+		<monster name="Orc Berserker" x="16" y="-9" z="7" spawntime="60" />
+		<monster name="Orc Berserker" x="-4" y="-7" z="7" spawntime="60" />
 		<monster name="Orc Shaman" x="-9" y="-4" z="7" spawntime="60" />
 		<monster name="Orc Shaman" x="5" y="-3" z="7" spawntime="60" />
 		<monster name="Orc Rider" x="20" y="-2" z="7" spawntime="60" />
@@ -8208,15 +8348,15 @@
 		<monster name="Orc Berserker" x="-21" y="0" z="7" spawntime="60" />
 		<monster name="Orc Marauder" x="-27" y="2" z="7" spawntime="60" />
 		<monster name="Orc Berserker" x="-12" y="2" z="7" spawntime="60" />
+		<monster name="Orc Berserker" x="11" y="4" z="7" spawntime="60" />
 		<monster name="Orc Warlord" x="-16" y="6" z="7" spawntime="60" />
 		<monster name="Orc Marauder" x="15" y="8" z="7" spawntime="60" />
 		<monster name="Orc Shaman" x="17" y="9" z="7" spawntime="60" />
-		<monster name="Orc Warlord" x="-1" y="11" z="7" spawntime="60" />
+		<monster name="Orc Berserker" x="0" y="10" z="7" spawntime="60" />
 		<monster name="Orc Warlord" x="17" y="13" z="7" spawntime="60" />
 		<monster name="Orc Rider" x="-16" y="14" z="7" spawntime="60" />
-		<monster name="Orc Warlord" x="-12" y="15" z="7" spawntime="60" />
-		<monster name="Orc Warlord" x="11" y="15" z="7" spawntime="60" />
-		<monster name="Orc Warlord" x="-10" y="16" z="7" spawntime="60" />
+		<monster name="Orc Berserker" x="-10" y="15" z="7" spawntime="60" />
+		<monster name="Orc Berserker" x="11" y="15" z="7" spawntime="60" />
 		<monster name="Orc Berserker" x="2" y="17" z="7" spawntime="60" />
 		<monster name="Orc Marauder" x="-1" y="19" z="7" spawntime="72" />
 	</spawn>
@@ -22790,7 +22930,7 @@
 	<spawn centerx="1266" centery="1188" centerz="10" radius="1">
 		<monster name="Destroyer" x="0" y="-1" z="10" spawntime="60" />
 	</spawn>
-	<spawn centerx="713" centery="1190" centerz="10" radius="1">
+	<spawn centerx="711" centery="1189" centerz="10" radius="1">
 		<monster name="Corym Skirmisher" x="0" y="0" z="10" spawntime="60" />
 	</spawn>
 	<spawn centerx="1257" centery="1190" centerz="10" radius="1">
@@ -22799,12 +22939,12 @@
 	<spawn centerx="1241" centery="1191" centerz="10" radius="1">
 		<monster name="Hand of Cursed Fate" x="0" y="-1" z="10" spawntime="60" />
 	</spawn>
-	<spawn centerx="725" centery="1192" centerz="10" radius="1">
-		<monster name="Corym Skirmisher" x="0" y="0" z="10" spawntime="60" />
-	</spawn>
 	<spawn centerx="1248" centery="1192" centerz="10" radius="1">
 		<monster name="Diabolic Imp" x="1" y="-1" z="10" spawntime="60" />
 		<monster name="Dark Torturer" x="-1" y="1" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="725" centery="1193" centerz="10" radius="1">
+		<monster name="Corym Vanguard" x="0" y="0" z="10" spawntime="60" />
 	</spawn>
 	<spawn centerx="1206" centery="1194" centerz="10" radius="1">
 		<monster name="Hand of Cursed Fate" x="1" y="1" z="10" spawntime="60" />
@@ -22879,8 +23019,8 @@
 	<spawn centerx="1200" centery="1215" centerz="10" radius="1">
 		<monster name="Dark Torturer" x="-1" y="-1" z="10" spawntime="60" />
 	</spawn>
-	<spawn centerx="758" centery="1218" centerz="10" radius="1">
-		<monster name="Corym Vanguard" x="0" y="0" z="10" spawntime="60" />
+	<spawn centerx="758" centery="1219" centerz="10" radius="1">
+		<monster name="Corym Vanguard" x="0" y="-1" z="10" spawntime="60" />
 	</spawn>
 	<spawn centerx="1235" centery="1219" centerz="10" radius="1">
 		<monster name="Lost Soul" x="-1" y="1" z="10" spawntime="60" />

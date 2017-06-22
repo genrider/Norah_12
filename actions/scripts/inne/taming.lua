@@ -317,6 +317,17 @@ local config = {
 		},
 		success = {sound = 'Grrrrrrr', text = 'You tamed the shock head.'}
 	}
+	[23557] = {
+		name = 'walker',
+		id = 43,
+		type = TYPE_MONSTER,
+		chance = 30,
+		fail = {
+			{run = true, text = 'The walker ran away!'},
+			{sound = 'Gradfsd!', text = ''}
+		},
+		success = {sound = '', text = 'You tamed the walker.'}
+	},
 }
 
 function onUse(player, item, fromPosition, target, toPosition, isHotkey)

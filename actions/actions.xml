@@ -133,6 +133,8 @@
 	<action itemid="20138" script="inne/taming.lua" />
 	<action itemid="22608" script="inne/taming.lua" />
 	<action itemid="21452" script="inne/taming.lua" />
+	<action itemid="23557" script="inne/taming.lua" />
+	<action itemid="13294" script="inne/taming.lua" />
 	<action itemid="13941" script="inne/cup of molten gold.lua" />
 	<action itemid="11339" script="inne/claylump.lua" />
 	<action fromid="11258" toid="11262" script="inne/blessingCharms.lua" />
