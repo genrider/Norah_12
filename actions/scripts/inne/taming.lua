@@ -299,14 +299,12 @@ local config = {
 		success = {sound = 'Looooow!', text = 'The leech appeased the water buffalo and your taming was successful.'}
 	},
 	[21452] = {
-		name = "gravedigger"
-		id = 39
-		type = TYPE_MONSTER
+		name = "gravedigger",
+		id = 39,
+		type = TYPE_MONSTER,
 		chance = 30,
-		fail = {
-			{run = true, sound ="Wrwrrwe", text = 'The gravedigger flees.'}
-		},
-		success = {sound = "SDf!", text = 'You catch the gravedigger'}	
+		fail = {run = true, sound ="Wrwrrwe", text = 'The gravedigger flees.'},
+		success = {sound = "SDf!", text = 'You catch the gravedigger.'}	
 	},
 	[22608]	= {
 		name = 'shock head',
