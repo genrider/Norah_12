@@ -15,11 +15,11 @@ local function creatureSayCallback(cid, type, msg)
 local player = Player(cid)	
     		
 	if msgcontains(msg, 'job') and player:getStorageValue(Storage.Club.QuestLine) == -1 then
-		npcHandler:say('Why do you ask about my job? I am the head of the {club seekers and travelers}. Our club sponsors {B-Rox King}. Would you like to join us?', cid)
+		npcHandler:say('Why do you ask about my job? I am the head of the {club of seekers and travelers}. Would you like to join us?', cid)
 		npcHandler.topic[cid] = 0
 	
 	elseif msgcontains(msg, 'join') and player:getStorageValue(Storage.Club.QuestLine) ~= 1  then
-		npcHandler:say('Do you want to join our club prospectors and travelers?', cid)
+		npcHandler:say('Do you want to join our club?', cid)
 		npcHandler.topic[cid] = 1
 	
 	elseif msgcontains(msg, 'roc feather') and player:getStorageValue(Storage.Club.QuestLine) == 1 and player:getStorageValue(cid,Storage.Club.Reward01) == -1 then

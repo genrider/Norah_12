@@ -2,7 +2,7 @@
     <health now="150" max="150"/>
     <look type="104" head="20" body="120" legs="75" feet="13" corpse="2212"/>
 		<parameters>
-    <parameter key="message_greet" value="Greetings, traveller |PLAYERNAME|." />
+    <parameter key="message_greet" value="|PLAYERNAME|. Where do you want to go today?" />
 	<parameter key="message_walkaway" value="Take care!" />
 	
 	<parameter key="module_travel" value="1" />
@@ -10,8 +10,8 @@
 	
 	<parameter key="module_keywords" value="1" />
 		<parameter key="keywords" value="go;travel" />
-		<parameter key="keyword_reply1" value="I can take you to {Pont Vanis}, {Nilfgaard}, {Orc Castle}, {Riwen} or to {Undead Land} for just a small fee." />
-		<parameter key="keyword_reply2" value="I can take you to {Pont Vanis}, {Nilfgaard}, {Orc Castle}, {Riwen} or to {Undead Land} for just a small fee." />
+		<parameter key="keyword_reply1" value="I can take you to {Pont Vanis}, {Nilfgaard}, {Orc Castle}, {Riwen} or to {Undead Land} for a small fee." />
+		<parameter key="keyword_reply2" value="I can take you to {Pont Vanis}, {Nilfgaard}, {Orc Castle}, {Riwen} or to {Undead Land} for a small fee." />
 
     </parameters>
 </npc>

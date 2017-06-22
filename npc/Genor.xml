@@ -4,7 +4,7 @@
 	<look type="131" head="121" body="30" legs="97" feet="12" corpse="2212"/>
 	<parameters>
 		<parameter key="module_shop" value="1"/>
-		<parameter key="message_greet" value="Hello |PLAYERNAME|. I sell backpack and bag"/>
+		<parameter key="message_greet" value="Come closer |PLAYERNAME|. How can i lighten your burden again?"/>
 		<parameter key="shop_buyable" value="backpack,1988,30;bag,1987,20;blue backpack,2002,30;blue bag,1995,20;;golden backpack,2004,30;golden bag,1997,20;green backpack,1998,30;green bag,1991,20;grey backpack,2003,30;grey bag,1996,20;orange backpack,10519,30;orange bag,10520,20;purple backpack,2001,30;purple bag,1994,20;red backpack,2000,30;red bag,1993,20;yellow backpack,1999,30;yellow bag,1992,20"/>
 	</parameters>
 </npc>

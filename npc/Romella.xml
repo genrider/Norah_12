@@ -3,8 +3,8 @@
     <health now="150" max="150"/>
     <look type="137" head="79" body="115" legs="78" feet="115" corpse="2212"/>
     <parameters>
-        <parameter key="message_greet" value="Welcome! I Buy All {Swords}, {Clubs} And {Axes}."/> 
-        <parameter key="message_farewall" value="Bye..."/> 
+        <parameter key="message_greet" value="Welcome! I will buy from you everthing that can stab, bash or slash."/> 
+        <parameter key="message_farewall" value="Bye."/> 
         <parameter key="message_walkaway" value="How rude!"/> 
     </parameters>
 </npc>

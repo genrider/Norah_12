@@ -3,7 +3,7 @@
     <look type="104" head="20" body="120" legs="75" feet="13" corpse="2212"/>
 	
 <parameters>
-    <parameter key="message_greet" value="Greetings, traveller |PLAYERNAME|." />
+    <parameter key="message_greet" value="Greetings, |PLAYERNAME|." />
 	<parameter key="message_walkaway" value="Take care!" />
 	
 	<parameter key="module_travel" value="1" />

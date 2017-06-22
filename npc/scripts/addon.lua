@@ -7,10 +7,10 @@ function onCreatureDisappear(cid)        npcHandler:onCreatureDisappear(cid)    
 function onCreatureSay(cid, type, msg)    npcHandler:onCreatureSay(cid, type, msg)    end 
 function onThink()                        npcHandler:onThink()    end 
 
-newaddon    = 'Here you are, enjoy your brand new addon!' 
+newaddon    = 'There you go. Enjoy your brand new addon!' 
 noitems        = 'You do not have all the required items.' 
 noitems2    = 'You do not have all the required items or you do not have the first addon, which by the way, is a requirement for this addon.' 
-already        = 'It seems you already have this addon, don\'t you try to mock me son!' 
+already        = 'It seems you already have this addon, don\'t you try to mock me!' 
  
 -- CITIZEN START -- 
 function CitizenFirst(cid, message, keywords, parameters, node) 

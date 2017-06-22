@@ -15,55 +15,55 @@ local player = Player(cid)
     end
 ----------------------START----------------------
 if msgcontains(msg, 'enchanted chicken wing') or msgcontains(msg, 'enchanted chicken') or msgcontains(msg, 'wing') then
-	npcHandler:say('Huumm... it\'s possible, just take me {boots of haste}, they have important part to make chicken wing. Did you have it with yourself?', cid)
+	npcHandler:say('Huumm... it\'s possible, just give me {boots of haste}, they have imbued part i need to give you enchanted chicken wing. Did you have it them?', cid)
 	npcHandler.topic[cid] = 1
 elseif msgcontains(msg, 'fighting spirit') or msgcontains(msg, 'spirit') then
-	npcHandler:say('I have some {fighting spirits} in magazine. I can sell it by {two royal helmets}, I realy need it now. Trade?', cid)
+	npcHandler:say('I have some {fighting spirits} in magazine. I can sell one of them for {two royal helmets}, I need them now, so shall we trade?', cid)
 	npcHandler.topic[cid] = 2
 elseif msgcontains(msg, 'magic sulphur') or msgcontains(msg, 'sulphur')  then
-	npcHandler:say('Did you have some fire items? To most I\'m needing {fire swords}, if you have {three} i can trade with you.', cid)
+	npcHandler:say('Do you have any items imbued with magic fire? Im in need of {fire swords}, if you have {three} i can trade you one magic sulphur for them.', cid)
 	npcHandler.topic[cid] = 3
 elseif msgcontains(msg, 'warrior\'s sweat') or msgcontains(msg, 'flask') or msgcontains(msg, 'sweat') then
-	npcHandler:say('It\'s rare item then prize is high. {Four warrior helmets}, are you accept it?', cid)
+	npcHandler:say('It\'s rare But i have a contract for four helmets.If you bring me {four warrior helmets}, i\'ll give you flask that contains some {warrior\'s sweat}.', cid)
 	npcHandler.topic[cid] = 4
 	
 ------------------YES-------------------------------------	
 elseif msgcontains(msg, 'yes') then
 	if npcHandler.topic[cid] == 1 then
 		if player:getItemCount(2195) >= 1 then
-			npcHandler:say('I like business with you! Take this.', cid)
+			npcHandler:say('I like doing business with you! Take this.', cid)
 			player:removeItem(2195,1)
 			player:addItem(5891,1)
 			npcHandler.topic[cid] = 0
 		else
-			npcHandler:say('Back when you have needing items!', cid)
+			npcHandler:say('Come back when you have items i need!', cid)
 		end
 	elseif npcHandler.topic[cid] == 2 then
 		if player:getItemCount(2498) >= 2 then
-			npcHandler:say('I like business with you! Take this.', cid)
+			npcHandler:say('I like doing business with you! Take this.', cid)
 			player:removeItem(2498,2)
 			player:addItem(5884,1)
 			npcHandler.topic[cid] = 0
 		else
-			npcHandler:say('Back when you have needing items!', cid)
+			npcHandler:say('back when you have items i need!', cid)
 		end
 	elseif npcHandler.topic[cid] == 3 then
 		if player:getItemCount(2392) >= 3 then
-			npcHandler:say('I like business with you! Take this.', cid)
+			npcHandler:say('I like doing business with you! Take this.', cid)
 			player:removeItem(2392,3)
 			player:addItem(5904,1)
 			npcHandler.topic[cid] = 0
 		else
-			npcHandler:say('Back when you have needing items!', cid)
+			npcHandler:say('back when you have items i need!', cid)
 		end
 	elseif npcHandler.topic[cid] == 4 then
 		if player:getItemCount(2475) >= 4 then
-			npcHandler:say('I like business with you! Take this.', cid)
+			npcHandler:say('I like doing business with you! Take this.', cid)
 			player:removeItem(2475,4)
 			player:addItem(5885,1)
 			npcHandler.topic[cid] = 0
 		else
-			npcHandler:say('Back when you have needing items!', cid)
+			npcHandler:say('back when you have items i need!', cid)
 		end
 	end
 elseif msgcontains(msg, 'no') or msgcontains(msg, 'nah') then

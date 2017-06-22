@@ -18,7 +18,7 @@ if msgcontains(msg, 'belongings of deceasead') or msgcontains(msg, 'medicine') t
 		npcHandler:say('Did you bring me the medicine pouch?', cid)
 		npcHandler.topic[cid] = 1
 	else
-		npcHandler:say('I need a {medicine pouch}, to give you the {belongings of deceased}. Come back when you have them.', cid)
+		npcHandler:say('I need {medicine pouch and i\'ll exchange it {belongings of deceased}. Come back when you have it.', cid)
 end
 
 elseif msgcontains(msg, 'yes') and npcHandler.topic[cid] == 1 then
@@ -28,7 +28,7 @@ elseif msgcontains(msg, 'yes') and npcHandler.topic[cid] == 1 then
 		player:addItem(13670, 1)
 		end
 	else
-		npcHandler:say('You do not have the required items.', cid)
+		npcHandler:say('You do not have item i require from you.', cid)
 end
 return true
 end

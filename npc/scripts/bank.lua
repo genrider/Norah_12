@@ -61,12 +61,12 @@ function creatureSayCallback(cid, type, msg)
             npcHandler:say('You don\'t have any gold with you.', cid)
             Topic[cid] = nil
         else
-            npcHandler:say('Please tell me how much gold it is you would like to deposit.', cid)
+            npcHandler:say('Please tell me how much gold you would like to deposit.', cid)
             Topic[cid] = 1
         end
     elseif Topic[cid] == 1 then
         if getCount(msg) == -1 then
-            npcHandler:say('Please tell me how much gold it is you would like to deposit.', cid)
+            npcHandler:say('Please tell me how much gold you would like to deposit.', cid)
             Topic[cid] = 1
         elseif getPlayerMoney(cid) >= getCount(msg) then
             count[cid] = getCount(msg)
@@ -141,7 +141,7 @@ function creatureSayCallback(cid, type, msg)
                 npcHandler:say('Who would you like to transfer ' .. count[cid] .. ' gold to?', cid)
                 Topic[cid] = 6
             else
-                npcHandler:say('There is not enough gold on your account.', cid)
+                npcHandler:say('There is not enough gold in vault.', cid)
                 Topic[cid] = nil
             end
         else
@@ -158,7 +158,7 @@ function creatureSayCallback(cid, type, msg)
                 npcHandler:say('Who would you like to transfer ' .. count[cid] .. ' gold to?', cid)
                 Topic[cid] = 6
             else
-                npcHandler:say('There is not enough gold on your account.', cid)
+                npcHandler:say('There is not enough gold in your vault.', cid)
                 Topic[cid] = nil
             end
         end
@@ -196,7 +196,7 @@ function creatureSayCallback(cid, type, msg)
                 npcHandler:say('This player does not exist.', cid)
             end
         else
-            npcHandler:say('There is not enough gold on your account.', cid)
+            npcHandler:say('There is not enough gold in your Vault.', cid)
         end
         Topic[cid] = nil
     elseif Topic[cid] == 7 and msgcontains(msg, 'no') then

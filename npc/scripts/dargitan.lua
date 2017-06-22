@@ -87,7 +87,7 @@ if msgcontains(msg, 'mission') or msgcontains(msg, 'quest') or msgcontains(msg, 
 			
 		elseif talk_state[cid] == 4 then
 		if getPlayerStorageValue(cid,Storage.Ruiny.Reward) == 1 then
-			npcHandler:say('What did you say!? Demons? But it\'s safe now isn\'t it? I fear without you our cause would be lost. You are the most honorable and courageous fighter i\'ve meet in my life. Me and my men bow to you fighter. Our world needs people like you! Here, take this as a {reward}. You deserve this more than me.', cid)
+			npcHandler:say('What did you say!? Demons? But it\'s safe now isn\'t it? I fear without you our cause would be lost. You are the most honorable and courageous fighter i\'ve meet in my life. Me and my men bow to you champion. Our world needs people like you! Here, take this as a {reward}. You deserve this more than me.', cid)
 			setPlayerStorageValue(cid, Storage.Ruiny.Mission03_QuestLog, 2)
 			setPlayerStorageValue(cid, Storage.Ruiny.Mission04_QuestLog, 1)
 			setPlayerStorageValue(cid, Storage.Ruiny.Mission01, 6)

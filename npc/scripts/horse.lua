@@ -38,7 +38,7 @@ function creatureSayCallback(cid, type, msg)
 			selfSay('Do you want to '..name..' for '..days..' day'..(days > 1 and 's' or '')..' the price '..price..' gps?', cid)
 			talkState[talkUser] = 2
 		else
-			selfSay('Sorry, I do not rent this mount.', cid)
+			selfSay('Sorry, i cant rent you this mount.', cid)
 		end
 	elseif(msgcontains(msg, 'yes') and talkState[talkUser] == 2) then
 		if doPlayerRemoveMoney(cid, price) then

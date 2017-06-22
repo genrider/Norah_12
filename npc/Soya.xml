@@ -3,6 +3,6 @@
     <health now="150" max="150"/>
     <look type="139" head="132" body="79" legs="97" feet="132" corpse="2212"/>
     <parameters>
-        <parameter key="message_greet" value="Hello |PLAYERNAME|. I buy helmets, boots, legs, shields and armors."/>
+        <parameter key="message_greet" value="Hello |PLAYERNAME|. You can sell here all your useless pieces of armor"/>
     </parameters>
 </npc>

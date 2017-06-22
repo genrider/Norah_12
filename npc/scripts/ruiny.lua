@@ -20,12 +20,12 @@ end
 	-- GREET
 	if (msg == "hi" or msg == "hello") and (not npcHandler:isFocused(cid)) then
 		if getGlobalStorageValue(Storage.Ruiny.Final) == -1 then
-		npcHandler:say("Maybe you managed to get here but it will be your end!", cid)
+		npcHandler:say("Its too late for you fools! My master will crush you all. Please awaken my lord!", cid)
 		Game.createMonster("Gaz'haragoth", Position(118,380,14))
 		setGlobalStorageValue(Storage.Ruiny.Final,1)
 		addEvent(GhazFinal, 2*60*60*1000) -- 2h
 		else
-			npcHandler:say("Harrrrk! You think you are strong now? You shall never escape my wrath! I am immortal!", cid)
+			npcHandler:say("Harrrrk! Even if i die the world is still doomed! You shall never escape the wrath of my master.", cid)
 			npcHandler:addFocus(cid)
 		end
 	end
@@ -36,7 +36,7 @@ end
 	end
 	
 	if (msgcontains(msg, "bye") or msgcontains(msg, "farewell")) then
-		npcHandler:say("We will meet again.", cid)
+		npcHandler:say("Dont turn your back to me!", cid)
 		talkState[talkUser] = 0
 		npcHandler:releaseFocus(cid)
 	end

@@ -3,6 +3,6 @@
 	<health now="100" max="100"/>
 	<look type="155" head="78" body="101" legs="80" feet="95" addons="0"/>
 	<parameters>
-				<parameter key="message_greet" value="Hello |PLAYERNAME|. I'm specialised in boots." />
+				<parameter key="message_greet" value="What brings you here |PLAYERNAME|? Anything i can do?" />
 	</parameters>
 </npc>

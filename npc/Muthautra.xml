@@ -2,8 +2,8 @@
     <health now="150" max="150"/>
     <look type="104" head="20" body="120" legs="75" feet="13" corpse="2212"/>
 	<parameters>
-    <parameter key="message_greet" value="Greetings, traveller |PLAYERNAME|." />
-	<parameter key="message_walkaway" value="Take care!" />
+    <parameter key="message_greet" value="Whats your destination |PLAYERNAME|?" />
+	<parameter key="message_walkaway" value="See you later!" />
 	
 	<parameter key="module_travel" value="1" />
 	<parameter key="travel_destinations" value="pont vanis,648,684,6,150;dry hills,420,478,2,350;undead,841,925,3,500;nilfgaard,531,312,6,300;riwen,460,1364,6,250" />
@@ -11,8 +11,8 @@
 	<parameter key="module_keywords" value="1" />
 		<parameter key="keywords" value="go;travel;passage;sail" />
 		<parameter key="keyword_reply1" value="I can take you to {Pont Vanis}, {Nilfgaard}, {Riwen}, {Dry Hills} or to {Undead Land} for just a small fee." />
-		<parameter key="keyword_reply2" value="I can take you to {Pont Vanis}, {Nilfgaard}, {Riwen}, {Dry Hills} or to {Undead Land} for just a small fee." />
-		<parameter key="keyword_reply3" value="I can take you to {Pont Vanis}, {Nilfgaard}, {Riwen}, {Dry Hills} or to {Undead Land} for just a small fee." />
-		<parameter key="keyword_reply4" value="I can take you to {Pont Vanis}, {Nilfgaard}, {Riwen}, {Dry Hills} or to {Undead Land} for just a small fee." />
+		<parameter key="keyword_reply2" value="I can take you to {Pont Vanis}, {Nilfgaard}, {Riwen}, {Dry Hills} or to {Undead Land} for a small fee." />
+		<parameter key="keyword_reply3" value="I can take you to {Pont Vanis}, {Nilfgaard}, {Riwen}, {Dry Hills} or to {Undead Land} for a small fee." />
+		<parameter key="keyword_reply4" value="I can take you to {Pont Vanis}, {Nilfgaard}, {Riwen}, {Dry Hills} or to {Undead Land} for a small fee." />
     </parameters>
 </npc>

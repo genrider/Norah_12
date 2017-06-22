@@ -47,6 +47,6 @@ end
 
 npcHandler:setCallback(CALLBACK_MESSAGE_DEFAULT, creatureSayCallback)
 npcHandler:setMessage(MESSAGE_GREET, "Welcome to my legal shop.") ----- DO POPRAWY
-npcHandler:setMessage(MESSAGE_FAREWELL, "Good bye, hope you might come back anytime to my legal shop.")
+npcHandler:setMessage(MESSAGE_FAREWELL, "Good bye, hope you might come back sometime to my legal shop.")
 npcHandler:setMessage(MESSAGE_WALKAWAY, "Uhm... Hope you liked my legal shop...")
 npcHandler:addModule(FocusModule:new())
