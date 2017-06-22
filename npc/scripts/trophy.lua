@@ -38,7 +38,7 @@ end
 elseif msgcontains(msg, 'reward') or msgcontains(msg, 'prize') then
 if player:getStorageValue(Storage.Doll.Mission01) == 2 then
 	if player:getStorageValue(Storage.Doll.Tropy01) == 3 and player:getStorageValue(Storage.Doll.Tropy02) == 3 and player:getStorageValue(Storage.Doll.Tropy03) == 3 and player:getStorageValue(Storage.Doll.Tropy04) == 3 and player:getStorageValue(Storage.Doll.Tropy05) == 3 and player:getStorageValue(Storage.Doll.Tropy06) == 3 and player:getStorageValue(Storage.Doll.Tropy07) == 3 and player:getStorageValue(Storage.Doll.Tropy08) == 3 then
-		npcHandler:say('You have give me all trophys. For {reward} I can give you blue robe, boots of haste and one 200000 expirence. Do you\'ll get it?', cid)	
+		npcHandler:say('You have give me all trophys. For {reward} I can give you 2 crystal coins and one 40000 expirence. Do you\'ll get it?', cid)	
 		talk_state[cid] = 3
 	else
 		npcHandler:say('You don\'t give me all trophys!', cid)
@@ -78,9 +78,8 @@ elseif msgcontains(msg, 'yes') and talk_state[cid] == 2 then
 elseif talk_state[cid] == 3 and player:getStorageValue(Storage.Doll.Mission01) == 2 then
 	if player:getStorageValue(Storage.Doll.Tropy01) == 3 and player:getStorageValue(Storage.Doll.Tropy02) == 3 and player:getStorageValue(Storage.Doll.Tropy03) == 3 and player:getStorageValue(Storage.Doll.Tropy04) == 3 and player:getStorageValue(Storage.Doll.Tropy05) == 3 and player:getStorageValue(Storage.Doll.Tropy06) == 3 and player:getStorageValue(Storage.Doll.Tropy07) == 3 and player:getStorageValue(Storage.Doll.Tropy08) == 3 then
 					npcHandler:say('Thank for all! Good Luck!', cid)
-					doPlayerAddItem(cid,2656,1)
-					doPlayerAddItem(cid,2195,1)
-					Player(cid):addExperience(200000, true)
+					doPlayerAddItem(cid,2160,2)
+					Player(cid):addExperience(40000, true)
 					player:setStorageValue(Storage.Doll.Mission01, 3)
 				end
 elseif talk_state[cid] == 4 then

@@ -26,7 +26,7 @@
 	<mount id="24" clientid="427" name="Shadow Draptor" speed="20" premium="yes" />
 	<mount id="25" clientid="437" name="Rented Horse" speed="20" premium="no" />
 	<mount id="26" clientid="438" name="Rented Horse" speed="20" premium="no" />
-	<mount id="27" clientid="447" name="Ladybug" speed="20" premium="yes" />
+	<mount id="27" clientid="447" name="Lady Bug" speed="20" premium="yes" />
 	<mount id="28" clientid="450" name="Manta" speed="20" premium="yes" />
 	<mount id="29" clientid="502" name="Ironblight" speed="20" premium="yes" />
 	<mount id="30" clientid="503" name="Magma Crawler" speed="20" premium="yes" />
@@ -38,7 +38,7 @@
 	<mount id="36" clientid="546" name="Tombstinger" speed="20" premium="yes" />
 	<mount id="37" clientid="547" name="Platesaurian" speed="20" premium="yes" />
 	<mount id="38" clientid="548" name="Ursagrodon" speed="20" premium="yes" />
-	<mount id="39" clientid="559" name="The Hellgrip" speed="20" premium="yes" />
+	<mount id="39" clientid="559" name="Gravedigger" speed="20" premium="yes" />
 	<mount id="40" clientid="571" name="Lion" speed="20" premium="yes" />
 	<mount id="41" clientid="572" name="Desert King" speed="20" premium="yes" />
 	<mount id="42" clientid="580" name="Shock Head" speed="20" premium="yes" />

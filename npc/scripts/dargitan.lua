@@ -52,7 +52,7 @@ if msgcontains(msg, 'mission') or msgcontains(msg, 'quest') or msgcontains(msg, 
 			npcHandler:say('This sword was in my family for generations. Now it belongs to you. Wield it in the name of light with your face up. Farewell, hero!', cid)
 			doPlayerAddItem(cid,8932,1)
 			setPlayerStorageValue(cid, Storage.Ruiny.Mission04_QuestLog, 2)
-			setPlayerStorageValue(cid, Storage.Ruiny.Mission01, 7)
+			setPlayerStorageValue(cid, Storage.Ruiny.Mission01, 6)
 		else
 			npcHandler:say('You have already received your reward!', cid)			
 	end

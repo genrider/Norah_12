@@ -94,6 +94,18 @@ local config = {
 		},
 		success = {sound = 'Krkrkrkrk', text = 'You wind up the tin lizzard.'}
 	},
+	[13247]	= {
+		name = 'boar',
+		id = 10,
+		type = TYPE_MONSTER,
+		chance = 40,
+		fail = {
+			{run = true, text = 'The boar ran away'},
+			{broke = true, text = 'Oh no! The hunting horn broke!'},
+			{sound = 'Grunt! Grunt!', text = 'The boar is refusing to obey the hunting horn.'}
+		},
+		success = {sound = 'Oink', text = 'You tamed the wild boar.'}
+	},
 	[13291]	= {
 		name = 'undead cavebear',
 		id = 12,
@@ -117,6 +129,18 @@ local config = {
 		},
 		success = {sound = 'Heeee-haaaaw!', text = 'Munching a large pile of apple slices tamed the donkey.'}
 	},
+	[13508]	= {
+		name = 'slug',
+		id = 14,
+		type = TYPE_MONSTER,
+		chance = 40,
+		fail = {
+			{run = true, sound = 'Slurp!', text = 'The slug flees.'},
+			{broke = true, text = 'This slug drug didn\'t seem to have any effect.'},
+			{sound = '*shlorp*', text = 'The slug slips through your grasp.'}
+		},
+		success = {sound = 'Sluuuuurp!', text = 'You drugged the slug.'}
+	},
 	[13938]	= {
 		name = 'inoperative uniwheel',
 		mountName = 'uniwheel',
@@ -138,6 +162,18 @@ local config = {
 			{sound = '*klaaaaaang* Rrrrooooaaaarrrgh!', text = 'The crystal wolf is startled by the wrong sound of the diapason.'}
 		},
 		success = {sound = '*kliiiiiiiiiiing* Aooooouuuuu!!', text = 'The smooth sound of the diapason tamed the crystal wolf.'}
+	},
+	[13939]	= {
+		name = 'wild horse',
+		id = 17,
+		type = TYPE_MONSTER,
+		chance = 5,
+		fail = {
+			{run = true, text = 'With its last strength the horse the horse runs to safety.'},
+			{broke = true, sound = 'Weeeheeeehee', text = 'The wild horse happily munches the sugar oat and runs on.'},
+			{sound = 'Weeheheheehaaa!!', text = 'Weeeheeeehee.'}
+		},
+		success = {sound = '*snort*', text = 'The horse eats the sugar oat and accepts you as its new master.'}
 	},
 	[13539]	= {
 		name = 'enraged white deer',
@@ -210,6 +246,17 @@ local config = {
 		},
 		success = {sound = 'Plinnnggggggg', text = 'You tamed the ironblight.'}
 	},
+	[15545]	= {
+		name = 'manta ray',
+		id = 28,
+		type = TYPE_MONSTER,
+		chance = 30,
+		fail = {
+			{run = true, sound = 'Swooooosh', text = 'The manta ray fled.'},
+			{sound = 'Shhhhhh', text = 'The manta ray is trying to escape.'}
+		},
+		success = {sound = '~~~', text = 'You tamed the manta ray.'}
+	},
 	[18448]	= {
 		name = 'magma crawler',
 		id = 30,
@@ -222,62 +269,6 @@ local config = {
 		},
 		success = {sound = 'ZzzZzzZzzzZz', text = 'The magma crawler will accompany you as a friend from now on.'}
 	},
-	
-	-- Koniec --
-	[13247]	= {
-		name = 'boar',
-		id = 10,
-		type = TYPE_MONSTER,
-		chance = 40,
-		fail = {
-			{run = true, text = 'The boar ran away'},
-			{broke = true, text = 'Oh no! The hunting horn broke!'},
-			{sound = 'Grunt! Grunt!', text = 'The boar is refusing to obey the hunting horn.'}
-		},
-		success = {sound = 'Oink', text = 'You tamed the wild boar.'}
-	},
-
-
-	[13508]	= {
-		name = 'slug',
-		id = 14,
-		type = TYPE_MONSTER,
-		chance = 40,
-		fail = {
-			{run = true, sound = 'Slurp!', text = 'The slug flees.'},
-			{broke = true, text = 'This slug drug didn\'t seem to have any effect.'},
-			{sound = '*shlorp*', text = 'The slug slips through your grasp.'}
-		},
-		success = {sound = 'Sluuuuurp!', text = 'You drugged the slug.'}
-	},
-
-
-
-	[13939]	= {
-		name = 'wild horse',
-		id = 17,
-		type = TYPE_MONSTER,
-		chance = 5,
-		fail = {
-			{run = true, text = 'With its last strength the horse the horse runs to safety.'},
-			{broke = true, sound = 'Weeeheeeehee', text = 'The wild horse happily munches the sugar oat and runs on.'},
-			{sound = 'Weeheheheehaaa!!', text = 'Weeeheeeehee.'}
-		},
-		success = {sound = '*snort*', text = 'The horse eats the sugar oat and accepts you as its new master.'}
-	},
-	[15545]	= {
-		name = 'manta ray',
-		id = 28,
-		type = TYPE_MONSTER,
-		chance = 30,
-		fail = {
-			{run = true, sound = 'Swooooosh', text = 'The manta ray fled.'},
-			{sound = 'Shhhhhh', text = 'The manta ray is trying to escape.'}
-		},
-		success = {sound = '~~~', text = 'You tamed the manta ray.'}
-	},
-
-
 	[18449] = {
 		name = 'dragonling',
 		id = 31,
@@ -306,6 +297,16 @@ local config = {
 			{sound = 'Bellow!', text = 'The water buffalo ignores you.'}
 		},
 		success = {sound = 'Looooow!', text = 'The leech appeased the water buffalo and your taming was successful.'}
+	},
+	[21452] = {
+		name = "gravedigger"
+		id = 39
+		type = TYPE_MONSTER
+		chance = 30,
+		fail = {
+			{run = true, sound ="Wrwrrwe", text = 'The gravedigger flees.'}
+		},
+		success = {sound = "SDf!", text = 'You catch the gravedigger'}	
 	},
 	[22608]	= {
 		name = 'shock head',

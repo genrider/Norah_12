@@ -18,7 +18,7 @@ function onStartup()
 		result.free(resultId)
 	end
 
-	-- Check house auctions
+	--[[Check house auctions
 	local resultId = db.storeQuery("SELECT `id`, `highest_bidder`, `last_bid`, (SELECT `balance` FROM `players` WHERE `players`.`id` = `highest_bidder`) AS `balance` FROM `houses` WHERE `owner` = 0 AND `bid_end` != 0 AND `bid_end` < " .. os.time())
 	if resultId ~= false then
 		repeat
@@ -35,5 +35,5 @@ function onStartup()
 			end
 		until not result.next(resultId)
 		result.free(resultId)
-	end
+	end]]--
 end
