@@ -1,5 +1,5 @@
 local TYPE_ITEM, TYPE_MONSTER, TYPE_NPC = 0, 2, 3
-
+--name = monster name; ignoring character size
 local config = {
 	[13307]	= {
 		name = 'wailing widow',
@@ -224,7 +224,7 @@ local config = {
 		success = {sound = '*rattle*', text = 'You tamed the sandstone scorpion'}
 	},
 	[15546]	= {
-		name = 'ladybug',
+		name = 'lady bug',
 		id = 27,
 		type = TYPE_MONSTER,
 		chance = 30,
@@ -233,6 +233,17 @@ local config = {
 			{sound = 'Chrk chrk!', text = 'The ladybug is trying to nibble you.'}
 		},
 		success = {sound = 'Chhrk...', text = 'You tamed the lady bug.'}
+	},
+	[15545]	= {
+		name = 'manta ray',
+		id = 28,
+		type = TYPE_MONSTER,
+		chance = 30,
+		fail = {
+			{run = true, sound = 'Swooooosh', text = 'The manta ray fled.'},
+			{sound = 'Shhhhhh', text = 'The manta ray is trying to escape.'}
+		},
+		success = {sound = '~~~', text = 'You tamed the manta ray.'}
 	},
 	[18447]	= {
 		name = 'ironblight',
@@ -245,17 +256,6 @@ local config = {
 			{sound = 'Plinngggg', text = 'The ironblight is fighting against the magnetic force.'}
 		},
 		success = {sound = 'Plinnnggggggg', text = 'You tamed the ironblight.'}
-	},
-	[15545]	= {
-		name = 'manta ray',
-		id = 28,
-		type = TYPE_MONSTER,
-		chance = 30,
-		fail = {
-			{run = true, sound = 'Swooooosh', text = 'The manta ray fled.'},
-			{sound = 'Shhhhhh', text = 'The manta ray is trying to escape.'}
-		},
-		success = {sound = '~~~', text = 'You tamed the manta ray.'}
 	},
 	[18448]	= {
 		name = 'magma crawler',
