@@ -7,7 +7,6 @@
 	<house name="Bolfrey 2" houseid="9" entryx="655" entryy="658" entryz="7" rent="0" townid="1" size="26" />
 	<house name="Bolfrey 3" houseid="10" entryx="655" entryy="653" entryz="7" rent="0" townid="1" size="36" />
 	<house name="Bolfrey 4" houseid="11" entryx="655" entryy="648" entryz="7" rent="0" townid="1" size="36" />
-	<house name="Cedrod 11" houseid="13" entryx="643" entryy="540" entryz="7" rent="0" townid="1" size="11" />
 	<house name="Cedrod 6" houseid="18" entryx="611" entryy="540" entryz="7" rent="0" townid="1" size="10" />
 	<house name="Cedrod 7" houseid="19" entryx="618" entryy="545" entryz="7" rent="0" townid="1" size="10" />
 	<house name="Cedrod 8" houseid="20" entryx="620" entryy="541" entryz="7" rent="0" townid="1" size="4" />
@@ -30,7 +29,6 @@
 	<house name="Delvin 9" houseid="46" entryx="609" entryy="571" entryz="7" rent="0" townid="1" size="8" />
 	<house name="Elvin 1" houseid="47" entryx="660" entryy="604" entryz="7" rent="0" townid="1" size="42" />
 	<house name="Elvin 2" houseid="48" entryx="650" entryy="604" entryz="7" rent="0" townid="1" size="18" />
-	<house name="Elvin 3" houseid="49" entryx="645" entryy="604" entryz="7" rent="0" townid="1" size="18" />
 	<house name="Elvin 4" houseid="50" entryx="636" entryy="604" entryz="7" rent="0" townid="1" size="13" />
 	<house name="Elvin 5" houseid="51" entryx="633" entryy="604" entryz="7" rent="0" townid="1" size="13" />
 	<house name="Elvin 6" houseid="52" entryx="629" entryy="604" entryz="7" rent="0" townid="1" size="16" />
@@ -41,9 +39,8 @@
 	<house name="Elvin 11" houseid="57" entryx="665" entryy="618" entryz="7" rent="0" townid="1" size="18" />
 	<house name="Elvin 12" houseid="58" entryx="665" entryy="623" entryz="7" rent="0" townid="1" size="18" />
 	<house name="Elvin 13" houseid="59" entryx="665" entryy="628" entryz="7" rent="0" townid="1" size="18" />
-	<house name="Elvin 14" houseid="60" entryx="667" entryy="628" entryz="7" rent="0" townid="1" size="18" />
-	<house name="Elvin 15" houseid="61" entryx="667" entryy="623" entryz="7" rent="0" townid="1" size="18" />
-	<house name="Elvin 16" houseid="62" entryx="667" entryy="618" entryz="7" rent="0" townid="1" size="18" />
+	<house name="Elvin 14" houseid="60" entryx="667" entryy="628" entryz="7" rent="0" townid="1" size="24" />
+	<house name="Elvin 16" houseid="62" entryx="667" entryy="618" entryz="7" rent="0" townid="1" size="26" />
 	<house name="Elvin 17" houseid="63" entryx="667" entryy="612" entryz="7" rent="0" townid="1" size="23" />
 	<house name="Elvin 18" houseid="64" entryx="660" entryy="604" entryz="6" rent="0" townid="1" size="24" />
 	<house name="Elvin 19" houseid="65" entryx="655" entryy="604" entryz="6" rent="0" townid="1" size="19" />
@@ -71,8 +68,6 @@
 	<house name="Fideric 1" houseid="100" entryx="693" entryy="617" entryz="7" rent="0" townid="1" size="27" />
 	<house name="Fideric 2" houseid="101" entryx="689" entryy="617" entryz="7" rent="0" townid="1" size="27" />
 	<house name="Fideric 3" houseid="102" entryx="680" entryy="621" entryz="7" rent="0" townid="1" size="27" />
-	<house name="Fideric 4" houseid="103" entryx="680" entryy="627" entryz="7" rent="0" townid="1" size="12" />
-	<house name="Fideric 5" houseid="104" entryx="680" entryy="634" entryz="7" rent="0" townid="1" size="10" />
 	<house name="Fideric 6" houseid="105" entryx="680" entryy="638" entryz="7" rent="0" townid="1" size="10" />
 	<house name="Fideric 7" houseid="106" entryx="680" entryy="642" entryz="7" rent="0" townid="1" size="10" />
 	<house name="Larbert 1" houseid="135" entryx="597" entryy="585" entryz="7" rent="0" townid="1" size="131" />
@@ -90,7 +85,6 @@
 	<house name="Philen 6" houseid="147" entryx="708" entryy="598" entryz="6" rent="0" townid="1" size="41" />
 	<house name="Philen 7" houseid="148" entryx="707" entryy="599" entryz="6" rent="0" townid="1" size="20" />
 	<house name="Philen 8" houseid="149" entryx="703" entryy="599" entryz="6" rent="0" townid="1" size="37" />
-	<house name="Pont Vanis Castle" houseid="150" entryx="629" entryy="566" entryz="5" rent="0" townid="1" size="399" />
 	<house name="Roremy 1" houseid="151" entryx="637" entryy="548" entryz="7" rent="0" townid="1" size="23" />
 	<house name="Roremy 3" houseid="153" entryx="647" entryy="548" entryz="7" rent="0" townid="1" size="23" />
 	<house name="Roremy 5" houseid="155" entryx="657" entryy="548" entryz="7" rent="0" townid="1" size="23" />
@@ -137,9 +131,8 @@
 	<house name="Bolfrey 21" houseid="228" entryx="622" entryy="621" entryz="7" rent="0" townid="1" size="32" />
 	<house name="Fideric 8" houseid="245" entryx="688" entryy="610" entryz="7" rent="0" townid="1" size="23" />
 	<house name="Fideric 9" houseid="246" entryx="688" entryy="604" entryz="7" rent="0" townid="1" size="16" />
-	<house name="Fideric 10" houseid="247" entryx="689" entryy="610" entryz="7" rent="0" townid="1" size="21" />
-	<house name="Fideric 11" houseid="248" entryx="689" entryy="604" entryz="7" rent="0" townid="1" size="16" />
-	<house name="Fideric 12" houseid="249" entryx="689" entryy="600" entryz="7" rent="0" townid="1" size="16" />
+	<house name="Fideric 10" houseid="247" entryx="689" entryy="610" entryz="7" rent="0" townid="1" size="32" />
+	<house name="Fideric 12" houseid="249" entryx="689" entryy="600" entryz="7" rent="0" townid="1" size="27" />
 	<house name="Fideric 13" houseid="250" entryx="688" entryy="611" entryz="6" rent="0" townid="1" size="10" />
 	<house name="Fideric 14" houseid="251" entryx="688" entryy="607" entryz="6" rent="0" townid="1" size="10" />
 	<house name="Fideric 15" houseid="252" entryx="688" entryy="603" entryz="6" rent="0" townid="1" size="10" />

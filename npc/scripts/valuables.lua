@@ -21,6 +21,9 @@ shopModule:addBuyableItem({'small emerald'}, 			2149, 500,		'small emerald')
 shopModule:addBuyableItem({'small ruby'}, 				2147, 500,		'small ruby')
 shopModule:addBuyableItem({'small sapphire'}, 			2146, 500,		'small sapphire')
 
+
+--- new sell ---
+shopModule:addSellableItem({'golden mug'},				2033, 220,		'golden mug')
 ---SELL---
 shopModule:addSellableItem({'black pearl'},      		2144, 280, 		'black pearl')
 shopModule:addSellableItem({'blue crystal shard'}, 		18413, 1500,	'blue crystal shard')

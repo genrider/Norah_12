@@ -400,7 +400,7 @@
 	</spawn>
 	<spawn centerx="484" centery="237" centerz="4" radius="1">
 		<monster name="Glooth Brigand" x="0" y="0" z="4" spawntime="60" />
-		<monster name="Glooth Brigand" x="1" y="0" z="4" spawntime="0" />
+		<monster name="Glooth Brigand" x="1" y="0" z="4" spawntime="60" />
 	</spawn>
 	<spawn centerx="445" centery="287" centerz="4" radius="1">
 		<monster name="Demon" x="1" y="1" z="4" spawntime="60" />
@@ -3539,6 +3539,9 @@
 		<monster name="Minotaur Archer" x="0" y="0" z="6" spawntime="60" />
 		<monster name="Minotaur" x="0" y="1" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="484" centery="490" centerz="6" radius="1">
+		<monster name="Hydra" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="666" centery="490" centerz="6" radius="1">
 		<monster name="Goblin" x="0" y="1" z="6" spawntime="60" />
 	</spawn>
@@ -3586,6 +3589,9 @@
 		<monster name="Lizard Templar" x="-2" y="5" z="6" spawntime="60" />
 		<monster name="Lizard Sentinel" x="1" y="5" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="482" centery="493" centerz="6" radius="1">
+		<monster name="Hydra" x="-1" y="1" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="780" centery="493" centerz="6" radius="1">
 		<monster name="Minotaur Guard" x="0" y="-1" z="6" spawntime="60" />
 		<monster name="Minotaur" x="0" y="1" z="6" spawntime="60" />
@@ -3605,9 +3611,15 @@
 	<spawn centerx="341" centery="495" centerz="6" radius="1">
 		<monster name="Lizard Legionnaire" x="1" y="-1" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="457" centery="495" centerz="6" radius="1">
+		<monster name="Hydra" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="519" centery="495" centerz="6" radius="1">
 		<monster name="Cyclops" x="0" y="-1" z="6" spawntime="60" />
 		<monster name="Cyclops Drone" x="-1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="471" centery="496" centerz="6" radius="1">
+		<monster name="Hydra" x="-1" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="543" centery="496" centerz="6" radius="1">
 		<monster name="Cyclops" x="1" y="1" z="6" spawntime="60" />
@@ -3653,12 +3665,18 @@
 	<spawn centerx="326" centery="502" centerz="6" radius="1">
 		<monster name="Lizard High Guard" x="-1" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="443" centery="502" centerz="6" radius="1">
+		<monster name="Hydra" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="501" centery="502" centerz="6" radius="1">
 		<monster name="Cyclops" x="0" y="-1" z="6" spawntime="60" />
 		<monster name="Cyclops Drone" x="1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="523" centery="503" centerz="6" radius="1">
 		<monster name="Cyclops" x="0" y="-1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="477" centery="504" centerz="6" radius="1">
+		<monster name="Hydra" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="340" centery="506" centerz="6" radius="1">
 		<monster name="Lizard Dragon Priest" x="0" y="-1" z="6" spawntime="60" />
@@ -3669,6 +3687,9 @@
 	</spawn>
 	<spawn centerx="819" centery="507" centerz="6" radius="2">
 		<monster name="Dragon" x="-1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="446" centery="508" centerz="6" radius="1">
+		<monster name="Hydra" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="458" centery="508" centerz="6" radius="1">
 		<monster name="Hydra" x="0" y="-1" z="6" spawntime="60" />
@@ -3683,9 +3704,8 @@
 	<spawn centerx="521" centery="510" centerz="6" radius="1">
 		<monster name="Cyclops" x="1" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="480" centery="511" centerz="6" radius="1">
-		<monster name="Hydra" x="1" y="-1" z="6" spawntime="60" />
-		<monster name="Hydra" x="0" y="1" z="6" spawntime="60" />
+	<spawn centerx="482" centery="511" centerz="6" radius="1">
+		<monster name="Hydra" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="492" centery="511" centerz="6" radius="1">
 		<monster name="Cyclops" x="0" y="1" z="6" spawntime="60" />
@@ -7041,6 +7061,9 @@
 	<spawn centerx="745" centery="496" centerz="7" radius="1">
 		<monster name="Minotaur" x="0" y="-1" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="565" centery="497" centerz="7" radius="1">
+		<monster name="Badger" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="749" centery="497" centerz="7" radius="1">
 		<monster name="Minotaur" x="-1" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -7059,6 +7082,9 @@
 	<spawn centerx="421" centery="501" centerz="7" radius="1">
 		<monster name="Lizard High Guard" x="1" y="0" z="7" spawntime="60" />
 		<monster name="Lizard Dragon Priest" x="-1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="569" centery="501" centerz="7" radius="1">
+		<monster name="Badger" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="624" centery="501" centerz="7" radius="1">
 		<monster name="Black Sheep" x="-1" y="-1" z="7" spawntime="60" />
@@ -7085,6 +7111,8 @@
 		<monster name="Minotaur" x="3" y="-2" z="7" spawntime="768" />
 		<monster name="Minotaur Guard" x="1" y="0" z="7" spawntime="60" />
 		<monster name="Minotaur" x="3" y="1" z="7" spawntime="60" />
+		<monster name="Minotaur Guard" x="1" y="4" z="7" spawntime="60" />
+		<monster name="Minotaur Guard" x="5" y="4" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="332" centery="505" centerz="7" radius="1">
 		<monster name="Lizard High Guard" x="-1" y="-1" z="7" spawntime="60" />
@@ -7108,6 +7136,9 @@
 	<spawn centerx="751" centery="506" centerz="7" radius="1">
 		<monster name="Minotaur" x="-1" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="587" centery="508" centerz="7" radius="1">
+		<monster name="Badger" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="741" centery="508" centerz="7" radius="1">
 		<monster name="Minotaur Guard" x="1" y="-1" z="7" spawntime="60" />
 	</spawn>
@@ -7120,9 +7151,18 @@
 	<spawn centerx="744" centery="510" centerz="7" radius="1">
 		<monster name="Minotaur" x="-1" y="-1" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="843" centery="510" centerz="7" radius="1">
+		<monster name="Minotaur Guard" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="840" centery="511" centerz="7" radius="1">
+		<monster name="Minotaur Guard" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="352" centery="512" centerz="7" radius="1">
 		<monster name="Lizard Dragon Priest" x="-1" y="-1" z="7" spawntime="60" />
 		<monster name="Lizard Zaogun" x="1" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="595" centery="512" centerz="7" radius="1">
+		<monster name="Badger" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="756" centery="512" centerz="7" radius="1">
 		<monster name="Minotaur" x="-1" y="0" z="7" spawntime="60" />
@@ -7132,9 +7172,6 @@
 	</spawn>
 	<spawn centerx="474" centery="513" centerz="7" radius="1">
 		<monster name="Bear" x="0" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="596" centery="514" centerz="7" radius="1">
-		<monster name="Tarantula" x="-1" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="570" centery="515" centerz="7" radius="1">
 		<monster name="Badger" x="-1" y="-1" z="7" spawntime="60" />
