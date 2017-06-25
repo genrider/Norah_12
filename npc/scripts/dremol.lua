@@ -5,7 +5,7 @@ NpcSystem.parseParameters(npcHandler)
 function onCreatureAppear(cid)                npcHandler:onCreatureAppear(cid)            end
 function onCreatureDisappear(cid)             npcHandler:onCreatureDisappear(cid)            end
 function onCreatureSay(cid, type, msg)            npcHandler:onCreatureSay(cid, type, msg)        end
-
+function onThink()                    npcHandler:onThink()                    end
 local function creatureSayCallback(cid, type, msg)
 	if not npcHandler:isFocused(cid) then
 		return false
@@ -16,17 +16,17 @@ local player = Player(cid)
 	if msgcontains(msg, "dragon") then
 		npcHandler:say("Dragons occupy the mountain in front of the bridge. Be carefull, on highter parts of the mountain you will meet Dragon Lords.", cid)
 	elseif msgcontains(msg, "smuggler") or msgcontains(msg, "bandit") or msgcontains(msg, "wild warrior") then
-		npcHandler:say("They are just in front of the bridge")
+		npcHandler:say("They are just in front of the bridge", cid)
 	elseif msgcontains(msg, "cyclop") then
-		npcHandler:say("Hmm cyclops... One-eyed, big, muscular giants. They lives in south part of mountains in front of bridge. They have two camps.")
+		npcHandler:say("Hmm cyclops... One-eyed, big, muscular giants. They lives in south part of mountains in front of bridge. They have two camps.", cid)
 	elseif msgcontains(msg, "minotaur") then
-		npcHandler:say("Ugh! Stinking cows resembling people, live along the river. At once, when you left the bridge just head north. I hear that they hide a special knife, what help you rip their skin.")
+		npcHandler:say("Ugh! Stinking cows resembling people, live along the river. At once, when you left the bridge just head north. I hear that they hide a special knife, what help you rip their skin.", cid)
 	elseif msgcontains(msg, "dwarf") or msgcontains(msg, "nightmare") or msgcontains(msg, "werewolf") then
-		npcHandler:say("I don\'t know where they are, but if think, that [Morila]")
+		npcHandler:say("I don\'t know where they are, but if think, that [Morila]", cid)
 	elseif msgcontains(msg, "Morila") then
-		npcHandler:say("His house is located near south city gate.")
+		npcHandler:say("His house is located near south city gate.", cid)
 	elseif msgcontains(msg, "your trophy") then
-		npcHandler:say("Fuck off! Never come here again!")
+		npcHandler:say("Fuck off! Never come here again!", cid)
 	end	
 end 
 
