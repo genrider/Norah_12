@@ -29,5 +29,7 @@ local player = Player(cid)
 		npcHandler:say("Fuck off! Never come here again!")
 	end	
 end 
+
+npcHandler:setCallback(CALLBACK_MESSAGE_DEFAULT, creatureSayCallback)
 npcHandler:setMessage(MESSAGE_GREET, "Hi, what brigs you here? Want to know something about monsters? Say who you are interested in?")
 npcHandler:addModule(FocusModule:new())  

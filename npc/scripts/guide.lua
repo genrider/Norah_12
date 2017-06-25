@@ -21,5 +21,7 @@ local player = Player(cid)
 		npcHandler:say("Smugglers hide Plate Legs and Plate Armor. Propably under city you can find spirit cloak and double axe.")
 	end
 end 
+
+npcHandler:setCallback(CALLBACK_MESSAGE_DEFAULT, creatureSayCallback)
 npcHandler:setMessage(MESSAGE_GREET, "Hello, beginner hero. I\'m Guide. If you have any question, just ask me. I can [help] you find yourself in Pont Vanis.")
 npcHandler:addModule(FocusModule:new())  
