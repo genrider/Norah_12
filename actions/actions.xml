@@ -109,7 +109,7 @@
 	<action itemid="7735" script="inne/spellwand.lua" />
 	<action itemid="7499" script="inne/smoke.lua" />
 	<action itemid="5957" script="inne/lottery.lua" />
-	<action fromuid="3197" touid="3198" script="inne/hotd.lua" />
+	<action fromuid="3197" touid="3199" script="inne/hotd.lua" />
 	<action fromid="7439" toid="7440" script="inne/strengthening_potions.lua" />
 	<action itemid="7443" script="inne/strengthening_potions.lua" />
 	<action itemid="6558" script="inne/demonic_blood.lua" />

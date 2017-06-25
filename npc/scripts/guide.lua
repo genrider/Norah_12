@@ -15,11 +15,9 @@ local player = Player(cid)
 
 	if msgcontains(msg, "help") then
 		npcHandler:say("How can I help you? [monsters] [equipment]", cid)
-	end
-	else if msgcontains(msg, "monsters") then
+	elseif msgcontains(msg, "monsters") then
 		npcHandler:say("I never leave gates. But I know who can you help with it. In the difrent parts of city, you can find citizens who know the terrain around the city. The look like hunters, but it is very likely that they never hunted.")
-	end
-	else if msgcontains(msg, "equipment") then
+	elseif msgcontains(msg, "equipment") then
 		npcHandler:say("Smugglers hide Plate Legs and Plate Armor. Propably under city you can find spirit cloak and double axe.")
 	end
 end 

@@ -1,13 +1,7 @@
 <?xml version="1.0"?>
 <spawns>
-	<spawn centerx="684" centery="626" centerz="7" radius="1">
-		<npc name="Tropper" x="0" y="0" z="2" spawntime="60" direction="2" />
-	</spawn>
-	<spawn centerx="644" centery="599" centerz="7" radius="1">
-		<npc name="Troxem" x="0" y="0" z="2" spawntime="60" direction="2" />
-	</spawn>
-	<spawn centerx="719" centery="583" centerz="7" radius="1">
-		<npc name="Dremol" x="0" y="0" z="2" spawntime="60" direction="2" />
+	<spawn centerx="663" centery="575" centerz="8" radius="1">
+		<npc name="Guide" x="0" y="0" z="2" spawntime="60" direction="2" />
 	</spawn>
 	<spawn centerx="498" centery="431" centerz="2" radius="18">
 		<monster name="Witch" x="-1" y="-1" z="2" spawntime="60" />
@@ -7962,6 +7956,9 @@
 	<spawn centerx="678" centery="583" centerz="7" radius="1">
 		<npc name="Hermes" x="0" y="-1" z="7" spawntime="60" direction="2" />
 	</spawn>
+	<spawn centerx="719" centery="583" centerz="7" radius="1">
+		<npc name="Dremol" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
 	<spawn centerx="738" centery="583" centerz="7" radius="1">
 		<monster name="Smuggler" x="-1" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -8197,6 +8194,9 @@
 	</spawn>
 	<spawn centerx="423" centery="598" centerz="7" radius="1">
 		<monster name="Tarantula" x="-1" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="644" centery="599" centerz="7" radius="1">
+		<npc name="Troxem" x="0" y="0" z="7" spawntime="60" direction="2" />
 	</spawn>
 	<spawn centerx="676" centery="599" centerz="7" radius="1">
 		<npc name="Cecili" x="0" y="1" z="7" spawntime="60" direction="2" />
@@ -8450,6 +8450,9 @@
 	</spawn>
 	<spawn centerx="462" centery="626" centerz="7" radius="1">
 		<monster name="Mutated Human" x="0" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="684" centery="626" centerz="7" radius="1">
+		<npc name="Tropper" x="0" y="0" z="7" spawntime="60" direction="2" />
 	</spawn>
 	<spawn centerx="914" centery="627" centerz="7" radius="1">
 		<monster name="Minotaur Amazon" x="0" y="0" z="7" spawntime="60" />
