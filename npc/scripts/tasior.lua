@@ -8,7 +8,7 @@ function onCreatureSay(cid, type, msg)		npcHandler:onCreatureSay(cid, type, msg)
 
 local shopItems = {
 	["cigar"] = {id = 7499, buy = 50, desc = 'cigar'},
-	["spellwand"] = {id = 8870, buy = 100, desc = 'spellwand'},
+	["spellwand"] = {id = 7735, buy = 100, desc = 'spellwand'},
 	["yellow pillow"] = {id = 8072, buy = 30, desc = 'yellow pillow'},
 	["watering can"] = {id = 7734, sell = 50, desc = 'watering can'},
 	["seeds"] = {id = 7732, sell = 10, desc = 'seeds'},
