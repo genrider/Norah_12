@@ -46,6 +46,7 @@ local player = Player(cid)
 				player:addItem(21475, 1)
 			else
 				npcHandler:say("You do not have so many items.", cid)
+			end
 		end
 	end	
 end 
