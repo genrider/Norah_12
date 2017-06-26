@@ -9,6 +9,7 @@ function onCreatureDisappear(cid) npcHandler:onCreatureDisappear(cid) end
 function onCreatureSay(cid, type, msg) npcHandler:onCreatureSay(cid, type, msg) end
 function onThink() npcHandler:onThink() end
 
+local shopModule = ShopModule:new()
 npcHandler:addModule(shopModule)
 	shopModule:addBuyableItem({'brocade backpack'}, 					9774, 1000,		'brocade backpack')
 	
