@@ -188,6 +188,7 @@ Storage = {
 		Reward01 = 3211,
 		Reward02 = 3212,
 		Reward03 = 3213,
+		Reward04 = 3216,
 		Key = 3214 -- Door 3215
 	},
 	

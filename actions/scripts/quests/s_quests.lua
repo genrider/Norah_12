@@ -2,7 +2,8 @@ function onUse(player, item, fromPosition, itemEx, toPosition, isHotkey)
 local config = {
 	[3201] = {item = 2491, storage = Storage.Black.Reward01},
 	[3202] = {item = 2487, storage = Storage.Black.Reward02},
-	[3203] = {item = 2488, storage = Storage.Black.Reward03}
+	[3203] = {item = 2488, storage = Storage.Black.Reward03},
+	[3205] = {item = 10522, storage = Storage.Black.Reward04}
 }
 
 local v = config[item.uid]

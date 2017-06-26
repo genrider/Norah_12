@@ -67,5 +67,6 @@
 		<item id="2652" chance="2500" /><!-- green tunic -->
 		<item id="2478" chance="2857" /><!-- brass legs -->
 		<item id="2463" chance="1818" /><!-- plate armor -->
+		<item id="11244" chance="10000" /><!-- minotaur backpack-->
 	</loot>
 </monster>

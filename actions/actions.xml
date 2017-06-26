@@ -171,6 +171,7 @@
 	<action uniqueid="3200" script="quests/anni/annihilator.lua" />
 	<action fromuid="3201" touid="3203" script="quests/s_quests.lua" />
 	<action uniqueid="3204" script="quests/s_quests_key.lua" />
+	<action uniqueid="3205" script="quests/s_quests.lua" />
 	
 	<!-- Demon Oak Quest -->
 	<action itemid="8293" script="quests/demon oak/demonOak.lua" />

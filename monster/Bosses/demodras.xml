@@ -68,5 +68,6 @@
 		<item id="5948" countmax="1" chance="5000" /><!-- red dragon leather -->
 		<item id="5882" countmax="1" chance="5000" /><!-- red dragon scale -->
 		<item id="5919" chance="100000" /><!-- dragon claw -->
+		<item id="11243" chance="10000" /><!-- dragon backpack -->
 	</loot>
 </monster>
