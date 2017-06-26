@@ -50,7 +50,7 @@
 		<item id="2381" chance="6861" /><!-- halberd -->
 		<item id="2670" countmax="5" chance="5245" /><!-- shrimp -->
 		<item id="5895" chance="1600" /><!-- fish fin -->
-		<item id="2475" chance="1350" /><!-- warrior helmet -->
+		<item id="2475" chance="750" /><!-- warrior helmet -->
 		<item id="7591" chance="10630" /><!-- great health potion -->
 		<item id="2487" chance="350" /><!-- crown armor -->
 		<item id="7897" chance="140" /><!-- glacier robe -->

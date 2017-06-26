@@ -3083,6 +3083,8 @@
 	<item id="2361" article="a" name="frozen starlight">
 		<attribute key="slotType" value="ammo" />
 		<attribute key="weight" value="20" />
+		<attribute key="absorbPercentIce" value="2" />
+		<attribute key="absorbPercentEnergy" value="2" />
 	</item>
 	<item id="2362" name="the carrot of doom" plural="carrots of doom">
 		<attribute key="description" value="You can sense the evil power of the carrot." />
@@ -9454,6 +9456,11 @@
 		<attribute key="containerSize" value="20" />
 		<attribute key="slotType" value="backpack" />
 	</item>
+	<item id="23782" article="a" name="shopping bag">
+		<attribute key="weight" value="1800" />
+		<attribute key="containerSize" value="20" />
+		<attribute key="slotType" value="backpack" />
+	</item>
 	<item id="5927" article="a" name="pirate bag">
 		<attribute key="weight" value="800" />
 		<attribute key="containerSize" value="8" />
@@ -15716,7 +15723,7 @@
 		<attribute key="ammoType" value="bolt" />
 		<attribute key="range" value="6" />
 		<attribute key="hitChance" value="-20" />
-		<attribute key="attack" value="20" />
+		<attribute key="attack" value="23" />
 	</item>
 	<item id="8853" name="the ironworker">
 		<attribute key="weight" value="5500" />
@@ -22439,6 +22446,8 @@
 	<item id="13801" article="a" name="back basket" />
 	<item id="13802" article="a" name="leaf basket">
 		<attribute key="containerSize" value="3" />
+		<attribute key="weight" value="800" />
+		<attribute key="slotType" value="backpack" />
 	</item>
 	<item fromid="13803" toid="13804" article="a" name="pallet" />
 	<item id="13807" name="branches" />

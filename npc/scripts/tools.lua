@@ -27,6 +27,7 @@ npcHandler:addModule(shopModule)
 	shopModule:addBuyableItem({'sickle'}, 					2405, 7,		'sickle')
 	shopModule:addBuyableItem({'watch'}, 					2036, 20,		'watch')
 	shopModule:addBuyableItem({'worm'}, 					3976, 1,		'worm')
+	shopModule:addBuyableItem({'muck remover'},				18395, 2500,	'muck remover')
 	
 	
 	--SELL--
@@ -45,6 +46,7 @@ npcHandler:addModule(shopModule)
 	shopModule:addSellableItem({'shovel'}, 				2554, 8,		'shovel')
 	shopModule:addSellableItem({'sickle'}, 				2405, 3,		'sickle')
 	shopModule:addSellableItem({'watch'}, 				2036, 6,		'watch')
+
 
 
 npcHandler:setCallback(CALLBACK_MESSAGE_DEFAULT, creatureSayCallback)

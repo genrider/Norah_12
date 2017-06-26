@@ -28,7 +28,7 @@ shopModule:addBuyableItem({'book'},					1981, 18,		'book')
 shopModule:addBuyableItem({'book'},					1980, 18,		'book')
 
 ---SELL---
-shopModule:addSellableItem({'gemmed book'},				1976, 120,		'gemmed book')
+shopModule:addSellableItem({'gemmed book'},				1976, 450,		'gemmed book')
 shopModule:addSellableItem({'old perchment'},			4842, 450,		'old perchment')
 shopModule:addSellableItem({'scroll'},					1949, 4,		'scroll')
 shopModule:addSellableItem({'purple tome'},				1982, 1200,		'purple tome')

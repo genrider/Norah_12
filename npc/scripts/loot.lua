@@ -167,4 +167,6 @@ shopModule:addSellableItem({'shield of corruption'},                12644, 50000
 shopModule:addSellableItem({'snake gods wristguard'},                12647, 30000,     'snake gods wristguard')
 shopModule:addSellableItem({'elite draken mail'},                12607, 50000,     'elite draken mail')
 shopModule:addSellableItem({'draken boots'},        12646, 40000,     'draken boots')
+shopModule:addSellableItem({'skullcracker armor'},        8889, 40000,     'skullcracker armor')
+
 npcHandler:addModule(FocusModule:new()) 

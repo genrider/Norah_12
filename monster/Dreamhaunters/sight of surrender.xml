@@ -58,14 +58,14 @@
 		<item id="2164" chance="8000" /><!-- might ring -->
 		<item id="2197" chance="18000" /><!-- stone skin amulet -->
 		<item id="2444" chance="1380" /><!-- hammer of wrath -->
-		<item id="2445" chance="5500" /><!-- crystal mace -->
-		<item id="2472" chance="1380" /><!-- magic plate armor -->
-		<item id="2497" chance="920" /><!-- crusader helmet -->
-		<item id="2488" chance="920" /><!-- crown legs -->
-		<item id="2528" chance="1380" /><!-- tower shield -->
-		<item id="2645" chance="920" /><!-- steel boots -->
-		<item id="7421" chance="920" /><!-- onyx flail -->
-		<item id="7422" chance="920" /><!-- jade hammer -->
+		<item id="2445" chance="1500" /><!-- crystal mace -->
+		<item id="2472" chance="380" /><!-- magic plate armor -->
+		<item id="2497" chance="720" /><!-- crusader helmet -->
+		<item id="2488" chance="720" /><!-- crown legs -->
+		<item id="2528" chance="980" /><!-- tower shield -->
+		<item id="2645" chance="620" /><!-- steel boots -->
+		<item id="7421" chance="720" /><!-- onyx flail -->
+		<item id="7422" chance="720" /><!-- jade hammer -->
 		<item id="7590" countmax="5" chance="78000" /><!-- great mana potion -->
 		<item id="8472" countmax="5" chance="72000" /><!-- great spirit potion -->
 		<item id="8473" countmax="5" chance="30000" /><!-- ultimate health potion -->

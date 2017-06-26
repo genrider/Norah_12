@@ -14,7 +14,7 @@ local function creatureSayCallback(cid, type, msg)
 local player = Player(cid)
 
 	if msgcontains(msg, "help") then
-		npcHandler:say("How can I help you? [monsters] [equipment]", cid)
+		npcHandler:say("How can I help you? {monsters} {equipment}", cid)
 	elseif msgcontains(msg, "monsters") then
 		npcHandler:say("I never leave gates. But I know who can you help with it. In the difrent parts of city, you can find citizens who know the terrain around the city. The look like hunters, but it is very likely that they never hunted.", cid)
 	elseif msgcontains(msg, "equipment") then
@@ -23,5 +23,5 @@ local player = Player(cid)
 end 
 
 npcHandler:setCallback(CALLBACK_MESSAGE_DEFAULT, creatureSayCallback)
-npcHandler:setMessage(MESSAGE_GREET, "Hello, beginner hero. I\'m Guide. If you have any question, just ask me. I can [help] you find yourself in Pont Vanis.")
+npcHandler:setMessage(MESSAGE_GREET, "Hello, beginner hero. I\'m Guide. If you have any question, just ask me. I can {help} you find yourself in Pont Vanis.")
 npcHandler:addModule(FocusModule:new())  

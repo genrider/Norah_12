@@ -27,9 +27,11 @@ local player = Player(cid)
 		npcHandler:say("His house is located near south city gate.", cid)
 	elseif msgcontains(msg, "your trophy") then
 		npcHandler:say("Fuck off! Never come here again!", cid)
+	elseif msgcontains(msg, "surroundings") or msgcontains(msg, "monster") then
+		npcHandler:say("za tym jebanym mostem znajdziesz troche {bandit} jakies {smuggler} albo {cyclops} troche na polnoc chodza {minotaur} i wiele innych o ktorych tez moge ci opowiedziec.", cid)
 	end	
 end 
 
 npcHandler:setCallback(CALLBACK_MESSAGE_DEFAULT, creatureSayCallback)
-npcHandler:setMessage(MESSAGE_GREET, "Hi, what brigs you here? Want to know something about monsters? Say who you are interested in?")
+npcHandler:setMessage(MESSAGE_GREET, "Hi, what brigs you here? Want to know something about monsters? Say who you are interested in? Meaby, you want hear about {surroundings}")
 npcHandler:addModule(FocusModule:new())  

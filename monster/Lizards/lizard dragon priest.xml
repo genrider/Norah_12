@@ -50,8 +50,8 @@
 		<item id="2148" countmax="100" chance="5000" /><!-- gold coin -->
 		<item id="2148" countmax="88" chance="4400" /><!-- gold coin -->
 		<item id="11245" chance="960" /><!-- bunch of ripe rice -->
-		<item id="2152" countmax="2" chance="4090" /><!-- platinum coin -->
-		<item id="2154" chance="1000" /><!-- yellow gem -->
+		<item id="2152" countmax="2" chance="8090" /><!-- platinum coin -->
+		<item id="2154" chance="5000" /><!-- yellow gem -->
 		<item id="2150" countmax="3" chance="4900" /><!-- small amethyst -->
 		<item id="11361" chance="9910" /><!-- dragon priest's wandtip -->
 		<item id="8871" chance="660" /><!-- focus cape -->

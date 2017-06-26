@@ -52,9 +52,9 @@
 		<item id="7590" countmax="3" chance="32640" /> <!-- great mana potion -->
 		<item id="13870" chance="28850" /><!-- eye of a deepling -->
 		<item id="7591" countmax="3" chance="33430" /> <!-- great health potion -->
-		<item id="15454" chance="1420" /> <!-- guardian axe -->
-		<item id="15647" chance="1540" /><!-- deepling squelcher -->
-		<item id="15645" chance="510" /><!-- deepling backpack -->
+		<item id="15454" chance="1020" /> <!-- guardian axe -->
+		<item id="15647" chance="940" /><!-- deepling squelcher -->
+		<item id="15645" chance="410" /><!-- deepling backpack -->
 		<item id="15545" chance="80" /><!-- foxtail -->
 	</loot>
 </monster>

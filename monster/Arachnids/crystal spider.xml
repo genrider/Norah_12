@@ -59,17 +59,17 @@
 		<item id="7364" countmax="6" chance="6250" /><!-- sniper arrow -->
 		<item id="2463" chance="5263" /><!-- ice cube -->
 		<item id="2457" chance="4545" /><!-- steel helmet -->
-		<item id="7449" chance="2564" /><!-- crystal sword -->
+		<item id="7449" chance="964" /><!-- crystal sword -->
 		<item id="2125" chance="1730" /><!-- crystal necklace -->
 		<item id="2124" chance="1560" /><!-- crystal ring -->
 		<item id="5879" chance="1950" /><!-- spider silk-->
 		<item id="2169" chance="1587" /><!-- time ring -->
-		<item id="7290" chance="750" /><!-- shard -->
-		<item id="2477" chance="690" /><!-- knight legs -->
-		<item id="2476" chance="540" /><!-- knight armor -->
+		<item id="7290" chance="950" /><!-- shard -->
+		<item id="2477" chance="490" /><!-- knight legs -->
+		<item id="2476" chance="640" /><!-- knight armor -->
 		<item id="7902" chance="650" /><!-- glacier mask -->
 		<item id="2171" chance="120" /><!-- platinum amulet -->
-		<item id="7437" chance="130" /><!-- sapphire hammer -->
-		<item id="5801" chance="70" /><!-- jeweled backpack -->
+		<item id="7437" chance="120" /><!-- sapphire hammer -->
+		<item id="5801" chance="80" /><!-- jeweled backpack -->
 	</loot>
 </monster>

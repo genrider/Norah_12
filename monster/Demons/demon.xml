@@ -45,11 +45,11 @@
 		</defense>
 	</defenses>
 	<elements>
-		<element physicalPercent="30" />
+		<element physicalPercent="20" />
 		<element deathPercent="30" />
 		<element energyPercent="50" />
 		<element earthPercent="40" />
-		<element icePercent="-10" />
+		<element icePercent="-12" />
 		<element holyPercent="-10" />
 	</elements>
 	<immunities>
@@ -83,24 +83,24 @@
 		<item id="2149" countmax="5" chance="10220" /><!-- small emerald -->
 		<item id="2147" countmax="5" chance="10140" /><!-- small ruby -->
 		<item id="2150" countmax="5" chance="9970" /><!-- small amethyst -->
-		<item id="2432" chance="3980" /><!-- fire axe -->
+		<item id="2432" chance="2580" /><!-- fire axe -->
 		<item id="2151" chance="3610" /><!-- talon -->
 		<item id="2176" chance="3080" /><!-- orb -->
 		<item id="2164" chance="2550" /><!-- might ring -->
 		<item id="2214" chance="2500" /><!-- ring of healing -->
 		<item id="2165" chance="2450" /><!-- stealth ring -->
 		<item id="2396" chance="2050" /><!-- ice rapier -->
-		<item id="2393" chance="1980" /><!-- giant sword -->
+		<item id="2393" chance="1480" /><!-- giant sword -->
 		<item id="2418" chance="1450" /><!-- golden sickle -->
 		<item id="1982" chance="1340" /><!-- purple tome -->
 		<item id="2462" chance="1240" /><!-- devil helmet -->
 		<item id="2179" chance="1020" /><!-- gold ring -->
-		<item id="2520" chance="740" /><!-- demon shield -->
+		<item id="2520" chance="650" /><!-- demon shield -->
 		<item id="2171" chance="660" /><!-- platinum amulet -->
-		<item id="2514" chance="570" /><!-- mastermind shield -->
-		<item id="2470" chance="440" /><!-- golden legs -->
-		<item id="7382" chance="130" /><!-- demonrage sword -->
+		<item id="2514" chance="450" /><!-- mastermind shield -->
+		<item id="2470" chance="220" /><!-- golden legs -->
+		<item id="7382" chance="120" /><!-- demonrage sword -->
 		<item id="7393" chance="100" /><!-- demon trophy -->
-		<item id="2472" chance="90" /><!-- magic plate armor -->
+		<item id="2472" chance="80" /><!-- magic plate armor -->
 	</loot>
 </monster>

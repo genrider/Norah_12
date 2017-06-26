@@ -67,10 +67,10 @@
 		<item id="18421" countmax="2" chance="5690" /><!-- green crystal fragment -->
 		<item id="18416" countmax="2" chance="3920" /><!-- green crystal splinter -->
 		<item id="7886" chance="2850" /><!-- terra boots -->
-		<item id="7413" chance="1540" /><!-- titan axe -->
-		<item id="7428" chance="1150" /><!-- bonebreaker -->
+		<item id="7413" chance="540" /><!-- titan axe -->
+		<item id="7428" chance="500" /><!-- bonebreaker -->
 		<item id="2169" chance="1000" /><!-- time ring -->
-		<item id="2528" chance="620" /><!-- tower shield -->
-		<item id="8878" chance="230" /><!-- crystalline armor -->
+		<item id="2528" chance="520" /><!-- tower shield -->
+		<item id="8878" chance="190" /><!-- crystalline armor -->
 	</loot>
 </monster>

@@ -492,7 +492,7 @@
 	<monster name="Grave Guard" file="Demons/grave guard.xml" />
 	<monster name="Gravedigger" file="Demons/gravedigger.xml" />
 	<monster name="Hand of Cursed Fate" file="Demons/hand of cursed fate.xml" />
-	<monster name="Hellhound" file="Demons/hellhound.xml" />
+	<!--<monster name="Hellhound" file="Demons/hellhound.xml" />-->
 	<monster name="Hellspawn" file="Demons/hellspawn.xml" />
 	<monster name="Herald of Gloom" file="Demons/herald of gloom.xml" />
 	<monster name="Juggernaut" file="Demons/juggernaut.xml" />

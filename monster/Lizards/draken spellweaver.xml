@@ -78,10 +78,10 @@
 		<item id="2123" chance="370" /><!-- ring of the sky -->
 		<item id="13538" chance="180" /><!-- bamboo leaves -->
 		<item id="12410" chance="1980" /><!-- luminous orb -->
-		<item id="11355" chance="620" /><!-- spellweaver's robe -->
-		<item id="11315" chance="10" /><!-- draken trophy -->
+		<item id="11355" chance="320" /><!-- spellweaver's robe -->
+		<item id="11315" chance="20" /><!-- draken trophy -->
 		<item id="12614" chance="3930" /><!-- draken sulphur-->
-		<item id="11356" chance="770" /><!-- zaoan robe-->
+		<item id="11356" chance="370" /><!-- zaoan robe-->
 		<item id="2155" chance="970" /><!-- green gem -->
 	</loot>
 </monster>

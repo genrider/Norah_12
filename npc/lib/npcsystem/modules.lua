@@ -923,7 +923,7 @@ if Modules == nil then
 			return false
 		end
 
-		local backpack = 1988
+		local backpack = 23782
 		local totalCost = amount * shopItem.buy
 		if inBackpacks then
 			totalCost = isItemStackable(itemid) == TRUE and totalCost + 20 or totalCost + (math.max(1, math.floor(amount / getContainerCapById(backpack))) * 20)
@@ -1081,7 +1081,7 @@ if Modules == nil then
 				return false
 			end
 
-			local a, b = doNpcSellItem(cid, shop_itemid[cid], shop_amount[cid], shop_subtype[cid], false, false, 1988)
+			local a, b = doNpcSellItem(cid, shop_itemid[cid], shop_amount[cid], shop_subtype[cid], false, false, 23782)
 			if a < shop_amount[cid] then
 				local msgId = MESSAGE_NEEDMORESPACE
 				if a == 0 then
@@ -1094,7 +1094,7 @@ if Modules == nil then
 				if a > 0 then
 					doPlayerRemoveMoney(cid, a * shop_cost[cid])
 					if shop_itemid[cid] == ITEM_PARCEL then
-						doNpcSellItem(cid, ITEM_LABEL, shop_amount[cid], shop_subtype[cid], true, false, 1988)
+						doNpcSellItem(cid, ITEM_LABEL, shop_amount[cid], shop_subtype[cid], true, false, 23782)
 					end
 					return true
 				end
@@ -1105,7 +1105,7 @@ if Modules == nil then
 				module.npcHandler:say(msg, cid)
 				doPlayerRemoveMoney(cid, cost)
 				if shop_itemid[cid] == ITEM_PARCEL then
-					doNpcSellItem(cid, ITEM_LABEL, shop_amount[cid], shop_subtype[cid], true, false, 1988)
+					doNpcSellItem(cid, ITEM_LABEL, shop_amount[cid], shop_subtype[cid], true, false, 23782)
 				end
 				return true
 			end

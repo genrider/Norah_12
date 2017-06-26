@@ -58,7 +58,7 @@
 	<loot>
 		<item id="2148" countmax="100" chance="50000" /><!-- Gold Coin -->
 		<item id="2148" countmax="100" chance="50000" /><!-- Gold Coin -->
-		<item id="2152" countmax="9" chance="100000" /><!-- Platinum Coin -->
+		<item id="2152" countmax="6" chance="100000" /><!-- Platinum Coin -->
 		<item id="2789" countmax="2" chance="15190" /><!-- Brown Mushroom -->
 		<item id="18417" countmax="2" chance="7540" /><!-- Brown crystal splinter -->
 		<item id="9970" countmax="2" chance="7970" /><!-- small topaz -->
@@ -72,16 +72,16 @@
 		<item id="18414" chance="3500" /><!-- violet crystal shard -->
 		<item id="13757" chance="2050" /><!-- coal -->
 		<item id="2529" chance="640" /><!-- black shield -->
-		<item id="5904" chance="720" /><!-- magic sulphur -->
+		<item id="5904" chance="920" /><!-- magic sulphur -->
 		<item id="7452" chance="810" /><!-- spiked squelcher -->
 		<item id="2515" chance="1400" /><!-- guardian shield -->
 		<item id="2213" chance="2280" /><!-- dwarven ring -->
-		<item id="2430" chance="2070" /><!-- knight axe -->
+		<item id="2430" chance="970" /><!-- knight axe -->
 		<item id="11339" chance="930" /><!-- clay lump -->
-		<item id="7427" chance="550" /><!-- chaos mace -->
-		<item id="2528" chance="1002" /><!-- tower shield -->
+		<item id="7427" chance="450" /><!-- chaos mace -->
+		<item id="2528" chance="802" /><!-- tower shield -->
 		<item id="7886" chance="640" /><!-- terra boots -->
-		<item id="2432" chance="380" /><!-- fire axe -->
-		<item id="2498" chance="150" /><!-- Royal helmet -->
+		<item id="2432" chance="250" /><!-- fire axe -->
+		<item id="2498" chance="140" /><!-- Royal helmet -->
 	</loot>
 </monster>

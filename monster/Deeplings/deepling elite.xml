@@ -46,9 +46,9 @@
 		<item id="15649" countmax="5" chance="24000" /> <!-- vortex bolt -->
 		<item id="2168" chance="5360" /> <!-- life ring -->
 		<item id="2149" countmax="2" chance="6290" /> <!-- small emerald -->
-		<item id="13838" chance="3380" /> <!-- heavy trident -->
+		<item id="13838" chance="2380" /> <!-- heavy trident -->
 		<item id="5895" chance="2000" /><!-- fish fin -->
-		<item id="15453" chance="1234" /><!-- warrior's shield -->
-		<item id="15451" chance="640" /><!-- warrior's axe -->
+		<item id="15453" chance="834" /><!-- warrior's shield -->
+		<item id="15451" chance="440" /><!-- warrior's axe -->
 	</loot>
 </monster>

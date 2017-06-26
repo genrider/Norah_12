@@ -74,8 +74,8 @@
 		<item id="5895" chance="4700" /><!-- fish fin -->
 		<item id="5925" chance="5000" /><!-- hardened bone -->
 		<item id="5951" chance="10800" /><!-- fish tail -->
-		<item id="7404" chance="1000" /><!-- assassin dagger -->
-		<item id="7407" chance="2240" /><!-- haunted blade -->
+		<item id="7404" chance="800" /><!-- assassin dagger -->
+		<item id="7407" chance="1240" /><!-- haunted blade -->
 		<item id="7418" chance="1100" /><!-- nightmare blade -->
 		<item id="7590" countmax="3" chance="15000" /><!-- great mana potion -->
 		<item id="7591" countmax="2" chance="15000" /><!-- great health potion -->
