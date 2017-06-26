@@ -1,9 +1,5 @@
 <?xml version="1.0"?>
 <houses>
-	<house name="Anremy 1" houseid="1" entryx="675" entryy="635" entryz="7" rent="0" townid="1" size="24" />
-	<house name="Anremy 3" houseid="3" entryx="670" entryy="635" entryz="7" rent="0" townid="1" size="25" />
-	<house name="Anremy 5" houseid="5" entryx="665" entryy="635" entryz="7" rent="0" townid="1" size="22" />
-	<house name="Anremy 7" houseid="7" entryx="665" entryy="643" entryz="7" rent="0" townid="1" size="10" />
 	<house name="Bolfrey 2" houseid="9" entryx="655" entryy="658" entryz="7" rent="0" townid="1" size="26" />
 	<house name="Bolfrey 3" houseid="10" entryx="655" entryy="653" entryz="7" rent="0" townid="1" size="36" />
 	<house name="Bolfrey 4" houseid="11" entryx="655" entryy="648" entryz="7" rent="0" townid="1" size="36" />
@@ -358,4 +354,7 @@
 	<house name="Bolfrey 22" houseid="473" entryx="664" entryy="656" entryz="7" rent="0" townid="1" size="44" />
 	<house name="Bolfrey 23" houseid="474" entryx="668" entryy="656" entryz="7" rent="0" townid="1" size="36" />
 	<house name="Bolfrey 24" houseid="475" entryx="668" entryy="651" entryz="7" rent="0" townid="1" size="88" />
+	<house name="Fideric 243" houseid="476" entryx="680" entryy="634" entryz="7" rent="0" townid="1" size="10" />
+	<house name="Bolfrey 392" houseid="477" entryx="666" entryy="642" entryz="7" rent="0" townid="1" size="110" />
+	<house name="Bolfrey 393" houseid="478" entryx="670" entryy="642" entryz="7" rent="0" townid="1" size="96" />
 </houses>
