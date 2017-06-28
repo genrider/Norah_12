@@ -53,13 +53,13 @@
 	<action fromuid="3073" touid="3075" script="quests/gravedigger/rewards.lua" />  
 	
 	<!-- Yalahar-->
-	<action fromuid="3382" touid="3384" script="quests/yalahar/reward1.lua" /> 
 	<action uniqueid="3080" script="quests/yalahar/wioska.lua" /> 
 	<action uniqueid="3082" script="quests/yalahar/ucker.lua" /> 
 	<action fromuid="3086" touid="3092"  script="quests/yalahar/turet1.1.lua" />
 	<action fromuid="3093" touid="3099"  script="quests/yalahar/turet1.2.lua" />
 	<action uniqueid="3104" script="quests/yalahar/LastFight.lua" />
 	<action fromuid="3105" touid="3107" script="quests/yalahar/reward.lua" />
+	<action fromuid="3382" touid="3384" script="quests/yalahar/reward1.lua" /> 
 	<action uniqueid="3108" script="quests/yalahar/addon.lua" />
 	
 	<!--Riwen-->
@@ -77,7 +77,7 @@
 	
 	<!-- Dry Hills -->
 	<action fromuid="3151" touid="3152" script="quests/blue_legs.lua" />
-	<action uniqueid="3153" script="quests/backpacks.lua" />
+	<!-- <action uniqueid="3153" script="quests/backpacks.lua" /> -->
 	<action uniqueid="3154" script="quests/scyzoryk.lua" />
 	
 	<!-- Demon Helmet -->
@@ -168,7 +168,6 @@
 	<!-- Quests -->
 	<action actionid="2000" script="quests/quests.lua" />
 	<action fromaid="2001" toaid="2008" script="quests/quests.lua" />
-	<action actionid="2009" script="quests/quests.lua" />
 	<action uniqueid="3200" script="quests/anni/annihilator.lua" />
 	<action fromuid="3201" touid="3203" script="quests/s_quests.lua" />
 	<action uniqueid="3204" script="quests/s_quests_key.lua" />
