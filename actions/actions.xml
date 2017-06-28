@@ -168,6 +168,7 @@
 	<!-- Quests -->
 	<action actionid="2000" script="quests/quests.lua" />
 	<action fromaid="2001" toaid="2008" script="quests/quests.lua" />
+	<action actionid="2009" script="quest/quests.lua" />
 	<action uniqueid="3200" script="quests/anni/annihilator.lua" />
 	<action fromuid="3201" touid="3203" script="quests/s_quests.lua" />
 	<action uniqueid="3204" script="quests/s_quests_key.lua" />

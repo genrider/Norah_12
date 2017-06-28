@@ -41,6 +41,6 @@
 		<item id="2787" countmax="3" chance="4940" /><!-- white mushrooms -->
 		<item id="20104" chance="4940" /><!-- swampling club -->
 		<item id="2149" chance="1230" /><!-- small emerald -->
-		<item id="13802" chance="150" /><!-- leaf basket -->
+		<!--<item id="13802" chance="150" /> leaf basket -->
 	</loot>
 </monster>
