@@ -27,8 +27,20 @@ local player = Player(cid)
 		
 		
 		
-	elseif msgcontains(msg, "") then
-		npcHandler:say("", cid)
+	elseif msgcontains(msg, "goblin") then
+		npcHandler:say("ich oboz znajduje się na pagórku na wprost bramy", cid)
+		return true	
+	elseif msgcontains(msg, "troll") then
+		npcHandler:say("idąc drogą na zachód natrafisz na zejście w podziemiach, tam są trolle", cid)
+		return true	
+	elseif msgcontains(msg, "arena") then
+		npcHandler:say("by móc walczyc jako gladiator na arenach i dostac specjalne nagrody udaj sie na polnocny wschod wzdrol drogi, po lewej stronie drogi znajdziesz duza górę w której mieści się arena", cid)
+		return true
+	elseif msgcontains(msg, "nilfgaard") then
+		npcHandler:say("By dotrzeć do tego miasta udaj się na północny zachód od pont vanis", cid)
+		return true
+	elseif msgcontains(msg, "ghoul") or msgcontains(msg, "vampire") then
+		npcHandler:say("idz za droga na polnocny wschód, gdy dotrzesz do dużej góry na północy skieruj się na wschód do kolejnej góry", cid)
 		return true
 	
 	

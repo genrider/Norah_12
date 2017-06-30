@@ -13,24 +13,35 @@ local function creatureSayCallback(cid, type, msg)
 	-- PUSTEN PRAWO
 local player = Player(cid)
 	if msgcontains(msg, "surroundings") then
-		npcHandler:say("In the surroundings you can find {dwarfs}, {dragons}, {dragon lords}, {nightmares}, {tarantulas} and other.")
+		npcHandler:say("In the surroundings you can find {lizards}, {mutated humans}, {cyclops}, {hydras} and other.")
 		return true
-	elseif msgcontains(msg, "cyclops") or msgcontains(msg, "minotaurs") or msgcontains(msg, "elfs") then
+	elseif msgcontains(msg, "dragon") or msgcontains(msg, "minotaurs") or msgcontains(msg, "elfs") then
 		npcHandler:say("nie wiem, zapytaj goscia o imieniu {Dromel}", cid)
 		return true
 	elseif msgcontains(msg, "goblins") or msgcontains(msg, "trolls") or msgcontains(msg, "arena") or msgcontains(msg, "nilfgaard") then
 		npcHandler:say("nie wiem, zapytaj goscia o imieniu {Grad}", cid)
 		return true
-	elseif msgcontains(msg, "dwarf") or msgcontains(msg, "nightmare") or msgcontains(msg, "werewolf") or msgcontains(msg, "udead dragon") or msgcontains(msg,"serpent spawn") then
+	elseif msgcontains(msg, "dwarf") or msgcontains(msg, "nightmare") or msgcontains(msg, "werewolf") or msgcontains(msg, "undead dragon") or msgcontains(msg,"serpent spawn") then
 		npcHandler:say("I don\'t know where they are, but if think, that {Morila}", cid)
 		return true
 		
 		
 		
-	elseif msgcontains(msg, "") then
-		npcHandler:say("", cid)
+	elseif msgcontains(msg, "lizard") then
+		npcHandler:say("idz za drogą w kierunku zachodu aż dotrzesz do schodów prowadzących do wielkiego obozu lizardów high class", cid)
 		return true
-	
+	elseif msgcontains(msg, "mutated human") then
+		npcHandler:say("idz na południowy zachód od miasta a dotrzesz do celu", cid)
+		return true
+	elseif msgcontains(msg, "cyclops") then
+		npcHandler:say("na poczatku zachodnich gor znajdziesz wejscie do nich", cid)
+		return true
+	elseif msgcontains(msg, "hydra") then
+		npcHandler:say("znajdziesz je w gorach pomiedzy cyclopami a lizardami", cid)
+		return true
+	elseif msgcontains(msg, "stronghold") then
+		npcHandler:say("zabudowa wraz z ogromnymi podziemiami skrywajacymi najwikesze niebezpieczenstwa tego swiata, znajduje sie na wschód od miast poniżej gór", cid)
+		return true	
 	
 	
 	elseif msgcontains(msg, "Dromel") then

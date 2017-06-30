@@ -43,7 +43,7 @@ local player = Player(cid)
 		npcHandler:say("idz wzdluz rzeki na poludnie, znajdz jaskienie z skeletonami i wsrod nich znajdz zejscie nizej",cid)
 		return true
 	elseif msgcontains(msg, "zombie") then
-		npcHandler:say("przejdz przez oboz bandytow kierunjac sie na góry, znajdziesz tam mały budynek z schodami w dół")
+		npcHandler:say("przejdz przez oboz bandytow kierunjac sie na góry, znajdziesz tam mały budynek z schodami w dół",cid)
 	
 	
 	elseif msgcontains(msg, "Morila") then

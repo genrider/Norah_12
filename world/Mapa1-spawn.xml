@@ -7493,6 +7493,9 @@
 	<spawn centerx="563" centery="537" centerz="7" radius="1">
 		<monster name="Badger" x="1" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="642" centery="537" centerz="7" radius="1">
+		<npc name="Grad" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
 	<spawn centerx="261" centery="538" centerz="7" radius="1">
 		<monster name="Retching Horror" x="1" y="-1" z="7" spawntime="60" />
 	</spawn>
@@ -8144,6 +8147,9 @@
 	</spawn>
 	<spawn centerx="955" centery="595" centerz="7" radius="1">
 		<monster name="Minotaur Amazon" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="574" centery="596" centerz="7" radius="1">
+		<npc name="Pusten" x="0" y="0" z="7" spawntime="60" direction="2" />
 	</spawn>
 	<spawn centerx="891" centery="596" centerz="7" radius="1">
 		<monster name="Worm Priestess" x="0" y="0" z="7" spawntime="60" />
@@ -9163,6 +9169,9 @@
 		<monster name="Nomad" x="0" y="8" z="7" spawntime="60" />
 		<monster name="Nomad" x="-9" y="9" z="7" spawntime="60" />
 		<monster name="Bandit" x="-8" y="11" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="651" centery="690" centerz="7" radius="1">
+		<npc name="Morila" x="0" y="0" z="7" spawntime="60" direction="2" />
 	</spawn>
 	<spawn centerx="605" centery="691" centerz="7" radius="1">
 		<monster name="Doom Deer" x="0" y="0" z="7" spawntime="60" />
