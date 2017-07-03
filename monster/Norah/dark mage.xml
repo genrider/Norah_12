@@ -80,16 +80,16 @@
 	<item id="2146" countmax="3" chance="2700" /><!-- small sapphire -->
 	<item id="2167" chance="2500" /><!-- energy ring -->
 	<item id="2178" chance="2100" /><!-- mind stone -->
-	<item id="2656" chance="1900" /><!-- blue robe -->
+	<item id="2656" chance="900" /><!-- blue robe -->
 	<item id="2114" chance="1400" /><!-- piggy bank -->
-	<item id="2436" chance="1300" /><!-- skull staff -->
+	<item id="2436" chance="900" /><!-- skull staff -->
 	<item id="7368" countmax="2" chance="1200" /><!-- assassin star -->
-	<item id="2645" chance="900" /><!-- steel boots -->
+	<item id="2645" chance="500" /><!-- steel boots -->
 	<item id="2151" countmax="2" chance="890" /><!-- talon -->
 	<item id="2124" chance="600" /><!-- crystal ring -->
-	<item id="2466" chance="500" /><!-- golden armor -->
+	<item id="2466" chance="300" /><!-- golden armor -->
 	<item id="2123" chance="500" /><!-- ring of the sky -->
-	<item id="8889" chance="300" /><!-- skullcracker armor -->
+	<item id="8889" chance="200" /><!-- skullcracker armor -->
     <item id="1985" chance="100" />  <!-- grey tome -->  
   </loot>
 </monster>

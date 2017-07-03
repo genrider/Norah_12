@@ -31,6 +31,9 @@
     <attack name="energy" interval="3000" chance="70" length="8" spread="0" min="-220" max="-460">
       <attribute key="areaEffect" value="energy"/>
     </attack>
+	<attack name="physical" interval="2000" chance="15" range="5" radius="10" target="0" min="-250" max="-500">
+        <attribute key="areaEffect" value="rednote"/>
+    </attack>
   </attacks>
   <defenses armor="50" defense="55">
     <defense name="healing" interval="2000" chance="75" min="90" max="200">

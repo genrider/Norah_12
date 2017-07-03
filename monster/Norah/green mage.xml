@@ -59,15 +59,15 @@
 		<item id="3976" countmax="10" chance="7000" /><!-- worm -->
 		<item id="2149" countmax="3" chance="4000" /><!-- small emerald -->
 		<item id="2146" countmax="2" chance="3100" /><!-- small sapphire -->
-		<item id="2214" chance="1800" /><!-- ring of healing -->
+		<item id="2214" chance="1500" /><!-- ring of healing -->
 		<item id="2168" chance="1200" /><!-- life ring -->
-		<item id="4850" chance="1100" /><!-- knight armor -->
-		<item id="2475" chance="1000" />	<!-- warrior helmet -->
+		<item id="4850" chance="800" /><!-- knight armor -->
+		<item id="2475" chance="700" />	<!-- warrior helmet -->
 		<item id="2197" chance="800" /><!-- stone skin amulet -->
 		<item id="2177" chance="600" /><!-- life crystal -->
-		<item id="2536" chance="555" /><!-- medusa shield -->
-		<item id="7884" chance="500" /><!-- terra mantle -->
-		<item id="2195" chance="400" /><!-- boots of haste -->
+		<item id="2536" chance="455" /><!-- medusa shield -->
+		<item id="7884" chance="400" /><!-- terra mantle -->
+		<item id="2195" chance="300" /><!-- boots of haste -->
 		<item id="2498" chance="150" /><!-- royal helmet -->    
 	</loot>
 </monster>

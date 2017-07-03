@@ -67,8 +67,8 @@
 		<item id="2148" countmax="170" chance1="100000" chancemax="0" /> <!-- gps -->
 		<item id="7893" chance="1200" /> <!-- lightning boots -->
 		<item id="2645" chance="700" /> <!-- steel boots -->
-		<item id="5880" chance="15000" /> <!-- iron ore -->
-		<item id="7403" chance="2350" /> <!-- berserker -->
-		<item id="7422" chance="1111" /> <!-- jade hammer -->
+		<item id="5880" chance="8000" /> <!-- iron ore -->
+		<item id="7403" chance="1550" /> <!-- berserker -->
+		<item id="7422" chance="911" /> <!-- jade hammer -->
 	</loot>
 </monster>

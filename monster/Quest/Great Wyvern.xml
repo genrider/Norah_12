@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Great Wyvern" nameDescription="a great wyvern" race="blood" experience="2000" speed="200" manacost="0">
-  <health now="7950" max="7950" />
+  <health now="8950" max="8950" />
   <look type="239" corpse="6302" />
   <targetchange interval="5000" chance="8" />
   <strategy attack="100" defense="0" />

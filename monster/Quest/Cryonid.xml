@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Cryonid" nameDescription="a cryonid" race="undead" experience="2300" speed="600" manacost="0">
-  <health now="3800" max="3800" />
+  <health now="4800" max="4800" />
   <look type="248" head="20" body="30" legs="40" feet="50" corpse="7091" />
   <targetchange interval="5000" chance="6" />
   <strategy attack="100" defense="0" />

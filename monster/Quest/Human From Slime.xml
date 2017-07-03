@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Human From Slime" nameDescription="a human from slime" race="venom" experience="2300" speed="300" manacost="0">
-    <health now="6000" max="6000" />
+    <health now="8000" max="8000" />
     <look type="299" corpse="8951" />
     <targetchange interval="60000" chance="0" />
     <strategy attack="100" defense="0" />
@@ -21,10 +21,10 @@
 	</flags>
     <attacks>
       <attack name="melee" interval="2000" min="-20" max="-125" poison="40" />
-      <attack name="lifedrain" interval="2000" min="-90" max="-540" target="1">
+      <attack name="lifedrain" interval="2000" min="-390" max="-540" target="1">
 		<attribute key="areaEffect" value="redshimmer" />
 	  </attack>
-      <attack name="physical" interval="1000" chance="40" radius="2" target="0" min="-60" max="-425">
+      <attack name="physical" interval="1000" chance="40" radius="2" target="0" min="-160" max="-425">
 		<attribute key="shootEffect" value="smallearth" />
 	  </attack>
       <attack name="paralyze" interval="3000" chance="40" target="1">
@@ -63,6 +63,6 @@
       <item id="8472" chance="5000" />
       <item id="8473" chance="3000" />
       <item id="8873" chance="2500" />
-      <item id="8891" chance="2800" />
+      <item id="8891" chance="1800" />
 	</loot>
 </monster>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Ancient Wyrm" nameDescription="a ancient wyrm" race="blood" species="fire" experience="3450" speed="300" manacost="0">
-	<health now="6825" max="6825" />
+	<health now="9825" max="9825" />
     <look type="291" corpse="8941" />
     <targetchange interval="60000" chance="0" />
     <strategy attack="100" defense="0" />
@@ -21,7 +21,7 @@
 	</flags>
 	<attacks>
       <attack name="melee" interval="2000" min="-0" max="-214" />
-      <attack name="physical" interval="2000" chance="25" range="7" radius="4" target="1" min="-70" max="-970">
+      <attack name="physical" interval="2000" chance="25" range="7" radius="4" target="1" min="-370" max="-970">
 		<attribute key="shootEffect" value="energy" />
 		<attribute key="areaEffect" value="blackspark" />
 	  </attack>

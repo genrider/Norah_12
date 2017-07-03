@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Greater Cryon" nameDescription="an greater cryon" race="undead" experience="4000" speed="195" manacost="0">
-  <health now="3850" max="3850"/>
+  <health now="5850" max="5850"/>
   <look type="261" head="20" body="30" legs="40" feet="50" corpse="7282"/>
   <targetchange interval="2000" chance="5"/>
   <strategy attack="100" defense="0"/>
@@ -24,7 +24,7 @@
     <attack name="speed" interval="1000" chance="13" length="8" spread="0" speedchange="-500" duration="20000">
       <attribute key="areaEffect" value="energy"/>
     </attack>
-    <attack name="physical" interval="1000" chance="15" range="7" min="-300" max="-550">
+    <attack name="physical" interval="1000" chance="25" range="7" min="-300" max="-550">
       <attribute key="shootEffect" value="largerock"/>
     </attack>
 <attack name="melee" interval="2000" chance="15" range="7" radius="3" target="0" min="-10" max="-80">

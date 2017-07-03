@@ -86,11 +86,11 @@
 		<item id="2151" countmax="2" chance="1100" /><!-- talon -->
 		<item id="2114" chance="1000" /><!-- piggy bank -->
 		<item id="2436" chance="800" /><!-- skull staff -->
-		<item id="7900" chance="780" /><!-- magma monocle -->
-		<item id="8867" chance="770" /><!-- dragon robe -->
+		<item id="7900" chance="480" /><!-- magma monocle -->
+		<item id="8867" chance="470" /><!-- dragon robe -->
 		<item id="2124" chance="700" /><!-- crystal ring -->
-		<item id="2466" chance="588" /><!-- golden armor -->
-		<item id="2123" chance="500" /><!-- ring of the sky -->
+		<item id="2466" chance="388" /><!-- golden armor -->
+		<item id="2123" chance="300" /><!-- ring of the sky -->
 		<item id="1986" chance="400" /><!-- red tome -->	  
 	</loot>
 </monster>

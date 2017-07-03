@@ -13,12 +13,12 @@ local function creatureSayCallback(cid, type, msg)
 	-- MORILA DÓŁ
 local player = Player(cid)
 	if msgcontains(msg, "surroundings") then
-		npcHandler:say("In the surroundings you can find {dwarfs}, {dragons}, {dragon lords}, {nightmares}, {tarantulas} and other.")
+		npcHandler:say("In the surroundings you can find {dwarfs}, {dragons}, {dragon lords}, {nightmares}, {tarantulas} and other.", cid)
 		return true
-	elseif msgcontains(msg, "cyclops") or msgcontains(msg, "minotaurs") or msgcontains(msg, "elfs") then
+	elseif msgcontains(msg, "cyclop") or msgcontains(msg, "minotaur") or msgcontains(msg, "elf") then
 		npcHandler:say("nie wiem, zapytaj goscia o imieniu {Dromel}", cid)
 		return true
-	elseif msgcontains(msg, "goblins") or msgcontains(msg, "trolls") or msgcontains(msg, "arena") or msgcontains(msg, "nilfgaard") then
+	elseif msgcontains(msg, "goblin") or msgcontains(msg, "troll") or msgcontains(msg, "arena") or msgcontains(msg, "nilfgaard") then
 		npcHandler:say("nie wiem, zapytaj goscia o imieniu {Grad}", cid)
 		return true
 	elseif msgcontains(msg, "lizard") or msgcontains(msg, "hydra") or msgcontains(msg, "mutated human") then
@@ -27,7 +27,7 @@ local player = Player(cid)
 		
 		
 		
-	elseif msgcontains(msg, "dwarfs") then
+	elseif msgcontains(msg, "dwarf") then
 		npcHandler:say("idz na poludnie, dotrzesz do gory. podążaj wzdłóż niej na zachód a dotrzesz do schodów które doprowadza cię do celu, bądż uważny możesz trafić na ich potężnych przodków", cid)
 		return true
 	elseif msgcontains(msg, "dragon lord") then
@@ -39,7 +39,7 @@ local player = Player(cid)
 	elseif msgcontains(msg, "nightmare") then
 		npcHandler:say("musisz przedostac sie przez smoki na poludniowej gorze i dotrzec do mostu w ich wschodniej części", cid)
 		return true
-	elseif msgcontains(msg, "tarantulas") then
+	elseif msgcontains(msg, "tarantula") then
 		npcHandler:say("idz wzdłóż południowej góry na zachód aż dotrzesz do końca londu", cid)
 		return true
 	elseif msgcontains(msg, "serpent spawn") or msgcontains(msg, "giant spider") or msgcontains(msg, "medusa") then

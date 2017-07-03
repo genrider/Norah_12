@@ -27,7 +27,7 @@
     <attack name="firefield" interval="1000" chance="15" range="7" radius="4" target="1">
       <attribute key="shootEffect" value="fire" />
     </attack>
-    <attack name="fire" interval="3000" chance="17" length="8" spread="3" min="-70" max="-650">
+    <attack name="fire" interval="3000" chance="17" length="8" spread="3" min="-170" max="-650">
       <attribute key="areaEffect" value="firearea" />
     </attack>
   </attacks>
@@ -56,23 +56,12 @@
     <item id="2033" chance="1818" />
     <item id="1976" chance="3333" />
     <item id="2413" chance="5000" />
-    <item id="2167" chance="5000" />
-    <item id="2498" chance="588" />
-    <item id="2492" chance="333" />
-    <item id="7378" countmax="2" chance="2000" />
-    <item id="2546" countmax="5" chance="2500" />
-    <item id="2547" countmax="10" chance="2222" />
-    <item id="2796" chance="6666" />
-    <item id="5948" chance="5000" />
-    <item id="2148" countmax="100" chance="100000" />
-    <item id="2149" countmax="2" chance="833" />
-    <item id="2392" chance="1428" />
     <item id="2146" countmax="2" chance="2222" />
     <item id="2528" chance="1333" />
     <item id="7402" chance="1033" />
     <item id="2414" chance="909" />
-    <item id="7891" chance="909" />
-    <item id="7399" chance="909" />
-    <item id="5882" chance="5000" />
+    <item id="7891" chance="809" />
+    <item id="7399" chance="809" />
+    <item id="5882" chance="1000" />
   </loot>
 </monster>

@@ -13,12 +13,12 @@ local function creatureSayCallback(cid, type, msg)
 	-- PUSTEN PRAWO
 local player = Player(cid)
 	if msgcontains(msg, "surroundings") then
-		npcHandler:say("In the surroundings you can find {lizards}, {mutated humans}, {cyclops}, {hydras} and other.")
+		npcHandler:say("In the surroundings you can find {lizards}, {mutated humans}, {cyclops}, {hydras} and other.", cid)
 		return true
-	elseif msgcontains(msg, "dragon") or msgcontains(msg, "minotaurs") or msgcontains(msg, "elfs") then
+	elseif msgcontains(msg, "dragon") or msgcontains(msg, "minotaur") or msgcontains(msg, "elf") then
 		npcHandler:say("nie wiem, zapytaj goscia o imieniu {Dromel}", cid)
 		return true
-	elseif msgcontains(msg, "goblins") or msgcontains(msg, "trolls") or msgcontains(msg, "arena") or msgcontains(msg, "nilfgaard") then
+	elseif msgcontains(msg, "goblin") or msgcontains(msg, "troll") or msgcontains(msg, "arena") or msgcontains(msg, "nilfgaard") then
 		npcHandler:say("nie wiem, zapytaj goscia o imieniu {Grad}", cid)
 		return true
 	elseif msgcontains(msg, "dwarf") or msgcontains(msg, "nightmare") or msgcontains(msg, "werewolf") or msgcontains(msg, "undead dragon") or msgcontains(msg,"serpent spawn") then

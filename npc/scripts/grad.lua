@@ -13,9 +13,9 @@ local function creatureSayCallback(cid, type, msg)
 	-- GRAD GÓRA
 local player = Player(cid)
 	if msgcontains(msg, "surroundings") then
-		npcHandler:say("In the surroundings you can find {goblin}, {troll}, {arena}, {nilfgaard} and other.")
+		npcHandler:say("In the surroundings you can find {goblin}, {troll}, {arena}, {nilfgaard} and other.", cid)
 		return true
-	elseif msgcontains(msg, "cyclops") or msgcontains(msg, "minotaurs") or msgcontains(msg, "elfs") then
+	elseif msgcontains(msg, "cyclop") or msgcontains(msg, "minotaur") or msgcontains(msg, "elf") then
 		npcHandler:say("nie wiem, zapytaj goscia o imieniu {Dromel}", cid)
 		return true
 	elseif msgcontains(msg, "lizard") or msgcontains(msg, "hydra") or msgcontains(msg, "mutated human") then
