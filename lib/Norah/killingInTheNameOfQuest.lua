@@ -26,8 +26,8 @@ REPEATSTORAGE_BASE = 3401
 POINTSSTORAGE = 3601
 tasks =
 {
-	[1] = {killsRequired = 100, raceName = "Trolls", level = {1, 9999}, premium = true, creatures = {"troll", "troll champion", "island troll", "swamp troll"}, rewards = {{type = "exp", value = {200}},{type = "money", value = {200}}}},
-	[2] = {killsRequired = 150, raceName = "Goblins", level = {1, 9999}, premium = true, creatures = {"goblin", "goblin assassin", "goblin leader"}, rewards = {{type = "exp", value = {300}},{type = "money", value = {250}}}},
+	[1] = {killsRequired = 100, raceName = "Trolls", level = {1, 9999}, premium = true, creatures = {"troll", "troll champion", "island troll", "swamp troll"}, rewards = {{type = "exp", value = {200}},{type = "money", value = {400}}}},
+	[2] = {killsRequired = 150, raceName = "Goblins", level = {1, 9999}, premium = true, creatures = {"goblin", "goblin assassin", "goblin leader"}, rewards = {{type = "exp", value = {300}},{type = "money", value = {450}}}},
 	[3] = {killsRequired = 300, raceName = "Crocodiles", level = {1, 9999}, premium = true, creatures = {"crocodile"}, rewards = {{type = "exp", value = {800}},{type = "storage", value = {3501, 1}},{type = "points", value = {1}}}},
 	[4] = {killsRequired = 300, raceName = "Badgers", level = {1, 9999}, premium = true, creatures = {"badger"}, rewards = {{type = "exp", value = {500}},{type = "points", value = {1}}}},
 	[5] = {killsRequired = 300, raceName = "Tarantulas", level = {1, 9999}, premium = true, creatures = {"tarantula"}, rewards = {{type = "exp", value = {1500}},{type = "storage", value = {3502, 1}},{type = "points", value = {2}}}},

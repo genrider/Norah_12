@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<raid>
+<raid><!-- poi -->
+	<announce delay="1000" type="warning" message="Dracola is comming!" />
 	<singlespawn delay="10000" name="Dracola" x="673" y="617" z="15" />
 </raid>

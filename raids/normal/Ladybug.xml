@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <raid>
-<singlespawn delay="1000" name="Ladybug" x="623" y="747" z="7" />
+	<announce delay="1000" type="warning" message="Lady bug is comming!" />
+	<singlespawn delay="1000" name="Lady bug" x="623" y="747" z="7" />
 </raid>

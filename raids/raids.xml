@@ -18,7 +18,7 @@
 	<raid name="Pirate 2" file="normal/Pirate 2.xml" interval2="1200" margin="120" />
 	<raid name="Pirate 3" file="normal/Pirate 3.xml" interval2="1200" margin="120" />
 	<raid name="Pirate 4" file="normal/Pirate 4.xml" interval2="1200" margin="120" />
-	<raid name="Ladybug" file="normal/Ladybug.xml" interval2="1200" margin="120" />
+	<raid name="Lady bug" file="normal/Ladybug.xml" interval2="1200" margin="120" />
 	<raid name="Manta Ray" file="normal/Manta Ray.xml" interval2="1200" margin="120" />
 	<raid name="Demodras" file="normal/demodras.xml" interval2="1200" margin="120" />
 	<raid name="The Horned Fox" file="normal/the_horned_fox.xml" interval2="1200" margin="120" />

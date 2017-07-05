@@ -75,7 +75,7 @@
 		<item id="2548" chance="20000" /><!-- pitchfork -->
 		<item id="6529" countmax="5" chance="5000" /><!-- infernal bolts -->
 		<item id="2465" chance="6577" /><!-- brass armor -->
-		<item id="2185" chance="833" /><!-- volcanic rod -->
+		<item id="2542" chance="2833" /><!-- tempest shield-->
 		<item id="2464" chance="7887" /><!-- chain armor -->
 		<item id="5944" chance="5666" /><!-- soul orb -->
 		<item id="7899" chance="2000" /><!-- magma coat -->

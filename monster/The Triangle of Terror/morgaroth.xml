@@ -79,8 +79,8 @@
 		<item id="2149" countmax="10" chance="33330"/>	<!-- small emerald -->
 		<item id="6300" chance="33330"/>				<!-- death ring -->
 		<item id="5954" countmax="2" chance="31370"/>	<!-- demon horn -->
-		<item id="8852" chance="31370"/>				<!-- the devileye -->
-		<item id="8850" chance="29410"/>				<!-- chain bolter -->
+		<item id="8852" chance="9370"/>				<!-- the devileye -->
+		<item id="8850" chance="9410"/>				<!-- chain bolter -->
 		<item id="7591" chance="25490"/>				<!-- great health potion -->
 		<item id="8853" chance="25490"/>				<!-- the ironworker -->
 		<item id="2214" chance="23530"/>				<!-- ring of healing -->
@@ -90,7 +90,7 @@
 		<item id="2176" chance="21570"/>				<!-- orb -->
 		<item id="5943" chance="21570"/>				<!-- morgaroth's heart -->
 		<item id="2146" countmax="10" chance="19610"/>	<!-- small sapphire -->
-		<item id="8886" chance="19610"/>				<!-- molten plate -->
+		<item id="8886" chance="9610"/>				<!-- molten plate -->
 		<item id="2143" countmax="13" chance="17650"/>	<!-- white pearl -->
 		<item id="2179" chance="17650"/>				<!-- gold ring -->
 		<item id="2165" chance="17650"/>				<!-- stealth ring -->
@@ -98,24 +98,24 @@
 		<item id="2158" chance="17650"/>				<!-- blue gem -->
 		<item id="2144" countmax="15" chance="15690"/>	<!-- black pearl -->
 		<item id="2162" chance="15690"/>				<!-- magic lightwand -->
-		<item id="8851" chance="15690"/>				<!-- royal crossbow -->
+		<item id="8851" chance="9690"/>				<!-- royal crossbow -->
 		<item id="2145" countmax="5" chance="13750"/>	<!-- small diamond -->
 		<item id="2151" countmax="6" chance="11760"/>	<!-- talon -->
 		<item id="8928" chance="11760"/>				<!-- obsidian truncheon -->
 		<item id="7368" countmax="44" chance="11760"/>	<!-- assassin star -->
-		<item id="2421" chance="11760"/>				<!-- thunder hammer -->
-		<item id="8865" chance="11760"/>				<!-- dark lord's cape -->
+		<item id="2421" chance="9760"/>				<!-- thunder hammer -->
+		<item id="8865" chance="9760"/>				<!-- dark lord's cape -->
 		<item id="2192" chance="11760"/>				<!-- crystal ball -->
-		<item id="2514" chance="11760"/>				<!-- mastermind shield -->
+		<item id="2514" chance="8760"/>				<!-- mastermind shield -->
 		<item id="2167" chance="11760"/>				<!-- energy ring -->
 		<item id="2432" chance="11760"/>				<!-- fire axe -->
-		<item id="2472" chance="11760"/>				<!-- magic plate armor -->
+		<item id="2472" chance="5760"/>				<!-- magic plate armor -->
 		<item id="2033" chance="11760"/>				<!-- golden mug -->
 		<item id="8473" chance="11760"/>				<!-- ultimate health potion -->
 		<item id="2645" chance="11760"/>				<!-- steel boots -->
 		<item id="2520" chance="11760"/>				<!-- demon shield -->
 		<item id="2387" chance="11760"/>				<!-- double axe -->
-		<item id="7421" chance="11760"/>				<!-- onyx flail -->
+		<item id="7421" chance="9760"/>				<!-- onyx flail -->
 		<item id="2112" chance="9800"/>					<!-- teddy bear -->
 		<item id="7431" chance="9800"/>					<!-- demonbone -->
 		<item id="9971" chance="9800"/>					<!-- gold ingot -->

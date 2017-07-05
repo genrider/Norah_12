@@ -13,7 +13,7 @@ local function creatureSayCallback(cid, type, msg)
 	-- DREMOL Prawo
 local player = Player(cid)
 	if msgcontains(msg, "surroundings") then
-		npcHandler:say("In the surroundings you can find {smugglers}, {minotaurs}, {cyclops}, {dragons} and other.")
+		npcHandler:say("In the surroundings you can find {smugglers}, {minotaurs}, {cyclops}, {dragons} and other.",cid)
 		return true
 	elseif msgcontains(msg, "dwarf") or msgcontains(msg, "nightmare") or msgcontains(msg, "werewolf") or msgcontains(msg, "udead dragon") or msgcontains(msg,"serpent spawn") then
 		npcHandler:say("I don\'t know where they are, but if think, that {Morila}", cid)

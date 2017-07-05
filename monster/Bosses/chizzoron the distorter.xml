@@ -63,5 +63,6 @@
 		<item id="2169" chance="11025" /><!-- time ring -->
 		<item id="7591" chance="5750" /><!-- great health potion -->
 		<item id="2492" chance="5750" /><!-- dragon scale mail -->
+		<item id="11117" chance="1000" /><!-- crystal boots -->
 	</loot>
 </monster>

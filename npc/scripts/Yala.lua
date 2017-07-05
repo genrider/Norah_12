@@ -19,7 +19,7 @@ function creatureSayCallback(cid, type, msg)
         return false
     end
 ----------------------START----------------------
-if msgcontains(msg, 'quest') or msgcontains(msg, 'mission') or msgcontains(msg, 'missions') then
+if msgcontains(msg, 'quest') or msgcontains(msg, 'mission') then
 if getPlayerStorageValue(cid, Storage.Yala.Questline) == -1 then
 	npcHandler:say('You want to go there!? I\'m sorry but I can\'t let you in like that. You need to do some {missions}. Are you ready for the first mission?', cid)
 	talk_state[cid] = 1

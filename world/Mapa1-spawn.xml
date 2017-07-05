@@ -6289,8 +6289,8 @@
 	<spawn centerx="875" centery="270" centerz="7" radius="1">
 		<monster name="Behemoth" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="486" centery="273" centerz="7" radius="1">
-		<monster name="Glooth Golem" x="0" y="0" z="7" spawntime="60" />
+	<spawn centerx="486" centery="272" centerz="7" radius="1">
+		<monster name="Glooth Golem" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="452" centery="277" centerz="7" radius="1">
 		<monster name="Behemoth" x="-1" y="0" z="7" spawntime="60" />
@@ -10583,6 +10583,9 @@
 	<spawn centerx="1217" centery="880" centerz="7" radius="1">
 		<monster name="Pirate Cutthroat" x="-1" y="-1" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="1234" centery="880" centerz="7" radius="1">
+		<monster name="Midnight Panther" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="604" centery="882" centerz="7" radius="1">
 		<monster name="Werewolf" x="-1" y="-1" z="7" spawntime="60" />
 	</spawn>
@@ -10808,9 +10811,6 @@
 	<spawn centerx="1029" centery="904" centerz="7" radius="1">
 		<monster name="Wasp" x="0" y="-1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="1224" centery="904" centerz="7" radius="1">
-		<monster name="Midnight Panther" x="1" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="1254" centery="904" centerz="7" radius="1">
 		<monster name="Pirate Marauder" x="1" y="-1" z="7" spawntime="60" />
 	</spawn>
@@ -10840,9 +10840,6 @@
 	</spawn>
 	<spawn centerx="863" centery="908" centerz="7" radius="1">
 		<monster name="Behemoth" x="1" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="1157" centery="908" centerz="7" radius="1">
-		<monster name="Midnight Panther" x="1" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1219" centery="908" centerz="7" radius="1">
 		<monster name="Parrot" x="0" y="1" z="7" spawntime="60" />
@@ -10999,9 +10996,6 @@
 	</spawn>
 	<spawn centerx="1084" centery="925" centerz="7" radius="1">
 		<monster name="Snake" x="-1" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="1170" centery="925" centerz="7" radius="1">
-		<monster name="Midnight Panther" x="-1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1232" centery="925" centerz="7" radius="1">
 		<monster name="Pirate Marauder" x="0" y="1" z="7" spawntime="60" />
@@ -11567,7 +11561,7 @@
 		<monster name="Draken Spellweaver" x="-1" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="430" centery="1112" centerz="7" radius="1">
-		<monster name="Draken Warmaster" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Draptor" x="0" y="-1" z="7" spawntime="360" />
 	</spawn>
 	<spawn centerx="416" centery="1113" centerz="7" radius="1">
 		<monster name="Draken Warmaster" x="-1" y="-1" z="7" spawntime="60" />
@@ -12377,6 +12371,9 @@
 		<monster name="Frost Giant" x="2" y="-2" z="7" spawntime="60" />
 		<monster name="Frost Giant" x="0" y="2" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="889" centery="1322" centerz="7" radius="1">
+		<monster name="Earth Elemental" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="500" centery="1323" centerz="7" radius="1">
 		<monster name="Dog" x="1" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -12395,11 +12392,17 @@
 	<spawn centerx="1334" centery="1325" centerz="7" radius="1">
 		<monster name="Polar Bear" x="1" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="883" centery="1326" centerz="7" radius="1">
+		<monster name="Earth Elemental" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="1034" centery="1326" centerz="7" radius="1">
 		<monster name="Crystal Spider" x="-1" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1326" centery="1326" centerz="7" radius="1">
 		<monster name="Mammoth" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="877" centery="1327" centerz="7" radius="1">
+		<monster name="Earth Elemental" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1301" centery="1327" centerz="7" radius="1">
 		<monster name="Mammoth" x="0" y="0" z="7" spawntime="60" />
@@ -12426,6 +12429,9 @@
 	</spawn>
 	<spawn centerx="565" centery="1330" centerz="7" radius="1">
 		<npc name="Genia" x="1" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="873" centery="1330" centerz="7" radius="1">
+		<monster name="Earth Elemental" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1234" centery="1330" centerz="7" radius="9">
 		<monster name="Frost Giant" x="-7" y="-7" z="7" spawntime="60" />
@@ -12454,6 +12460,15 @@
 	</spawn>
 	<spawn centerx="314" centery="1334" centerz="7" radius="1">
 		<monster name="Hellspawn" x="0" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="885" centery="1334" centerz="7" radius="1">
+		<monster name="Earth Elemental" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="891" centery="1334" centerz="7" radius="1">
+		<monster name="Earth Elemental" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="900" centery="1334" centerz="7" radius="1">
+		<monster name="Earth Elemental" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1139" centery="1334" centerz="7" radius="5">
 		<monster name="Frost Giantess" x="4" y="-3" z="7" spawntime="60" />
@@ -12497,6 +12512,12 @@
 	<spawn centerx="319" centery="1338" centerz="7" radius="1">
 		<monster name="Hellspawn" x="1" y="-1" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="880" centery="1338" centerz="7" radius="1">
+		<monster name="Earth Elemental" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="891" centery="1338" centerz="7" radius="1">
+		<monster name="Earth Elemental" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="349" centery="1339" centerz="7" radius="5">
 		<monster name="Dragon" x="2" y="-1" z="7" spawntime="60" />
 		<monster name="Dragon Hatchling" x="-5" y="2" z="7" spawntime="60" />
@@ -12506,6 +12527,9 @@
 	</spawn>
 	<spawn centerx="508" centery="1340" centerz="7" radius="1">
 		<npc name="Kira" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="886" centery="1340" centerz="7" radius="1">
+		<monster name="Earth Elemental" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1375" centery="1340" centerz="7" radius="1">
 		<monster name="Winter wolf" x="-1" y="0" z="7" spawntime="60" />
@@ -12524,6 +12548,9 @@
 		<monster name="Polar Bear" x="-1" y="0" z="7" spawntime="60" />
 		<monster name="Winter wolf" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Winter wolf" x="1" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="883" centery="1343" centerz="7" radius="1">
+		<monster name="Earth Elemental" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1279" centery="1343" centerz="7" radius="1">
 		<monster name="Winter wolf" x="0" y="-1" z="7" spawntime="60" />
@@ -12557,6 +12584,9 @@
 	<spawn centerx="534" centery="1345" centerz="7" radius="1">
 		<npc name="Romella" x="0" y="0" z="7" spawntime="60" direction="2" />
 	</spawn>
+	<spawn centerx="894" centery="1345" centerz="7" radius="1">
+		<monster name="Earth Elemental" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="302" centery="1346" centerz="7" radius="1">
 		<monster name="Hellspawn" x="-1" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -12576,6 +12606,9 @@
 		<monster name="Winter wolf" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Polar Bear" x="-1" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="873" centery="1348" centerz="7" radius="1">
+		<monster name="Earth Elemental" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="1335" centery="1348" centerz="7" radius="1">
 		<monster name="Polar Bear" x="-1" y="0" z="7" spawntime="60" />
 		<monster name="Winter wolf" x="1" y="1" z="7" spawntime="60" />
@@ -12585,6 +12618,9 @@
 	</spawn>
 	<spawn centerx="534" centery="1349" centerz="7" radius="1">
 		<npc name="Soya" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="890" centery="1350" centerz="7" radius="1">
+		<monster name="Earth Elemental" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1317" centery="1350" centerz="7" radius="1">
 		<monster name="Mammoth" x="0" y="0" z="7" spawntime="60" />
@@ -12601,11 +12637,17 @@
 	<spawn centerx="336" centery="1352" centerz="7" radius="5">
 		<monster name="Dragon Lord" x="0" y="-1" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="901" centery="1353" centerz="7" radius="1">
+		<monster name="Earth Elemental" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="1284" centery="1353" centerz="7" radius="1">
 		<monster name="Mammoth" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1308" centery="1353" centerz="7" radius="1">
 		<monster name="Winter wolf" x="-1" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="909" centery="1354" centerz="7" radius="1">
+		<monster name="Earth Elemental" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1410" centery="1354" centerz="7" radius="1">
 		<monster name="Polar Bear" x="1" y="0" z="7" spawntime="60" />
@@ -13274,10 +13316,16 @@
 		<monster name="Giant Spider" x="-1" y="1" z="8" spawntime="60" />
 		<monster name="Poison Spider" x="2" y="3" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="484" centery="272" centerz="8" radius="1">
+		<monster name="Red Mage" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="643" centery="272" centerz="8" radius="5">
 		<monster name="Poison Spider" x="-5" y="-1" z="8" spawntime="60" />
 		<monster name="Poison Spider" x="1" y="-1" z="8" spawntime="60" />
 		<monster name="Spider" x="-1" y="3" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="480" centery="273" centerz="8" radius="1">
+		<monster name="Red Mage" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="544" centery="277" centerz="8" radius="1">
 		<monster name="Rotworm" x="-1" y="0" z="8" spawntime="60" />
@@ -13286,7 +13334,7 @@
 		<monster name="Demon Skeleton" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="440" centery="278" centerz="8" radius="1">
-		<monster name="Dark Torturer" x="0" y="1" z="8" spawntime="60" />
+		<monster name="Dark Torturer" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="446" centery="278" centerz="8" radius="1">
 		<monster name="Demon Skeleton" x="0" y="0" z="8" spawntime="60" />
@@ -18705,6 +18753,39 @@
 	</spawn>
 	<spawn centerx="565" centery="255" centerz="9" radius="1">
 		<monster name="Glooth Golem" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="439" centery="263" centerz="9" radius="1">
+		<monster name="Green Mage" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="457" centery="264" centerz="9" radius="1">
+		<monster name="Red Mage" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="465" centery="264" centerz="9" radius="1">
+		<monster name="Green Mage" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="439" centery="266" centerz="9" radius="1">
+		<monster name="Red Mage" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="469" centery="272" centerz="9" radius="1">
+		<monster name="Red Mage" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="475" centery="273" centerz="9" radius="1">
+		<monster name="Green Mage" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="439" centery="283" centerz="9" radius="1">
+		<monster name="Red Mage" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="438" centery="287" centerz="9" radius="1">
+		<monster name="Green Mage" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="439" centery="300" centerz="9" radius="1">
+		<monster name="Red Mage" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="439" centery="306" centerz="9" radius="1">
+		<monster name="Green Mage" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="439" centery="308" centerz="9" radius="1">
+		<monster name="Red Mage" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="447" centery="326" centerz="9" radius="2">
 		<monster name="Rotworm" x="2" y="0" z="9" spawntime="60" />

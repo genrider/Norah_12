@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <raid>
+	<announce delay="1000" type="warning" message="Manta Ray is comming!" />
 	<areaspawn delay="20000" fromx="960" fromy="726" fromz="10" tox="1050" toy="810" toz="10">
     <monster name="Manta Ray" amount="3" />
 	</areaspawn>

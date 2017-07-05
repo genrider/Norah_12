@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<raid>
+<raid> <!-- poi -->
+	<announce delay="1000" type="warning" message="Countess Sorrow is comming!" />
 	<singlespawn delay="10000" name="Countess Sorrow" x="666" y="670" z="15" />
 </raid>
