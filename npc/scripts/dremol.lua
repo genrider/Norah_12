@@ -1,4 +1,4 @@
-local keywordHandler = KeywordHandler:new()
+﻿local keywordHandler = KeywordHandler:new()
 local npcHandler = NpcHandler:new(keywordHandler)
 NpcSystem.parseParameters(npcHandler)
 
@@ -19,10 +19,10 @@ local player = Player(cid)
 		npcHandler:say("I don\'t know where they are, but if think, that {Morila}", cid)
 		return true
 	elseif msgcontains(msg, "goblins") or msgcontains(msg, "trolls") or msgcontains(msg, "arena") or msgcontains(msg, "nilfgaard") then
-		npcHandler:say("nie wiem, zapytaj goscia o imieniu {Grad}", cid)
+		npcHandler:say("I don't know, ask {Grad}", cid)
 		return true
 	elseif msgcontains(msg, "lizard") or msgcontains(msg, "hydra") or msgcontains(msg, "mutated human") then
-		npcHandler:say("nie wiem, zapytaj goscia o imieniu {Pusten}", cid)
+		npcHandler:say("I don't know, ask {Pusten}", cid)
 		return true
 		
 		
@@ -40,10 +40,10 @@ local player = Player(cid)
 		npcHandler:say("Ugh! Stinking cows resembling people, live along the river. At once, when you left the bridge just head north. I hear that they hide a special knife, what help you rip their skin.", cid)
 		return true
 	elseif msgcontains(msg, "bonebeast") or msgcontains(msg, "gargoyle") then
-		npcHandler:say("idz wzdluz rzeki na poludnie, znajdz jaskienie z skeletonami i wsrod nich znajdz zejscie nizej",cid)
+		npcHandler:say("Go along the river to the south, find a cave with the living bones and among them, find the way down.",cid)
 		return true
 	elseif msgcontains(msg, "zombie") then
-		npcHandler:say("przejdz przez oboz bandytow kierunjac sie na góry, znajdziesz tam mały budynek z schodami w dół",cid)
+		npcHandler:say("Go through the bandtis' camp heading mountains, you'll find a small building with stairs there.",cid)
 	
 	
 	elseif msgcontains(msg, "Morila") then
