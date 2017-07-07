@@ -55,7 +55,7 @@
 	</voices>
 	<loot>
 		<item id="2148" countmax="100" chance="50750" /><!-- gold coin -->
-		<item id="2148" countmax="5" chance="50750" /><!-- gold coin -->
+		<item id="2148" countmax="65" chance="50750" /><!-- gold coin -->
 		<item id="10584" chance="12870" /><!-- boggy dreads -->
 		<item id="7591" chance="2000" /><!-- great health potion -->
 		<item id="8912" chance="930" /><!-- springsprout rod -->

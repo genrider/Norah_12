@@ -79,7 +79,7 @@ function onUse(player, item, fromPosition, target, toPosition, isHotkey)
 					effect = CONST_ME_ICEAREA
 					local gobletItem = player:addItem(_skin.newItem, _skin.amount or 1)
 					if gobletItem then
-						gobletItem:setDescription(_skin.desc:gsub('|PLAYERNAME|', player:getName()))
+						gobletItem:setDescription(_skin.desc:gsub('|PLAYERNAME|', player:getName())) -- << tu jest jakis błąd
 					end
 					added = true
 				elseif isInArray({7441, 7442, 7444, 7445}, target.itemid) then

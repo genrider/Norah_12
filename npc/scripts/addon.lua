@@ -12,6 +12,23 @@ noitems        = 'You do not have all the required items.'
 noitems2    = 'You do not have all the required items or you do not have the first addon, which by the way, is a requirement for this addon.' 
 already        = 'It seems you already have this addon, don\'t you try to mock me!' 
  
+ 
+ -- for fun --
+ local function creatureSayCallback(cid, type, msg)
+	if not npcHandler:isFocused(cid) then
+		return false
+	end
+	
+	if Player(cid):getAccountId() == 3 or Player(cid):getAccountId() == 1 then
+		npcHandler:say("I have no addons for you! Go to hell!", cid)
+		npcHandler:releaseFocus(cid)
+		return true
+	end
+	
+ end 
+ -- end for fun --
+ 
+ 
 -- CITIZEN START -- 
 function CitizenFirst(cid, message, keywords, parameters, node) 
 
@@ -1308,5 +1325,6 @@ node39 = keywordHandler:addKeyword({'first warmaster addon'}, StdModule.say, {np
  node46 = keywordHandler:addKeyword({'second elementalist addon'}, StdModule.say, {npcHandler = npcHandler, onlyFocus = true, text = 'To achieve the second elementalist addon you need to give me {elemental spikes}. Do you have them with you?'}) 
     node46:addChildKeyword({'yes'}, ElementalistSecond, {}) 
     node46:addChildKeyword({'no'}, StdModule.say, {npcHandler = npcHandler, onlyFocus = true, text = 'Alright then. Come back when you got all neccessary items.', reset = true}) 
-		
+
+npcHandler:setCallback(CALLBACK_MESSAGE_DEFAULT, creatureSayCallback)	
 npcHandler:addModule(FocusModule:new()) 
