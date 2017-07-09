@@ -22,11 +22,11 @@ function onUse(player, item, fromPosition, target, toPosition, isHotkey)
 		target:remove()
 
 		local rareChance = math.random(1, 100)
-		if rareChance == 1 then
+		if rareChance <=3 then
 			player:addItem(lootVeryRare[math.random(#lootVeryRare)], 1)
-		elseif rareChance <= 3 then
+		elseif rareChance <= 8 then
 			player:addItem(lootRare[math.random(#lootRare)], 1)
-		elseif rareChance <= 10 then
+		elseif rareChance <= 18 then
 			player:addItem(lootCommon[math.random(#lootCommon)], 1)
 		else
 			player:addItem(lootTrash[math.random(#lootTrash)], 1)
@@ -56,11 +56,13 @@ function onUse(player, item, fromPosition, target, toPosition, isHotkey)
 				player:addItem(15405, 1)
 				return true
 			end
-		elseif targetId == 7236 then
-			target:transform(targetId + 1)
-			target:decay()
+		end
+	
+		--elseif targetId == 7236 then
+			--target:transform(targetId + 1)
+			--target:decay()
 
-			local rareChance = math.random(1, 100)
+			local rareChance = math.random(1, 200)
 			if rareChance == 1 then
 				player:addItem(7158, 1)
 				player:addExperience(3400,true)
@@ -74,7 +76,7 @@ function onUse(player, item, fromPosition, target, toPosition, isHotkey)
 				player:addExperience(600,true)
 				return true
 			end
-		end
+		--end
 		player:addItem("fish", 1)
 		player:addExperience(150,true)
 	end

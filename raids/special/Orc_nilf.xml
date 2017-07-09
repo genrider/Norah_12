@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <raid>
-	<announce delay="1000" type="Event" message="Orc activity near Nilfgaard reported! Beware!." />
-	<announce delay="21000" type="Event" message="Nilfgaard is under attack!." />
+	<announce delay="1000" type="Event" message="Orcs left their fortress!" />
+	<announce delay="21000" type="Event" message="They started to march." />
 	
 	<!-- brama południe -->
 	<areaspawn delay="30000" fromx="895" fromy="687" fromz="7" tox="930" toy="717" toz="7">

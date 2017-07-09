@@ -74,7 +74,7 @@ local potions = {
 	-- Mana Potions
 	[26029] = { -- ultimate mana potion
 		vocations = {1, 2, 5, 6},
-		minLevel = 80,
+		minLevel = 130,
 		manaToAdd = { min = 400, max = 600},
 		emptyFlask = 7635
 	},

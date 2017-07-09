@@ -7652,8 +7652,7 @@
 		<monster name="Choking Fear" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="700" centery="552" centerz="7" radius="5">
-		<monster name="Spider" x="3" y="0" z="7" spawntime="60" />
-		<monster name="Spider" x="-2" y="1" z="7" spawntime="60" />
+		<monster name="Spider" x="-3" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="839" centery="552" centerz="7" radius="1">
 		<monster name="Minotaur Hunter" x="0" y="0" z="7" spawntime="60" />
@@ -7810,7 +7809,6 @@
 	</spawn>
 	<spawn centerx="713" centery="566" centerz="7" radius="5">
 		<monster name="Spider" x="1" y="-5" z="7" spawntime="60" />
-		<monster name="Spider" x="-1" y="-1" z="7" spawntime="60" />
 		<monster name="Spider" x="1" y="1" z="7" spawntime="60" />
 		<monster name="Spider" x="5" y="4" z="7" spawntime="60" />
 	</spawn>
@@ -7901,10 +7899,6 @@
 	<spawn centerx="778" centery="576" centerz="7" radius="1">
 		<monster name="Elf" x="1" y="0" z="7" spawntime="60" />
 		<monster name="Elf" x="0" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="703" centery="577" centerz="7" radius="5">
-		<monster name="Spider" x="0" y="-4" z="7" spawntime="60" />
-		<monster name="Spider" x="0" y="3" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="750" centery="577" centerz="7" radius="1">
 		<monster name="Smuggler" x="-1" y="1" z="7" spawntime="60" />
