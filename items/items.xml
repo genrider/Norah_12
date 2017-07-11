@@ -17432,19 +17432,19 @@
 		<attribute key="weight" value="600" />
 	</item>
 	<item id="9932" article="a" name="firewalker boots">
-		<attribute key="description" value="Wearing these boots reduces the damage gotten from fiery ground." />
+		<attribute key="description" value="Wearing these boots reduces the damage gotten from fire." />
 		<attribute key="weight" value="950" />
 		<attribute key="armor" value="2" />
 		<attribute key="slotType" value="feet" />
 		<attribute key="decayTo" value="10022" />
 		<attribute key="transformDeEquipTo" value="9933" />
-		<attribute key="absorbPercentFire" value="65" />
+		<attribute key="absorbPercentFire" value="25" />
 		<attribute key="duration" value="3600" />
 		<attribute key="showduration" value="1" />
 		<attribute key="showattributes" value="1" />
 	</item>
 	<item id="9933" article="a" name="firewalker boots">
-		<attribute key="description" value="Wearing these boots reduces the damage gotten from fiery ground." />
+		<attribute key="description" value="Wearing these boots reduces the damage gotten from fire." />
 		<attribute key="weight" value="950" />
 		<attribute key="armor" value="2" />
 		<attribute key="slotType" value="feet" />

@@ -32,66 +32,66 @@ local potions = {
 	[26031] = { -- supreme health potion
 		vocations = {4, 8},
 		minLevel = 200,
-		healthToAdd = { min = 900, max = 1200 },
+		healthToAdd = { min = 980, max = 1200 },
 		emptyFlask = 7635
 	},
 	[8473] = { -- ultimate health potion
 		vocations = {4, 8},
 		minLevel = 130,
-		healthToAdd = { min = 650, max = 850 },
+		healthToAdd = { min = 720, max = 850 },
 		emptyFlask = 7635
 	},
 	[7591] = { -- great health potion
 		vocations = {4, 8},
 		minLevel = 80,
-		healthToAdd = { min = 425, max = 575},
+		healthToAdd = { min = 465, max = 575},
 		emptyFlask = 7635
 	},
 	[26030] = { -- ultimate spirit potion
 		vocations = {3, 7},
 		minLevel = 130,
-		healthToAdd = { min = 550, max = 680},
-		manaToAdd = { min = 200, max = 290},
+		healthToAdd = { min = 570, max = 680},
+		manaToAdd = { min = 220, max = 290},
 		emptyFlask = 7635
 	},
 	[8472] = { -- great spitit potion
 		vocations = {3, 7},
 		minLevel = 80,
-		healthToAdd = { min = 310, max = 420},
-		manaToAdd = { min = 150, max = 250},
+		healthToAdd = { min = 350, max = 420},
+		manaToAdd = { min = 170, max = 250},
 		emptyFlask = 7635
 	},
 	[7588] = { -- strong health potion
 		vocations = {3, 4, 7, 8},
 		minLevel = 50,
-		healthToAdd = { min = 250, max = 350},
+		healthToAdd = { min = 290, max = 350},
 		emptyFlask = 7634
 	},
 	[7618] = { -- health potion
-		healthToAdd = { min = 125, max = 175},
+		healthToAdd = { min = 150, max = 175},
 		emptyFlask = 7636
 	},
 	-- Mana Potions
 	[26029] = { -- ultimate mana potion
 		vocations = {1, 2, 5, 6},
 		minLevel = 130,
-		manaToAdd = { min = 400, max = 600},
+		manaToAdd = { min = 450, max = 600},
 		emptyFlask = 7635
 	},
 	[7590] = { -- great mana potion
 		vocations = {1, 2, 5, 6},
 		minLevel = 80,
-		manaToAdd = { min = 170, max = 270},
+		manaToAdd = { min = 210, max = 270},
 		emptyFlask = 7635
 	},
 	[7589] = { -- strong mana potion
 		vocations = {1, 2, 3, 5, 6, 7},
 		minLevel = 50,
-		manaToAdd = { min = 135, max = 205},
+		manaToAdd = { min = 165, max = 205},
 		emptyFlask = 7634
 	},
 	[7620] = { -- mana potion
-		manaToAdd = { min = 100, max = 145},
+		manaToAdd = { min = 110, max = 145},
 		emptyFlask = 7636
 	},
 	[8704] = { -- small health potion

@@ -8262,9 +8262,6 @@
 	<spawn centerx="557" centery="608" centerz="7" radius="1">
 		<monster name="Snake" x="-1" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="754" centery="608" centerz="7" radius="1">
-		<monster name="Smuggler" x="-1" y="-1" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="891" centery="608" centerz="7" radius="1">
 		<monster name="Water Buffalo" x="1" y="0" z="7" spawntime="60" />
 	</spawn>

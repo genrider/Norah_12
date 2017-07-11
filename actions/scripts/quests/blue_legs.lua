@@ -2,7 +2,7 @@ function onUse(player, item, frompos, item2, topos)
 
 local reward = {
 	[3151] = { item = 7730, count = 1, storage = Storage.Blue.Reward02},
-	[3152] = { item = 2160, count = math.random(3, 12), storage = Storage.Blue.Reward01}
+	[3152] = { item = 2160, count = math.random(5, 8), storage = Storage.Blue.Reward01}
 	}
 local v = reward[item.uid]
 	

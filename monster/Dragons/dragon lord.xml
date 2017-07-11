@@ -63,13 +63,13 @@
 		<item id="2547" countmax="7" chance="6700" /><!-- power bolt -->
 		<item id="5948" chance="1040" /><!-- red dragon leather -->
 		<item id="5882" chance="1920" /><!-- red dragon scale -->
-		<item id="2498" chance="290" /><!-- royal helmet -->
+		<item id="2498" chance="240" /><!-- royal helmet -->
 		<item id="7378" countmax="3" chance="8800" /><!-- royal spear -->
 		<item id="2146" chance="5300" /><!-- small sapphire -->
 		<item id="2479" chance="660" /><!-- strange helmet -->
 		<item id="7588" chance="970" /><!-- strong health potion -->
 		<item id="2528" chance="450" /><!-- tower shield -->
-		<item id="7402" chance="220" /><!-- dragon slayer -->
-		<item id="2492" chance="190" /><!-- dragon scale mail -->
+		<item id="7402" chance="180" /><!-- dragon slayer -->
+		<item id="2492" chance="110" /><!-- dragon scale mail -->
 	</loot>
 </monster>

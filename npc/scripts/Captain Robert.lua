@@ -28,7 +28,7 @@ local travelNode = keywordHandler:addKeyword({'zagond'}, StdModule.say, {npcHand
 	travelNode:addChildKeyword({'yes'}, StdModule.travel, {npcHandler = npcHandler, premium = true, level = 0, cost = 250, destination = {x = 1129, y = 1232, z = 7} })
 	travelNode:addChildKeyword({'no'}, StdModule.say, {npcHandler = npcHandler, onlyFocus = true, reset = true, text = 'We would like to serve you some time.'})
 	
-local travelNode = keywordHandler:addKeyword({'tigunda'}, StdModule.say, {npcHandler = npcHandler, onlyFocus = true, text = 'Do you want to travel to {Tigunda} for {200} gold coins?'})
+local travelNode = keywordHandler:addKeyword({'tigunda'}, StdModule.say, {npcHandler = npcHandler, onlyFocus = true, text = 'Do you want to travel to {Tigunda} for {250} gold coins?'})
 	travelNode:addChildKeyword({'yes'}, StdModule.travel, {npcHandler = npcHandler, premium = true, level = 0, cost = 250, destination = {x = 1260, y = 576, z = 7} })
 	travelNode:addChildKeyword({'no'}, StdModule.say, {npcHandler = npcHandler, onlyFocus = true, reset = true, text = 'We would like to serve you some time.'})
 

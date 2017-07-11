@@ -8,13 +8,10 @@
 	<house name="Cedrod 8" houseid="20" entryx="620" entryy="541" entryz="7" rent="0" townid="1" size="4" />
 	<house name="Cedrod 9" houseid="21" entryx="626" entryy="540" entryz="7" rent="0" townid="1" size="13" />
 	<house name="Cedrod 10" houseid="22" entryx="637" entryy="540" entryz="7" rent="0" townid="1" size="11" />
-	<house name="Chribald 1" houseid="23" entryx="604" entryy="566" entryz="7" rent="0" townid="1" size="10" />
-	<house name="Chribald 2" houseid="24" entryx="611" entryy="563" entryz="7" rent="0" townid="1" size="10" />
-	<house name="Chribald 3" houseid="25" entryx="611" entryy="558" entryz="7" rent="0" townid="1" size="10" />
-	<house name="Chribald 4" houseid="26" entryx="615" entryy="559" entryz="7" rent="0" townid="1" size="8" />
-	<house name="Chribald 5" houseid="27" entryx="619" entryy="559" entryz="7" rent="0" townid="1" size="10" />
-	<house name="Chribald 6" houseid="28" entryx="619" entryy="558" entryz="7" rent="0" townid="1" size="10" />
-	<house name="Chribald 7" houseid="29" entryx="615" entryy="558" entryz="7" rent="0" townid="1" size="10" />
+	<house name="Chribald 1" houseid="24" entryx="611" entryy="563" entryz="7" rent="0" townid="1" size="20" />
+	<house name="Chribald 2" houseid="25" entryx="611" entryy="558" entryz="7" rent="0" townid="1" size="10" />
+	<house name="Chribald 3" houseid="27" entryx="619" entryy="559" entryz="7" rent="0" townid="1" size="18" />
+	<house name="Chribald 4" houseid="28" entryx="619" entryy="558" entryz="7" rent="0" townid="1" size="20" />
 	<house name="Delvin 1" houseid="38" entryx="609" entryy="588" entryz="7" rent="0" townid="1" size="10" />
 	<house name="Delvin 2" houseid="39" entryx="610" entryy="588" entryz="7" rent="0" townid="1" size="13" />
 	<house name="Delvin 4" houseid="41" entryx="610" entryy="584" entryz="7" rent="0" townid="1" size="19" />
