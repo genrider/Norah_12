@@ -28,6 +28,8 @@ npcHandler:addModule(shopModule)
 	shopModule:addBuyableItem({'watch'}, 					2036, 20,		'watch')
 	shopModule:addBuyableItem({'worm'}, 					3976, 1,		'worm')
 	shopModule:addBuyableItem({'muck remover'},				18395, 2500,	'muck remover')
+	shopModule:addBuyableItem({'oven spatula'},				2569, 8,		'oven spatula')
+	
 	
 	
 	--SELL--

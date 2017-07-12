@@ -37,16 +37,19 @@ npcHandler:addModule(shopModule)
 	shopModule:addBuyableItem({'underworld rod'}, 			8910, 22000,	'underworld rod')
 	--potions--
 	shopModule:addBuyableItem({'antidote potion'}, 			8474, 50,		'antidote potion')
-	shopModule:addBuyableItem({'health potion'}, 			7618, 45,		'health potion')
+	
 	shopModule:addBuyableItem({'mana potion'}, 				7620, 50,		'mana potion')
-	shopModule:addBuyableItem({'strong health potion'}, 	7588, 100,		'strong health potion')
 	shopModule:addBuyableItem({'strong mana potion'}, 		7589, 80,		'strong mana potion')
-	shopModule:addBuyableItem({'great health potion'}, 		7591, 190,		'great health potion')
 	shopModule:addBuyableItem({'great mana potion'}, 		7590, 120,		'great mana potion')
-	shopModule:addBuyableItem({'great spirit potion'}, 		8472, 190,		'great spirit potion')
+	shopModule:addBuyableItem({'ultimate mana potion'}, 	26029, 350,		'ultimate mana potion')
+	
+	shopModule:addBuyableItem({'health potion'}, 			7618, 45,		'health potion')
+	shopModule:addBuyableItem({'strong health potion'}, 	7588, 100,		'strong health potion')
+	shopModule:addBuyableItem({'great health potion'}, 		7591, 190,		'great health potion')
 	shopModule:addBuyableItem({'ultimate health potion'}, 	8473, 310,		'ultimate health potion')
 	shopModule:addBuyableItem({'supreme health potion'}, 	26031, 500,		'supreme health potion')
-	shopModule:addBuyableItem({'ultimate mana potion'}, 	26029, 350,		'ultimate mana potion')
+	
+	shopModule:addBuyableItem({'great spirit potion'}, 		8472, 190,		'great spirit potion')
 	shopModule:addBuyableItem({'ultimate spirit potion'}, 	26030, 350,		'ultimate spirit potion')
 	--others--
 	shopModule:addBuyableItem({'crystal ball'}, 			2192, 530,		'crystal ball')

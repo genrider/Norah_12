@@ -415,7 +415,9 @@
 	<action itemid="26030" script="other/potions.lua" />
 	<action itemid="26031" script="other/potions.lua" />
 	<action itemid="2692" script="other/createbread.lua" />
+	<action itemid="2693" script="other/createbread.lua" />
 	<action itemid="2694" script="other/createbread.lua" />
+	<action itemid="2569" script="other/createbread.lua" />
 	<action itemid="5467" script="other/createrum.lua" />
 	<action fromid="6436" toid="6447" script="other/windows.lua" />
 	<action fromid="6450" toid="6473" script="other/windows.lua" />
