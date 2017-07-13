@@ -57,22 +57,22 @@
 		<item id="20136" chance="8800" /><!-- Basalt Fetish -->
 		<item id="8473" chance="10250" /><!-- UHP -->
 		<item id="7590" chance="11240" /><!-- GMP -->
-		<item id="9970" chance="10200" /><!-- Small Topazes -->
-		<item id="20137" chance="9470" /><!-- Basalt Figurine -->
-		<item id="20109" chance="10930" /><!-- Bonecarving Knife -->
+		<item id="9970" chance="8200" /><!-- Small Topazes -->
+		<item id="20137" chance="5470" /><!-- Basalt Figurine -->
+		<item id="20109" chance="7930" /><!-- Bonecarving Knife -->
 		<item id="20110" chance="7320" /><!-- Bone Fetish -->
 		<item id="13757" chance="21130" /><!-- Coal -->
-		<item id="20106" chance="17260" /><!-- lost basher's spike -->
-		<item id="20134" chance="11870" /><!-- Red Hair Dye -->
-		<item id="20126" chance="4500" /><!-- Wimp Tooth Chain -->
+		<item id="20106" chance="9260" /><!-- lost basher's spike -->
+		<item id="20134" chance="8870" /><!-- Red Hair Dye -->
+		<item id="20126" chance="2500" /><!-- Wimp Tooth Chain -->
 		<item id="2215" chance="2560" /><!-- Dwarven Ring -->
 		<item id="2529" chance="3710" /><!-- Black Shield -->
 		<item id="7750" chance="900" /><!-- Knight Axe -->
-		<item id="5880" chance="5280" /><!-- Iron Ore -->
-		<item id="2432" chance="310" /><!-- Fire Axe -->
-		<item id="20108" chance="1410" /><!-- Buckle -->
+		<item id="5880" chance="3280" /><!-- Iron Ore -->
+		<item id="2432" chance="210" /><!-- Fire Axe -->
+		<item id="20108" chance="510" /><!-- Buckle -->
 		<item id="2114" chance="4450" /><!-- Piggy Bank -->
-		<item id="20106" chance="14380" /><!-- Lost Basher's Spike -->
+		<item id="20106" chance="8380" /><!-- Lost Basher's Spike -->
 		<item id="20107" chance="1730" /><!-- bloody dwarven beard -->
 		<item id="7452" chance="620" /><!-- spicked squelcher -->
 		<item id="7886" chance="580" /><!-- terra boots -->

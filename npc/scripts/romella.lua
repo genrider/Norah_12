@@ -123,6 +123,7 @@ shopModule:addSellableItem({'guardian halberd'},   		2427, 11000,   	'guardian h
 shopModule:addSellableItem({'orcish axe'},         		2428, 350,   	'orcish axe')
 shopModule:addSellableItem({'barbarian axe'},      		2429, 185,    	'barbarian axe')
 shopModule:addSellableItem({'knight axe'},         		2430, 2000,  	'knight axe')
+shopModule:addSellableItem({'knight axe'},         		7750, 2100,  	'knight axe')
 shopModule:addSellableItem({'fire axe'},           		2432, 8000,  	'fire axe')
 shopModule:addSellableItem({'dwarven axe'},         	2435, 1500,   	'dwarven axe')
 shopModule:addSellableItem({'daramanian waraxe'},    	2440, 1000,  	'daramanian waraxe')

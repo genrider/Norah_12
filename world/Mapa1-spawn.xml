@@ -16339,13 +16339,13 @@
 	<spawn centerx="646" centery="803" centerz="8" radius="1">
 		<monster name="Dragon Lord" x="-1" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="827" centery="803" centerz="8" radius="5">
+		<monster name="Scarab" x="-3" y="-1" z="8" spawntime="60" />
+		<monster name="Larva" x="1" y="1" z="8" spawntime="60" />
+		<monster name="Scarab" x="1" y="3" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="609" centery="804" centerz="8" radius="1">
 		<monster name="Dragon Lord" x="-1" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="826" centery="804" centerz="8" radius="5">
-		<monster name="Scarab" x="-2" y="-2" z="8" spawntime="60" />
-		<monster name="Larva" x="2" y="0" z="8" spawntime="60" />
-		<monster name="Scarab" x="2" y="2" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="858" centery="804" centerz="8" radius="5">
 		<monster name="Scarab" x="1" y="0" z="8" spawntime="60" />
@@ -18534,6 +18534,7 @@
 		<monster name="Crawler" x="-3" y="5" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="437" centery="1409" centerz="8" radius="25">
+		<monster name="Water Elemental" x="-24" y="-16" z="8" spawntime="60" />
 		<monster name="Water Elemental" x="-22" y="-15" z="8" spawntime="60" />
 		<monster name="Water Elemental" x="-2" y="-14" z="8" spawntime="60" />
 		<monster name="Water Elemental" x="10" y="-14" z="8" spawntime="60" />
@@ -18544,10 +18545,14 @@
 		<monster name="Water Elemental" x="20" y="-4" z="8" spawntime="60" />
 		<monster name="Water Elemental" x="-22" y="-2" z="8" spawntime="60" />
 		<monster name="Water Elemental" x="22" y="-2" z="8" spawntime="60" />
+		<monster name="Water Elemental" x="-20" y="1" z="8" spawntime="60" />
 		<monster name="Water Elemental" x="-17" y="7" z="8" spawntime="60" />
 		<monster name="Water Elemental" x="1" y="7" z="8" spawntime="60" />
 		<monster name="Water Elemental" x="8" y="7" z="8" spawntime="60" />
+		<monster name="Water Elemental" x="23" y="7" z="8" spawntime="60" />
+		<monster name="Water Elemental" x="-9" y="11" z="8" spawntime="60" />
 		<monster name="Water Elemental" x="16" y="11" z="8" spawntime="60" />
+		<monster name="Water Elemental" x="21" y="11" z="8" spawntime="60" />
 		<monster name="Water Elemental" x="1" y="14" z="8" spawntime="60" />
 		<monster name="Water Elemental" x="2" y="14" z="8" spawntime="1280" />
 	</spawn>
@@ -22446,6 +22451,8 @@
 		<monster name="Water Elemental" x="-4" y="16" z="9" spawntime="60" />
 		<monster name="Water Elemental" x="-24" y="17" z="9" spawntime="60" />
 		<monster name="Water Elemental" x="-19" y="22" z="9" spawntime="60" />
+		<monster name="Water Elemental" x="24" y="25" z="9" spawntime="60" />
+		<monster name="Water Elemental" x="8" y="26" z="9" spawntime="60" />
 		<monster name="Water Elemental" x="-14" y="27" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="168" centery="1426" centerz="9" radius="1">
@@ -22485,6 +22492,12 @@
 	<spawn centerx="101" centery="1443" centerz="9" radius="1">
 		<monster name="Hand of Cursed Fate" x="-1" y="0" z="9" spawntime="60" />
 	</spawn>
+	<spawn centerx="433" centery="1447" centerz="9" radius="1">
+		<monster name="Water Elemental" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="431" centery="1450" centerz="9" radius="1">
+		<monster name="Water Elemental" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
 	<spawn centerx="160" centery="1451" centerz="9" radius="1">
 		<monster name="Demonic" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
@@ -22506,14 +22519,30 @@
 	<spawn centerx="121" centery="1456" centerz="9" radius="1">
 		<monster name="Destroyer" x="-1" y="0" z="9" spawntime="60" />
 	</spawn>
+	<spawn centerx="414" centery="1456" centerz="9" radius="1">
+		<monster name="Water Elemental" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="385" centery="1457" centerz="9" radius="1">
+		<monster name="Water Elemental" x="0" y="0" z="9" spawntime="60" />
+		<monster name="Water Elemental" x="1" y="0" z="9" spawntime="60" />
+	</spawn>
 	<spawn centerx="85" centery="1458" centerz="9" radius="1">
 		<monster name="Demon" x="0" y="-1" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="79" centery="1461" centerz="9" radius="1">
 		<monster name="Hellhound" x="-1" y="0" z="9" spawntime="60" />
 	</spawn>
+	<spawn centerx="390" centery="1461" centerz="9" radius="1">
+		<monster name="Water Elemental" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
 	<spawn centerx="89" centery="1462" centerz="9" radius="1">
 		<monster name="Demonic" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="405" centery="1462" centerz="9" radius="1">
+		<monster name="Water Elemental" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="396" centery="1464" centerz="9" radius="1">
+		<monster name="Water Elemental" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="90" centery="1465" centerz="9" radius="1">
 		<monster name="Hellhound" x="0" y="1" z="9" spawntime="60" />
@@ -25981,8 +26010,57 @@
 	<spawn centerx="249" centery="1402" centerz="10" radius="1">
 		<monster name="Demon" x="0" y="-1" z="10" spawntime="60" />
 	</spawn>
+	<spawn centerx="395" centery="1402" centerz="10" radius="1">
+		<monster name="Massive Water Elemental" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="410" centery="1403" centerz="10" radius="1">
+		<monster name="Massive Water Elemental" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="388" centery="1406" centerz="10" radius="1">
+		<monster name="Massive Water Elemental" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="400" centery="1409" centerz="10" radius="1">
+		<monster name="Massive Water Elemental" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="420" centery="1409" centerz="10" radius="1">
+		<monster name="Massive Water Elemental" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="366" centery="1410" centerz="10" radius="1">
+		<monster name="Massive Water Elemental" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="380" centery="1413" centerz="10" radius="1">
+		<monster name="Massive Water Elemental" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="361" centery="1415" centerz="10" radius="1">
+		<monster name="Massive Water Elemental" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="409" centery="1417" centerz="10" radius="1">
+		<monster name="Massive Water Elemental" x="0" y="0" z="10" spawntime="60" />
+		<monster name="Massive Water Elemental" x="1" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="429" centery="1419" centerz="10" radius="1">
+		<monster name="Massive Water Elemental" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="365" centery="1421" centerz="10" radius="1">
+		<monster name="Massive Water Elemental" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="388" centery="1423" centerz="10" radius="1">
+		<monster name="Massive Water Elemental" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="361" centery="1427" centerz="10" radius="1">
+		<monster name="Massive Water Elemental" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="381" centery="1428" centerz="10" radius="1">
+		<monster name="Massive Water Elemental" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
 	<spawn centerx="188" centery="1430" centerz="10" radius="1">
 		<monster name="Hellhound" x="0" y="1" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="411" centery="1430" centerz="10" radius="1">
+		<monster name="Massive Water Elemental" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="423" centery="1430" centerz="10" radius="1">
+		<monster name="Massive Water Elemental" x="0" y="0" z="10" spawntime="60" />
 	</spawn>
 	<spawn centerx="162" centery="1431" centerz="10" radius="1">
 		<monster name="Hellhound" x="1" y="0" z="10" spawntime="60" />
@@ -26005,14 +26083,38 @@
 	<spawn centerx="165" centery="1435" centerz="10" radius="1">
 		<monster name="Hellhound" x="-1" y="0" z="10" spawntime="60" />
 	</spawn>
+	<spawn centerx="383" centery="1435" centerz="10" radius="1">
+		<monster name="Massive Water Elemental" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="359" centery="1437" centerz="10" radius="1">
+		<monster name="Massive Water Elemental" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="367" centery="1438" centerz="10" radius="1">
+		<monster name="Massive Water Elemental" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="402" centery="1439" centerz="10" radius="1">
+		<monster name="Massive Water Elemental" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="421" centery="1439" centerz="10" radius="1">
+		<monster name="Massive Water Elemental" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
 	<spawn centerx="176" centery="1441" centerz="10" radius="1">
 		<monster name="Hellhound" x="1" y="1" z="10" spawntime="60" />
 	</spawn>
 	<spawn centerx="115" centery="1442" centerz="10" radius="1">
 		<monster name="Demon" x="-1" y="0" z="10" spawntime="60" />
 	</spawn>
+	<spawn centerx="390" centery="1442" centerz="10" radius="1">
+		<monster name="Massive Water Elemental" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
 	<spawn centerx="124" centery="1445" centerz="10" radius="1">
 		<monster name="Dark Torturer" x="0" y="-1" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="369" centery="1446" centerz="10" radius="1">
+		<monster name="Massive Water Elemental" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="416" centery="1446" centerz="10" radius="1">
+		<monster name="Massive Water Elemental" x="0" y="0" z="10" spawntime="60" />
 	</spawn>
 	<spawn centerx="72" centery="1448" centerz="10" radius="1">
 		<monster name="Dark Torturer" x="-1" y="1" z="10" spawntime="60" />
@@ -26026,11 +26128,17 @@
 	<spawn centerx="124" centery="1449" centerz="10" radius="1">
 		<monster name="Demonic" x="0" y="0" z="10" spawntime="60" />
 	</spawn>
+	<spawn centerx="377" centery="1449" centerz="10" radius="1">
+		<monster name="Massive Water Elemental" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
 	<spawn centerx="81" centery="1450" centerz="10" radius="1">
 		<monster name="Hand of Cursed Fate" x="1" y="1" z="10" spawntime="60" />
 	</spawn>
 	<spawn centerx="141" centery="1450" centerz="10" radius="1">
 		<monster name="Dark Torturer" x="-1" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="410" centery="1452" centerz="10" radius="1">
+		<monster name="Massive Water Elemental" x="0" y="0" z="10" spawntime="60" />
 	</spawn>
 	<spawn centerx="119" centery="1453" centerz="10" radius="1">
 		<monster name="Hand of Cursed Fate" x="1" y="-1" z="10" spawntime="60" />
@@ -26065,6 +26173,12 @@
 	<spawn centerx="172" centery="1459" centerz="10" radius="1">
 		<monster name="Demonic" x="0" y="0" z="10" spawntime="60" />
 	</spawn>
+	<spawn centerx="380" centery="1459" centerz="10" radius="1">
+		<monster name="Massive Water Elemental" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="405" centery="1461" centerz="10" radius="1">
+		<monster name="Massive Water Elemental" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
 	<spawn centerx="164" centery="1467" centerz="10" radius="1">
 		<monster name="Hand of Cursed Fate" x="-1" y="1" z="10" spawntime="60" />
 	</spawn>
@@ -26073,6 +26187,9 @@
 	</spawn>
 	<spawn centerx="155" centery="1469" centerz="10" radius="1">
 		<monster name="Hand of Cursed Fate" x="0" y="1" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="400" centery="1471" centerz="10" radius="1">
+		<monster name="Massive Water Elemental" x="0" y="0" z="10" spawntime="60" />
 	</spawn>
 	<spawn centerx="329" centery="286" centerz="11" radius="3">
 		<monster name="Larva" x="0" y="-2" z="11" spawntime="60" />

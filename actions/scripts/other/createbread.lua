@@ -21,12 +21,13 @@ function onUse(player, item, fromPosition, target, toPosition, isHotkey)
 			player:addItem(2691, 1)
 			return true
 		elseif target.itemid == 2561 then
+			item:remove(1)
 			target:transform(8848, 0)
 			return true
 		end
-	elseif itemId == 2569 then
-		if target.itemid == 8848 then
-			target:transform(2561,0)
+	elseif itemId == 8848 then
+		if isInArray(ovens, target.itemid) then
+			item:transform(2561,0)
 			player:addItem(2687, 12)
 			return true
 		end
