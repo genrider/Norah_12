@@ -45,7 +45,6 @@
 	</voices>
 	<loot>
 		<item id="2148" countmax="40" chance="64000" /><!-- gold coin -->
-		<item id="2687" countmax="8" chance="29750" /><!-- cookie -->
 		<item id="2643" chance="4950" /><!-- leather boots -->
 		<item id="13537" chance="920" /><!-- bag of apple slices -->
 		<item id="2405" chance="3910" /><!-- sickle -->

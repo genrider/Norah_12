@@ -73,6 +73,6 @@
 		<item id="7419" chance="9800"/>					<!-- dreaded cleaver -->
 		<item id="2169" chance="6000"/>					<!-- time ring -->
 		<item id="7428" chance="2000"/>					<!-- bonebreaker -->
-		<item id="24740" chance="2000"/>				<!-- wolf backpack -->
+		<item id="24740" chance="10000"/>				<!-- wolf backpack -->
 	</loot>
 </monster>

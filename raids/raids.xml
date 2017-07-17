@@ -24,21 +24,24 @@
 	<raid name="The Horned Fox" file="normal/the_horned_fox.xml" interval2="1200" margin="120" />
 	<raid name="Necropharus" file="normal/necropharus.xml" interval2="1200" margin="120" />
 	<raid name="Yeti" file="normal/yeti.xml" interval2="1200" chance="1" margin="60" enabled="yes"/>
-	<raid name="Mad Mage" file="normal/mad mage.xml" interval2="1600" margin="120" />
+	<raid name="Mad Mage" file="normal/mad mage.xml" interval2="1200" margin="120" />
 	<raid name="Countess Sorrow" file="normal/Countess Sorrow.xml" interval2="1600" margin="120" />
-	<raid name="Dracola" file="normal/Dracola.xml" interval2="1600" margin="120" />
-	<raid name="Massacre" file="normal/Massacre.xml" interval2="1600" margin="120" />
-	<raid name="Mr. Punish" file="normal/Mr. Punish.xml" interval2="1600" margin="120" />
-	<raid name="The Handmaiden" file="normal/The Handmaiden.xml" interval2="1600" margin="120" />
-	<raid name="The Imperor" file="normal/The Imperor.xml" interval2="1600" margin="120" />
-	<raid name="Paiz the Pauperizer" file="normal/Paiz the Pauperizer.xml" interval2="1600" margin="120" />
-	<raid name="Chizzoron the Distorter" file="normal/Chizzoron the Distorter.xml" interval2="1600" margin="120" />
-	<raid name="zulazza" file="normal/zulazza.xml" interval2="1600" margin="120" />
+	<raid name="Dracola" file="normal/Dracola.xml" interval2="1200" margin="120" />
+	<raid name="Massacre" file="normal/Massacre.xml" interval2="1200" margin="120" />
+	<raid name="Mr. Punish" file="normal/Mr. Punish.xml" interval2="1200" margin="120" />
+	<raid name="The Handmaiden" file="normal/The Handmaiden.xml" interval2="1200" margin="120" />
+	<raid name="The Imperor" file="normal/The Imperor.xml" interval2="1200" margin="120" />
+	<raid name="Chizzoron the Distorter" file="normal/Chizzoron the Distorter.xml" interval2="1200" margin="120" />
+	<raid name="zulazza" file="normal/zulazza.xml" interval2="1200" margin="120" />
+	
+	<raid name="Bullwark" file="normal/Bullwark.xml" interval2="1200" margin="120" />
+	<raid name="Raging Mage" file="normal/Raging Mage.xml" interval2="1200" margin="120" />
+	<raid name="Cublarc the Plunderer" file="normal/Cublarc the Plunderer.xml" interval2="1200" margin="120" />
 	
 	<!-- Special -->
 	<!--  <raid name="Halloween Hare" file="special/halloween.xml" interval2="1200" margin="120" enabled="no" /> -->
 	<!-- <raid name="Ester pont" file="special/ester_pont.xml" interval2="1200" margin="120" enabled="no" /> -->
 	<!-- <raid name="Ester nilf" file="special/ester_nilf.xml" interval2="1200" margin="120" enabled="no" /> -->
-	<raid name="Orc nilf" file="special/Orc_nilf.xml" interval2="1600" margin="120" />
-	<raid name="Orc pont" file="special/Orc_pont.xml" interval2="1600" margin="120" />
+	<raid name="Orc nilf" file="special/Orc_nilf.xml" interval2="1200" margin="120" />
+	<raid name="Orc pont" file="special/Orc_pont.xml" interval2="1200" margin="120" />
 </raids>

@@ -89,6 +89,7 @@ shopModule:addSellableItem({'wooden shield'},            2512, 5,       'wooden 
 shopModule:addSellableItem({'battle shield'},            2513, 95,      'battle shield')
 shopModule:addSellableItem({'mastermind shield'},    2514, 50000,    'mastermind shield')
 shopModule:addSellableItem({'dragon shield'},            2516, 4000,     'dragon shield')
+shopModule:addSellableItem({'guardian shield'},            2515, 3500,     'guardian shield')
 shopModule:addSellableItem({'shield of honour'},      2517, 520,   'shield of honour')
 shopModule:addSellableItem({'beholder shield'},        2518, 1200,     'beholder shield')
 shopModule:addSellableItem({'crown shield'},              2519, 8000,     'crown shield')

@@ -59,7 +59,7 @@
 		<item id="2145" countmax="2" chance="4000"/>		<!-- small diamond -->
 		<item id="2214" chance="2000"/>						<!-- ring of healing -->
 		<item id="5911" chance="1700"/>						<!-- red piece of cloth -->
-		<item id="23544" chance="1090"/>					<!-- moohtant cudgel -->
+		<item id="23544" chance="890"/>					<!-- moohtant cudgel -->
 		<item id="2156" chance="880"/>						<!-- red gem -->
 		<item id="2154" chance="730"/>						<!-- yellow gem -->
 		<item id="7452" chance="440"/>						<!-- spiked squelcher -->
