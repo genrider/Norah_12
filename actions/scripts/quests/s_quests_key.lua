@@ -7,7 +7,7 @@ if player:getStorageValue(Storage.Black.Key) == -1 then
 			return player:sendTextMessage(MESSAGE_INFO_DESCR, 'You have found ' .. ItemType(2087):getName() .. ', but you have no room to take it.')
 		end
 			player:sendTextMessage(MESSAGE_INFO_DESCR, 'You have found a ' .. ItemType(2087):getName() .. '.')
-			player:setStorageValue(v.storage, 1)
+			player:setStorageValue(Storage.Black.Key, 1)
 		else
 			player:sendTextMessage(MESSAGE_INFO_DESCR, 'You have found a ' .. ItemType(2087):getName() .. ' weighing ' .. string.format('%.2f', (ItemType(2087):getWeight() / 100)) ..  ' oz it\'s too heavy.')
 		end

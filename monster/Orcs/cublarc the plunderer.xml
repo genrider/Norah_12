@@ -50,9 +50,9 @@
 		<item id="11113" chance="3890" /><!-- orc tooth -->
 		<item id="2428" chance="13020" /><!-- orcish axe -->
 		<item id="12435" chance="9800" /><!-- orc leather -->
-		<item id="8857" chance="1100" /><!-- silkweaver bow -->
+		<item id="8857" chance="3100" /><!-- silkweaver bow -->
 		<item id="12407" chance="4830" /><!-- broken crossbow -->
 		<item id="2455" chance="440" /><!-- crossbow -->
-		<item id="11338" chance="3000" /><!-- disgusting trophy -->
+		<item id="11338" chance="8000" /><!-- disgusting trophy -->
 	</loot>
 </monster>

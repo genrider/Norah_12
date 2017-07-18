@@ -59,10 +59,33 @@ local player = Player(cid)
 	elseif msgcontains(msg, "Morila") then
 		npcHandler:say("His house is located near south city gate.", cid)
 		return true
+		
+		
+	elseif msgcontains(msg, "stampor") then
+		npcHandler:say("Bring me 30 Hollow Stampor Hoof, 50 Stampor Horn and 100 Stampor Talons. Have you got it?",cid)
+		npcHandler.topic[cid] = 1
+		return true
+	elseif msgcontains(msg, "yes") then
+		if player:hasMount(11) then
+			player:say('You already have a Stampor', TALKTYPE_MONSTER_SAY)
+			return true
+		end
+		if npcHandler.topic[cid] == 1 then
+			if getPlayerItemCount(cid,13301) >= 30 and getPlayerItemCount(cid,13299) >=50 and getPlayerItemCount(cid,13300) >=100 then
+				player:removeItem(13301, 30)
+				player:removeItem(13299, 50)
+				player:removeItem(13300, 100)
+				npcHandler:say("There is your private stampor", cid)
+				player:addMount(11)
+			else
+				npcHandler:say("You do not have so many items.", cid)
+				npcHandler.topic[cid] = 0
+			end
+		end
 	end	
 end 
 
 npcHandler:setCallback(CALLBACK_MESSAGE_DEFAULT, creatureSayCallback)
-npcHandler:setMessage(MESSAGE_GREET, "Witaj wedrowcze, w czym ci moge pomoc?. Meaby, you want hear about {surroundings}.")
--- npcHandler:setMessage(MESSAGE_GREET, "Hello wanderer, how I can help you? Maybe you want to hear about {surroundings}.")
+--npcHandler:setMessage(MESSAGE_GREET, "Witaj wedrowcze, w czym ci moge pomoc?. Meaby, you want hear about {surroundings}.")
+ npcHandler:setMessage(MESSAGE_GREET, "Hello wanderer, how can I help you? Maybe you want to hear about {surroundings}.")
 npcHandler:addModule(FocusModule:new())  

@@ -31,7 +31,6 @@
 	<raid name="Mr. Punish" file="normal/Mr. Punish.xml" interval2="1200" margin="120" />
 	<raid name="The Handmaiden" file="normal/The Handmaiden.xml" interval2="1200" margin="120" />
 	<raid name="The Imperor" file="normal/The Imperor.xml" interval2="1200" margin="120" />
-	<raid name="Chizzoron the Distorter" file="normal/Chizzoron the Distorter.xml" interval2="1200" margin="120" />
 	<raid name="zulazza" file="normal/zulazza.xml" interval2="1200" margin="120" />
 	
 	<raid name="Bullwark" file="normal/Bullwark.xml" interval2="1200" margin="120" />
