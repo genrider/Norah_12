@@ -11111,6 +11111,9 @@
 	<spawn centerx="755" centery="909" centerz="7" radius="1">
 		<monster name="Nightmare" x="0" y="-1" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="788" centery="909" centerz="7" radius="1">
+		<monster name="Destroyer" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="614" centery="910" centerz="7" radius="1">
 		<monster name="Werewolf" x="0" y="-1" z="7" spawntime="512" />
 		<monster name="Werewolf" x="1" y="-1" z="7" spawntime="60" />
@@ -11186,6 +11189,9 @@
 	<spawn centerx="1229" centery="916" centerz="7" radius="1">
 		<monster name="Pirate Marauder" x="1" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="771" centery="917" centerz="7" radius="1">
+		<monster name="Destroyer" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="1245" centery="917" centerz="7" radius="1">
 		<monster name="Pirate Buccaneer" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
@@ -11201,11 +11207,17 @@
 	<spawn centerx="1153" centery="918" centerz="7" radius="1">
 		<monster name="Parrot" x="-1" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="760" centery="919" centerz="7" radius="1">
+		<monster name="Destroyer" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="1090" centery="919" centerz="7" radius="1">
 		<monster name="Beholder" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="600" centery="920" centerz="7" radius="1">
 		<monster name="Werewolf" x="0" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="784" centery="920" centerz="7" radius="1">
+		<monster name="Destroyer" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="949" centery="920" centerz="7" radius="1">
 		<monster name="Chicken" x="-1" y="-1" z="7" spawntime="60" />
@@ -11238,6 +11250,9 @@
 	<spawn centerx="740" centery="924" centerz="7" radius="1">
 		<monster name="Braindeath" x="-1" y="-1" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="772" centery="924" centerz="7" radius="1">
+		<monster name="Destroyer" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="950" centery="924" centerz="7" radius="1">
 		<monster name="Chicken" x="0" y="-1" z="7" spawntime="60" />
 		<monster name="Chicken" x="-1" y="0" z="7" spawntime="60" />
@@ -11268,6 +11283,9 @@
 	</spawn>
 	<spawn centerx="734" centery="926" centerz="7" radius="1">
 		<monster name="Nightmare" x="0" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="805" centery="926" centerz="7" radius="1">
+		<monster name="Destroyer" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="923" centery="926" centerz="7" radius="1">
 		<monster name="Chicken" x="0" y="-1" z="7" spawntime="60" />
@@ -11305,11 +11323,17 @@
 	<spawn centerx="637" centery="930" centerz="7" radius="1">
 		<monster name="Haunted Treeling" x="0" y="-1" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="785" centery="930" centerz="7" radius="1">
+		<monster name="Destroyer" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="744" centery="931" centerz="7" radius="1">
 		<monster name="Betrayed Wraith" x="0" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="755" centery="931" centerz="7" radius="1">
 		<monster name="Nightmare" x="-1" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="762" centery="931" centerz="7" radius="1">
+		<monster name="Destroyer" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1072" centery="932" centerz="7" radius="1">
 		<monster name="Beholder" x="1" y="1" z="7" spawntime="60" />
@@ -11322,6 +11346,9 @@
 	</spawn>
 	<spawn centerx="715" centery="935" centerz="7" radius="1">
 		<monster name="Betrayed Wraith" x="-1" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="798" centery="935" centerz="7" radius="1">
+		<monster name="Destroyer" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1104" centery="935" centerz="7" radius="1">
 		<monster name="Bog Raider" x="0" y="-1" z="7" spawntime="60" />
@@ -11342,9 +11369,6 @@
 	<spawn centerx="766" centery="937" centerz="7" radius="1">
 		<monster name="Braindeath" x="-1" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="788" centery="937" centerz="7" radius="1">
-		<monster name="Nightmare" x="-1" y="1" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="984" centery="937" centerz="7" radius="1">
 		<npc name="Yenald" x="-1" y="0" z="7" spawntime="60" direction="2" />
 	</spawn>
@@ -11354,17 +11378,14 @@
 	<spawn centerx="779" centery="938" centerz="7" radius="1">
 		<monster name="Braindeath" x="-1" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="804" centery="938" centerz="7" radius="1">
-		<monster name="Braindeath" x="-1" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="811" centery="938" centerz="7" radius="1">
-		<monster name="Nightmare" x="0" y="-1" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="639" centery="939" centerz="7" radius="1">
 		<monster name="Haunted Treeling" x="0" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="701" centery="939" centerz="7" radius="1">
 		<monster name="Nightmare Scion" x="-1" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="809" centery="939" centerz="7" radius="1">
+		<monster name="Destroyer" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="619" centery="940" centerz="7" radius="1">
 		<monster name="Werewolf" x="-1" y="0" z="7" spawntime="60" />
@@ -11405,6 +11426,9 @@
 	<spawn centerx="740" centery="942" centerz="7" radius="1">
 		<monster name="Nightmare Scion" x="-1" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="788" centery="942" centerz="7" radius="1">
+		<monster name="Destroyer" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="721" centery="943" centerz="7" radius="1">
 		<monster name="Betrayed Wraith" x="1" y="-1" z="7" spawntime="60" />
 	</spawn>
@@ -11413,6 +11437,9 @@
 	</spawn>
 	<spawn centerx="732" centery="944" centerz="7" radius="1">
 		<monster name="Destroyer" x="-1" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="799" centery="944" centerz="7" radius="1">
+		<monster name="Destroyer" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1003" centery="944" centerz="7" radius="1">
 		<npc name="Wicemen" x="0" y="-1" z="7" spawntime="60" direction="2" />
@@ -11441,8 +11468,8 @@
 	<spawn centerx="704" centery="946" centerz="7" radius="1">
 		<monster name="Betrayed Wraith" x="-1" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="789" centery="946" centerz="7" radius="1">
-		<monster name="Nightmare" x="-1" y="0" z="7" spawntime="60" />
+	<spawn centerx="809" centery="946" centerz="7" radius="1">
+		<monster name="Destroyer" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="863" centery="946" centerz="7" radius="1">
 		<monster name="Braindeath" x="1" y="-1" z="7" spawntime="60" />
@@ -11485,9 +11512,6 @@
 	<spawn centerx="690" centery="950" centerz="7" radius="1">
 		<monster name="Braindeath" x="0" y="-1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="794" centery="951" centerz="7" radius="1">
-		<monster name="Nightmare" x="0" y="-1" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="817" centery="951" centerz="7" radius="1">
 		<monster name="Nightmare" x="-1" y="-1" z="7" spawntime="60" />
 	</spawn>
@@ -11499,6 +11523,12 @@
 	</spawn>
 	<spawn centerx="615" centery="952" centerz="7" radius="1">
 		<monster name="Giant Spider" x="0" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="804" centery="952" centerz="7" radius="1">
+		<monster name="Destroyer" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="851" centery="952" centerz="7" radius="1">
+		<monster name="Destroyer" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1075" centery="952" centerz="7" radius="1">
 		<monster name="Beholder" x="-1" y="0" z="7" spawntime="60" />
@@ -11519,8 +11549,14 @@
 	<spawn centerx="671" centery="954" centerz="7" radius="1">
 		<monster name="Braindeath" x="1" y="-1" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="788" centery="954" centerz="7" radius="1">
+		<monster name="Destroyer" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="822" centery="954" centerz="7" radius="1">
 		<monster name="Nightmare Scion" x="0" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="828" centery="954" centerz="7" radius="1">
+		<monster name="Destroyer" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="979" centery="954" centerz="7" radius="1">
 		<npc name="Dahold" x="0" y="-1" z="7" spawntime="60" direction="2" />
@@ -11538,23 +11574,20 @@
 	<spawn centerx="790" centery="957" centerz="7" radius="1">
 		<monster name="Nightmare Scion" x="0" y="-1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="797" centery="957" centerz="7" radius="1">
-		<monster name="Nightmare" x="-1" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="833" centery="957" centerz="7" radius="1">
 		<monster name="Nightmare Scion" x="-1" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="700" centery="958" centerz="7" radius="1">
 		<monster name="Braindeath" x="1" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="794" centery="959" centerz="7" radius="1">
-		<monster name="Nightmare Scion" x="0" y="-1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="833" centery="960" centerz="7" radius="1">
-		<monster name="Nightmare" x="-1" y="0" z="7" spawntime="60" />
+	<spawn centerx="798" centery="958" centerz="7" radius="1">
+		<monster name="Destroyer" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1098" centery="960" centerz="7" radius="1">
 		<monster name="Bog Raider" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="818" centery="961" centerz="7" radius="1">
+		<monster name="Destroyer" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="854" centery="961" centerz="7" radius="1">
 		<monster name="Braindeath" x="-1" y="0" z="7" spawntime="60" />
@@ -11565,12 +11598,6 @@
 	<spawn centerx="1089" centery="961" centerz="7" radius="1">
 		<monster name="Snake" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Snake" x="-1" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="817" centery="962" centerz="7" radius="1">
-		<monster name="Nightmare Scion" x="0" y="-1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="796" centery="963" centerz="7" radius="1">
-		<monster name="Nightmare Scion" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="839" centery="963" centerz="7" radius="1">
 		<monster name="Destroyer" x="-1" y="0" z="7" spawntime="60" />
@@ -11587,11 +11614,13 @@
 	<spawn centerx="799" centery="965" centerz="7" radius="1">
 		<monster name="Braindeath" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="858" centery="965" centerz="7" radius="1">
+		<monster name="Destroyer" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="1081" centery="965" centerz="7" radius="1">
 		<monster name="Beholder" x="0" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="831" centery="966" centerz="7" radius="1">
-		<monster name="Nightmare Scion" x="-1" y="0" z="7" spawntime="60" />
 		<monster name="Nightmare" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1043" centery="966" centerz="7" radius="1">
@@ -11624,10 +11653,6 @@
 	<spawn centerx="1100" centery="971" centerz="7" radius="1">
 		<monster name="Bog Raider" x="1" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="813" centery="972" centerz="7" radius="1">
-		<monster name="Betrayed Wraith" x="0" y="-1" z="7" spawntime="60" />
-		<monster name="Nightmare" x="-1" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="964" centery="973" centerz="7" radius="1">
 		<monster name="Chicken" x="0" y="-1" z="7" spawntime="60" />
 		<monster name="Chicken" x="-1" y="0" z="7" spawntime="60" />
@@ -11646,11 +11671,14 @@
 	<spawn centerx="1003" centery="974" centerz="7" radius="1">
 		<monster name="Spider" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="804" centery="975" centerz="7" radius="1">
+		<monster name="Destroyer" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="823" centery="975" centerz="7" radius="1">
+		<monster name="Destroyer" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="840" centery="975" centerz="7" radius="1">
 		<monster name="Braindeath" x="0" y="-1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="799" centery="976" centerz="7" radius="1">
-		<monster name="Betrayed Wraith" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="822" centery="977" centerz="7" radius="1">
 		<monster name="Nightmare Scion" x="1" y="0" z="7" spawntime="60" />
@@ -11664,6 +11692,9 @@
 	</spawn>
 	<spawn centerx="840" centery="979" centerz="7" radius="1">
 		<monster name="Nightmare" x="-1" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="856" centery="979" centerz="7" radius="1">
+		<monster name="Destroyer" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="966" centery="984" centerz="7" radius="1">
 		<monster name="Chicken" x="0" y="-1" z="7" spawntime="60" />
@@ -27101,9 +27132,6 @@
 	</spawn>
 	<spawn centerx="769" centery="453" centerz="11" radius="1">
 		<monster name="Elder Wyrm" x="-1" y="-1" z="11" spawntime="60" />
-	</spawn>
-	<spawn centerx="449" centery="459" centerz="11" radius="1">
-		<monster name="Mad Mage" x="0" y="0" z="11" spawntime="60" />
 	</spawn>
 	<spawn centerx="482" centery="459" centerz="11" radius="1">
 		<monster name="Dark Mage" x="0" y="0" z="11" spawntime="60" />
