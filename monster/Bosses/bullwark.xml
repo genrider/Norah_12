@@ -62,13 +62,13 @@
 		<item id="2145" countmax="2" chance="44000"/>		<!-- small diamond -->
 		<item id="2214" chance="22000"/>						<!-- ring of healing -->
 		<item id="5911" chance="11700"/>						<!-- red piece of cloth -->
-		<item id="23544" chance="9100"/>					<!-- moohtant cudgel -->
+		<item id="23544" chance="15100"/>					<!-- moohtant cudgel -->
 		<item id="2156" chance="8880"/>						<!-- red gem -->
 		<item id="2154" chance="7730"/>						<!-- yellow gem -->
 		<item id="7452" chance="4440"/>						<!-- spiked squelcher -->
-		<item id="7427" chance="7290"/>						<!-- chaos mace -->
+		<item id="7427" chance="12290"/>						<!-- chaos mace -->
 		<item id="9971" chance="2290"/>						<!-- gold ingot -->
 		<item id="7401" chance="2290"/>						<!-- minotaur trophy -->
-		<item id="23590" chance="8000"/>					<!-- one hit wonder -->
+		<item id="23590" chance="15000"/>					<!-- one hit wonder -->
 	</loot>
 </monster>

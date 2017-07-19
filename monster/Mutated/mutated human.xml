@@ -68,7 +68,7 @@
 		<item id="2376" chance="5030" /><!-- sword -->
 		<item id="9808" chance="190" /><!-- rusty armor -->
 		<item id="7910" chance="580" /><!-- peanut -->
-		<item id="2801" chance="920" /><!-- fern -->
+		<item id="2801" chance="2520" /><!-- fern -->
 		<item id="2170" chance="70" /><!-- silver amulet -->
 	</loot>
 </monster>

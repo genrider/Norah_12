@@ -8552,6 +8552,9 @@
 	<spawn centerx="1112" centery="630" centerz="7" radius="1">
 		<monster name="Stampor" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="1133" centery="630" centerz="7" radius="1">
+		<monster name="Stampor" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="775" centery="631" centerz="7" radius="1">
 		<monster name="Minotaur" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
@@ -8592,9 +8595,6 @@
 	</spawn>
 	<spawn centerx="828" centery="634" centerz="7" radius="1">
 		<monster name="Novice of the Cult" x="0" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="1133" centery="634" centerz="7" radius="1">
-		<monster name="Stampor" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1166" centery="634" centerz="7" radius="13">
 		<monster name="Stampor" x="-10" y="-13" z="7" spawntime="60" />
@@ -8652,6 +8652,9 @@
 	<spawn centerx="955" centery="639" centerz="7" radius="1">
 		<monster name="Bonelord" x="0" y="-1" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="1149" centery="639" centerz="7" radius="1">
+		<monster name="Stampor" x="-1" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="734" centery="640" centerz="7" radius="1">
 		<monster name="Wasp" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -8661,6 +8664,9 @@
 	<spawn centerx="941" centery="640" centerz="7" radius="1">
 		<monster name="Bonelord" x="1" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="1104" centery="640" centerz="7" radius="1">
+		<monster name="Stampor" x="1" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="468" centery="641" centerz="7" radius="1">
 		<monster name="Mutated Human" x="-1" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -8669,9 +8675,6 @@
 	</spawn>
 	<spawn centerx="830" centery="641" centerz="7" radius="1">
 		<monster name="Enlightened of the Cult" x="-1" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="1147" centery="641" centerz="7" radius="1">
-		<monster name="Stampor" x="-1" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="454" centery="642" centerz="7" radius="1">
 		<monster name="Mutated Human" x="-1" y="0" z="7" spawntime="60" />
@@ -8708,9 +8711,6 @@
 	</spawn>
 	<spawn centerx="1078" centery="644" centerz="7" radius="1">
 		<monster name="Blue Djinn" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="1106" centery="644" centerz="7" radius="1">
-		<monster name="Stampor" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="466" centery="645" centerz="7" radius="1">
 		<monster name="Mutated Human" x="-1" y="0" z="7" spawntime="60" />
@@ -8765,6 +8765,7 @@
 	<spawn centerx="741" centery="648" centerz="7" radius="1">
 		<monster name="Wasp" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="1114" centery="648" centerz="7" radius="1" />
 	<spawn centerx="781" centery="649" centerz="7" radius="1">
 		<monster name="Minotaur" x="-1" y="-1" z="7" spawntime="768" />
 	</spawn>
@@ -8791,6 +8792,9 @@
 	</spawn>
 	<spawn centerx="949" centery="651" centerz="7" radius="1">
 		<monster name="Bonelord" x="1" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1105" centery="651" centerz="7" radius="1">
+		<monster name="Stampor" x="-1" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1220" centery="651" centerz="7" radius="30">
 		<monster name="Dromedary" x="-27" y="-27" z="7" spawntime="60" />
@@ -8873,9 +8877,6 @@
 	</spawn>
 	<spawn centerx="908" centery="654" centerz="7" radius="1">
 		<monster name="Bonelord" x="1" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="1120" centery="654" centerz="7" radius="1">
-		<monster name="Stampor" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="571" centery="655" centerz="7" radius="1">
 		<monster name="Doom Deer" x="0" y="0" z="7" spawntime="60" />
@@ -8982,9 +8983,6 @@
 	</spawn>
 	<spawn centerx="1066" centery="660" centerz="7" radius="1">
 		<monster name="Blue Djinn" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="1109" centery="660" centerz="7" radius="1">
-		<monster name="Stampor" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="945" centery="661" centerz="7" radius="1">
 		<monster name="Bonelord" x="0" y="1" z="7" spawntime="60" />
@@ -11023,7 +11021,13 @@
 	</spawn>
 	<spawn centerx="941" centery="898" centerz="7" radius="1">
 		<monster name="Chicken" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Chicken" x="-1" y="0" z="7" spawntime="60" />
 		<monster name="Chicken" x="0" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="956" centery="898" centerz="7" radius="1">
+		<monster name="Chicken" x="-1" y="0" z="7" spawntime="60" />
+		<monster name="Chicken" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Chicken" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="836" centery="899" centerz="7" radius="1">
 		<monster name="Behemoth" x="1" y="-1" z="7" spawntime="60" />
@@ -11049,6 +11053,7 @@
 		<monster name="Pirate Marauder" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="947" centery="901" centerz="7" radius="1">
+		<monster name="Chicken" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Chicken" x="-1" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1273" centery="901" centerz="7" radius="1">
@@ -11145,6 +11150,7 @@
 		<monster name="War wolf" x="0" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="936" centery="913" centerz="7" radius="1">
+		<monster name="Chicken" x="-1" y="-1" z="7" spawntime="60" />
 		<monster name="Chicken" x="0" y="-1" z="7" spawntime="60" />
 		<monster name="Chicken" x="-1" y="1" z="7" spawntime="60" />
 	</spawn>
@@ -11171,6 +11177,7 @@
 		<monster name="Nightmare" x="0" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="939" centery="916" centerz="7" radius="1">
+		<monster name="Chicken" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Chicken" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1094" centery="916" centerz="7" radius="1">
@@ -11443,6 +11450,14 @@
 	<spawn centerx="633" centery="947" centerz="7" radius="1">
 		<monster name="Haunted Treeling" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="963" centery="947" centerz="7" radius="1">
+		<monster name="Chicken" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Chicken" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="966" centery="947" centerz="7" radius="1">
+		<monster name="Chicken" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Chicken" x="-1" y="1" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="972" centery="947" centerz="7" radius="1">
 		<monster name="Sheep" x="-1" y="0" z="7" spawntime="60" />
 		<monster name="Sheep" x="1" y="1" z="7" spawntime="60" />
@@ -11590,10 +11605,12 @@
 	</spawn>
 	<spawn centerx="958" centery="969" centerz="7" radius="1">
 		<monster name="Chicken" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Chicken" x="0" y="1" z="7" spawntime="60" />
 		<monster name="Chicken" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="975" centery="969" centerz="7" radius="1">
 		<monster name="Chicken" x="-1" y="0" z="7" spawntime="60" />
+		<monster name="Chicken" x="1" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="808" centery="970" centerz="7" radius="1">
 		<monster name="Destroyer" x="1" y="0" z="7" spawntime="60" />
@@ -11612,6 +11629,7 @@
 		<monster name="Nightmare" x="-1" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="964" centery="973" centerz="7" radius="1">
+		<monster name="Chicken" x="0" y="-1" z="7" spawntime="60" />
 		<monster name="Chicken" x="-1" y="0" z="7" spawntime="60" />
 		<monster name="Chicken" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
@@ -11649,6 +11667,7 @@
 	</spawn>
 	<spawn centerx="966" centery="984" centerz="7" radius="1">
 		<monster name="Chicken" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Chicken" x="-1" y="0" z="7" spawntime="60" />
 		<monster name="Chicken" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1037" centery="984" centerz="7" radius="1">
@@ -11658,6 +11677,7 @@
 		<monster name="Chicken" x="-1" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="975" centery="987" centerz="7" radius="1">
+		<monster name="Chicken" x="-1" y="-1" z="7" spawntime="60" />
 		<monster name="Chicken" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1039" centery="988" centerz="7" radius="1">
@@ -30672,14 +30692,20 @@
 	<spawn centerx="553" centery="696" centerz="15" radius="1">
 		<monster name="Damaged Worker Golem" x="-1" y="0" z="15" spawntime="60" />
 	</spawn>
+	<spawn centerx="564" centery="696" centerz="15" radius="1">
+		<monster name="Advanced War Golem" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="608" centery="696" centerz="15" radius="1">
+		<monster name="Advanced War Golem" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
 	<spawn centerx="702" centery="696" centerz="15" radius="1">
 		<monster name="Great Water Elemental" x="0" y="0" z="15" spawntime="60" />
 	</spawn>
 	<spawn centerx="722" centery="696" centerz="15" radius="1">
 		<monster name="Great Water Elemental" x="0" y="0" z="15" spawntime="60" />
 	</spawn>
-	<spawn centerx="585" centery="697" centerz="15" radius="1">
-		<monster name="Advanced War Golem" x="0" y="0" z="15" spawntime="60" />
+	<spawn centerx="586" centery="697" centerz="15" radius="1">
+		<monster name="Advanced War Golem" x="-1" y="0" z="15" spawntime="60" />
 	</spawn>
 	<spawn centerx="592" centery="697" centerz="15" radius="1">
 		<monster name="Damaged Worker Golem" x="0" y="1" z="15" spawntime="60" />
@@ -30690,8 +30716,11 @@
 	<spawn centerx="733" centery="699" centerz="15" radius="1">
 		<monster name="Great Water Snake" x="0" y="0" z="15" spawntime="60" />
 	</spawn>
-	<spawn centerx="549" centery="700" centerz="15" radius="1">
+	<spawn centerx="538" centery="700" centerz="15" radius="1">
 		<monster name="Advanced War Golem" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="550" centery="700" centerz="15" radius="1">
+		<monster name="Advanced War Golem" x="-1" y="0" z="15" spawntime="60" />
 	</spawn>
 	<spawn centerx="606" centery="701" centerz="15" radius="1">
 		<monster name="Damaged Worker Golem" x="-1" y="0" z="15" spawntime="60" />
@@ -30705,8 +30734,8 @@
 	<spawn centerx="574" centery="702" centerz="15" radius="1">
 		<monster name="Damaged Worker Golem" x="0" y="-1" z="15" spawntime="60" />
 	</spawn>
-	<spawn centerx="582" centery="702" centerz="15" radius="1">
-		<monster name="Advanced War Golem" x="0" y="0" z="15" spawntime="60" />
+	<spawn centerx="583" centery="702" centerz="15" radius="1">
+		<monster name="Advanced War Golem" x="-1" y="0" z="15" spawntime="60" />
 	</spawn>
 	<spawn centerx="734" centery="702" centerz="15" radius="1">
 		<monster name="Great Water Elemental" x="0" y="0" z="15" spawntime="60" />
