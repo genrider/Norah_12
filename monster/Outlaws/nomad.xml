@@ -47,5 +47,7 @@
 		<item id="8838" countmax="3" chance="4840" /><!-- potatoes -->
 		<item id="8267" chance="200" /><!-- nomad parchment -->
 		<item id="12412" chance="2160" /><!-- dirty turban -->
+		<item id="2485" chance="2160" /><!-- dirty turban -->
+		
 	</loot>
 </monster>

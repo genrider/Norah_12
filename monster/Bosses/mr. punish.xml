@@ -30,8 +30,8 @@
 	</immunities>
 	<loot>
 		<item id="6537" chance="100000" /><!-- mr punish's handcuffs -->
-		<item id="2443" chance="2500" /><!-- Ravager's Axe -->
+		<item id="2443" chance="5500" /><!-- Ravager's Axe -->
 		<item id="5801" chance="5000" /><!-- jewelled backpack -->
-		<item id="2443" chance="2500" /><!-- Ravager's Axe -->
+		<item id="6492" chance="5500" /><!-- bat decoration -->
 	</loot>
 </monster>

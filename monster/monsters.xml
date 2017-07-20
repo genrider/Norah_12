@@ -908,12 +908,12 @@
 	<monster name="Ice Witch" file="Sorcerers/ice witch.xml" />
 	<monster name="Incredibly Old Witch" file="Sorcerers/incredibly old witch.xml" />
 	<monster name="Infernalist" file="Sorcerers/infernalist.xml" />
-	<!--<monster name="Mad Mage" file="Sorcerers/mad mage.xml" />-->
 	<monster name="Mad Scientist" file="Sorcerers/mad scientist.xml" />
 	<monster name="Raging Mage" file="Sorcerers/raging mage.xml" />
 	<monster name="Warlock" file="Sorcerers/warlock.xml" />
 	<monster name="Witch" file="Sorcerers/witch.xml" />
 	<monster name="Yalahari" file="Sorcerers/yalahari.xml" />
+	<monster name="Zushuka" file="Sorcerers/zushuka.xml" />
 
 	<!-- Traps -->
 	<monster name="Deathslicer" file="Traps/deathslicer.xml" />

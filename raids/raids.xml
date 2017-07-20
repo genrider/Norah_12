@@ -12,7 +12,7 @@
 	<raid name="Fluffy" file="normal/Fluffy.xml" interval2="1200" margin="120" />
 	<raid name="Minishabaal" file="normal/Minishabaal.xml" interval2="1200" margin="120" />
 	<raid name="Hacker" file="normal/Hacker.xml" interval2="1200" margin="120" />
-	<raid name="The Old Widow" file="normal/The Old Widow.xml" interval2="1200" margin="120" />
+	<!--<raid name="The Old Widow" file="normal/The Old Widow.xml" interval2="1200" margin="120" /> -->
 	<raid name="Bat" file="normal/Bat.xml" interval2="1200" margin="120" />
 	<raid name="Pirate 1" file="normal/Pirate 1.xml" interval2="1200" margin="120" />
 	<raid name="Pirate 2" file="normal/Pirate 2.xml" interval2="1200" margin="120" />
@@ -36,6 +36,7 @@
 	<raid name="Bullwark" file="normal/Bullwark.xml" interval2="1200" margin="120" />
 	<raid name="Raging Mage" file="normal/Raging Mage.xml" interval2="1200" margin="120" />
 	<raid name="Cublarc the Plunderer" file="normal/Cublarc the Plunderer.xml" interval2="1200" margin="120" />
+	<!-- <raid name="Zushuka" file="normal/Zushuka.xml" interval2="1200" margin="120" /> -->
 	
 	<!-- Special -->
 	<!--  <raid name="Halloween Hare" file="special/halloween.xml" interval2="1200" margin="120" enabled="no" /> -->

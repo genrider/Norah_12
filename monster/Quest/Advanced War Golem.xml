@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Advanced War Golem" nameDescription="a advanced war golem" race="undead" experience="3050" speed="270" manacost="0">
+<monster name="Advanced War Golem" nameDescription="a advanced war golem" race="undead" experience="9050" speed="270" manacost="0">
 	<health now="5300" max="5300" />
 	<look type="326" corpse="10005" />
 	<targetchange interval="5000" chance="8" />

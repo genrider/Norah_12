@@ -56,7 +56,7 @@
 		<item id="2529" chance="70" /><!-- black shield -->
 		<item id="2167" chance="990" /><!-- energy ring -->
 		<item id="2800" chance="3260" /><!-- obsidian lance -->
-		<item id="9809" countmax="2" chance="12530" /><!-- rusty armor -->
+		<item id="9809" chance="1530" /><!-- rusty armor -->
 		<item id="9808" chance="12530" /><!-- rusty armor -->
 		<item id="2150" countmax="2" chance="500" /><!-- small amethyst -->
 		<item id="2800" chance="5060" /><!-- star herb -->

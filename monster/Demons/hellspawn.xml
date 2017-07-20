@@ -62,8 +62,7 @@
 		<item id="6500" chance="11090" /><!-- demonic essence -->
 		<item id="2788" countmax="4" chance="7692" /><!-- red mushroom -->
 		<item id="9970" countmax="4" chance="5882" /><!-- small topaz -->
-		<item id="9810" chance="3125" /><!-- rusty armor -->
-		<item id="9809" chance="3125" /><!-- rusty armor -->
+		<item id="9809" chance="4125" /><!-- rusty armor -->
 		<item id="2477" chance="1130" /><!-- knight legs -->
 		<item id="2475" chance="986" /><!-- warrior helmet -->
 		<item id="7452" chance="870" /><!-- spiked squelcher -->

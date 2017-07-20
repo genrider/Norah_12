@@ -21,6 +21,10 @@ local player = Player(cid)
 		npcHandler:say("Smugglers hide Plate Legs and Plate Armor. Propably under city you can find spirit cloak and double axe. All items what you get from monsters, propably you can sell in diffrend shops.", cid)
 	elseif msgcontains(msg, "task") then
 		npcHandler:say("You can get some tasks. Go to Kelvin in east part of depo, and talk to him",cid)
+	elseif msgcontains(msg, "rice") then
+		npcHandler:say("From 2 bunch of ripe rice, Lucia can make for you 10 rice balls.",cid)
+	elseif msgcontains(msg, "stampor") then
+		npcHandler:say("Go to Grad. He can help you. His house is in north part of city.",cid)
 	end
 end 
 

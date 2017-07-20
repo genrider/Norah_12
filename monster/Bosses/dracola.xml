@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Dracola" nameDescription="a dracola" race="undead" experience="7750" speed="410" manacost="0">
-	<health now="15850" max="15850" />
+<monster name="Dracola" nameDescription="a dracola" race="undead" experience="11750" speed="410" manacost="0">
+	<health now="16250" max="16250" />
 	<look type="231" corpse="6307" />
 	<targetchange interval="2000" chance="5" />
 	<flags>
@@ -60,6 +60,7 @@
 		<item id="2152" countmax="8" chance="20000" /><!-- platinum coin -->
 		<item id="6500" countmax="4" chance="1000" /><!-- demonic essence -->
 		<item id="6546" chance="100000" /><!-- dracola's eye -->
-		<item id="7420" chance="10000" /><!-- dracola's eye -->
+		<item id="7420" chance="10000" /><!-- reaper's axe -->
+		<item id="5741" chance="4000" /><!-- skull helmet -->
 	</loot>
 </monster>

@@ -58,7 +58,7 @@ shopModule:addSellableItem({'noble armor'},             	2486, 900, 			'noble ar
 shopModule:addSellableItem({'crown armor'},             	2487, 12000, 		'crown armor')
 shopModule:addSellableItem({'pirate shirt'},          		6095, 500,  		'pirate shirt')
 shopModule:addSellableItem({'dark armor'},                  2489, 400,  		'dark armor')
-shopModule:addSellableItem({'demon armor'},            		2494, 12000, 		'demon armor')
+shopModule:addSellableItem({'demon armor'},            		2494, 50000, 		'demon armor')
 shopModule:addSellableItem({'jacket'},                    	2650, 1,     		'jacket')
 shopModule:addSellableItem({'blue robe'},                    2656, 10000,    'blue robe')
 shopModule:addSellableItem({'terra mantle'},              7884, 11000,    'terra mantle')

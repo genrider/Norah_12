@@ -1,6 +1,6 @@
 function onThink(interval)
 	--saveServer()
-	doBroadcastMessage("Server save within 60 seconds!")
-	addEvent(executeSave, 60000)
+	BroadcastMessage("Server save within 30 seconds!", MESSAGE_STATUS_WARNIN)
+	addEvent(saveServer, 30000)
 	return true
 end
