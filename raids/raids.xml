@@ -36,7 +36,7 @@
 	<raid name="Bullwark" file="normal/Bullwark.xml" interval2="1200" margin="120" />
 	<raid name="Raging Mage" file="normal/Raging Mage.xml" interval2="1200" margin="120" />
 	<raid name="Cublarc the Plunderer" file="normal/Cublarc the Plunderer.xml" interval2="1200" margin="120" />
-	<!-- <raid name="Zushuka" file="normal/Zushuka.xml" interval2="1200" margin="120" /> -->
+    <raid name="Zushuka" file="normal/Zushuka.xml" interval2="1200" margin="120" />
 	
 	<!-- Special -->
 	<!--  <raid name="Halloween Hare" file="special/halloween.xml" interval2="1200" margin="120" enabled="no" /> -->

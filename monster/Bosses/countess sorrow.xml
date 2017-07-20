@@ -27,7 +27,7 @@
 			<attribute key="shootEffect" value="poison" />
 		</attack>
 		<attack name="lifedrain" interval="2000" chance="17" range="7" min="-140" max="-450">
-			<attribute key="shootEffect" value="redshimmer" />
+			<attribute key="shootEffect" value="blueshimmer" />
 		</attack>
 		<attack name="manadrain" interval="1000" chance="25" range="7" min="-100" max="-300">
 			<attribute key="areaEffect" value="blueshimmer" />
