@@ -2,6 +2,8 @@
 <actions>
 	<!-- By Knitek-->
 	<action itemid="2405" script="tools/sickle.lua" />
+	<action itemid="2229" script="other/skullcandle.lua" />
+	<action itemid="9998" script="inne/filledjalapeno.lua" />
 	<!-- end -->
 	
 	<!-- EVENTS -->

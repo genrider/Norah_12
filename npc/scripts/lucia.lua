@@ -12,6 +12,8 @@ local function creatureSayCallback(cid, type, msg)
 		return false
 	end		
 	
+	local player = Player(cid)
+	
 	if msgcontains(msg, "rice") then
 		npcHandler:say("Bring me 2 bunch of ripe rice. Have you got it?",cid)
 		npcHandler.topic[cid] = 1
@@ -30,5 +32,5 @@ local function creatureSayCallback(cid, type, msg)
 	end
 end	
 
-
+npcHandler:setCallback(CALLBACK_MESSAGE_DEFAULT, creatureSayCallback)
 npcHandler:addModule(FocusModule:new())
