@@ -9,5 +9,6 @@ combat:setCondition(condition)
 
 function onUse(player, item, fromPosition, target, toPosition, isHotkey)
 	player:addCondition(condition)
+	item:remove(1)
 	return true
 end
