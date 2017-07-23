@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Energy Elemental" nameDescription="an energy elemental" race="energy" experience="550" speed="200" manacost="0">
+<monster name="Energy Elemental" nameDescription="an energy elemental" race="energy" experience="550" speed="200" manacost="1050">
 	<health now="500" max="500" />
 	<look type="293" corpse="8966" />
 	<targetchange interval="4000" chance="10" />
 	<flags>
-		<flag summonable="0" />
+		<flag summonable="1" />
 		<flag attackable="1" />
 		<flag hostile="1" />
 		<flag illusionable="1" />

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Earth Elemental" nameDescription="an earth elemental" race="undead" experience="450" speed="220" manacost="0">
+<monster name="Earth Elemental" nameDescription="an earth elemental" race="undead" experience="450" speed="220" manacost="1100">
 	<health now="650" max="650" />
 	<look type="301" corpse="8933" />
 	<targetchange interval="4000" chance="10" />
 	<flags>
-		<flag summonable="0" />
+		<flag summonable="1" />
 		<flag attackable="1" />
 		<flag hostile="1" />
 		<flag illusionable="0" />

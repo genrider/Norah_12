@@ -10,6 +10,7 @@ function onKill(player, target)
 			local killAmount = player:getStorageValue(KILLSSTORAGE_BASE + taskId)
 			if killAmount < tasks[taskId].killsRequired then
 				player:setStorageValue(KILLSSTORAGE_BASE + taskId, killAmount + 1)
+				player:sendTextMessage(MESSAGE_INFO_DESCR,tasks[taskId].raceName .. ": " .. player:getStartedValue(KILLSSTORAGE_BASE + taskId) .. "/" .. tasks[taskId].killsRequired)
 			end
 		end
 	end

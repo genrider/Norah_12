@@ -10,6 +10,7 @@ function onThink()                        npcHandler:onThink()                  
 local shopModule = ShopModule:new()
 npcHandler:addModule(shopModule)
 
+shopModule:addSellableItem({'twiceslicer'},				12613, 28000,	'twiceslicer')
 
 shopModule:addSellableItem({'templar scytheblade'},  	3963, 200,     	'templar scytheblade')
 shopModule:addSellableItem({'drachaku'},       			11308, 10000, 	'drachaku')

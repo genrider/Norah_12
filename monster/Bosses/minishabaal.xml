@@ -60,20 +60,20 @@
 	</voices>
 	<loot>
 		<item id="2148" countmax="20" chance="100000" /><!-- gold coin -->
-		<item id="2150" countmax="2" chance="1428" /><!-- small amethyst -->
-		<item id="2548" chance="2857" /><!-- pitch fork -->
-		<item id="2432" chance="4666" /><!-- fire axe -->
-		<item id="5944" chance="909" /><!-- soul orb -->
-		<item id="2520" chance="2800" /><!-- demon shield -->
+		<item id="2150" countmax="2" chance="41428" /><!-- small amethyst -->
+		<item id="2548" chance="32857" /><!-- pitch fork -->
+		<item id="2432" chance="24666" /><!-- fire axe -->
+		<item id="5944" chance="50909" /><!-- soul orb -->
+		<item id="2520" chance="8800" /><!-- demon shield -->
 		<item id="6500" countmax="2" chance="1000" /><!-- demonic essence -->
-		<item id="2470" chance="2680" /><!-- golden legs -->
+		<item id="2470" chance="4680" /><!-- golden legs -->
 		<item id="2148" countmax="20" chance="100000" /><!-- gold coin -->
 		<item id="5944" chance="1909" /><!-- soul orb -->
-		<item id="2488" chance="1800" /><!-- crown legs -->
+		<item id="2488" chance="9800" /><!-- crown legs -->
 		<item id="2515" chance="11333" /><!-- guardian shield -->
-		<item id="2136" chance="1909" /><!-- demonbone amulet -->
-		<item id="2542" chance="2500" /><!-- tempest shield -->
-		<item id="2493" chance="1500" /><!-- demon helmet -->
-		<item id="6300" chance="5500" /><!-- death ring -->
+		<item id="2136" chance="9909" /><!-- demonbone amulet -->
+		<item id="2542" chance="5500" /><!-- tempest shield -->
+		<item id="2493" chance="5500" /><!-- demon helmet -->
+		<item id="6300" chance="55500" /><!-- death ring -->
 	</loot>
 </monster>

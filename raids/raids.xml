@@ -8,12 +8,6 @@
 	<raid name="Orshabaal" file="boss/orshabaal.xml" interval2="1200" margin="120" />
 
 	<!-- Regular Raids -->
-	<raid name="Undead Minion" file="normal/Undead Minion.xml" interval2="1200" margin="120" />
-	<raid name="Fluffy" file="normal/Fluffy.xml" interval2="1200" margin="120" />
-	<raid name="Minishabaal" file="normal/Minishabaal.xml" interval2="1200" margin="120" />
-	<raid name="Hacker" file="normal/Hacker.xml" interval2="1200" margin="120" />
-	<!--<raid name="The Old Widow" file="normal/The Old Widow.xml" interval2="1200" margin="120" /> -->
-	<raid name="Bat" file="normal/Bat.xml" interval2="1200" margin="120" />
 	<raid name="Pirate 1" file="normal/Pirate 1.xml" interval2="1200" margin="120" />
 	<raid name="Pirate 2" file="normal/Pirate 2.xml" interval2="1200" margin="120" />
 	<raid name="Pirate 3" file="normal/Pirate 3.xml" interval2="1200" margin="120" />
@@ -23,9 +17,9 @@
 	<raid name="Demodras" file="normal/demodras.xml" interval2="1200" margin="120" />
 	<raid name="The Horned Fox" file="normal/the_horned_fox.xml" interval2="1200" margin="120" />
 	<raid name="Necropharus" file="normal/necropharus.xml" interval2="1200" margin="120" />
-	<raid name="Yeti" file="normal/yeti.xml" interval2="1200" chance="1" margin="60" enabled="yes"/>
+	<raid name="Yeti" file="normal/yeti.xml" interval2="1200" margin="60"/>
 	<raid name="Mad Mage" file="normal/mad mage.xml" interval2="1200" margin="120" />
-	<raid name="Countess Sorrow" file="normal/Countess Sorrow.xml" interval2="1600" margin="120" />
+	<raid name="Countess Sorrow" file="normal/Countess Sorrow.xml" interval2="1200" margin="120" />
 	<raid name="Dracola" file="normal/Dracola.xml" interval2="1200" margin="120" />
 	<raid name="Massacre" file="normal/Massacre.xml" interval2="1200" margin="120" />
 	<raid name="Mr. Punish" file="normal/Mr. Punish.xml" interval2="1200" margin="120" />

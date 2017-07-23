@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Dragon Lord" nameDescription="a dragon lord" race="blood" experience="2100" speed="200" manacost="0">
+<monster name="Dragon Lord" nameDescription="a dragon lord" race="blood" experience="2100" speed="200" manacost="3900">
 	<health now="1900" max="1900" />
 	<look type="39" corpse="5984" />
 	<targetchange interval="4000" chance="10" />
 	<flags>
-		<flag summonable="0" />
+		<flag summonable="1" />
 		<flag attackable="1" />
 		<flag hostile="1" />
 		<flag illusionable="1" />

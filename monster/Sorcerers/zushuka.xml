@@ -59,21 +59,21 @@
 	<loot>
 		<item id="2148" countmax="90" chance="29630" /><!-- gold coin -->
 		<item id="7441" chance="10000" /><!-- ice cube -->
-		<item id="2796" chance="1310" /><!-- green mushroom -->
+		<item id="2796" chance="5310" /><!-- green mushroom -->
 		<item id="7892" chance="20000" /><!-- glacier shoes -->
 		<item id="7387" chance="15000" /><!-- diamond sceptre -->
 		<item id="7449" chance="40000" /><!-- crystal sword -->
 		<item id="7290" chance="25030" /><!-- shard -->
 		<item id="2663" chance="43000" /><!-- mystic turban -->
 		<item id="7459" chance="9000" /><!-- ear muffs -->
-		<item id="21700" chance="4000" /><!-- icy culotte -->
-		<item id="7902" chance="4000" /><!-- glacier mask -->
+		<item id="21700" chance="7500" /><!-- icy culotte -->
+		<item id="7902" chance="10000" /><!-- glacier mask -->
 		<item id="7888" chance="10000" /><!-- glacier amulet -->
-		<item id="7896" chance="7000" /><!-- glacier kilt -->
-		<item id="7897" chance="7000" /><!-- glacier robe -->
-		<item id="7410" chance="4000" /><!-- queen's sceptre -->
-		<item id="2445" chance="7000" /><!-- crystal mace -->
-		<item id="21699" chance="7500" /><!-- trapped lightning -->
-		<item id="2195" chance="3000" /><!-- boots of haste -->
+		<item id="7896" chance="10000" /><!-- glacier kilt -->
+		<item id="7897" chance="10000" /><!-- glacier robe -->
+		<item id="7410" chance="10000" /><!-- queen's sceptre -->
+		<item id="2445" chance="10000" /><!-- crystal mace -->
+		<item id="21699" chance="10500" /><!-- trapped lightning -->
+		<item id="2195" chance="8000" /><!-- boots of haste -->
 	</loot>
 </monster>

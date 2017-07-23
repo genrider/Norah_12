@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Demon" nameDescription="a demon" race="fire" experience="6000" speed="280" manacost="0">
+<monster name="Demon" nameDescription="a demon" race="fire" experience="6000" speed="280" manacost="14200">
 	<health now="8200" max="8200" />
 	<look type="35" corpse="5995" />
 	<targetchange interval="4000" chance="20" />
 	<flags>
-		<flag summonable="0" />
+		<flag summonable="1" />
 		<flag attackable="1" />
 		<flag hostile="1" />
 		<flag illusionable="0" />

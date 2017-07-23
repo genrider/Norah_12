@@ -26,7 +26,7 @@
 		<attack name="poisonfield" interval="1000" chance="17" range="7" radius="3" target="1">
 			<attribute key="shootEffect" value="poison" />
 		</attack>
-		<attack name="lifedrain" interval="2000" chance="17" range="7" min="-140" max="-450">
+		<attack name="lifedrain" interval="2000" chance="17" range="7" min="-340" max="-750">
 			<attribute key="shootEffect" value="poison" />
 		</attack>
 		<attack name="manadrain" interval="1000" chance="25" range="7" min="-100" max="-300">
@@ -55,8 +55,8 @@
 	</immunities>
 	<loot>
 		<item id="6536" chance="100000" /><!-- countess sorrow's frozen tear -->
-		<item id="2424" chance="10000" /><!-- silver mace -->
-		<item id="2656" chance="15000" /><!-- blue robe -->
+		<item id="2424" chance="12000" /><!-- silver mace -->
+		<item id="2656" chance="18000" /><!-- blue robe -->
 		
 	</loot>
 </monster>

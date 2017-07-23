@@ -40,7 +40,7 @@
 		<attack name="poison" interval="2000" chance="20" length="8" spread="3" min="-200" max="-685">
 			<attribute key="areaEffect" value="poison" />
 		</attack>
-		<attack name="lifedrain" interval="3000" chance="20" length="8" spread="3" min="-300" max="-600">
+		<attack name="lifedrain" interval="3000" chance="20" length="8" spread="3" min="-300" max="-800">
 			<attribute key="areaEffect" value="greenshimmer" />
 		</attack>
 		<attack name="drowncondition" interval="1000" chance="20" length="8" spread="3">
@@ -62,5 +62,7 @@
 		<item id="6546" chance="100000" /><!-- dracola's eye -->
 		<item id="7420" chance="10000" /><!-- reaper's axe -->
 		<item id="5741" chance="4000" /><!-- skull helmet -->
+		<item id="5925" chance="40000" /><!-- Hardened Bone -->
+		<item id="6300" chance="40000" /><!-- Death Ring -->
 	</loot>
 </monster>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Wyrm" nameDescription="a wyrm" race="blood" experience="1550" speed="230" manacost="0">
+<monster name="Wyrm" nameDescription="a wyrm" race="blood" experience="1550" speed="230" manacost="3375">
 	<health now="1825" max="1825" />
 	<look type="291" corpse="8941" />
 	<targetchange interval="4000" chance="10" />
 	<flags>
-		<flag summonable="0" />
+		<flag summonable="1" />
 		<flag attackable="1" />
 		<flag hostile="1" />
 		<flag illusionable="0" />

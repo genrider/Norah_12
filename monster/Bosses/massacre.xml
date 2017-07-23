@@ -40,9 +40,14 @@
 	</immunities>
 	<loot>
 		<item id="6540" chance="100000" /><!-- massacre's shell piece -->
-		<item id="2522" chance="800" /><!-- great shield -->
-		<item id="7403" chance="3000" /><!-- berserker -->
-		<item id="6104" chance="5100" /><!-- jewel case -->
-		<item id="2452" chance="1800" /><!-- heavy mace -->
+		<item id="2522" chance="2200" /><!-- great shield -->
+		<item id="7403" chance="8000" /><!-- berserker -->
+		<item id="6104" chance="10100" /><!-- jewel case -->
+		<item id="2452" chance="8800" /><!-- heavy mace -->
+		<item id="5022" chance="40000" /><!-- Orichalcum Pearl -->
+		<item id="2466" chance="8000" /><!-- Golden Armor -->
+		<item id="6500" chance="45000" /><!-- Demonic Essence -->
+		<item id="2221" chance="30000" /><!-- Old Twig -->
+		<item id="5944" chance="35000" /><!-- Soul Orb -->
 	</loot>
 </monster>

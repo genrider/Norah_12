@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Undead Dragon" nameDescription="a undead dragon" race="undead" experience="7200" speed="250" manacost="0">
+<monster name="Undead Dragon" nameDescription="a undead dragon" race="undead" experience="7200" speed="250" manacost="15550">
 	<health now="8350" max="8350" />
 	<look type="231" corpse="6306" />
 	<targetchange interval="4000" chance="10" />
 	<flags>
-		<flag summonable="0" />
+		<flag summonable="1" />
 		<flag attackable="1" />
 		<flag hostile="1" />
 		<flag illusionable="1" />

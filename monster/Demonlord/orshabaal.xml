@@ -105,7 +105,7 @@
 		<item id="2472" chance="2520"/><!-- magic plate armor -->
 		<item id="2177" chance="9520"/><!-- life crystal -->
 		<item id="2167" chance="9520"/><!-- energy ring -->
-		<item id="2436" chance="9520"/><!-- skull staff -->
+		<item id="2436" chance="19520"/><!-- skull staff -->
 		<item id="2112" chance="9520"/><!-- teddy bear -->
 		<item id="2176" chance="9520"/><!-- orb -->
 		<item id="2182" chance="9520"/><!-- snakebite rod -->
@@ -119,15 +119,15 @@
 		<item id="7368" countmax="43" chance="4760"/><!-- assassin star -->
 		<item id="2421" chance="15760"/><!-- thunder hammer -->
 		<item id="2418" chance="4760"/><!-- golden sickle -->
-		<item id="2434" chance="4760"/><!-- dragon hammer -->
-		<item id="2396" chance="4760"/><!-- ice rapier -->
-		<item id="2387" chance="4760"/><!-- double axe -->
-		<item id="2174" chance="4760"/><!-- strange symbol -->
-		<item id="2192" chance="4760"/><!-- crystal ball -->
-		<item id="2165" chance="4760"/><!-- stealth ring -->
-		<item id="2377" chance="4760"/><!-- two handed sword -->
-		<item id="2179" chance="4760"/><!-- gold ring -->
-		<item id="9971" chance="4760"/><!-- gold ingot -->
+		<item id="2434" chance="14760"/><!-- dragon hammer -->
+		<item id="2396" chance="14760"/><!-- ice rapier -->
+		<item id="2387" chance="14760"/><!-- double axe -->
+		<item id="2174" chance="14760"/><!-- strange symbol -->
+		<item id="2192" chance="14760"/><!-- crystal ball -->
+		<item id="2165" chance="14760"/><!-- stealth ring -->
+		<item id="2377" chance="14760"/><!-- two handed sword -->
+		<item id="2179" chance="10760"/><!-- gold ring -->
+		<item id="9971" chance="14760"/><!-- gold ingot -->
 		<item id="10518" chance="15000"/><!-- demon backpack -->
 	</loot>
 </monster>

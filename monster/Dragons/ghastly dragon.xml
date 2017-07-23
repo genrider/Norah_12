@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Ghastly Dragon" nameDescription="a ghastly dragon" race="undead" experience="4600" speed="320" manacost="0">
+<monster name="Ghastly Dragon" nameDescription="a ghastly dragon" race="undead" experience="4600" speed="320" manacost="12400">
 	<health now="7800" max="7800" />
 	<look type="351" corpse="11362" />
 	<targetchange interval="4000" chance="5" />
 	<flags>
-		<flag summonable="0" />
+		<flag summonable="1" />
 		<flag attackable="1" />
 		<flag hostile="1" />
 		<flag illusionable="1" />

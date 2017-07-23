@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Frost Dragon" nameDescription="a frost dragon" race="undead" experience="2100" speed="240" manacost="0">
+<monster name="Frost Dragon" nameDescription="a frost dragon" race="undead" experience="2100" speed="240" manacost="3900">
 	<health now="1800" max="1800" />
 	<look type="248" corpse="7091" />
 	<targetchange interval="4000" chance="10" />
 	<flags>
-		<flag summonable="0" />
+		<flag summonable="1" />
 		<flag attackable="1" />
 		<flag hostile="1" />
 		<flag illusionable="1" />

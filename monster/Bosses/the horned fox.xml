@@ -68,5 +68,6 @@
 		<item id="2478" chance="2857" /><!-- brass legs -->
 		<item id="2463" chance="1818" /><!-- plate armor -->
 		<item id="11244" chance="10000" /><!-- minotaur backpack-->
+		<item id="2502" chance="5000" /><!-- dwarven helmet -->
 	</loot>
 </monster>
