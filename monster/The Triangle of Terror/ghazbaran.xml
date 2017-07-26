@@ -118,5 +118,6 @@
 		<item id="2646" chance="8700"/>					<!-- golden boots -->
 		<item id="2472" chance="8700"/>					<!-- magic plate armor -->
 		<item id="7455" chance="6500"/>					<!-- mythril axe -->
+		<item id="8866" chance="6500"/>					<!-- the robe of the ice queen -->
 	</loot>
 </monster>

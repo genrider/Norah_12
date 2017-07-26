@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Glooth Fairy" nameDescription="a glooth fairy" race="venom" experience="59000" speed="260" manacost="0">
+	<health now="59000" max="59000" />
+	<look type="600" corpse="23343" />
+	<targetchange interval="4000" chance="10" />
+	<flags>
+		<flag summonable="0" />
+		<flag attackable="1" />
+		<flag hostile="1" />
+		<flag illusionable="0" />
+		<flag convinceable="0" />
+		<flag pushable="0" />
+		<flag canpushitems="1" />
+		<flag canpushcreatures="1" />
+		<flag targetdistance="1" />
+		<flag staticattack="90" />
+		<flag runonhealth="0" />
+	<flag isblockable="1" />
+	</flags>
+	<attacks>
+		<attack name="melee" interval="2000" min="-10" max="-1900" />
+		<attack name="energy" interval="2000" chance="30" range="7" radius="3" target="1" min="-300" max="-400">
+			<attribute key="areaEffect" value="energy" />
+		</attack>
+		<attack name="war golem skill reducer" interval="2000" chance="10" />
+	</attacks>
+	<defenses armor="40" defense="30" >
+		<defense name="healing" interval="2000" chance="40" min="100" max="250">
+			<attribute key="areaEffect" value="blueshimmer" />
+		</defense>
+		<defense name="healing" interval="3000" chance="10" min="7000" max="8500">
+			<attribute key="areaEffect" value="blueshimmer" />
+		</defense>
+	</defenses>
+	<elements>
+		<element deathPercent="35" />
+		<element energyPercent="5" />
+		<element firePercent="-10" />
+	</elements>
+	<immunities>
+		<immunity earth="1" />
+		<immunity paralyze="1" />
+		<immunity invisible="1" />
+	</immunities>
+	<voices interval="2000" chance="7">
+		<voice sentence="*slosh*" />
+		<voice sentence="*clank*" />
+	</voices>
+	<loot>
+		<item id="2148" countmax="100" chance="100000" /><!-- gold coin -->
+		<item id="2148" countmax="100" chance="60000" /><!-- gold coin -->
+		<item id="2152" countmax="19" chance="59580" /><!-- platinum coin -->
+		<item id="23474" chance="15930" /><!-- glooth injection tube -->
+		<item id="7590" chance="11180" /><!-- great mana potion -->
+		<item id="23514" chance="90990" /><!-- glooth sandwich -->
+		<item id="2149" chance="80460" /><!-- small emerald -->
+		<item id="9970" chance="70950" /><!-- small topaz -->
+		<item id="8473" chance="40940" /><!-- ultimate health potion -->
+		<item id="24124" chance="30100" /><!-- bronze gear wheel -->
+		<item id="5880" chance="15000" /><!-- iron ore -->
+		<item id="23551" chance="15000" /><!-- glooth axe -->
+		<item id="9690" chance="15000" /><!-- gear wheel -->
+		<item id="23554" chance="15000" /><!-- glooth amulet -->
+		<item id="23538" chance="15000" /><!-- heat core -->
+		<item id="23550" chance="15000" /><!-- glooth blade -->
+		<item id="23529" chance="15000" /><!-- glooth spear -->
+		<item id="23541" chance="15000" /><!-- gearwheel chain -->
+		<item id="23536" chance="15000" /><!-- rubber cap -->
+		<item id="23549" chance="15000" /><!-- glooth club -->
+		<item id="2154" chance="15000" /><!-- yellow gem -->
+		<item id="2155" chance="15000" /><!-- green gem -->
+		<item id="23663" chance="15000" /><!-- feedbag -->
+	</loot>
+</monster>

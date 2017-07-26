@@ -186,7 +186,7 @@
 	
 	<!-- Warzone Quest -->
 	<action uniqueid="5646"	script="quests/warzonemount.lua" />
-	<action fromuid="5640" touid="5645"	script="quests/warzone.lua" />
+	<action fromuid="5640" touid="5641"	script="quests/warzone.lua" />
 	
 	<!-- Trainery -->
 	<action actionid="9001" script="inne/trainers/north.lua" />

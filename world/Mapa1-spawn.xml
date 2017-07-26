@@ -7105,6 +7105,9 @@
 	<spawn centerx="580" centery="461" centerz="7" radius="1">
 		<monster name="Red Mage" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="512" centery="462" centerz="7" radius="1">
+		<monster name="Lady Bug" x="-1" y="0" z="7" spawntime="240" />
+	</spawn>
 	<spawn centerx="612" centery="462" centerz="7" radius="1">
 		<monster name="Skeleton" x="1" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -14618,12 +14621,46 @@
 	<spawn centerx="595" centery="488" centerz="8" radius="1">
 		<monster name="Destroyer" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="241" centery="489" centerz="8" radius="1">
+		<monster name="Silencer" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="582" centery="489" centerz="8" radius="1">
 		<monster name="Destroyer" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="236" centery="490" centerz="8" radius="1">
+		<monster name="Retching Horror" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="208" centery="491" centerz="8" radius="1">
+		<monster name="Silencer" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Guzzlemaw" x="0" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="212" centery="491" centerz="8" radius="1">
+		<monster name="Retching Horror" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="222" centery="491" centerz="8" radius="1">
+		<monster name="Silencer" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="234" centery="492" centerz="8" radius="1">
+		<monster name="Guzzlemaw" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="221" centery="493" centerz="8" radius="1">
+		<monster name="Guzzlemaw" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="225" centery="493" centerz="8" radius="1">
+		<monster name="Silencer" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="239" centery="493" centerz="8" radius="1">
+		<monster name="Guzzlemaw" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="621" centery="493" centerz="8" radius="5">
 		<monster name="Troll" x="2" y="0" z="8" spawntime="60" />
 		<monster name="Troll Champion" x="1" y="4" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="209" centery="494" centerz="8" radius="1">
+		<monster name="Choking Fear" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="229" centery="494" centerz="8" radius="1">
+		<monster name="Guzzlemaw" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="647" centery="494" centerz="8" radius="5">
 		<monster name="Troll" x="4" y="-3" z="8" spawntime="60" />
@@ -14634,25 +14671,82 @@
 		<monster name="Troll" x="-1" y="0" z="8" spawntime="60" />
 		<monster name="Troll" x="3" y="3" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="235" centery="495" centerz="8" radius="1">
+		<monster name="Silencer" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="239" centery="496" centerz="8" radius="1">
+		<monster name="Silencer" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="243" centery="496" centerz="8" radius="1">
+		<monster name="Choking Fear" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="588" centery="496" centerz="8" radius="1">
 		<monster name="Hellhound" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="213" centery="497" centerz="8" radius="1">
+		<monster name="Silencer" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="265" centery="497" centerz="8" radius="1">
+		<monster name="Silencer" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="641" centery="497" centerz="8" radius="5">
 		<monster name="Troll" x="-3" y="-2" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="260" centery="499" centerz="8" radius="1">
+		<monster name="Choking Fear" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="264" centery="499" centerz="8" radius="1">
+		<monster name="Guzzlemaw" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="249" centery="500" centerz="8" radius="1">
+		<monster name="Silencer" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="213" centery="501" centerz="8" radius="1">
+		<monster name="Frazzlemaw" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="256" centery="501" centerz="8" radius="1">
+		<monster name="Guzzlemaw" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="266" centery="501" centerz="8" radius="1">
+		<monster name="Retching Horror" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="260" centery="504" centerz="8" radius="1">
+		<monster name="Silencer" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="673" centery="504" centerz="8" radius="1">
 		<monster name="Wolf" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="274" centery="505" centerz="8" radius="1">
+		<monster name="Guzzlemaw" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="585" centery="505" centerz="8" radius="1">
 		<monster name="Destroyer" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="195" centery="506" centerz="8" radius="1">
+		<monster name="Choking Fear" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="627" centery="506" centerz="8" radius="5">
 		<monster name="Troll" x="-2" y="-4" z="8" spawntime="60" />
 		<monster name="Troll" x="0" y="-4" z="8" spawntime="60" />
 		<monster name="Troll Champion" x="0" y="2" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="278" centery="507" centerz="8" radius="1">
+		<monster name="Silencer" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="665" centery="507" centerz="8" radius="1">
 		<monster name="Wolf" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="195" centery="508" centerz="8" radius="1">
+		<monster name="Frazzlemaw" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="192" centery="509" centerz="8" radius="1">
+		<monster name="Guzzlemaw" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="225" centery="509" centerz="8" radius="1">
+		<monster name="Silencer" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="280" centery="509" centerz="8" radius="1">
+		<monster name="Frazzlemaw" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="569" centery="509" centerz="8" radius="1">
 		<monster name="Hellhound" x="0" y="0" z="8" spawntime="60" />
@@ -14660,11 +14754,20 @@
 	<spawn centerx="890" centery="509" centerz="8" radius="1">
 		<monster name="Elder Wyrm" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="227" centery="510" centerz="8" radius="1">
+		<monster name="Retching Horror" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="596" centery="510" centerz="8" radius="1">
 		<monster name="Destroyer" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="878" centery="510" centerz="8" radius="1">
 		<monster name="Elder Wyrm" x="1" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="208" centery="511" centerz="8" radius="1">
+		<monster name="Frazzlemaw" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="213" centery="511" centerz="8" radius="1">
+		<monster name="Guzzlemaw" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="566" centery="511" centerz="8" radius="1">
 		<monster name="Destroyer" x="0" y="0" z="8" spawntime="60" />
@@ -14672,11 +14775,35 @@
 	<spawn centerx="578" centery="511" centerz="8" radius="1">
 		<monster name="Hellhound" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="186" centery="512" centerz="8" radius="1">
+		<monster name="Frazzlemaw" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="193" centery="512" centerz="8" radius="1">
+		<monster name="Retching Horror" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="222" centery="512" centerz="8" radius="1">
+		<monster name="Silencer" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="224" centery="512" centerz="8" radius="1">
+		<monster name="Frazzlemaw" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="228" centery="512" centerz="8" radius="1">
+		<monster name="Frazzlemaw" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="667" centery="512" centerz="8" radius="1">
 		<monster name="Wolf" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="885" centery="512" centerz="8" radius="1">
 		<monster name="Elder Wyrm" x="-1" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="202" centery="513" centerz="8" radius="1">
+		<monster name="Frazzlemaw" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="215" centery="513" centerz="8" radius="1">
+		<monster name="Retching Horror" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="283" centery="513" centerz="8" radius="1">
+		<monster name="Silencer" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="601" centery="513" centerz="8" radius="1">
 		<monster name="Hellhound" x="0" y="0" z="8" spawntime="60" />
@@ -14684,8 +14811,14 @@
 	<spawn centerx="895" centery="513" centerz="8" radius="1">
 		<monster name="Elder Wyrm" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="228" centery="514" centerz="8" radius="1">
+		<monster name="Silencer" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="368" centery="514" centerz="8" radius="1">
 		<monster name="Lizard Chosen" x="0" y="-1" z="8" spawntime="160" />
+	</spawn>
+	<spawn centerx="213" centery="515" centerz="8" radius="1">
+		<monster name="Choking Fear" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="627" centery="515" centerz="8" radius="5">
 		<monster name="Troll" x="-1" y="-3" z="8" spawntime="60" />
@@ -14697,14 +14830,59 @@
 	<spawn centerx="874" centery="516" centerz="8" radius="1">
 		<monster name="Elder Wyrm" x="1" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="183" centery="517" centerz="8" radius="1">
+		<monster name="Guzzlemaw" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="282" centery="518" centerz="8" radius="1">
+		<monster name="Choking Fear" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="285" centery="518" centerz="8" radius="1">
+		<monster name="Choking Fear" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Guzzlemaw" x="-1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="290" centery="518" centerz="8" radius="1">
+		<monster name="Frazzlemaw" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="899" centery="518" centerz="8" radius="1">
 		<monster name="Elder Wyrm" x="0" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="213" centery="519" centerz="8" radius="1">
+		<monster name="Frazzlemaw" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="295" centery="519" centerz="8" radius="1">
+		<monster name="Guzzlemaw" x="-1" y="0" z="8" spawntime="60" />
+		<monster name="Choking Fear" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="178" centery="520" centerz="8" radius="1">
+		<monster name="Frazzlemaw" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Choking Fear" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="282" centery="520" centerz="8" radius="1">
+		<monster name="Frazzlemaw" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="362" centery="520" centerz="8" radius="1">
 		<monster name="Lizard Chosen" x="0" y="-1" z="8" spawntime="160" />
 	</spawn>
 	<spawn centerx="863" centery="520" centerz="8" radius="1">
 		<monster name="Elder Wyrm" x="0" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="274" centery="521" centerz="8" radius="1">
+		<monster name="Choking Fear" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="239" centery="522" centerz="8" radius="1">
+		<monster name="Choking Fear" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="248" centery="522" centerz="8" radius="1">
+		<monster name="Frazzlemaw" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="251" centery="522" centerz="8" radius="1">
+		<monster name="Choking Fear" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="272" centery="522" centerz="8" radius="1">
+		<monster name="Frazzlemaw" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="305" centery="522" centerz="8" radius="1">
+		<monster name="Sight of Surrender" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="588" centery="522" centerz="8" radius="1">
 		<monster name="Destroyer" x="0" y="0" z="8" spawntime="60" />
@@ -14721,32 +14899,35 @@
 	<spawn centerx="870" centery="523" centerz="8" radius="1">
 		<monster name="Elder Wyrm" x="-1" y="-1" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="252" centery="525" centerz="8" radius="30">
-		<monster name="Retching Horror" x="21" y="-7" z="8" spawntime="60" />
-		<monster name="Guzzlemaw" x="30" y="-5" z="8" spawntime="60" />
-		<monster name="Retching Horror" x="-12" y="-4" z="8" spawntime="60" />
-		<monster name="Frazzlemaw" x="-8" y="-3" z="8" spawntime="60" />
-		<monster name="Choking Fear" x="20" y="-3" z="8" spawntime="60" />
-		<monster name="Guzzlemaw" x="-5" y="-2" z="8" spawntime="60" />
-		<monster name="Retching Horror" x="-3" y="-2" z="8" spawntime="60" />
-		<monster name="Guzzlemaw" x="16" y="0" z="8" spawntime="60" />
-		<monster name="Frazzlemaw" x="-18" y="3" z="8" spawntime="60" />
-		<monster name="Retching Horror" x="-2" y="3" z="8" spawntime="60" />
-		<monster name="Choking Fear" x="-22" y="4" z="8" spawntime="60" />
-		<monster name="Retching Horror" x="13" y="4" z="8" spawntime="60" />
-		<monster name="Retching Horror" x="-16" y="5" z="8" spawntime="60" />
-		<monster name="Choking Fear" x="-4" y="5" z="8" spawntime="60" />
-		<monster name="Frazzlemaw" x="-3" y="5" z="8" spawntime="60" />
-		<monster name="Guzzlemaw" x="3" y="5" z="8" spawntime="60" />
-		<monster name="Choking Fear" x="10" y="6" z="8" spawntime="60" />
-		<monster name="Retching Horror" x="14" y="10" z="8" spawntime="60" />
-		<monster name="Retching Horror" x="30" y="10" z="8" spawntime="60" />
-		<monster name="Retching Horror" x="-12" y="11" z="8" spawntime="60" />
-		<monster name="Guzzlemaw" x="-10" y="11" z="8" spawntime="60" />
-		<monster name="Frazzlemaw" x="15" y="11" z="8" spawntime="60" />
-		<monster name="Guzzlemaw" x="22" y="12" z="8" spawntime="60" />
-		<monster name="Retching Horror" x="24" y="15" z="8" spawntime="60" />
-		<monster name="Choking Fear" x="21" y="16" z="8" spawntime="60" />
+	<spawn centerx="177" centery="524" centerz="8" radius="1">
+		<monster name="Guzzlemaw" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="182" centery="524" centerz="8" radius="1">
+		<monster name="Frazzlemaw" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="272" centery="524" centerz="8" radius="1">
+		<monster name="Guzzlemaw" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="224" centery="525" centerz="8" radius="1">
+		<monster name="Frazzlemaw" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="238" centery="525" centerz="8" radius="1">
+		<monster name="Frazzlemaw" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="267" centery="525" centerz="8" radius="1">
+		<monster name="Choking Fear" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="294" centery="525" centerz="8" radius="1">
+		<monster name="Frazzlemaw" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="299" centery="525" centerz="8" radius="1">
+		<monster name="Guzzlemaw" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="215" centery="526" centerz="8" radius="1">
+		<monster name="Guzzlemaw" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="302" centery="526" centerz="8" radius="1">
+		<monster name="Frazzlemaw" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="355" centery="526" centerz="8" radius="1">
 		<monster name="Lizard Chosen" x="-1" y="0" z="8" spawntime="160" />
@@ -14757,8 +14938,33 @@
 	<spawn centerx="605" centery="526" centerz="8" radius="1">
 		<monster name="Destroyer" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="192" centery="527" centerz="8" radius="1">
+		<monster name="Retching Horror" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="227" centery="527" centerz="8" radius="1">
+		<monster name="Frazzlemaw" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="306" centery="527" centerz="8" radius="1">
+		<monster name="Choking Fear" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="712" centery="527" centerz="8" radius="1">
 		<monster name="Wyvern" x="-1" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="177" centery="528" centerz="8" radius="1">
+		<monster name="Frazzlemaw" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="195" centery="528" centerz="8" radius="1">
+		<monster name="Guzzlemaw" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="213" centery="528" centerz="8" radius="1">
+		<monster name="Choking Fear" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Frazzlemaw" x="-1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="217" centery="528" centerz="8" radius="1">
+		<monster name="Frazzlemaw" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="249" centery="528" centerz="8" radius="1">
+		<monster name="Frazzlemaw" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="602" centery="528" centerz="8" radius="1">
 		<monster name="Hellhound" x="0" y="0" z="8" spawntime="60" />
@@ -14766,35 +14972,54 @@
 	<spawn centerx="840" centery="528" centerz="8" radius="1">
 		<monster name="Elder Wyrm" x="1" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="312" centery="529" centerz="8" radius="30">
-		<monster name="Retching Horror" x="-29" y="-15" z="8" spawntime="60" />
-		<monster name="Choking Fear" x="-23" y="-11" z="8" spawntime="60" />
-		<monster name="Retching Horror" x="-18" y="-10" z="8" spawntime="60" />
-		<monster name="Choking Fear" x="-12" y="-9" z="8" spawntime="60" />
-		<monster name="Choking Fear" x="-17" y="-4" z="8" spawntime="60" />
-		<monster name="Guzzlemaw" x="-9" y="-3" z="8" spawntime="60" />
-		<monster name="Retching Horror" x="-4" y="-2" z="8" spawntime="60" />
-		<monster name="Frazzlemaw" x="-20" y="2" z="8" spawntime="60" />
-		<monster name="Frazzlemaw" x="-3" y="2" z="8" spawntime="60" />
-		<monster name="Retching Horror" x="1" y="3" z="8" spawntime="60" />
-		<monster name="Guzzlemaw" x="-25" y="6" z="8" spawntime="60" />
-		<monster name="Guzzlemaw" x="-3" y="7" z="8" spawntime="60" />
-		<monster name="Frazzlemaw" x="-3" y="11" z="8" spawntime="60" />
-		<monster name="Sight of Surrender" x="-1" y="14" z="8" spawntime="60" />
-		<monster name="Retching Horror" x="-4" y="15" z="8" spawntime="60" />
-		<monster name="Choking Fear" x="-1" y="17" z="8" spawntime="60" />
+	<spawn centerx="235" centery="529" centerz="8" radius="1">
+		<monster name="Frazzlemaw" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="240" centery="529" centerz="8" radius="1">
+		<monster name="Choking Fear" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="914" centery="529" centerz="8" radius="1">
 		<monster name="Elder Wyrm" x="1" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="191" centery="530" centerz="8" radius="1">
+		<monster name="Guzzlemaw" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="200" centery="530" centerz="8" radius="1">
+		<monster name="Frazzlemaw" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="257" centery="530" centerz="8" radius="1">
+		<monster name="Choking Fear" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="265" centery="530" centerz="8" radius="1">
+		<monster name="Guzzlemaw" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Frazzlemaw" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="707" centery="530" centerz="8" radius="1">
 		<monster name="Bonelord" x="-1" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="179" centery="531" centerz="8" radius="1">
+		<monster name="Choking Fear" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="205" centery="531" centerz="8" radius="1">
+		<monster name="Guzzlemaw" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="308" centery="531" centerz="8" radius="1">
+		<monster name="Guzzlemaw" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="875" centery="531" centerz="8" radius="1">
 		<monster name="Elder Wyrm" x="-1" y="-1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="906" centery="531" centerz="8" radius="1">
 		<monster name="Elder Wyrm" x="-1" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="195" centery="532" centerz="8" radius="1">
+		<monster name="Choking Fear" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="288" centery="532" centerz="8" radius="1">
+		<monster name="Choking Fear" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="313" centery="532" centerz="8" radius="1">
+		<monster name="Retching Horror" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="356" centery="532" centerz="8" radius="1">
 		<monster name="Lizard Chosen" x="-1" y="0" z="8" spawntime="160" />
@@ -14805,6 +15030,13 @@
 	<spawn centerx="709" centery="532" centerz="8" radius="1">
 		<monster name="Wyvern" x="1" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="277" centery="533" centerz="8" radius="1">
+		<monster name="Frazzlemaw" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="292" centery="533" centerz="8" radius="1">
+		<monster name="Guzzlemaw" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Silencer" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="378" centery="533" centerz="8" radius="1">
 		<monster name="Lizard Chosen" x="0" y="-1" z="8" spawntime="160" />
 	</spawn>
@@ -14814,11 +15046,25 @@
 	<spawn centerx="893" centery="533" centerz="8" radius="1">
 		<monster name="Elder Wyrm" x="1" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="215" centery="534" centerz="8" radius="1">
+		<monster name="Choking Fear" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="369" centery="534" centerz="8" radius="1">
 		<monster name="Lizard Chosen" x="-1" y="0" z="8" spawntime="160" />
 	</spawn>
 	<spawn centerx="843" centery="534" centerz="8" radius="1">
 		<monster name="Elder Wyrm" x="-1" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="240" centery="535" centerz="8" radius="1">
+		<monster name="Guzzlemaw" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="267" centery="535" centerz="8" radius="1">
+		<monster name="Retching Horror" x="-1" y="0" z="8" spawntime="512" />
+		<monster name="Retching Horror" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Guzzlemaw" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="286" centery="535" centerz="8" radius="1">
+		<monster name="Frazzlemaw" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="597" centery="535" centerz="8" radius="1">
 		<monster name="Destroyer" x="0" y="0" z="8" spawntime="60" />
@@ -14835,6 +15081,31 @@
 	<spawn centerx="883" centery="535" centerz="8" radius="1">
 		<monster name="Elder Wyrm" x="0" y="-1" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="242" centery="536" centerz="8" radius="1">
+		<monster name="Frazzlemaw" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="273" centery="536" centerz="8" radius="1">
+		<monster name="Choking Fear" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="278" centery="536" centerz="8" radius="1">
+		<monster name="Retching Horror" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="282" centery="536" centerz="8" radius="1">
+		<monster name="Choking Fear" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="309" centery="536" centerz="8" radius="1">
+		<monster name="Guzzlemaw" x="-1" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="178" centery="537" centerz="8" radius="1">
+		<monster name="Guzzlemaw" x="-1" y="0" z="8" spawntime="60" />
+		<monster name="Frazzlemaw" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="280" centery="537" centerz="8" radius="1">
+		<monster name="Guzzlemaw" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="312" centery="537" centerz="8" radius="1">
+		<monster name="Silencer" x="0" y="-1" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="387" centery="537" centerz="8" radius="1">
 		<monster name="Lizard Chosen" x="-1" y="0" z="8" spawntime="160" />
 	</spawn>
@@ -14847,6 +15118,9 @@
 	<spawn centerx="790" centery="537" centerz="8" radius="1">
 		<monster name="Vampire" x="0" y="1" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="180" centery="538" centerz="8" radius="1">
+		<monster name="Retching Horror" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="362" centery="539" centerz="8" radius="1">
 		<monster name="Lizard Chosen" x="0" y="-1" z="8" spawntime="160" />
 	</spawn>
@@ -14855,6 +15129,9 @@
 	</spawn>
 	<spawn centerx="847" centery="539" centerz="8" radius="1">
 		<monster name="Elder Wyrm" x="1" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="275" centery="540" centerz="8" radius="1">
+		<monster name="Frazzlemaw" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="369" centery="540" centerz="8" radius="1">
 		<monster name="Lizard Chosen" x="-1" y="-1" z="8" spawntime="160" />
@@ -14881,20 +15158,64 @@
 	<spawn centerx="890" centery="540" centerz="8" radius="1">
 		<monster name="Elder Wyrm" x="0" y="-1" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="217" centery="541" centerz="8" radius="1">
+		<monster name="Choking Fear" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="636" centery="541" centerz="8" radius="1">
 		<monster name="Hellhound" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="188" centery="542" centerz="8" radius="1">
+		<monster name="Frazzlemaw" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="215" centery="542" centerz="8" radius="1">
+		<monster name="Frazzlemaw" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="792" centery="542" centerz="8" radius="1">
 		<monster name="Vampire" x="-1" y="1" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="202" centery="543" centerz="8" radius="1">
+		<monster name="Choking Fear" x="-1" y="0" z="8" spawntime="60" />
+		<monster name="Frazzlemaw" x="-1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="208" centery="543" centerz="8" radius="1">
+		<monster name="Guzzlemaw" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="217" centery="543" centerz="8" radius="1">
+		<monster name="Guzzlemaw" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="307" centery="543" centerz="8" radius="1">
+		<monster name="Frazzlemaw" x="0" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="312" centery="543" centerz="8" radius="1">
+		<monster name="Guzzlemaw" x="-1" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="377" centery="543" centerz="8" radius="1">
 		<monster name="Lizard Chosen" x="0" y="-1" z="8" spawntime="160" />
+	</spawn>
+	<spawn centerx="213" centery="544" centerz="8" radius="1">
+		<monster name="Retching Horror" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="615" centery="544" centerz="8" radius="1">
 		<monster name="Destroyer" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="195" centery="545" centerz="8" radius="1">
+		<monster name="Guzzlemaw" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="239" centery="545" centerz="8" radius="1">
+		<monster name="Choking Fear" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Guzzlemaw" x="0" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="305" centery="546" centerz="8" radius="1">
+		<monster name="Choking Fear" x="-1" y="-1" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="846" centery="546" centerz="8" radius="1">
 		<monster name="Elder Wyrm" x="0" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="225" centery="547" centerz="8" radius="1">
+		<monster name="Frazzlemaw" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="238" centery="547" centerz="8" radius="1">
+		<monster name="Frazzlemaw" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="628" centery="547" centerz="8" radius="1">
 		<monster name="Hellhound" x="0" y="0" z="8" spawntime="60" />
@@ -14902,8 +15223,20 @@
 	<spawn centerx="888" centery="547" centerz="8" radius="1">
 		<monster name="Elder Wyrm" x="1" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="235" centery="548" centerz="8" radius="1">
+		<monster name="Retching Horror" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="274" centery="548" centerz="8" radius="1">
+		<monster name="Guzzlemaw" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="313" centery="548" centerz="8" radius="1">
+		<monster name="Retching Horror" x="0" y="-1" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="390" centery="548" centerz="8" radius="1">
 		<monster name="Lizard Chosen" x="0" y="1" z="8" spawntime="160" />
+	</spawn>
+	<spawn centerx="309" centery="549" centerz="8" radius="1">
+		<monster name="Sight of Surrender" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="632" centery="549" centerz="8" radius="1">
 		<monster name="Destroyer" x="0" y="0" z="8" spawntime="60" />
@@ -14913,6 +15246,12 @@
 	</spawn>
 	<spawn centerx="838" centery="549" centerz="8" radius="1">
 		<monster name="Elder Wyrm" x="1" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="231" centery="550" centerz="8" radius="1">
+		<monster name="Guzzlemaw" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="274" centery="550" centerz="8" radius="1">
+		<monster name="Frazzlemaw" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="371" centery="550" centerz="8" radius="1">
 		<monster name="Lizard Chosen" x="-1" y="-1" z="8" spawntime="160" />
@@ -14927,6 +15266,17 @@
 		<monster name="Wyrm" x="-1" y="-1" z="8" spawntime="120" />
 		<monster name="Wyrm" x="0" y="1" z="8" spawntime="120" />
 	</spawn>
+	<spawn centerx="197" centery="552" centerz="8" radius="1">
+		<monster name="Choking Fear" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Frazzlemaw" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Guzzlemaw" x="-1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="268" centery="552" centerz="8" radius="1">
+		<monster name="Guzzlemaw" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="274" centery="552" centerz="8" radius="1">
+		<monster name="Guzzlemaw" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="693" centery="552" centerz="8" radius="5">
 		<monster name="Rotworm" x="3" y="-4" z="8" spawntime="60" />
 		<monster name="Rotworm" x="-1" y="-3" z="8" spawntime="60" />
@@ -14935,6 +15285,9 @@
 	</spawn>
 	<spawn centerx="827" centery="552" centerz="8" radius="1">
 		<monster name="Elder Wyrm" x="0" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="200" centery="553" centerz="8" radius="1">
+		<monster name="Retching Horror" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="862" centery="553" centerz="8" radius="1">
 		<monster name="Elder Wyrm" x="1" y="1" z="8" spawntime="60" />
@@ -14945,17 +15298,56 @@
 	<spawn centerx="884" centery="553" centerz="8" radius="1">
 		<monster name="Elder Wyrm" x="1" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="265" centery="554" centerz="8" radius="1">
+		<monster name="Frazzlemaw" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="270" centery="556" centerz="8" radius="1">
+		<monster name="Frazzlemaw" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="273" centery="556" centerz="8" radius="1">
+		<monster name="Frazzlemaw" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="876" centery="556" centerz="8" radius="1">
 		<monster name="Elder Wyrm" x="1" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="265" centery="557" centerz="8" radius="1">
+		<monster name="Guzzlemaw" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1207" centery="557" centerz="8" radius="1">
 		<monster name="Wyrm" x="-1" y="0" z="8" spawntime="120" />
 	</spawn>
+	<spawn centerx="286" centery="558" centerz="8" radius="1">
+		<monster name="Guzzlemaw" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="1197" centery="558" centerz="8" radius="1">
 		<monster name="Wyrm" x="-1" y="0" z="8" spawntime="120" />
 	</spawn>
+	<spawn centerx="258" centery="559" centerz="8" radius="1">
+		<monster name="Guzzlemaw" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="1244" centery="559" centerz="8" radius="1">
 		<monster name="Wyrm" x="-1" y="-1" z="8" spawntime="120" />
+	</spawn>
+	<spawn centerx="270" centery="560" centerz="8" radius="1">
+		<monster name="Guzzlemaw" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="289" centery="561" centerz="8" radius="1">
+		<monster name="Frazzlemaw" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="293" centery="561" centerz="8" radius="1">
+		<monster name="Guzzlemaw" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="274" centery="562" centerz="8" radius="1">
+		<monster name="Guzzlemaw" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="254" centery="563" centerz="8" radius="1">
+		<monster name="Guzzlemaw" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="258" centery="563" centerz="8" radius="1">
+		<monster name="Frazzlemaw" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="279" centery="563" centerz="8" radius="1">
+		<monster name="Frazzlemaw" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1190" centery="563" centerz="8" radius="1">
 		<monster name="Wyrm" x="0" y="-1" z="8" spawntime="120" />
@@ -14963,14 +15355,36 @@
 	<spawn centerx="1214" centery="563" centerz="8" radius="1">
 		<monster name="Wyrm" x="-1" y="0" z="8" spawntime="120" />
 	</spawn>
+	<spawn centerx="271" centery="564" centerz="8" radius="1">
+		<monster name="Retching Horror" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Frazzlemaw" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="1241" centery="564" centerz="8" radius="1">
 		<monster name="Wyrm" x="0" y="1" z="8" spawntime="120" />
+	</spawn>
+	<spawn centerx="292" centery="565" centerz="8" radius="1">
+		<monster name="Frazzlemaw" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="288" centery="566" centerz="8" radius="1">
+		<monster name="Guzzlemaw" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="793" centery="566" centerz="8" radius="1">
 		<monster name="Elf Arcanist" x="1" y="-1" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="278" centery="567" centerz="8" radius="1">
+		<monster name="Guzzlemaw" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="1222" centery="567" centerz="8" radius="1">
 		<monster name="Wyrm" x="-1" y="-1" z="8" spawntime="120" />
+	</spawn>
+	<spawn centerx="260" centery="568" centerz="8" radius="1">
+		<monster name="Guzzlemaw" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="266" centery="568" centerz="8" radius="1">
+		<monster name="Frazzlemaw" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="270" centery="568" centerz="8" radius="1">
+		<monster name="Guzzlemaw" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1191" centery="571" centerz="8" radius="1">
 		<monster name="Wyrm" x="-1" y="0" z="8" spawntime="120" />
@@ -17114,12 +17528,18 @@
 	<spawn centerx="937" centery="885" centerz="8" radius="1">
 		<monster name="Crypt Shambler" x="-1" y="-1" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="747" centery="886" centerz="8" radius="1">
+		<monster name="Nightmare Scion" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="1068" centery="886" centerz="8" radius="1">
 		<monster name="Acolyte of the Cult" x="1" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="974" centery="887" centerz="8" radius="1">
 		<monster name="Ghoul" x="1" y="-1" z="8" spawntime="60" />
 		<monster name="Ghost" x="-1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="750" centery="888" centerz="8" radius="1">
+		<monster name="Nightmare Scion" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="701" centery="889" centerz="8" radius="5">
 		<monster name="Nightmare Scion" x="1" y="-3" z="8" spawntime="60" />
@@ -17132,12 +17552,27 @@
 		<monster name="Acolyte of the Cult" x="1" y="-1" z="8" spawntime="60" />
 		<monster name="Adept of the Cult" x="0" y="1" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="748" centery="890" centerz="8" radius="1">
+		<monster name="Nightmare Scion" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="966" centery="891" centerz="8" radius="1">
 		<monster name="Ghost" x="-1" y="-1" z="8" spawntime="60" />
 		<monster name="Ghoul" x="1" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="731" centery="893" centerz="8" radius="1">
+		<monster name="Nightmare Scion" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="1002" centery="893" centerz="8" radius="1">
 		<monster name="Vampire" x="-1" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="727" centery="894" centerz="8" radius="1">
+		<monster name="Nightmare Scion" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="734" centery="896" centerz="8" radius="1">
+		<monster name="Nightmare Scion" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="747" centery="896" centerz="8" radius="1">
+		<monster name="Nightmare Scion" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1016" centery="896" centerz="8" radius="1">
 		<monster name="Hero" x="1" y="-1" z="8" spawntime="60" />
@@ -17165,6 +17600,12 @@
 	</spawn>
 	<spawn centerx="711" centery="899" centerz="8" radius="5">
 		<monster name="Nightmare Scion" x="-3" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="736" centery="899" centerz="8" radius="1">
+		<monster name="Nightmare Scion" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="742" centery="899" centerz="8" radius="1">
+		<monster name="Nightmare Scion" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="924" centery="899" centerz="8" radius="1">
 		<monster name="Beholder" x="0" y="0" z="8" spawntime="60" />
@@ -28279,6 +28720,9 @@
 	</spawn>
 	<spawn centerx="988" centery="779" centerz="11" radius="1">
 		<monster name="Quara Hydromancer" x="0" y="-1" z="11" spawntime="60" />
+	</spawn>
+	<spawn centerx="988" centery="782" centerz="11" radius="1">
+		<monster name="Manta Ray" x="-1" y="0" z="11" spawntime="360" />
 	</spawn>
 	<spawn centerx="785" centery="857" centerz="11" radius="1">
 		<monster name="Demon" x="0" y="-1" z="11" spawntime="768" />

@@ -32,6 +32,7 @@
 	<monster name="Worm Priestess" file="1050/worm priestess.xml" />
 	<monster name="Mooh'Tah Warrior" file="1050/mooh'tah warrior.xml" />
 	<monster name="Blood Beast" file="1050/blood beast.xml" />
+	<monster name="Glooth Fairy" file="Bosses/glooth fairy.xml" />
 	
 	<!-- Tibia 10.70 -->
 	<monster name="Seacrest Serpent" file="1070/seacrest serpent.xml"/>
@@ -529,6 +530,7 @@
 	<monster name="Wyrm" file="Dragons/wyrm.xml" />
 	<monster name="Ghastly Dragon" file="Dragons/ghastly dragon.xml" />
 	<monster name="Draptor" file="Dragons/draptor.xml" />
+	<monster name="Hatebreeder" file="Bosses/hatebreeder.xml" />
 
 	<!-- Dreamhaunters -->
 	<monster name="Bad Dream" file="Dreamhaunters/bad dream.xml" />
@@ -756,6 +758,7 @@
 	<!-- Misc Reptiles -->
 	<monster name="Crocodile" file="Misc/Misc Reptiles/crocodile.xml" />
 	<monster name="Hydra" file="Misc/Misc Reptiles/hydra.xml" />
+	<monster name="The Welter" file="Bosses/the welter.xml" />
 	<monster name="Killer Caiman" file="Misc/Misc Reptiles/killer caiman.xml" />
 	<monster name="Thornback Tortoise" file="Misc/Misc Reptiles/thornback tortoise.xml" />
 	<monster name="Tortoise" file="Misc/Misc Reptiles/tortoise.xml" />

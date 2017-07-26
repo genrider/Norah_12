@@ -64,5 +64,6 @@
 		<item id="18452" chance="8120" /><!-- mycological mace -->
 		<item id="18450" chance="14100" /><!-- crystalline sword -->
 		<item id="18449" chance="1710" /><!-- decorative ribbon -->
+		<item id="18396" chance="15000" /><!-- mucus plug -->
 	</loot>
 </monster>

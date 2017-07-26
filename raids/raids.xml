@@ -12,8 +12,6 @@
 	<raid name="Pirate 2" file="normal/Pirate 2.xml" interval2="1200" margin="120" />
 	<raid name="Pirate 3" file="normal/Pirate 3.xml" interval2="1200" margin="120" />
 	<raid name="Pirate 4" file="normal/Pirate 4.xml" interval2="1200" margin="120" />
-	<raid name="Lady bug" file="normal/Ladybug.xml" interval2="1200" margin="120" />
-	<raid name="Manta Ray" file="normal/Manta Ray.xml" interval2="1200" margin="120" />
 	<raid name="Demodras" file="normal/demodras.xml" interval2="1200" margin="120" />
 	<raid name="The Horned Fox" file="normal/the_horned_fox.xml" interval2="1200" margin="120" />
 	<raid name="Necropharus" file="normal/necropharus.xml" interval2="1200" margin="120" />
@@ -31,6 +29,9 @@
 	<raid name="Raging Mage" file="normal/Raging Mage.xml" interval2="1200" margin="120" />
 	<raid name="Cublarc the Plunderer" file="normal/Cublarc the Plunderer.xml" interval2="1200" margin="120" />
     <raid name="Zushuka" file="normal/Zushuka.xml" interval2="1200" margin="120" />
+	<raid name="Glooth Fairy" file="normal/Glooth Fairy.xml" interval2="1200" margin="120" />
+	<raid name="Hatebreeder" file="normal/Hatebreeder.xml" interval2="1200" margin="120" />
+	<raid name="The Welter" file="normal/The Welter.xml" interval2="1200" margin="120" />
 	
 	<!-- Special -->
 	<!--  <raid name="Halloween Hare" file="special/halloween.xml" interval2="1200" margin="120" enabled="no" /> -->
