@@ -70,9 +70,9 @@
 		<item id="5480" chance="31000"/>				<!-- cat's paw -->
 		<item id="2805" chance="21000"/>				<!-- troll green -->
 		<item id="11306" chance="15000"/>				<!-- sai -->
-		<item id="7419" chance="9800"/>					<!-- dreaded cleaver -->
+		<item id="7419" chance="15800"/>					<!-- dreaded cleaver -->
 		<item id="2169" chance="6000"/>					<!-- time ring -->
-		<item id="7428" chance="2000"/>					<!-- bonebreaker -->
-		<item id="24740" chance="15000"/>				<!-- wolf backpack -->
+		<item id="7428" chance="15000"/>					<!-- bonebreaker -->
+		<item id="24740" chance="18000"/>				<!-- wolf backpack -->
 	</loot>
 </monster>

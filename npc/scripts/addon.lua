@@ -840,6 +840,7 @@ function NightmareSecond(cid, message, keywords, parameters, node)
             doSendMagicEffect(getCreaturePosition(cid), 13) 
             doPlayerAddOutfit(cid, 268, 2) 
             doPlayerAddOutfit(cid, 269, 2) 
+			Player(cid):addItem(6391,0)
         end 
         else 
             selfSay(noitems, cid) 
@@ -932,6 +933,7 @@ function BrotherhoodSecond(cid, message, keywords, parameters, node)
             doSendMagicEffect(getCreaturePosition(cid), 13) 
             doPlayerAddOutfit(cid, 278, 2) 
             doPlayerAddOutfit(cid, 279, 2) 
+			Player(cid):addItem(6433,0)
         end 
         else 
             selfSay(noitems, cid) 

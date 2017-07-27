@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Gnomevil" nameDescription="Gnomevil" race="blood" experience="45000" speed="470" manacost="0">
+<monster name="Gnomevil" nameDescription="Gnomevil" race="blood" experience="175000" speed="470" manacost="0">
 	<health now="250000" max="250000" />
 	<look type="504" corpse="18443" />
 	<targetchange interval="5000" chance="8" />
@@ -65,5 +65,6 @@
 		<item id="18450" chance="14100" /><!-- crystalline sword -->
 		<item id="18449" chance="1710" /><!-- decorative ribbon -->
 		<item id="18396" chance="15000" /><!-- mucus plug -->
+		<item id="18423" countmax="3" chance="100000" /><!-- major crystalline token -->
 	</loot>
 </monster>

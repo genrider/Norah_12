@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Deathstrike" nameDescription="Deathstrike" race="blood" experience="45000" speed="470" manacost="0">
+<monster name="Deathstrike" nameDescription="Deathstrike" race="blood" experience="40000" speed="470" manacost="0">
 	<health now="80000" max="80000" />
 	<look type="500" corpse="18384" />
 	<targetchange interval="5000" chance="8" />
@@ -61,5 +61,6 @@
 		<item id="18453" chance="12380" /><!-- crystalline crossbow -->
 		<item id="18451" chance="11430" /><!-- crystalline axe -->
 		<item id="18454" chance="11430" /><!-- mycological bow -->
+		<item id="18423" countmax="2" chance="100000" /><!-- major crystalline token -->
 	</loot>
 </monster>

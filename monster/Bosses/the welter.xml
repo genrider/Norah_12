@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="The Welter" nameDescription="a the welter" race="blood" experience="25000" speed="250" manacost="0">
 	<health now="25000" max="25000" />
-	<look type="121" corpse="6048" />
+	<look type="563" corpse="6048" />
 	<targetchange interval="4000" chance="10" />
 	<flags>
 		<flag summonable="0" />
