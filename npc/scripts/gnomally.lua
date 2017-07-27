@@ -56,6 +56,7 @@ local function creatureSayCallback(cid, type, msg)
 			variant[cid] = nil
 			talk_state[cid] = nil
 		end
+	end
 		
 
 end 

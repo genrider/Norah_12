@@ -530,7 +530,7 @@
 	<monster name="Wyrm" file="Dragons/wyrm.xml" />
 	<monster name="Ghastly Dragon" file="Dragons/ghastly dragon.xml" />
 	<monster name="Draptor" file="Dragons/draptor.xml" />
-	<monster name="Hatebreeder" file="Bosses/hatebreeder.xml" />
+	<monster name="Hatebreeder" file="hatebreeder.xml" />
 
 	<!-- Dreamhaunters -->
 	<monster name="Bad Dream" file="Dreamhaunters/bad dream.xml" />
