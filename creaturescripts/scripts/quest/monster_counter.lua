@@ -121,6 +121,7 @@ function onKill(cid, target, lastHit)
 	---------------Warzone-------------------
 	elseif name == "Deathstrike" then
 		if(isPlayer(target) == FALSE and monster) then	
+				doPlayerAddItem(cid,18423,1)
                 if getGlobalStorageValue(17150) == -1 then 
                 	setGlobalStorageValue(17150, 1)
 			end
@@ -128,6 +129,7 @@ function onKill(cid, target, lastHit)
 	
 	elseif name == "Gnomevil" then
 		if(isPlayer(target) == FALSE and monster) then	
+				doPlayerAddItem(cid,18423,1)
                 if getGlobalStorageValue(17151) == -1 then 
                 	setGlobalStorageValue(17151, 1)
 			end
@@ -135,6 +137,7 @@ function onKill(cid, target, lastHit)
 		
 	elseif name == "Versperoth" then
 		if(isPlayer(target) == FALSE and monster) then	
+				doPlayerAddItem(cid,18423,1)
                 if getGlobalStorageValue(17152) == -1 then 
                 	setGlobalStorageValue(17152, 1)
 			end
@@ -142,6 +145,7 @@ function onKill(cid, target, lastHit)
 		
 	elseif name == "Abyssador" then
 		if(isPlayer(target) == FALSE and monster) then	
+				doPlayerAddItem(cid,18423,1)
                 if getGlobalStorageValue(17180) == -1 then 
                 	setGlobalStorageValue(17180, 1)
 			end

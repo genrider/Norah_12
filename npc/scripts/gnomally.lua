@@ -35,18 +35,18 @@ local function creatureSayCallback(cid, type, msg)
 	if array[msg] then
 		npcHandler:say('Do you have for me {' .. t.cost .. ' major crystalline tokens}?', cid)
 		talk_state[cid] = 1
-		variant[cid] = msg:lower()
+		variant[cid] = array[msg]
 	elseif msgcontains(msg, 'yes') and talk_state[cid] == 1 then 
-		local t = array[variant[cid]]
-		if variant[cid] == nil then
+		local b = variant[cid]
+		if b == nil then
 			return true
 		end
-		if Player(cid):getFreeCapacity() >= ItemType(t.id):getWeight() then
-			if getPlayerItemCount(cid, 18423) >= t.cost then
-				doPlayerAddItem(cid,t.id,1)
-				doPlayerRemoveItem(cid,18423,t.cost)
+		if Player(cid):getFreeCapacity() >= ItemType(b.id):getWeight() then
+			if getPlayerItemCount(cid, 18423) >= b.cost then
+				doPlayerAddItem(cid,b.id,1)
+				doPlayerRemoveItem(cid,18423,b.cost)
 			else
-				npcHandler:say('You don\'t have ' .. t.cost .. ' major crystalline tokens.',cid)
+				npcHandler:say('You don\'t have ' .. b.cost .. ' major crystalline tokens.',cid)
 				variant[cid] = nil
 				talk_state[cid] = nil
 			end
