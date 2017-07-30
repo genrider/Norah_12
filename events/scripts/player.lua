@@ -315,7 +315,7 @@ function Player:onGainExperience(source, exp, rawExp)
 	end
 
 	-- Apply experience stage multiplier
-	exp = exp * Game.getExperienceStage(self:getLevel())
+	-- exp = exp * Game.getExperienceStage(self:getLevel())
 
 	-- Stamina modifier
 	if configManager.getBoolean(configKeys.STAMINA_SYSTEM) then
@@ -323,9 +323,11 @@ function Player:onGainExperience(source, exp, rawExp)
 
 		local staminaMinutes = self:getStamina()
 		if staminaMinutes > 2400 and self:isPremium() then
-			exp = exp + 1
+			exp = exp * (Game.getExperienceStage(self:getLevel()) + 1)
 		elseif staminaMinutes <= 840 then
-			exp = exp * 0.5
+			exp = exp * (Game.getExperienceStage(self:getLevel()) * 0.5)
+		else
+			exp = exp * Game.getExperienceStage(self:getLevel())
 		end
 	end
 
