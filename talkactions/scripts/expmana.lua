@@ -4,7 +4,7 @@ local s = function(p, lv)
        local k = Game.getExperienceStage(lv)
        local st = p:getStamina()
          if st > 2400 then
-           return k*1.5 .. " (stamina bonus)"
+           return k + 1 .. " (stamina bonus)"
          elseif st < 1 then
            return 0 .. " (out of stamina)"
          elseif st < 841 then
