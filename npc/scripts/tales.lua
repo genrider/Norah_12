@@ -23,7 +23,7 @@ local player = Player(cid)
 		npcHandler.topic[cid] = 1
 	
 	elseif msgcontains(msg, 'ceremonial mask') and player:getStorageValue(Storage.Club.QuestLine) == 1 and player:getStorageValue(cid,Storage.Club.Reward01) == -1 then
-		npcHandler:say('If you wan\'t to get {Ceremonial Mask} bring me {100 golden mugs}, {300 scarab coins} and {vampire\'s cape chain}.', cid)
+		npcHandler:say('If you wan\'t to get {Ceremonial Mask} bring me {100 golden mugs}, {300 scarab coins} and {100 vampire\'s cape chain}.', cid)
 		npcHandler.topic[cid] = 2
 		
 	elseif msgcontains(msg, 'elane\'s crossbow') and player:getStorageValue(Storage.Club.QuestLine) == 1 then

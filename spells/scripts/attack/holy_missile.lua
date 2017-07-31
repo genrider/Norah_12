@@ -6,8 +6,8 @@ combat:setParameter(COMBAT_PARAM_DISTANCEEFFECT, CONST_ANI_HOLY)
 function onGetFormulaValues(player, level, maglevel)
 	--local min = (level / 5) + (maglevel * 1.8) + 11
 	--local max = (level / 5) + (maglevel * 3.8) + 23
-	local min = (((maglevel/9) * (maglevel/10))*2.5) + level
-	local max = (((maglevel/9) * (maglevel/10))*4) + level
+	local min = (((maglevel/9) * (maglevel/10))*2.5) + (level / 3)
+	local max = (((maglevel/9) * (maglevel/10))*4) + (level / 3)
 	return -min, -max
 end
 
