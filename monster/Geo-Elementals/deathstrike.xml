@@ -61,6 +61,7 @@
 		<item id="18453" chance="12380" /><!-- crystalline crossbow -->
 		<item id="18451" chance="11430" /><!-- crystalline axe -->
 		<item id="18454" chance="11430" /><!-- mycological bow -->
-		<item id="18423" countmax="2" chance="100000" /><!-- major crystalline token -->
+		<item id="18423" chance="100000" /><!-- major crystalline token -->
+		<item id="18423" chance="100000" /><!-- major crystalline token -->
 	</loot>
 </monster>

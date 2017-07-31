@@ -46,6 +46,9 @@
 		<voice sentence="Waaaah!" />
 	</voices>
 	<loot>
-		<item id="18423" countmax="4" chance="100000" /><!-- major crystalline token -->
+		<item id="18423"  chance="100000" /><!-- major crystalline token -->
+		<item id="18423"  chance="100000" /><!-- major crystalline token -->
+		<item id="18423"  chance="100000" /><!-- major crystalline token -->
+		<item id="18423"  chance="100000" /><!-- major crystalline token -->
 	</loot>
 </monster>

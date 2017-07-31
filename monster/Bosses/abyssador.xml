@@ -78,6 +78,10 @@
 		<item id="18451" chance="5500" /> <!-- Crystalline Axe -->
 		<item id="18450" chance="5500" /> <!-- Crystalline Sword -->
 		<item id="18452" chance="4500" /> <!-- Mace -->
-		<item id="18423" countmax="5" chance="100000" /><!-- major crystalline token -->
+		<item id="18423" chance="100000" /><!-- major crystalline token -->
+		<item id="18423" chance="100000" /><!-- major crystalline token -->
+		<item id="18423" chance="100000" /><!-- major crystalline token -->
+		<item id="18423" chance="100000" /><!-- major crystalline token -->
+		<item id="18423" chance="100000" /><!-- major crystalline token -->
 	</loot>
 </monster>

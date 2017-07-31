@@ -65,6 +65,8 @@
 		<item id="18450" chance="14100" /><!-- crystalline sword -->
 		<item id="18449" chance="1710" /><!-- decorative ribbon -->
 		<item id="18396" chance="15000" /><!-- mucus plug -->
-		<item id="18423" countmax="3" chance="100000" /><!-- major crystalline token -->
+		<item id="18423" chance="100000" /><!-- major crystalline token -->
+		<item id="18423" chance="100000" /><!-- major crystalline token -->
+		<item id="18423" chance="100000" /><!-- major crystalline token -->
 	</loot>
 </monster>
