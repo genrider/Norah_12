@@ -95,15 +95,15 @@
 		<item id="2197" chance="8300"/>						<!-- stone skin amulet -->
 		<item id="2656" chance="8000"/>						<!-- blue robe -->
 		<item id="8903" chance="8000"/>						<!-- spellbook of lost souls -->
-		<item id="7412" chance="3000"/>						<!-- butcher's axe -->
-		<item id="2466" chance="2600"/>						<!-- golden armor -->
-		<item id="7388" chance="1740"/>						<!-- vile axe -->
+		<item id="7412" chance="5000"/>						<!-- butcher's axe -->
+		<item id="2466" chance="9600"/>						<!-- golden armor -->
+		<item id="7388" chance="9740"/>						<!-- vile axe -->
 		<item id="8904" chance="1370"/>						<!-- spellscroll of prophecies -->
 		<item id="14333" chance="620"/>						<!-- demonbone amulet -->
 		<item id="7453" chance="620"/>						<!-- executioner -->
 		<item id="8926" chance="370"/>						<!-- demonwing axe -->
-		<item id="2470" chance="370"/>						<!-- golden legs -->
-		<item id="8879" chance="370"/>						<!-- voltage armor -->
-		<item id="8918" chance="250"/>						<!-- spellbook of dark mysteries -->
+		<item id="2470" chance="15370"/>						<!-- golden legs -->
+		<item id="8879" chance="5370"/>						<!-- voltage armor -->
+		<item id="2415" chance="4250"/>						<!-- great axe -->
 	</loot>
 </monster>

@@ -22,8 +22,8 @@ local player = Player(cid)
 		npcHandler:say('Do you want to join our club?', cid)
 		npcHandler.topic[cid] = 1
 	
-	elseif msgcontains(msg, 'roc feather') and player:getStorageValue(Storage.Club.QuestLine) == 1 and player:getStorageValue(cid,Storage.Club.Reward01) == -1 then
-		npcHandler:say('This pen, which was stolen from the royal treasury for many years. If you\'ve ever hit it necessary to return the pen with him to me, and the king will surely find you a prize. Or maybe you\'ve it already, since you ask?', cid)
+	elseif msgcontains(msg, 'ceremonial mask') and player:getStorageValue(Storage.Club.QuestLine) == 1 and player:getStorageValue(cid,Storage.Club.Reward01) == -1 then
+		npcHandler:say('If you wan\'t to get {Ceremonial Mask} bring me {100 golden mugs}, {300 scarab coins} and {vampire\'s cape chain}.', cid)
 		npcHandler.topic[cid] = 2
 		
 	elseif msgcontains(msg, 'elane\'s crossbow') and player:getStorageValue(Storage.Club.QuestLine) == 1 then
@@ -96,10 +96,12 @@ local player = Player(cid)
 			npcHandler.topic[cid] = 0
 			
 	elseif npcHandler.topic[cid] == 2 then
-		if player:getItemCount(2366) >= 1 then
-			player:removeItem(2366,1) 
-			npcHandler:say('{Fantastic}! The king will be proud of your making! As a reward I can offer {Master Archer\'s Armor}.', cid)
-			player:addItem(8888,1) 
+		if player:getItemCount(2033) >= 100 and player:getItemCount(2159) >= 300  and player:getItemCount(21244,100) >=100 then
+			player:removeItem(2033,100) 
+			player:removeItem(2159,300)
+			player:removeItem(21244,100)
+			npcHandler:say('{Fantastic}! The king will be proud of your making! As a reward I can offer {Ceremonial Mask}.', cid)
+			player:addItem(2501,1) 
 			player:setStorageValue(Storage.Club.Reward01, 1)
 			else
 		npcHandler:say('Sorry but you don\'t have all items!', cid)

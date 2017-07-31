@@ -90,7 +90,7 @@
 		<item id="2176" chance="21570"/>				<!-- orb -->
 		<item id="5943" chance="21570"/>				<!-- morgaroth's heart -->
 		<item id="2146" countmax="10" chance="19610"/>	<!-- small sapphire -->
-		<item id="8886" chance="9610"/>				<!-- molten plate -->
+		<!--<item id="8886" chance="9610"/>				 molten plate -->
 		<item id="2143" countmax="13" chance="17650"/>	<!-- white pearl -->
 		<item id="2179" chance="17650"/>				<!-- gold ring -->
 		<item id="2165" chance="17650"/>				<!-- stealth ring -->
@@ -104,7 +104,7 @@
 		<item id="8928" chance="11760"/>				<!-- obsidian truncheon -->
 		<item id="7368" countmax="44" chance="11760"/>	<!-- assassin star -->
 		<item id="2421" chance="9760"/>				<!-- thunder hammer -->
-		<item id="8865" chance="9760"/>				<!-- dark lord's cape -->
+		<!--<item id="8865" chance="9760"/>				 dark lord's cape -->
 		<item id="2192" chance="11760"/>				<!-- crystal ball -->
 		<item id="2514" chance="8760"/>				<!-- mastermind shield -->
 		<item id="2167" chance="11760"/>				<!-- energy ring -->

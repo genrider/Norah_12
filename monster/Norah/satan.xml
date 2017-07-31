@@ -86,6 +86,6 @@
 	<item id="11423" chance="2200"/><!-- coral comb -->
 	<item id="2522" chance="250"/><!-- great shield -->
 	<item id="2421" chance="200"/><!-- thunder hammer -->
-	<item id="2495" chance="100"/><!-- demon legs -->
+	<!--<item id="2495" chance="100"/> demon legs -->
   </loot>
 </monster>

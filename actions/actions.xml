@@ -29,6 +29,7 @@
 	<action uniqueid="3018" script="quests/satan/satan.lua" /> 
 	<action uniqueid="3019" script="quests/satan/reward_room.lua" />
 	<action fromuid="3020" touid="3024" script="quests/satan/nagrody.lua" />
+	<action fromuid="3026" touid="3028" script="quests/satan/nagrody.lua" />
 	<action uniqueid="3025" script="quests/satan/addon.lua" />
 	
 	<!-- Eight Dolls Quest -->

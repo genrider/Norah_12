@@ -15,7 +15,8 @@ Storage = {
 		Final = 3011, --Final Room
 		RewardWEAPON = 3012,
 		RewardBOW = 3013,
-		AddonSecond = 3014	-- Demonhunter 
+		AddonSecond = 3014,	-- Demonhunter 
+		RewardARMOR = 3015 
 	},
 	
 	Doll = {

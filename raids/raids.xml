@@ -32,6 +32,7 @@
 	<raid name="Glooth Fairy" file="normal/Glooth Fairy.xml" interval2="1200" margin="120" />
 	<raid name="Hatebreeder" file="normal/Hatebreeder.xml" interval2="1200" margin="120" />
 	<raid name="The Welter" file="normal/The Welter.xml" interval2="1200" margin="120" />
+	<raid name="Furyosa" file="normal/Furyosa.xml" interval2="1200" margin="120" />
 	
 	<!-- Special -->
 	<!--  <raid name="Halloween Hare" file="special/halloween.xml" interval2="1200" margin="120" enabled="no" /> -->

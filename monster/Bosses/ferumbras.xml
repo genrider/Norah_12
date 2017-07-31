@@ -82,7 +82,7 @@
 		<item id="2466" chance="24000"/>				<!-- golden armor -->
 		<item id="2470" chance="12000"/>				<!-- golden legs -->
 		<item id="8902" chance="12000"/>				<!-- spellbook of mind control -->
-		<item id="8868" chance="12000"/>				<!-- velvet mantle -->
+		<!-- <item id="8868" chance="12000"/>				velvet mantle -->
 		<item id="2520" chance="10000"/>				<!-- demon shield -->
 		<item id="8885" chance="10000"/>				<!-- divine plate -->
 		<item id="7894" chance="20000"/>				<!-- magma legs -->

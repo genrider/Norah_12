@@ -917,6 +917,7 @@
 	<monster name="Witch" file="Sorcerers/witch.xml" />
 	<monster name="Yalahari" file="Sorcerers/yalahari.xml" />
 	<monster name="Zushuka" file="Sorcerers/zushuka.xml" />
+	<monster name="Furyosa" file="Bosses/furyosa.xml" />
 
 	<!-- Traps -->
 	<monster name="Deathslicer" file="Traps/deathslicer.xml" />

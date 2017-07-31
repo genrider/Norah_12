@@ -4,7 +4,10 @@ local config = {
 	[3021] = {item = 8928, storage = Storage.Satan.RewardWEAPON},
 	[3022] = {item = 8924, storage = Storage.Satan.RewardWEAPON},
 	[3023] = {item = 8851, storage = Storage.Satan.RewardBOW},
-	[3024] = {item = 8854, storage = Storage.Satan.RewardBOW}
+	[3024] = {item = 8854, storage = Storage.Satan.RewardBOW},
+	[3026] = {item = 8918, storage = Storage.Satan.RewardARMOR},
+	[3027] = {item = 8883, storage = Storage.Satan.RewardARMOR},
+	[3028] = {item = 8888, storage = Storage.Satan.RewardARMOR}
 }
 
 local v = config[item.uid]
