@@ -12,7 +12,7 @@
 	<!-- QUEST -->
 	<event type="kill" name="MonsterCounter" script="quest/monster_counter.lua" />
 	<!-- Killing In The Name Of Quest -->
-	<event type="death" name="KillingInTheNameOfKills" script="quest/killing in the name of/kills.lua" />
+	<event type="kill" name="KillingInTheNameOfKills" script="quest/killing in the name of/kills.lua" />
 	<!-- In Service Of Yalahar Quest -->
 	<event type="kill" name="inServiceOfYalaharQuestsMorik" script="quest/yalahar/Yalahar.lua" />
 	<!-- Arena: Killing a boss -->
