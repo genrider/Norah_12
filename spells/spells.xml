@@ -794,4 +794,5 @@
 	<instant name="djinn cancel invisibility" words="###47" aggressive="1" blockwalls="1" needtarget="0" needlearn="1" script="monster/djinn_cancel_invisibility.lua" />
 	<instant name="betrayed wraith skill reducer" words="###48" direction="1" aggressive="1" blockwalls="1" needtarget="0" needlearn="1" script="monster/betrayed_wraith_skill_reducer.lua" />
 	<instant name="pirate corsair skill reducer" words="###49" direction="1" aggressive="1" blockwalls="1" needtarget="0" needlearn="1" script="monster/pirate_corsair_skill_reducer.lua" />
+	<instant name="exeta tank" words="###50" direction="1" aggressive="1" blockwalls="1" needtarget="0" needlearn="1" script="monster/exeta_tank.lua" />
 </spells>

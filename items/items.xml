@@ -15865,37 +15865,37 @@
 	<item id="8877" article="a" name="lavos armor">
 		<attribute key="weight" value="8500" />
 		<attribute key="armor" value="13" />
-		<attribute key="absorbPercentFire" value="3" />
-		<attribute key="absorbPercentIce" value="-3" />
+		<attribute key="absorbPercentFire" value="8" />
+		<attribute key="absorbPercentIce" value="-8" />
 		<attribute key="slotType" value="body" />
 	</item>
 	<item id="8878" article="a" name="crystalline armor">
 		<attribute key="weight" value="8450" />
 		<attribute key="armor" value="13" />
-		<attribute key="absorbPercentIce" value="3" />
-		<attribute key="absorbPercentEnergy" value="-3" />
+		<attribute key="absorbPercentIce" value="8" />
+		<attribute key="absorbPercentEnergy" value="-8" />
 		<attribute key="slotType" value="body" />
 	</item>
 	<item id="8879" article="a" name="voltage armor">
 		<attribute key="weight" value="8450" />
 		<attribute key="armor" value="13" />
-		<attribute key="absorbPercentEnergy" value="3" />
-		<attribute key="absorbPercentEarth" value="-3" />
+		<attribute key="absorbPercentEnergy" value="8" />
+		<attribute key="absorbPercentEarth" value="-8" />
 		<attribute key="slotType" value="body" />
 	</item>
 	<item id="8880" article="a" name="swamplair armor">
 		<attribute key="weight" value="8450" />
 		<attribute key="armor" value="13" />
-		<attribute key="absorbPercentEarth" value="3" />
-		<attribute key="absorbPercentFire" value="-3" />
+		<attribute key="absorbPercentEarth" value="8" />
+		<attribute key="absorbPercentFire" value="-8" />
 		<attribute key="slotType" value="body" />
 	</item>
 	<item id="8881" article="a" name="fireborn giant armor">
 		<attribute key="weight" value="12000" />
 		<attribute key="armor" value="15" />
 		<attribute key="skillSword" value="2" />
-		<attribute key="absorbPercentFire" value="5" />
-		<attribute key="absorbPercentIce" value="-5" />
+		<attribute key="absorbPercentFire" value="10" />
+		<attribute key="absorbPercentIce" value="-10" />
 		<attribute key="slotType" value="body" />
 	</item>
 	<item id="8882" article="an" name="earthborn titan armor">
@@ -15903,14 +15903,14 @@
 		<attribute key="slotType" value="body" />
 		<attribute key="armor" value="15" />
 		<attribute key="skillAxe" value="2" />
-		<attribute key="absorbPercentEarth" value="5" />
-		<attribute key="absorbPercentFire" value="-5" />
+		<attribute key="absorbPercentEarth" value="10" />
+		<attribute key="absorbPercentFire" value="-10" />
 	</item>
 	<item id="8883" article="a" name="windborn colossus armor">
 		<attribute key="weight" value="12000" />
 		<attribute key="armor" value="15" />
-		<attribute key="absorbPercentEnergy" value="5" />
-		<attribute key="absorbPercentEarth" value="-5" />
+		<attribute key="absorbPercentEnergy" value="10" />
+		<attribute key="absorbPercentEarth" value="-10" />
 		<attribute key="skillClub" value="2" />
 		<attribute key="slotType" value="body" />
 	</item>
@@ -15918,30 +15918,30 @@
 		<attribute key="weight" value="10000" />
 		<attribute key="armor" value="15" />
 		<attribute key="skillShield" value="1" />
-		<attribute key="absorbPercentIce" value="5" />
-		<attribute key="absorbPercentEnergy" value="-5" />
+		<attribute key="absorbPercentIce" value="10" />
+		<attribute key="absorbPercentEnergy" value="-10" />
 		<attribute key="slotType" value="body" />
 	</item>
 	<item id="8885" article="a" name="divine plate">
 		<attribute key="armor" value="13" />
 		<attribute key="slotType" value="body" />
 		<attribute key="weight" value="7500" />
-		<attribute key="absorbPercentDeath" value="10" />
-		<attribute key="absorbPercentHoly" value="-10" />
+		<attribute key="absorbPercentDeath" value="12" />
+		<attribute key="absorbPercentHoly" value="-12" />
 	</item>
 	<item id="8886" article="a" name="molten plate">
 		<attribute key="armor" value="13" />
 		<attribute key="slotType" value="body" />
 		<attribute key="weight" value="7500" />
-		<attribute key="absorbPercentFire" value="7" />
-		<attribute key="absorbPercentIce" value="-7" />
+		<attribute key="absorbPercentFire" value="9" />
+		<attribute key="absorbPercentIce" value="-9" />
 	</item>
 	<item id="8887" article="a" name="frozen plate">
 		<attribute key="armor" value="13" />
 		<attribute key="slotType" value="body" />
 		<attribute key="weight" value="7500" />
-		<attribute key="absorbPercentIce" value="7" />
-		<attribute key="absorbPercentEnergy" value="-7" />
+		<attribute key="absorbPercentIce" value="9" />
+		<attribute key="absorbPercentEnergy" value="-9" />
 	</item>
 	<item id="8888" article="a" name="master archer's armor">
 		<attribute key="armor" value="15" />
