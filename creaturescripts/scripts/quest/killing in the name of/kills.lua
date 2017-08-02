@@ -1,16 +1,17 @@
-function onKill(player, target)
-	if target:isPlayer() or target:getMaster() then
+--function onKill(player, target)
+function onDeath(creature, corpse, killer, mostDamageKiller, lastHitUnjustified, mostDamageUnjustified)
+	if creature:isPlayer() or creature:getMaster() then
 		return true
 	end
 
-	local targetName, taskId = target:getName():lower()
-	for i = 1, #player:getStartedTasks() do
-		taskId = player:getStartedTasks()[i]
+	local targetName, taskId = creature:getName():lower()
+	for i = 1, #killer:getStartedTasks() do
+		taskId = killer:getStartedTasks()[i]
 		if isInArray(tasks[taskId].creatures, targetName) then
-			local killAmount = player:getStorageValue(KILLSSTORAGE_BASE + taskId)
+			local killAmount = killer:getStorageValue(KILLSSTORAGE_BASE + taskId)
 			if killAmount < tasks[taskId].killsRequired then
-				player:setStorageValue(KILLSSTORAGE_BASE + taskId, killAmount + 1)
-				player:sendTextMessage(MESSAGE_INFO_DESCR,tasks[taskId].raceName .. ": " .. player:getStorageValue(KILLSSTORAGE_BASE + taskId) .. "/" .. tasks[taskId].killsRequired)
+				killer:setStorageValue(KILLSSTORAGE_BASE + taskId, killAmount + 1)
+				killer:sendTextMessage(MESSAGE_INFO_DESCR,tasks[taskId].raceName .. ": " .. killer:getStorageValue(KILLSSTORAGE_BASE + taskId) .. "/" .. tasks[taskId].killsRequired)
 			end
 		end
 	end
