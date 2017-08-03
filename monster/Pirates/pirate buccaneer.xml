@@ -51,12 +51,12 @@
 		<item id="5091" chance="1000" /><!-- treasure map -->
 		<item id="6095" chance="1200" /><!-- pirate shirt -->
 		<item id="2463" chance="1130" /><!-- plate armor -->
-		<item id="6126" chance="510" /><!-- peg leg -->
-		<item id="6098" chance="420" /><!-- eye patch -->
+		<item id="6126" chance="710" /><!-- peg leg -->
+		<item id="6098" chance="620" /><!-- eye patch -->
 		<item id="7588" chance="670" /><!-- strong health potion -->
 		<item id="6097" chance="450" /><!-- hook -->
 		<item id="5926" chance="430" /><!-- pirate backpack -->
-		<item id="5792" chance="40" /><!-- dice -->
+		<item id="5792" chance="140" /><!-- dice -->
 		<item id="11219" chance="9780" /><!-- compass -->
 		<item id="5553" chance="120" /><!-- rum flask -->
 	</loot>
