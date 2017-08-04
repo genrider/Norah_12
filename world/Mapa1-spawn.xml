@@ -21063,6 +21063,9 @@
 	<spawn centerx="753" centery="625" centerz="9" radius="1">
 		<monster name="Wasp" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
+	<spawn centerx="772" centery="626" centerz="9" radius="1">
+		<monster name="Serpent Spawn" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
 	<spawn centerx="741" centery="627" centerz="9" radius="1">
 		<monster name="Wasp" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
@@ -21223,6 +21226,9 @@
 	<spawn centerx="652" centery="643" centerz="9" radius="1">
 		<monster name="Orc Warrior" x="0" y="-1" z="9" spawntime="60" />
 	</spawn>
+	<spawn centerx="792" centery="643" centerz="9" radius="1">
+		<monster name="Serpent Spawn" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
 	<spawn centerx="1304" centery="643" centerz="9" radius="1">
 		<monster name="Kongra" x="-1" y="-1" z="9" spawntime="60" />
 		<monster name="Sibang" x="1" y="1" z="9" spawntime="60" />
@@ -21317,6 +21323,9 @@
 	<spawn centerx="1307" centery="654" centerz="9" radius="1">
 		<monster name="Sibang" x="-1" y="-1" z="9" spawntime="60" />
 		<monster name="Sibang" x="1" y="1" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="766" centery="656" centerz="9" radius="1">
+		<monster name="Serpent Spawn" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="1299" centery="656" centerz="9" radius="1">
 		<monster name="Sibang" x="-1" y="0" z="9" spawntime="60" />
@@ -25224,6 +25233,9 @@
 	<spawn centerx="736" centery="619" centerz="10" radius="1">
 		<monster name="Serpent Spawn" x="-1" y="0" z="10" spawntime="60" />
 	</spawn>
+	<spawn centerx="757" centery="619" centerz="10" radius="1">
+		<monster name="Serpent Spawn" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
 	<spawn centerx="1332" centery="619" centerz="10" radius="1">
 		<monster name="Serpent Spawn" x="-1" y="0" z="10" spawntime="60" />
 	</spawn>
@@ -25243,6 +25255,9 @@
 	</spawn>
 	<spawn centerx="1329" centery="624" centerz="10" radius="1">
 		<monster name="Hydra" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="752" centery="625" centerz="10" radius="1">
+		<monster name="Serpent Spawn" x="0" y="0" z="10" spawntime="60" />
 	</spawn>
 	<spawn centerx="1339" centery="626" centerz="10" radius="1">
 		<monster name="Giant Spider" x="0" y="0" z="10" spawntime="60" />
@@ -30183,6 +30198,9 @@
 	<spawn centerx="799" centery="652" centerz="12" radius="1">
 		<monster name="Hydra" x="0" y="1" z="12" spawntime="60" />
 	</spawn>
+	<spawn centerx="810" centery="652" centerz="12" radius="1">
+		<monster name="Serpent Spawn" x="-1" y="1" z="12" spawntime="60" />
+	</spawn>
 	<spawn centerx="815" centery="652" centerz="12" radius="1">
 		<monster name="Eternal Guardian" x="1" y="1" z="12" spawntime="60" />
 	</spawn>
@@ -30193,6 +30211,9 @@
 		<monster name="Dworc Voodoomaster" x="2" y="-2" z="12" spawntime="60" />
 		<monster name="Dworc Fleshhunter" x="-1" y="0" z="12" spawntime="60" />
 		<monster name="Dworc Voodoomaster" x="-2" y="3" z="12" spawntime="60" />
+	</spawn>
+	<spawn centerx="786" centery="653" centerz="12" radius="1">
+		<monster name="Serpent Spawn" x="0" y="0" z="12" spawntime="60" />
 	</spawn>
 	<spawn centerx="793" centery="653" centerz="12" radius="1">
 		<monster name="Medusa" x="1" y="1" z="12" spawntime="60" />
@@ -30211,6 +30232,9 @@
 	</spawn>
 	<spawn centerx="828" centery="654" centerz="12" radius="1">
 		<monster name="Eternal Guardian" x="0" y="1" z="12" spawntime="60" />
+	</spawn>
+	<spawn centerx="812" centery="658" centerz="12" radius="1">
+		<monster name="Serpent Spawn" x="0" y="0" z="12" spawntime="60" />
 	</spawn>
 	<spawn centerx="1324" centery="658" centerz="12" radius="3">
 		<monster name="Dworc Fleshhunter" x="2" y="-2" z="12" spawntime="60" />

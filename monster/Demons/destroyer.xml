@@ -64,9 +64,9 @@
 		<item id="2152" countmax="5" chance="4166" /><!-- platinum coin -->
 		<item id="2393" chance="994" /><!-- giant sword -->
 		<item id="7591" chance="1136" /><!-- greath health potion -->
-		<item id="2645" chance="792" /><!-- steel boots -->
-		<item id="7427" chance="769" /><!-- chaos mace -->
-		<item id="7419" chance="533" /><!-- dreaded cleaver -->
+		<item id="2645" chance="592" /><!-- steel boots -->
+		<item id="7427" chance="669" /><!-- chaos mace -->
+		<item id="7419" chance="433" /><!-- dreaded cleaver -->
 		<item id="2125" chance="578" /><!-- crystal necklace -->
 		<item id="2178" chance="564" /><!-- mind stone -->
 		<item id="6300" chance="144" /><!-- death ring -->
