@@ -19,10 +19,10 @@
 	</flags>
 	<attacks>
 		<attack name="melee" interval="2000" min="0" max="-490" />
-		<attack name="earth" interval="2000" chance="20" range="7" target="1" radius="1" min="-220" max="-405">
+		<attack name="earth" interval="2000" chance="25" range="7" target="1" radius="1" min="-220" max="-405">
 			<attribute key="shootEffect" value="poison" />
 		</attack>
-		<attack name="lifedrain" interval="2000" chance="15" target="0" radius="4" min="-65" max="-135">
+		<attack name="lifedrain" interval="2000" chance="23" target="0" radius="4" min="-65" max="-135">
 			<attribute key="areaEffect" value="greenshimmer" />
 		</attack>
 		<attack name="drunk" interval="2000" chance="10" target="0" radius="3" duration="5000">
@@ -36,7 +36,7 @@
 	<defenses armor="50" defense="50" />
 	<elements>
 		<element firePercent="50" />
-		<element energyPercent="20" />
+		<element energyPercent="30" />
 		<element icePercent="50" />
 		<element physicalPercent="-10" />
 		<element holyPercent="-30" />
