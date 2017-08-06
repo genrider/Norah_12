@@ -11323,6 +11323,9 @@
 	<spawn centerx="1275" centery="914" centerz="7" radius="1">
 		<npc name="Captain Robert" x="-1" y="-1" z="7" spawntime="60" direction="2" />
 	</spawn>
+	<spawn centerx="1241" centery="915" centerz="7" radius="1">
+		<monster name="Pirate Buccaneer" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="783" centery="916" centerz="7" radius="1">
 		<monster name="Nightmare" x="0" y="-1" z="7" spawntime="60" />
 	</spawn>
@@ -11338,9 +11341,6 @@
 	</spawn>
 	<spawn centerx="771" centery="917" centerz="7" radius="1">
 		<monster name="Destroyer" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="1245" centery="917" centerz="7" radius="1">
-		<monster name="Pirate Buccaneer" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="753" centery="918" centerz="7" radius="1">
 		<monster name="Braindeath" x="0" y="-1" z="7" spawntime="60" />

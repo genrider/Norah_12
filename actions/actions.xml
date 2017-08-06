@@ -356,6 +356,11 @@
 	<action fromid="1728" toid="1731" script="other/watch.lua" />
 	<action itemid="6572" script="other/partytrumpet.lua" />
 	<action itemid="2785" script="other/blueberrybush.lua" />
+	<action itemid="5157" script="other/mangotree.lua" />
+	<action itemid="4006" script="other/orangetree.lua" />
+	<action itemid="5094" script="other/bananatree1.lua" />
+	<action itemid="5095" script="other/bananatree2.lua" />
+	<action itemid="5096" script="other/coconutpalm.lua" />
 	<action itemid="2579" script="other/trap.lua" />
 	<action itemid="2148" script="other/changegold.lua" />
 	<action itemid="2152" script="other/changegold.lua" />

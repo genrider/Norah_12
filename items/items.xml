@@ -4672,7 +4672,10 @@
 	<item id="2722" article="an" name="old tree" />
 	<item fromid="2723" toid="2724" article="a" name="cactus" />
 	<item id="2725" article="a" name="palm" />
-	<item id="2726" article="a" name="coconut palm" />
+	<item id="2726" article="a" name="coconut palm" >
+		<attribute key="decayTo" value="5096" />
+		<attribute key="duration" value="300" />
+	</item>
 	<item fromid="2727" toid="2732" article="a" name="cactus" />
 	<item id="2733" article="a" name="sun adorer cactus" />
 	<item fromid="2734" toid="2736" article="a" name="cactus" />
@@ -7416,7 +7419,10 @@
 	<item fromid="3986" toid="4005" article="a" name="thorn bush" />
 	<item id="4006" article="an" name="orange tree" />
 	<item id="4007" article="a" name="thread tree" />
-	<item id="4008" article="a" name="jungle dweller bush" />
+	<item id="4008" article="an" name="orange tree" >
+		<attribute key="decayTo" value="4006" />
+		<attribute key="duration" value="320" />
+	</item>
 	<item id="4009" article="a" name="tower fern" />
 	<item id="4010" article="a" name="snake nest bush" />
 	<item id="4011" article="a" name="green wig bush" />
@@ -8324,7 +8330,16 @@
 		<attribute key="weight" value="830" />
 		<attribute key="description" value="It obviously shows Treasure Island including a big, red cross." />
 	</item>
-	<item fromid="5092" toid="5095" article="a" name="banana tree" />
+	<item id="5092" article="a" name="banana tree" >
+		<attribute key="decayTo" value="5094" />
+		<attribute key="duration" value="300" />
+	</item>
+	<item id="5093" article="a" name="banana tree" >
+		<attribute key="decayTo" value="5095" />
+		<attribute key="duration" value="300" />
+	</item>
+	<item id="5094" article="a" name="banana tree" />
+	<item id="5095" article="a" name="banana tree" />
 	<item id="5096" article="a" name="coconut palm" />
 	<item id="5097" article="a" name="mango">
 		<attribute key="weight" value="180" />
@@ -8514,7 +8529,11 @@
 		<attribute key="type" value="door" />
 	</item>
 	<item fromid="5146" toid="5155" article="a" name="framework wall" />
-	<item fromid="5156" toid="5157" article="a" name="mango tree" />
+	<item id="5156" article="a" name="mango tree" >
+		<attribute key="decayTo" value="5157" />
+		<attribute key="duration" value="300" />
+	</item>
+	<item id="5157" article="a" name="mango tree" />
 	<item fromid="5158" toid="5205" article="a" name="striped marquee" />
 	<item fromid="5206" toid="5253" article="a" name="marquee" />
 	<item fromid="5254" toid="5255" article="a" name="wooden railing" />

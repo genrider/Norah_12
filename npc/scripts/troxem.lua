@@ -39,6 +39,7 @@ shopModule:addSellableItem({'red tome'},				1986, 1200,		'red tome')
 shopModule:addSellableItem({'holy Tible'},				1970, 1200,		'holy Tible')
 shopModule:addSellableItem({'map'},						1957, 35,		'map')
 shopModule:addSellableItem({'book'},					1961, 35,		'book')
+shopModule:addSellableItem({'treasure map'},			5091, 599,		'treasure map')
 
 
 npcHandler:setCallback(CALLBACK_MESSAGE_DEFAULT, creatureSayCallback)
