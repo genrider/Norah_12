@@ -68,40 +68,40 @@
 		<voice sentence="Gaz'haragoth calls down: DEATH AND DOOM!" yell="1" />
 	</voices>
 	<loot>
-		<item id="2152" countmax="50" chance="10000" /> <!-- Platinum Coin -->
-		<item id="2160" countmax="6" chance="10000" /> <!-- Crystal Coins -->
-		<item id="18418" countmax="15" chance="10000" /> <!-- Blue Crystal Splinter -->
-		<item id="7368" countmax="100" chance="10000" /> <!-- Assassin Star -->
-		<item id="22598" countmax="3" chance="10000" /> <!-- Unrealized Dream -->
-		<item id="6500" countmax="2" chance="10000" /> <!-- Demonic Essence -->
-		<item id="8473" countmax="100" chance="10000" /> <!-- Ultimate Health Potion -->
-		<item id="7590" countmax="100" chance="10000" /> <!-- Great Mana Potions -->
-		<item id="8472" countmax="100" chance="10000" /> <!-- Great Spirit Potions -->
-		<item id="22397" countmax="3" chance="10000" /> <!-- Dream Matter -->
-		<item id="18415" countmax="5" chance="10000" /> <!-- Green Crystal Shard -->
-		<item id="22396" countmax="14" chance="10000" /> <!-- Cluster of Solace -->
-		<item id="2158" countmax="2" chance="10000" /> <!-- Blue Gem -->
-		<item id="18416" countmax="10" chance="10000" /> <!-- Green Crystal Splinter -->
-		<item id="18414" countmax="15" chance="10000" /> <!-- Violet Crystal Shard -->
-		<item id="6529" chance="6000" /> <!-- Infernal Bolt -->
-		<item id="22612" chance="6000" /> <!-- Demonic Tapestry -->
-		<item id="5914" chance="6000" /> <!-- Yellow Piece of Cloth -->
-		<item id="5911" chance="6000" /> <!-- Red Piece of Cloth -->
-		<item id="22610" chance="6000" /> <!-- Dream Warden Mask -->
-		<item id="7899" chance="6000" /> <!-- Magma Coat -->
+		<item id="2152" countmax="50" chance="20000" /> <!-- Platinum Coin -->
+		<item id="2160" countmax="6" chance="20000" /> <!-- Crystal Coins -->
+		<item id="18418" countmax="15" chance="20000" /> <!-- Blue Crystal Splinter -->
+		<item id="7368" countmax="100" chance="20000" /> <!-- Assassin Star -->
+		<item id="22598" countmax="3" chance="20000" /> <!-- Unrealized Dream -->
+		<item id="6500" countmax="2" chance="20000" /> <!-- Demonic Essence -->
+		<item id="8473" countmax="100" chance="20000" /> <!-- Ultimate Health Potion -->
+		<item id="7590" countmax="100" chance="20000" /> <!-- Great Mana Potions -->
+		<item id="8472" countmax="100" chance="20000" /> <!-- Great Spirit Potions -->
+		<item id="22397" countmax="3" chance="20000" /> <!-- Dream Matter -->
+		<item id="18415" countmax="5" chance="20000" /> <!-- Green Crystal Shard -->
+		<item id="22396" countmax="14" chance="20000" /> <!-- Cluster of Solace -->
+		<item id="2158" countmax="2" chance="20000" /> <!-- Blue Gem -->
+		<item id="18416" countmax="10" chance="20000" /> <!-- Green Crystal Splinter -->
+		<item id="18414" countmax="15" chance="20000" /> <!-- Violet Crystal Shard -->
+		<item id="6529" chance="15000" /> <!-- Infernal Bolt -->
+		<item id="22612" chance="15000" /> <!-- Demonic Tapestry -->
+		<item id="5914" chance="15000" /> <!-- Yellow Piece of Cloth -->
+		<item id="5911" chance="15000" /> <!-- Red Piece of Cloth -->
+		<item id="22610" chance="15000" /> <!-- Dream Warden Mask -->
+		<item id="7899" chance="15000" /> <!-- Magma Coat -->
 		<item id="7632" chance="6000" /> <!-- Giant Shimmering Pearl -->
-		<item id="5954" chance="6000" /> <!-- Demon Horn -->
-		<item id="22608" chance="6000" /> <!-- Nightmare Horn -->
-		<item id="2195" chance="6000" /> <!-- Boots of Haste -->
+		<item id="5954" chance="15000" /> <!-- Demon Horn -->
+		<item id="22608" chance="15000" /> <!-- Nightmare Horn -->
+		<item id="2195" chance="15000" /> <!-- Boots of Haste -->
 		<item id="2168" chance="6000" /> <!-- Life Ring -->
-		<item id="22614" chance="6000" /> <!-- Nightmare Beacon -->
-		<item id="22613" chance="6000" /> <!-- Eye Pod -->
-		<item id="22611" chance="6000" /> <!-- Psychedelic Tapestry -->
-		<item id="11262" chance="6000" /> <!-- Solitude Charm -->
-		<item id="11261" chance="6000" /> <!-- Twin Sun Charm -->
-		<item id="11260" chance="6000" /> <!-- Spiritual Charm -->
-		<item id="11259" chance="6000" /> <!-- Unity Charm -->
-		<item id="11258" chance="6000" /> <!-- Phoenix Charm -->
+		<item id="22614" chance="15000" /> <!-- Nightmare Beacon -->
+		<item id="22613" chance="15000" /> <!-- Eye Pod -->
+		<item id="22611" chance="15000" /> <!-- Psychedelic Tapestry -->
+		<item id="11262" chance="15000" /> <!-- Solitude Charm -->
+		<item id="11261" chance="15000" /> <!-- Twin Sun Charm -->
+		<item id="11260" chance="15000" /> <!-- Spiritual Charm -->
+		<item id="11259" chance="15000" /> <!-- Unity Charm -->
+		<item id="11258" chance="15000" /> <!-- Phoenix Charm -->
 		<item id="2469" chance="1800" /> <!-- dragon scale legs -->
 		<item id="2471" chance="1800" /> <!-- golden helmet -->
 		<item id="2523" chance="1800" /> <!-- blessed shield -->

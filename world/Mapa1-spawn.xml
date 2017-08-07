@@ -31007,14 +31007,23 @@
 	<spawn centerx="739" centery="395" centerz="14" radius="1">
 		<monster name="Demon" x="1" y="1" z="14" spawntime="60" />
 	</spawn>
+	<spawn centerx="658" centery="398" centerz="14" radius="1">
+		<monster name="Demon" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
 	<spawn centerx="687" centery="398" centerz="14" radius="1">
 		<monster name="Demon" x="0" y="-1" z="14" spawntime="60" />
 	</spawn>
 	<spawn centerx="732" centery="398" centerz="14" radius="1">
 		<monster name="Demon" x="0" y="1" z="14" spawntime="60" />
 	</spawn>
+	<spawn centerx="482" centery="399" centerz="14" radius="1">
+		<monster name="Demon" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
 	<spawn centerx="519" centery="399" centerz="14" radius="1">
 		<monster name="Demon" x="-1" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="667" centery="399" centerz="14" radius="1">
+		<monster name="Demon" x="0" y="0" z="14" spawntime="60" />
 	</spawn>
 	<spawn centerx="529" centery="400" centerz="14" radius="1">
 		<monster name="Demonic" x="0" y="0" z="14" spawntime="60" />
@@ -31027,6 +31036,9 @@
 	</spawn>
 	<spawn centerx="506" centery="401" centerz="14" radius="1">
 		<monster name="Demon" x="-1" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="626" centery="403" centerz="14" radius="1">
+		<monster name="Demon" x="0" y="0" z="14" spawntime="60" />
 	</spawn>
 	<spawn centerx="484" centery="404" centerz="14" radius="1">
 		<monster name="Demon" x="-1" y="1" z="14" spawntime="60" />
@@ -31046,8 +31058,14 @@
 	<spawn centerx="701" centery="406" centerz="14" radius="1">
 		<monster name="Demon" x="-1" y="-1" z="14" spawntime="60" />
 	</spawn>
+	<spawn centerx="535" centery="407" centerz="14" radius="1">
+		<monster name="Demon" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
 	<spawn centerx="686" centery="407" centerz="14" radius="1">
 		<monster name="Demon" x="1" y="1" z="14" spawntime="512" />
+	</spawn>
+	<spawn centerx="472" centery="408" centerz="14" radius="1">
+		<monster name="Demon" x="0" y="0" z="14" spawntime="60" />
 	</spawn>
 	<spawn centerx="551" centery="408" centerz="14" radius="1">
 		<monster name="Demon" x="-1" y="0" z="14" spawntime="60" />
@@ -31058,6 +31076,12 @@
 	<spawn centerx="521" centery="410" centerz="14" radius="1">
 		<monster name="Demon" x="-1" y="0" z="14" spawntime="60" />
 	</spawn>
+	<spawn centerx="560" centery="410" centerz="14" radius="1">
+		<monster name="Demon" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="734" centery="410" centerz="14" radius="1">
+		<monster name="Demon" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
 	<spawn centerx="670" centery="411" centerz="14" radius="1">
 		<monster name="Demon" x="-1" y="0" z="14" spawntime="60" />
 	</spawn>
@@ -31067,14 +31091,29 @@
 	<spawn centerx="617" centery="412" centerz="14" radius="1">
 		<monster name="Demonic" x="0" y="0" z="14" spawntime="60" />
 	</spawn>
+	<spawn centerx="494" centery="413" centerz="14" radius="1">
+		<monster name="Demon" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="503" centery="413" centerz="14" radius="1">
+		<monster name="Demon" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
 	<spawn centerx="579" centery="413" centerz="14" radius="1">
 		<monster name="Demonic" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="583" centery="413" centerz="14" radius="1">
+		<monster name="Demon" x="0" y="0" z="14" spawntime="60" />
 	</spawn>
 	<spawn centerx="698" centery="413" centerz="14" radius="1">
 		<monster name="Demon" x="-1" y="1" z="14" spawntime="60" />
 	</spawn>
 	<spawn centerx="716" centery="413" centerz="14" radius="1">
 		<monster name="Demonic" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="544" centery="414" centerz="14" radius="1">
+		<monster name="Demon" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="523" centery="415" centerz="14" radius="1">
+		<monster name="Demon" x="0" y="0" z="14" spawntime="60" />
 	</spawn>
 	<spawn centerx="513" centery="417" centerz="14" radius="1">
 		<monster name="Demon" x="1" y="0" z="14" spawntime="60" />
@@ -31085,11 +31124,17 @@
 	<spawn centerx="619" centery="417" centerz="14" radius="1">
 		<monster name="Demon" x="0" y="-1" z="14" spawntime="60" />
 	</spawn>
+	<spawn centerx="682" centery="417" centerz="14" radius="1">
+		<monster name="Demon" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
 	<spawn centerx="662" centery="418" centerz="14" radius="1">
 		<monster name="Demon" x="-1" y="-1" z="14" spawntime="60" />
 	</spawn>
 	<spawn centerx="554" centery="419" centerz="14" radius="1">
 		<monster name="Demon" x="1" y="1" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="716" centery="419" centerz="14" radius="1">
+		<monster name="Demon" x="0" y="0" z="14" spawntime="60" />
 	</spawn>
 	<spawn centerx="628" centery="420" centerz="14" radius="1">
 		<monster name="Demon" x="0" y="-1" z="14" spawntime="60" />
@@ -31097,17 +31142,32 @@
 	<spawn centerx="710" centery="421" centerz="14" radius="1">
 		<monster name="Demon" x="-1" y="0" z="14" spawntime="60" />
 	</spawn>
+	<spawn centerx="507" centery="422" centerz="14" radius="1">
+		<monster name="Demon" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
 	<spawn centerx="495" centery="423" centerz="14" radius="1">
 		<monster name="Demon" x="-1" y="0" z="14" spawntime="60" />
 	</spawn>
 	<spawn centerx="526" centery="423" centerz="14" radius="1">
 		<monster name="Demon" x="0" y="-1" z="14" spawntime="60" />
 	</spawn>
+	<spawn centerx="616" centery="423" centerz="14" radius="1">
+		<monster name="Demon" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="670" centery="424" centerz="14" radius="1">
+		<monster name="Demon" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="549" centery="425" centerz="14" radius="1">
+		<monster name="Demon" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
 	<spawn centerx="585" centery="425" centerz="14" radius="1">
 		<monster name="Demon" x="-1" y="-1" z="14" spawntime="60" />
 	</spawn>
 	<spawn centerx="592" centery="425" centerz="14" radius="1">
 		<monster name="Demon" x="0" y="1" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="624" centery="426" centerz="14" radius="1">
+		<monster name="Demon" x="0" y="0" z="14" spawntime="60" />
 	</spawn>
 	<spawn centerx="608" centery="427" centerz="14" radius="1">
 		<monster name="Demon" x="-1" y="-1" z="14" spawntime="60" />
@@ -31124,11 +31184,17 @@
 	<spawn centerx="491" centery="428" centerz="14" radius="1">
 		<monster name="Demonic" x="0" y="0" z="14" spawntime="60" />
 	</spawn>
+	<spawn centerx="537" centery="428" centerz="14" radius="1">
+		<monster name="Demon" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
 	<spawn centerx="614" centery="428" centerz="14" radius="1">
 		<monster name="Demonic" x="0" y="0" z="14" spawntime="60" />
 	</spawn>
 	<spawn centerx="658" centery="428" centerz="14" radius="1">
 		<monster name="Demon" x="-1" y="1" z="14" spawntime="512" />
+	</spawn>
+	<spawn centerx="520" centery="429" centerz="14" radius="1">
+		<monster name="Demon" x="0" y="0" z="14" spawntime="60" />
 	</spawn>
 	<spawn centerx="527" centery="431" centerz="14" radius="1">
 		<monster name="Demon" x="0" y="-1" z="14" spawntime="60" />
@@ -31173,6 +31239,9 @@
 		<monster name="Choking Fear" x="-3" y="7" z="14" spawntime="60" />
 		<monster name="Guzzlemaw" x="-7" y="9" z="14" spawntime="60" />
 		<monster name="Hellhound" x="-28" y="30" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="592" centery="433" centerz="14" radius="1">
+		<monster name="Demon" x="0" y="0" z="14" spawntime="60" />
 	</spawn>
 	<spawn centerx="633" centery="433" centerz="14" radius="1">
 		<monster name="Demon" x="0" y="-1" z="14" spawntime="60" />
@@ -31223,6 +31292,9 @@
 	<spawn centerx="717" centery="434" centerz="14" radius="1">
 		<monster name="Demon" x="-1" y="-1" z="14" spawntime="60" />
 	</spawn>
+	<spawn centerx="679" centery="435" centerz="14" radius="1">
+		<monster name="Demon" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
 	<spawn centerx="614" centery="436" centerz="14" radius="1">
 		<monster name="Demon" x="-1" y="-1" z="14" spawntime="60" />
 	</spawn>
@@ -31232,11 +31304,20 @@
 	<spawn centerx="720" centery="437" centerz="14" radius="1">
 		<monster name="Demon" x="-1" y="0" z="14" spawntime="60" />
 	</spawn>
+	<spawn centerx="630" centery="438" centerz="14" radius="1">
+		<monster name="Demon" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
 	<spawn centerx="508" centery="439" centerz="14" radius="1">
 		<monster name="Demon" x="-1" y="-1" z="14" spawntime="60" />
 	</spawn>
 	<spawn centerx="650" centery="439" centerz="14" radius="1">
 		<monster name="Demon" x="1" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="712" centery="439" centerz="14" radius="1">
+		<monster name="Demon" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="500" centery="440" centerz="14" radius="1">
+		<monster name="Demon" x="0" y="0" z="14" spawntime="60" />
 	</spawn>
 	<spawn centerx="588" centery="440" centerz="14" radius="1">
 		<monster name="Demon" x="-1" y="-1" z="14" spawntime="60" />
@@ -31256,6 +31337,9 @@
 	<spawn centerx="627" centery="444" centerz="14" radius="1">
 		<monster name="Demon" x="-1" y="1" z="14" spawntime="60" />
 	</spawn>
+	<spawn centerx="717" centery="444" centerz="14" radius="1">
+		<monster name="Demon" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
 	<spawn centerx="752" centery="445" centerz="14" radius="1">
 		<monster name="Demonic" x="0" y="0" z="14" spawntime="60" />
 	</spawn>
@@ -31272,8 +31356,20 @@
 	<spawn centerx="503" centery="448" centerz="14" radius="1">
 		<monster name="Demonic" x="0" y="0" z="14" spawntime="60" />
 	</spawn>
+	<spawn centerx="546" centery="448" centerz="14" radius="1">
+		<monster name="Demon" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="638" centery="448" centerz="14" radius="1">
+		<monster name="Demon" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
 	<spawn centerx="679" centery="448" centerz="14" radius="1">
 		<monster name="Demon" x="1" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="732" centery="449" centerz="14" radius="1">
+		<monster name="Demon" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="511" centery="450" centerz="14" radius="1">
+		<monster name="Demon" x="0" y="0" z="14" spawntime="60" />
 	</spawn>
 	<spawn centerx="586" centery="450" centerz="14" radius="1">
 		<monster name="Demon" x="-1" y="0" z="14" spawntime="512" />
@@ -31287,6 +31383,9 @@
 	<spawn centerx="599" centery="453" centerz="14" radius="1">
 		<monster name="Demon" x="1" y="-1" z="14" spawntime="512" />
 	</spawn>
+	<spawn centerx="632" centery="454" centerz="14" radius="1">
+		<monster name="Demon" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
 	<spawn centerx="710" centery="455" centerz="14" radius="1">
 		<monster name="Demon" x="-1" y="-1" z="14" spawntime="60" />
 	</spawn>
@@ -31295,6 +31394,9 @@
 	</spawn>
 	<spawn centerx="563" centery="457" centerz="14" radius="1">
 		<monster name="Demonic" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="683" centery="457" centerz="14" radius="1">
+		<monster name="Demon" x="0" y="0" z="14" spawntime="60" />
 	</spawn>
 	<spawn centerx="766" centery="457" centerz="14" radius="1">
 		<monster name="Demonic" x="0" y="0" z="14" spawntime="60" />
@@ -31320,6 +31422,9 @@
 	<spawn centerx="728" centery="462" centerz="14" radius="1">
 		<monster name="Demon" x="-1" y="-1" z="14" spawntime="60" />
 	</spawn>
+	<spawn centerx="527" centery="463" centerz="14" radius="1">
+		<monster name="Demon" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
 	<spawn centerx="605" centery="463" centerz="14" radius="1">
 		<monster name="Demon" x="-1" y="0" z="14" spawntime="60" />
 	</spawn>
@@ -31329,8 +31434,14 @@
 	<spawn centerx="551" centery="464" centerz="14" radius="1">
 		<monster name="Demon" x="-1" y="0" z="14" spawntime="60" />
 	</spawn>
+	<spawn centerx="560" centery="465" centerz="14" radius="1">
+		<monster name="Demon" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
 	<spawn centerx="679" centery="465" centerz="14" radius="1">
 		<monster name="Demon" x="-1" y="-1" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="759" centery="465" centerz="14" radius="1">
+		<monster name="Demon" x="0" y="0" z="14" spawntime="60" />
 	</spawn>
 	<spawn centerx="786" centery="466" centerz="14" radius="1">
 		<monster name="Demon" x="-1" y="1" z="14" spawntime="60" />
@@ -31338,14 +31449,23 @@
 	<spawn centerx="584" centery="467" centerz="14" radius="1">
 		<monster name="Demonic" x="0" y="0" z="14" spawntime="60" />
 	</spawn>
+	<spawn centerx="639" centery="467" centerz="14" radius="1">
+		<monster name="Demon" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
 	<spawn centerx="694" centery="469" centerz="14" radius="1">
 		<monster name="Demon" x="-1" y="-1" z="14" spawntime="60" />
 	</spawn>
 	<spawn centerx="526" centery="470" centerz="14" radius="1">
 		<monster name="Demonic" x="0" y="0" z="14" spawntime="60" />
 	</spawn>
+	<spawn centerx="605" centery="471" centerz="14" radius="1">
+		<monster name="Demon" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
 	<spawn centerx="629" centery="471" centerz="14" radius="1">
 		<monster name="Demon" x="0" y="-1" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="701" centery="471" centerz="14" radius="1">
+		<monster name="Demon" x="0" y="0" z="14" spawntime="60" />
 	</spawn>
 	<spawn centerx="778" centery="471" centerz="14" radius="1">
 		<monster name="Demon" x="0" y="-1" z="14" spawntime="60" />
@@ -31383,6 +31503,9 @@
 	<spawn centerx="611" centery="479" centerz="14" radius="1">
 		<monster name="Demon" x="-1" y="0" z="14" spawntime="60" />
 	</spawn>
+	<spawn centerx="624" centery="479" centerz="14" radius="1">
+		<monster name="Demon" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
 	<spawn centerx="668" centery="480" centerz="14" radius="1">
 		<monster name="Demonic" x="0" y="0" z="14" spawntime="60" />
 	</spawn>
@@ -31390,14 +31513,32 @@
 		<monster name="Demonic" x="0" y="0" z="14" spawntime="60" />
 		<monster name="Demonic" x="1" y="0" z="14" spawntime="60" />
 	</spawn>
+	<spawn centerx="525" centery="481" centerz="14" radius="1">
+		<monster name="Demon" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="495" centery="482" centerz="14" radius="1">
+		<monster name="Demon" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
 	<spawn centerx="618" centery="482" centerz="14" radius="1">
 		<monster name="Demon" x="1" y="-1" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="757" centery="482" centerz="14" radius="1">
+		<monster name="Demon" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="541" centery="483" centerz="14" radius="1">
+		<monster name="Demon" x="0" y="0" z="14" spawntime="60" />
 	</spawn>
 	<spawn centerx="638" centery="483" centerz="14" radius="1">
 		<monster name="Demonic" x="0" y="0" z="14" spawntime="60" />
 	</spawn>
 	<spawn centerx="740" centery="484" centerz="14" radius="1">
 		<monster name="Demon" x="-1" y="-1" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="579" centery="485" centerz="14" radius="1">
+		<monster name="Demon" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="606" centery="485" centerz="14" radius="1">
+		<monster name="Demon" x="0" y="0" z="14" spawntime="60" />
 	</spawn>
 	<spawn centerx="726" centery="485" centerz="14" radius="1">
 		<monster name="Demon" x="-1" y="1" z="14" spawntime="60" />
@@ -31414,14 +31555,26 @@
 	<spawn centerx="564" centery="487" centerz="14" radius="1">
 		<monster name="Demon" x="-1" y="0" z="14" spawntime="60" />
 	</spawn>
+	<spawn centerx="595" centery="487" centerz="14" radius="1">
+		<monster name="Demon" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
 	<spawn centerx="644" centery="488" centerz="14" radius="1">
 		<monster name="Demon" x="-1" y="0" z="14" spawntime="60" />
 	</spawn>
 	<spawn centerx="499" centery="489" centerz="14" radius="1">
 		<monster name="Demonic" x="0" y="0" z="14" spawntime="60" />
 	</spawn>
+	<spawn centerx="586" centery="490" centerz="14" radius="1">
+		<monster name="Demon" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="632" centery="490" centerz="14" radius="1">
+		<monster name="Demon" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
 	<spawn centerx="537" centery="491" centerz="14" radius="1">
 		<monster name="Demon" x="0" y="-1" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="505" centery="492" centerz="14" radius="1">
+		<monster name="Demon" x="0" y="0" z="14" spawntime="60" />
 	</spawn>
 	<spawn centerx="575" centery="492" centerz="14" radius="1">
 		<monster name="Demonic" x="0" y="0" z="14" spawntime="60" />
@@ -31431,6 +31584,12 @@
 	</spawn>
 	<spawn centerx="620" centery="492" centerz="14" radius="1">
 		<monster name="Demon" x="-1" y="-1" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="730" centery="492" centerz="14" radius="1">
+		<monster name="Demon" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="649" centery="493" centerz="14" radius="1">
+		<monster name="Demon" x="0" y="0" z="14" spawntime="60" />
 	</spawn>
 	<spawn centerx="660" centery="493" centerz="14" radius="1">
 		<monster name="Demonic" x="0" y="0" z="14" spawntime="60" />
@@ -31472,6 +31631,15 @@
 	<spawn centerx="630" centery="497" centerz="14" radius="1">
 		<monster name="Demon" x="-1" y="-1" z="14" spawntime="60" />
 	</spawn>
+	<spawn centerx="762" centery="497" centerz="14" radius="1">
+		<monster name="Demon" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="640" centery="498" centerz="14" radius="1">
+		<monster name="Demon" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="516" centery="500" centerz="14" radius="1">
+		<monster name="Demon" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
 	<spawn centerx="522" centery="500" centerz="14" radius="1">
 		<monster name="Demonic" x="0" y="0" z="14" spawntime="60" />
 	</spawn>
@@ -31480,6 +31648,9 @@
 	</spawn>
 	<spawn centerx="755" centery="500" centerz="14" radius="1">
 		<monster name="Demonic" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="628" centery="502" centerz="14" radius="1">
+		<monster name="Demon" x="0" y="0" z="14" spawntime="60" />
 	</spawn>
 	<spawn centerx="747" centery="503" centerz="14" radius="1">
 		<monster name="Demon" x="-1" y="0" z="14" spawntime="60" />
@@ -31490,8 +31661,14 @@
 	<spawn centerx="636" centery="505" centerz="14" radius="1">
 		<monster name="Demonic" x="0" y="0" z="14" spawntime="60" />
 	</spawn>
+	<spawn centerx="751" centery="506" centerz="14" radius="1">
+		<monster name="Demon" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
 	<spawn centerx="625" centery="510" centerz="14" radius="1">
 		<monster name="Demon" x="-1" y="1" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="616" centery="513" centerz="14" radius="1">
+		<monster name="Demon" x="0" y="0" z="14" spawntime="60" />
 	</spawn>
 	<spawn centerx="444" centery="565" centerz="14" radius="1">
 		<monster name="Lizard Chosen" x="1" y="-1" z="14" spawntime="160" />
