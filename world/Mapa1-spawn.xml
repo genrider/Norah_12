@@ -9280,6 +9280,13 @@
 	<spawn centerx="1092" centery="682" centerz="7" radius="1">
 		<monster name="Stampor" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="952" centery="683" centerz="7" radius="1">
+		<monster name="Orc Rider" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="949" centery="684" centerz="7" radius="1">
+		<monster name="Orc Warrior" x="0" y="-1" z="7" spawntime="768" />
+		<monster name="Orc Warrior" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="591" centery="685" centerz="7" radius="1">
 		<monster name="Squirrel" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -9294,6 +9301,9 @@
 		<monster name="Bonelord" x="-5" y="4" z="7" spawntime="60" />
 		<monster name="Skeleton Warrior" x="3" y="5" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="946" centery="685" centerz="7" radius="1">
+		<monster name="Orc" x="-1" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="605" centery="686" centerz="7" radius="1">
 		<monster name="Leaf Golem" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -9306,6 +9316,9 @@
 	<spawn centerx="591" centery="687" centerz="7" radius="1">
 		<monster name="Leaf Golem" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="950" centery="688" centerz="7" radius="1">
+		<monster name="Orc Rider" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="611" centery="689" centerz="7" radius="1">
 		<monster name="Leaf Golem" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -9317,6 +9330,10 @@
 		<monster name="Skeleton Warrior" x="-2" y="2" z="7" spawntime="60" />
 		<monster name="Skeleton" x="-1" y="2" z="7" spawntime="768" />
 		<monster name="Skeleton" x="4" y="2" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="878" centery="689" centerz="7" radius="1">
+		<monster name="Tortoise" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Thornback Tortoise" x="-1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="930" centery="689" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="-1" z="7" spawntime="60" />
@@ -9343,6 +9360,11 @@
 	<spawn centerx="651" centery="690" centerz="7" radius="1">
 		<npc name="Morila" x="0" y="0" z="7" spawntime="60" direction="2" />
 	</spawn>
+	<spawn centerx="945" centery="690" centerz="7" radius="1">
+		<monster name="Orc Marauder" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Orc Spearman" x="-1" y="0" z="7" spawntime="60" />
+		<monster name="Orc" x="0" y="1" z="7" spawntime="768" />
+	</spawn>
 	<spawn centerx="1086" centery="690" centerz="7" radius="1">
 		<monster name="Stampor" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -9355,8 +9377,9 @@
 	<spawn centerx="632" centery="691" centerz="7" radius="1">
 		<monster name="Squirrel" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="877" centery="691" centerz="7" radius="1">
-		<monster name="Thornback Tortoise" x="0" y="-1" z="7" spawntime="60" />
+	<spawn centerx="877" centery="691" centerz="7" radius="1" />
+	<spawn centerx="949" centery="691" centerz="7" radius="1">
+		<monster name="Orc Warrior" x="0" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="503" centery="692" centerz="7" radius="1">
 		<monster name="Tarantula" x="-1" y="-1" z="7" spawntime="60" />
@@ -9384,6 +9407,7 @@
 		<monster name="Skeleton" x="-1" y="2" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="870" centery="694" centerz="7" radius="1">
+		<monster name="Tortoise" x="-1" y="-1" z="7" spawntime="60" />
 		<monster name="Thornback Tortoise" x="1" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="880" centery="694" centerz="7" radius="1">
@@ -9391,6 +9415,9 @@
 	</spawn>
 	<spawn centerx="902" centery="694" centerz="7" radius="1">
 		<monster name="Bandit" x="-1" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="948" centery="694" centerz="7" radius="1">
+		<monster name="Orc" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="594" centery="695" centerz="7" radius="1">
 		<monster name="Leaf Golem" x="0" y="0" z="7" spawntime="60" />
@@ -9438,6 +9465,12 @@
 	<spawn centerx="607" centery="699" centerz="7" radius="1">
 		<monster name="Doom Deer" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="951" centery="699" centerz="7" radius="1">
+		<monster name="Orc Shaman" x="-1" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="953" centery="699" centerz="7" radius="1">
+		<monster name="Orc Warrior" x="0" y="0" z="7" spawntime="768" />
+	</spawn>
 	<spawn centerx="1093" centery="699" centerz="7" radius="1">
 		<monster name="Stampor" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -9448,65 +9481,37 @@
 	<spawn centerx="861" centery="701" centerz="7" radius="1">
 		<monster name="Thornback Tortoise" x="-1" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="964" centery="701" centerz="7" radius="30">
-		<monster name="Orc Warrior" x="-15" y="-18" z="7" spawntime="768" />
-		<monster name="Orc Rider" x="-12" y="-18" z="7" spawntime="60" />
-		<monster name="Orc Warrior" x="-15" y="-17" z="7" spawntime="60" />
-		<monster name="Orc" x="-19" y="-16" z="7" spawntime="60" />
-		<monster name="Orc Spearman" x="-28" y="-15" z="7" spawntime="60" />
-		<monster name="Orc Rider" x="-14" y="-13" z="7" spawntime="60" />
-		<monster name="Orc Marauder" x="-18" y="-12" z="7" spawntime="60" />
-		<monster name="Orc Spearman" x="-20" y="-11" z="7" spawntime="60" />
-		<monster name="Orc Warrior" x="-15" y="-11" z="7" spawntime="60" />
-		<monster name="Orc" x="-19" y="-10" z="7" spawntime="768" />
-		<monster name="Orc" x="-16" y="-7" z="7" spawntime="60" />
-		<monster name="Orc" x="8" y="-4" z="7" spawntime="60" />
-		<monster name="Orc Warrior" x="12" y="-4" z="7" spawntime="60" />
-		<monster name="Orc Shaman" x="-14" y="-2" z="7" spawntime="60" />
-		<monster name="Orc Warrior" x="-11" y="-2" z="7" spawntime="768" />
-		<monster name="Orc" x="17" y="-2" z="7" spawntime="60" />
-		<monster name="Orc" x="-17" y="0" z="7" spawntime="60" />
-		<monster name="Orc" x="-2" y="0" z="7" spawntime="60" />
-		<monster name="Orc Marauder" x="-4" y="1" z="7" spawntime="60" />
-		<monster name="Orc" x="12" y="1" z="7" spawntime="60" />
-		<monster name="Orc Berserker" x="-25" y="2" z="7" spawntime="60" />
-		<monster name="Orc" x="-9" y="2" z="7" spawntime="60" />
-		<monster name="Orc" x="3" y="2" z="7" spawntime="60" />
-		<monster name="Orc Shaman" x="12" y="2" z="7" spawntime="60" />
-		<monster name="Orc Rider" x="-5" y="5" z="7" spawntime="60" />
-		<monster name="Orc Shaman" x="-9" y="7" z="7" spawntime="60" />
-		<monster name="Orc Warrior" x="-3" y="7" z="7" spawntime="60" />
-		<monster name="Orc Warrior" x="18" y="7" z="7" spawntime="60" />
-		<monster name="Orc" x="-2" y="8" z="7" spawntime="768" />
-		<monster name="Orc Warrior" x="-20" y="9" z="7" spawntime="60" />
-		<monster name="Orc Shaman" x="-21" y="10" z="7" spawntime="60" />
-		<monster name="Orc Shaman" x="-16" y="10" z="7" spawntime="60" />
-		<monster name="Orc" x="16" y="10" z="7" spawntime="768" />
-		<monster name="Orc" x="21" y="10" z="7" spawntime="60" />
-		<monster name="Orc Warrior" x="23" y="10" z="7" spawntime="768" />
-		<monster name="Orc" x="15" y="11" z="7" spawntime="60" />
-		<monster name="Orc" x="21" y="12" z="7" spawntime="768" />
-		<monster name="Orc Berserker" x="-21" y="13" z="7" spawntime="60" />
-		<monster name="Orc" x="-16" y="13" z="7" spawntime="60" />
-		<monster name="Orc Warrior" x="17" y="13" z="7" spawntime="60" />
-		<monster name="Orc Spearman" x="18" y="13" z="7" spawntime="60" />
-		<monster name="Orc" x="-5" y="14" z="7" spawntime="60" />
-		<monster name="Orc Warrior" x="-8" y="16" z="7" spawntime="60" />
-		<monster name="Orc" x="-19" y="18" z="7" spawntime="60" />
-		<monster name="Orc Spearman" x="-7" y="18" z="7" spawntime="60" />
-		<monster name="Orc Shaman" x="-14" y="23" z="7" spawntime="60" />
-		<monster name="Orc Spearman" x="-30" y="24" z="7" spawntime="60" />
-		<monster name="Orc" x="-15" y="25" z="7" spawntime="768" />
-		<monster name="Orc Rider" x="-13" y="25" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="1149" centery="701" centerz="7" radius="1">
 		<monster name="Stampor" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="948" centery="702" centerz="7" radius="1">
+		<monster name="Orc" x="-1" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="961" centery="702" centerz="7" radius="1">
+		<monster name="Orc" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Orc Marauder" x="-1" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="577" centery="703" centerz="7" radius="1">
 		<monster name="Wasp" x="-1" y="-1" z="7" spawntime="512" />
 	</spawn>
 	<spawn centerx="858" centery="703" centerz="7" radius="1">
 		<monster name="Thornback Tortoise" x="0" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="863" centery="703" centerz="7" radius="1">
+		<monster name="Tortoise" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="939" centery="703" centerz="7" radius="1">
+		<monster name="Orc Berserker" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="956" centery="703" centerz="7" radius="1">
+		<monster name="Orc" x="-1" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="967" centery="703" centerz="7" radius="1">
+		<monster name="Orc" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="977" centery="703" centerz="7" radius="1">
+		<monster name="Orc" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Orc Shaman" x="-1" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1141" centery="703" centerz="7" radius="1">
 		<monster name="Stampor" x="0" y="0" z="7" spawntime="60" />
@@ -9524,8 +9529,18 @@
 	<spawn centerx="915" centery="707" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="-1" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="860" centery="708" centerz="7" radius="1">
+		<monster name="Tortoise" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="955" centery="708" centerz="7" radius="1">
+		<monster name="Orc Shaman" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="1090" centery="708" centerz="7" radius="1">
 		<monster name="Stampor" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="962" centery="709" centerz="7" radius="1">
+		<monster name="Orc Warrior" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Orc" x="0" y="0" z="7" spawntime="768" />
 	</spawn>
 	<spawn centerx="1153" centery="709" centerz="7" radius="1">
 		<monster name="Stampor" x="0" y="0" z="7" spawntime="60" />
@@ -9550,8 +9565,21 @@
 	<spawn centerx="900" centery="710" centerz="7" radius="1">
 		<monster name="Bandit" x="-1" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="944" centery="710" centerz="7" radius="1">
+		<monster name="Orc Warrior" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Orc Shaman" x="-1" y="1" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="1120" centery="711" centerz="7" radius="1">
 		<monster name="Stampor" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="980" centery="712" centerz="7" radius="1">
+		<monster name="Orc" x="0" y="-1" z="7" spawntime="768" />
+		<monster name="Orc" x="-1" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="986" centery="712" centerz="7" radius="1">
+		<monster name="Orc" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Orc Warrior" x="1" y="-1" z="7" spawntime="768" />
+		<monster name="Orc" x="-1" y="1" z="7" spawntime="768" />
 	</spawn>
 	<spawn centerx="639" centery="713" centerz="7" radius="1">
 		<monster name="Wild Warrior" x="-1" y="1" z="7" spawntime="60" />
@@ -9568,8 +9596,24 @@
 	<spawn centerx="634" centery="714" centerz="7" radius="1">
 		<monster name="Wild Warrior" x="1" y="-1" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="864" centery="714" centerz="7" radius="1">
+		<monster name="Tortoise" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="943" centery="714" centerz="7" radius="1">
+		<monster name="Orc Berserker" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="949" centery="714" centerz="7" radius="1">
+		<monster name="Orc" x="-1" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="981" centery="714" centerz="7" radius="1">
+		<monster name="Orc Warrior" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Orc Spearman" x="1" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="861" centery="715" centerz="7" radius="1">
 		<monster name="Thornback Tortoise" x="-1" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="959" centery="715" centerz="7" radius="1">
+		<monster name="Orc" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="488" centery="716" centerz="7" radius="1">
 		<monster name="Tarantula" x="0" y="0" z="7" spawntime="60" />
@@ -9583,11 +9627,18 @@
 	<spawn centerx="681" centery="716" centerz="7" radius="1">
 		<monster name="Bandit" x="-1" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="957" centery="718" centerz="7" radius="1">
+		<monster name="Orc Warrior" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Orc Spearman" x="0" y="1" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="1091" centery="718" centerz="7" radius="1">
 		<monster name="Stampor" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1118" centery="718" centerz="7" radius="1">
 		<monster name="Stampor" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="945" centery="719" centerz="7" radius="1">
+		<monster name="Orc" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1137" centery="719" centerz="7" radius="1">
 		<monster name="Stampor" x="0" y="0" z="7" spawntime="60" />
@@ -9604,6 +9655,7 @@
 	<spawn centerx="813" centery="721" centerz="7" radius="5">
 		<monster name="Black Sheep" x="5" y="-3" z="7" spawntime="60" />
 		<monster name="Thornback Tortoise" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Tortoise" x="-1" y="2" z="7" spawntime="60" />
 		<monster name="Thornback Tortoise" x="-2" y="4" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="630" centery="722" centerz="7" radius="1">
@@ -9646,6 +9698,14 @@
 		<monster name="Carniphila" x="-5" y="20" z="7" spawntime="60" />
 		<monster name="Carniphila" x="6" y="22" z="7" spawntime="60" />
 		<monster name="Carniphila" x="16" y="23" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="950" centery="725" centerz="7" radius="1">
+		<monster name="Orc Shaman" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Orc" x="-1" y="1" z="7" spawntime="768" />
+		<monster name="Orc Rider" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="997" centery="725" centerz="7" radius="1">
+		<monster name="Orc Marauder" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="618" centery="726" centerz="7" radius="1">
 		<monster name="Bear" x="-1" y="-1" z="7" spawntime="60" />
@@ -9691,6 +9751,12 @@
 	<spawn centerx="1144" centery="731" centerz="7" radius="1">
 		<monster name="Stampor" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="988" centery="732" centerz="7" radius="1">
+		<monster name="Orc Marauder" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="995" centery="732" centerz="7" radius="1">
+		<monster name="Orc Rider" x="0" y="1" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="1121" centery="732" centerz="7" radius="1">
 		<monster name="Stampor" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -9707,14 +9773,33 @@
 	<spawn centerx="728" centery="735" centerz="7" radius="1">
 		<monster name="Undead Dragon" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="983" centery="735" centerz="7" radius="1">
+		<monster name="Orc Berserker" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="892" centery="736" centerz="7" radius="5">
 		<monster name="Thornback Tortoise" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Tortoise" x="2" y="2" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="650" centery="737" centerz="7" radius="1">
 		<monster name="Wasp" x="-1" y="-1" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="953" centery="737" centerz="7" radius="1">
+		<monster name="Orc Berserker" x="-1" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="626" centery="738" centerz="7" radius="1">
 		<monster name="Bandit" x="0" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="806" centery="738" centerz="7" radius="1">
+		<monster name="Tortoise" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="880" centery="738" centerz="7" radius="1">
+		<monster name="Tortoise" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="944" centery="738" centerz="7" radius="1">
+		<monster name="Orc Rider" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="989" centery="738" centerz="7" radius="1">
+		<monster name="Orc Berserker" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="607" centery="739" centerz="7" radius="1">
 		<monster name="Wasp" x="0" y="-1" z="7" spawntime="60" />
@@ -9742,6 +9827,15 @@
 	<spawn centerx="642" centery="740" centerz="7" radius="1">
 		<monster name="Bandit" x="-1" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="824" centery="740" centerz="7" radius="1">
+		<monster name="Tortoise" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="949" centery="740" centerz="7" radius="1">
+		<monster name="Orc Shaman" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="976" centery="740" centerz="7" radius="1">
+		<monster name="Orc Berserker" x="-1" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="765" centery="741" centerz="7" radius="1">
 		<monster name="Undead Dragon" x="1" y="-1" z="7" spawntime="60" />
 	</spawn>
@@ -9749,6 +9843,18 @@
 		<monster name="Thornback Tortoise" x="-4" y="-3" z="7" spawntime="60" />
 		<monster name="Thornback Tortoise" x="0" y="1" z="7" spawntime="60" />
 		<monster name="Thornback Tortoise" x="4" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="956" centery="741" centerz="7" radius="1">
+		<monster name="Orc Marauder" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="994" centery="741" centerz="7" radius="1">
+		<monster name="Orc Shaman" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1000" centery="741" centerz="7" radius="1">
+		<monster name="Orc Marauder" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="990" centery="742" centerz="7" radius="1">
+		<monster name="Orc Berserker" x="-1" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1138" centery="742" centerz="7" radius="1">
 		<monster name="Stampor" x="0" y="0" z="7" spawntime="60" />
@@ -9767,6 +9873,9 @@
 	</spawn>
 	<spawn centerx="454" centery="744" centerz="7" radius="1">
 		<monster name="Tarantula" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="969" centery="744" centerz="7" radius="1">
+		<monster name="Orc Berserker" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="728" centery="745" centerz="7" radius="1">
 		<monster name="Undead Dragon" x="-1" y="-1" z="7" spawntime="60" />
@@ -9797,44 +9906,28 @@
 	<spawn centerx="763" centery="748" centerz="7" radius="1">
 		<monster name="Undead Dragon" x="1" y="-1" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="964" centery="748" centerz="7" radius="1">
+		<monster name="Orc Shaman" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Orc Berserker" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="978" centery="748" centerz="7" radius="1">
+		<monster name="Orc Shaman" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="467" centery="749" centerz="7" radius="1">
 		<monster name="Tarantula" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="993" centery="749" centerz="7" radius="1">
+		<monster name="Orc Rider" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="952" centery="750" centerz="7" radius="1">
+		<monster name="Orc Berserker" x="0" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="985" centery="750" centerz="7" radius="1">
+		<monster name="Orc Berserker" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="825" centery="751" centerz="7" radius="5">
 		<monster name="Thornback Tortoise" x="-4" y="-4" z="7" spawntime="60" />
 		<monster name="Thornback Tortoise" x="-1" y="2" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="973" centery="751" centerz="7" radius="30">
-		<monster name="Orc Marauder" x="15" y="-19" z="7" spawntime="60" />
-		<monster name="Orc Rider" x="22" y="-18" z="7" spawntime="60" />
-		<monster name="Orc Berserker" x="-28" y="-17" z="7" spawntime="60" />
-		<monster name="Orc Berserker" x="-21" y="-14" z="7" spawntime="60" />
-		<monster name="Orc Rider" x="-29" y="-13" z="7" spawntime="60" />
-		<monster name="Orc Berserker" x="16" y="-13" z="7" spawntime="60" />
-		<monster name="Orc Shaman" x="-24" y="-11" z="7" spawntime="60" />
-		<monster name="Orc Berserker" x="2" y="-11" z="7" spawntime="60" />
-		<monster name="Orc Marauder" x="-17" y="-10" z="7" spawntime="60" />
-		<monster name="Orc Shaman" x="21" y="-10" z="7" spawntime="60" />
-		<monster name="Orc Berserker" x="16" y="-9" z="7" spawntime="60" />
-		<monster name="Orc Berserker" x="-4" y="-7" z="7" spawntime="60" />
-		<monster name="Orc Shaman" x="-9" y="-4" z="7" spawntime="60" />
-		<monster name="Orc Shaman" x="5" y="-3" z="7" spawntime="60" />
-		<monster name="Orc Rider" x="20" y="-2" z="7" spawntime="60" />
-		<monster name="Orc Berserker" x="12" y="-1" z="7" spawntime="60" />
-		<monster name="Orc Berserker" x="-21" y="0" z="7" spawntime="60" />
-		<monster name="Orc Marauder" x="-27" y="2" z="7" spawntime="60" />
-		<monster name="Orc Berserker" x="-12" y="2" z="7" spawntime="60" />
-		<monster name="Orc Berserker" x="11" y="4" z="7" spawntime="60" />
-		<monster name="Orc Warlord" x="-16" y="6" z="7" spawntime="60" />
-		<monster name="Orc Marauder" x="15" y="8" z="7" spawntime="60" />
-		<monster name="Orc Shaman" x="17" y="9" z="7" spawntime="60" />
-		<monster name="Orc Berserker" x="0" y="10" z="7" spawntime="60" />
-		<monster name="Orc Warlord" x="17" y="13" z="7" spawntime="60" />
-		<monster name="Orc Rider" x="-16" y="14" z="7" spawntime="60" />
-		<monster name="Orc Berserker" x="-10" y="15" z="7" spawntime="60" />
-		<monster name="Orc Berserker" x="11" y="15" z="7" spawntime="60" />
-		<monster name="Orc Berserker" x="2" y="17" z="7" spawntime="60" />
-		<monster name="Orc Marauder" x="-1" y="19" z="7" spawntime="72" />
 	</spawn>
 	<spawn centerx="443" centery="752" centerz="7" radius="1">
 		<monster name="Tarantula" x="0" y="0" z="7" spawntime="60" />
@@ -9851,6 +9944,9 @@
 	<spawn centerx="755" centery="752" centerz="7" radius="1">
 		<monster name="Undead Dragon" x="1" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="898" centery="752" centerz="7" radius="1">
+		<monster name="Tortoise" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="429" centery="753" centerz="7" radius="1">
 		<monster name="Tarantula" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -9859,6 +9955,12 @@
 	</spawn>
 	<spawn centerx="905" centery="753" centerz="7" radius="5">
 		<monster name="Thornback Tortoise" x="-3" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="947" centery="753" centerz="7" radius="1">
+		<monster name="Orc Marauder" x="-1" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="962" centery="753" centerz="7" radius="1">
+		<monster name="Orc Berserker" x="-1" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="411" centery="754" centerz="7" radius="1">
 		<monster name="Tarantula" x="0" y="0" z="7" spawntime="60" />
@@ -9882,6 +9984,9 @@
 	<spawn centerx="738" centery="755" centerz="7" radius="1">
 		<monster name="Undead Dragon" x="1" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="985" centery="755" centerz="7" radius="1">
+		<monster name="Orc Berserker" x="-1" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="594" centery="756" centerz="7" radius="1">
 		<monster name="Tarantula" x="1" y="-1" z="7" spawntime="60" />
 	</spawn>
@@ -9894,6 +9999,9 @@
 	<spawn centerx="774" centery="757" centerz="7" radius="1">
 		<monster name="Werewolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="957" centery="757" centerz="7" radius="1">
+		<monster name="Orc Warlord" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="408" centery="759" centerz="7" radius="1">
 		<monster name="Tarantula" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -9902,6 +10010,13 @@
 	</spawn>
 	<spawn centerx="437" centery="759" centerz="7" radius="1">
 		<monster name="Tarantula" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="964" centery="759" centerz="7" radius="1">
+		<monster name="Orc Marauder" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="989" centery="759" centerz="7" radius="1">
+		<monster name="Orc Marauder" x="-1" y="0" z="7" spawntime="60" />
+		<monster name="Orc Shaman" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="483" centery="760" centerz="7" radius="1">
 		<monster name="Tarantula" x="0" y="0" z="7" spawntime="60" />
@@ -9918,6 +10033,9 @@
 	<spawn centerx="673" centery="761" centerz="7" radius="1">
 		<monster name="Dragon Lord" x="-1" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="973" centery="761" centerz="7" radius="1">
+		<monster name="Orc Berserker" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="452" centery="762" centerz="7" radius="1">
 		<monster name="Tarantula" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -9925,9 +10043,11 @@
 		<monster name="Hellspawn" x="-1" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="829" centery="762" centerz="7" radius="5">
+		<monster name="Tortoise" x="5" y="-3" z="7" spawntime="60" />
 		<monster name="Thornback Tortoise" x="2" y="-1" z="7" spawntime="60" />
 		<monster name="Thornback Tortoise" x="-4" y="2" z="7" spawntime="60" />
 		<monster name="Thornback Tortoise" x="-4" y="3" z="7" spawntime="768" />
+		<monster name="Tortoise" x="-3" y="3" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="615" centery="763" centerz="7" radius="1">
 		<monster name="Bandit" x="-1" y="-1" z="7" spawntime="60" />
@@ -9941,6 +10061,9 @@
 	<spawn centerx="629" centery="764" centerz="7" radius="1">
 		<monster name="Bandit" x="1" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="990" centery="764" centerz="7" radius="1">
+		<monster name="Orc Warlord" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="468" centery="765" centerz="7" radius="1">
 		<monster name="Tarantula" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -9952,6 +10075,9 @@
 	</spawn>
 	<spawn centerx="887" centery="765" centerz="7" radius="1">
 		<monster name="Thornback Tortoise" x="0" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="957" centery="765" centerz="7" radius="1">
+		<monster name="Orc Rider" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="460" centery="766" centerz="7" radius="1">
 		<monster name="Tarantula" x="0" y="0" z="7" spawntime="60" />
@@ -9966,6 +10092,12 @@
 		<monster name="Hellspawn" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Gozzler" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="964" centery="767" centerz="7" radius="1">
+		<monster name="Orc Berserker" x="-1" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="985" centery="767" centerz="7" radius="1">
+		<monster name="Orc Berserker" x="-1" y="-1" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="620" centery="768" centerz="7" radius="1">
 		<monster name="Wasp" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Wasp" x="0" y="1" z="7" spawntime="60" />
@@ -9973,11 +10105,17 @@
 	<spawn centerx="631" centery="768" centerz="7" radius="1">
 		<monster name="Wasp" x="1" y="-1" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="976" centery="768" centerz="7" radius="1">
+		<monster name="Orc Berserker" x="-1" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="525" centery="769" centerz="7" radius="1">
 		<monster name="Dragon Lord" x="0" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="542" centery="769" centerz="7" radius="1">
 		<monster name="Dragon Lord" x="-1" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="993" centery="769" centerz="7" radius="1">
+		<monster name="Orc Marauder" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="673" centery="770" centerz="7" radius="1">
 		<monster name="Dragon Lord" x="0" y="-1" z="7" spawntime="60" />
@@ -9990,6 +10128,9 @@
 	</spawn>
 	<spawn centerx="785" centery="770" centerz="7" radius="1">
 		<monster name="Gozzler" x="-1" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="973" centery="770" centerz="7" radius="1">
+		<monster name="Orc Marauder" x="-1" y="0" z="7" spawntime="72" />
 	</spawn>
 	<spawn centerx="446" centery="772" centerz="7" radius="1">
 		<monster name="Tarantula" x="0" y="0" z="7" spawntime="60" />
@@ -11126,6 +11267,9 @@
 	<spawn centerx="1181" centery="894" centerz="7" radius="1">
 		<monster name="Pirate Buccaneer" x="-1" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="1244" centery="894" centerz="7" radius="1">
+		<monster name="Pirate Buccaneer" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="606" centery="895" centerz="7" radius="1">
 		<monster name="Giant Spider" x="1" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -11146,6 +11290,9 @@
 	</spawn>
 	<spawn centerx="1183" centery="897" centerz="7" radius="1">
 		<monster name="Pirate Cutthroat" x="0" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1239" centery="897" centerz="7" radius="1">
+		<monster name="Pirate Buccaneer" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1263" centery="897" centerz="7" radius="1">
 		<monster name="Pirate Marauder" x="0" y="0" z="7" spawntime="60" />
@@ -11191,6 +11338,9 @@
 	<spawn centerx="1244" centery="900" centerz="7" radius="1">
 		<monster name="Pirate Marauder" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="1255" centery="900" centerz="7" radius="1">
+		<monster name="Pirate Buccaneer" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="947" centery="901" centerz="7" radius="1">
 		<monster name="Chicken" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Chicken" x="-1" y="0" z="7" spawntime="60" />
@@ -11203,6 +11353,12 @@
 	</spawn>
 	<spawn centerx="830" centery="902" centerz="7" radius="1">
 		<monster name="Behemoth" x="-1" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1229" centery="902" centerz="7" radius="1">
+		<monster name="Pirate Buccaneer" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1206" centery="903" centerz="7" radius="1">
+		<monster name="Pirate Marauder" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="758" centery="904" centerz="7" radius="1">
 		<monster name="Nightmare Scion" x="0" y="-1" z="7" spawntime="60" />
@@ -11223,6 +11379,9 @@
 	<spawn centerx="641" centery="905" centerz="7" radius="1">
 		<monster name="Gozzler" x="-1" y="-1" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="1235" centery="905" centerz="7" radius="1">
+		<monster name="Pirate Marauder" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="850" centery="906" centerz="7" radius="1">
 		<monster name="Behemoth" x="-1" y="1" z="7" spawntime="60" />
 	</spawn>
@@ -11241,14 +11400,23 @@
 	<spawn centerx="863" centery="908" centerz="7" radius="1">
 		<monster name="Behemoth" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="1214" centery="908" centerz="7" radius="1">
+		<monster name="Pirate Buccaneer" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="1219" centery="908" centerz="7" radius="1">
 		<monster name="Parrot" x="0" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1237" centery="908" centerz="7" radius="1">
+		<monster name="Pirate Marauder" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="755" centery="909" centerz="7" radius="1">
 		<monster name="Nightmare" x="0" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="788" centery="909" centerz="7" radius="1">
 		<monster name="Destroyer" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1208" centery="909" centerz="7" radius="1">
+		<monster name="Pirate Marauder" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="614" centery="910" centerz="7" radius="1">
 		<monster name="Werewolf" x="0" y="-1" z="7" spawntime="512" />
@@ -11262,6 +11430,9 @@
 	</spawn>
 	<spawn centerx="1229" centery="910" centerz="7" radius="1">
 		<monster name="Pirate Corsair" x="0" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1247" centery="910" centerz="7" radius="1">
+		<monster name="Pirate Marauder" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="618" centery="911" centerz="7" radius="1">
 		<monster name="War wolf" x="-1" y="-1" z="7" spawntime="60" />
@@ -11314,8 +11485,14 @@
 		<monster name="Wasp" x="0" y="-1" z="7" spawntime="60" />
 		<monster name="Wasp" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="1194" centery="914" centerz="7" radius="1">
+		<monster name="Pirate Buccaneer" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="1200" centery="914" centerz="7" radius="1">
 		<monster name="Pirate Marauder" x="-1" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1235" centery="914" centerz="7" radius="1">
+		<monster name="Pirate Corsair" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1238" centery="914" centerz="7" radius="1">
 		<monster name="Pirate Marauder" x="0" y="1" z="7" spawntime="60" />
@@ -11342,6 +11519,9 @@
 	<spawn centerx="771" centery="917" centerz="7" radius="1">
 		<monster name="Destroyer" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="1253" centery="917" centerz="7" radius="1">
+		<monster name="Pirate Marauder" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="753" centery="918" centerz="7" radius="1">
 		<monster name="Braindeath" x="0" y="-1" z="7" spawntime="60" />
 	</spawn>
@@ -11356,6 +11536,10 @@
 	</spawn>
 	<spawn centerx="1153" centery="918" centerz="7" radius="1">
 		<monster name="Parrot" x="-1" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1222" centery="918" centerz="7" radius="1">
+		<monster name="Pirate Marauder" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Pirate Buccaneer" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="760" centery="919" centerz="7" radius="1">
 		<monster name="Destroyer" x="0" y="0" z="7" spawntime="60" />
@@ -11375,6 +11559,9 @@
 	<spawn centerx="949" centery="920" centerz="7" radius="1">
 		<monster name="Chicken" x="-1" y="-1" z="7" spawntime="60" />
 		<monster name="Chicken" x="0" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1196" centery="920" centerz="7" radius="1">
+		<monster name="Pirate Buccaneer" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1207" centery="920" centerz="7" radius="1">
 		<monster name="Pirate Marauder" x="1" y="1" z="7" spawntime="60" />
@@ -11396,6 +11583,9 @@
 	</spawn>
 	<spawn centerx="928" centery="922" centerz="7" radius="1">
 		<npc name="Frian" x="0" y="1" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="1180" centery="922" centerz="7" radius="1">
+		<monster name="Pirate Buccaneer" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1216" centery="922" centerz="7" radius="1">
 		<monster name="Pirate Marauder" x="1" y="-1" z="7" spawntime="60" />
@@ -11454,6 +11644,12 @@
 		<monster name="Snake" x="0" y="-1" z="7" spawntime="60" />
 		<monster name="Snake" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="1181" centery="926" centerz="7" radius="1">
+		<monster name="Pirate Buccaneer" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1198" centery="926" centerz="7" radius="1">
+		<monster name="Pirate Marauder" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="773" centery="927" centerz="7" radius="1">
 		<monster name="Destroyer" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -11483,6 +11679,9 @@
 	</spawn>
 	<spawn centerx="885" centery="929" centerz="7" radius="1">
 		<monster name="Destroyer" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1234" centery="929" centerz="7" radius="1">
+		<monster name="Pirate Marauder" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="596" centery="930" centerz="7" radius="1">
 		<monster name="Werewolf" x="1" y="-1" z="7" spawntime="60" />
@@ -17043,8 +17242,24 @@
 	<spawn centerx="1009" centery="715" centerz="8" radius="1">
 		<monster name="Deepling Master Librarian" x="-1" y="-1" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="847" centery="716" centerz="8" radius="1">
+		<monster name="Tortoise" x="1" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="841" centery="717" centerz="8" radius="1">
+		<monster name="Tortoise" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="490" centery="719" centerz="8" radius="1">
 		<monster name="Dwarf" x="0" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="844" centery="719" centerz="8" radius="1">
+		<monster name="Thornback Tortoise" x="1" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="847" centery="719" centerz="8" radius="1">
+		<monster name="Tortoise" x="0" y="1" z="8" spawntime="768" />
+		<monster name="Tortoise" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="852" centery="723" centerz="8" radius="1">
+		<monster name="Thornback Tortoise" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="491" centery="726" centerz="8" radius="1">
 		<monster name="Dwarf" x="-1" y="0" z="8" spawntime="60" />
@@ -17058,6 +17273,9 @@
 	<spawn centerx="781" centery="727" centerz="8" radius="1">
 		<monster name="Undead Dragon" x="0" y="-1" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="909" centery="727" centerz="8" radius="1">
+		<monster name="Tortoise" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="424" centery="728" centerz="8" radius="1">
 		<monster name="Dwarf" x="1" y="-1" z="8" spawntime="60" />
 		<monster name="Dwarf" x="0" y="1" z="8" spawntime="60" />
@@ -17065,11 +17283,33 @@
 	<spawn centerx="479" centery="728" centerz="8" radius="1">
 		<monster name="Dwarf" x="1" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="852" centery="729" centerz="8" radius="1">
+		<monster name="Tortoise" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Tortoise" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="893" centery="729" centerz="8" radius="1">
+		<monster name="Tortoise" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="903" centery="729" centerz="8" radius="1">
+		<monster name="Thornback Tortoise" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="890" centery="730" centerz="8" radius="1">
+		<monster name="Tortoise" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="900" centery="731" centerz="8" radius="1">
+		<monster name="Tortoise" x="1" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="905" centery="731" centerz="8" radius="1">
+		<monster name="Tortoise" x="1" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="490" centery="732" centerz="8" radius="1">
 		<monster name="Dwarf" x="-1" y="-1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="785" centery="732" centerz="8" radius="1">
 		<monster name="Undead Dragon" x="-1" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="849" centery="732" centerz="8" radius="1">
+		<monster name="Tortoise" x="1" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="415" centery="733" centerz="8" radius="1">
 		<monster name="Dwarf" x="-1" y="-1" z="8" spawntime="60" />
@@ -17081,28 +17321,27 @@
 	<spawn centerx="429" centery="733" centerz="8" radius="1">
 		<monster name="Dwarf" x="-1" y="-1" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="888" centery="734" centerz="8" radius="1">
+		<monster name="Tortoise" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="450" centery="735" centerz="8" radius="1">
 		<monster name="Dwarf" x="0" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="856" centery="735" centerz="8" radius="1">
+		<monster name="Thornback Tortoise" x="-1" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="900" centery="735" centerz="8" radius="1">
+		<monster name="Thornback Tortoise" x="1" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="440" centery="736" centerz="8" radius="1">
 		<monster name="Dwarf" x="-1" y="-1" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="893" centery="736" centerz="8" radius="15">
-		<monster name="Tortoise" x="0" y="-7" z="8" spawntime="60" />
-		<monster name="Thornback Tortoise" x="10" y="-7" z="8" spawntime="60" />
-		<monster name="Tortoise" x="-3" y="-6" z="8" spawntime="60" />
-		<monster name="Tortoise" x="8" y="-5" z="8" spawntime="60" />
-		<monster name="Tortoise" x="13" y="-5" z="8" spawntime="60" />
-		<monster name="Tortoise" x="-5" y="-2" z="8" spawntime="60" />
-		<monster name="Thornback Tortoise" x="8" y="-1" z="8" spawntime="60" />
-		<monster name="Thornback Tortoise" x="-13" y="5" z="8" spawntime="60" />
-		<monster name="Tortoise" x="10" y="6" z="8" spawntime="60" />
-		<monster name="Tortoise" x="8" y="7" z="8" spawntime="60" />
-		<monster name="Tortoise" x="-13" y="8" z="8" spawntime="60" />
-		<monster name="Thornback Tortoise" x="11" y="9" z="8" spawntime="60" />
-		<monster name="Thornback Tortoise" x="-10" y="11" z="8" spawntime="60" />
-		<monster name="Tortoise" x="-7" y="11" z="8" spawntime="60" />
-		<monster name="Tortoise" x="-10" y="14" z="8" spawntime="60" />
+	<spawn centerx="835" centery="737" centerz="8" radius="1">
+		<monster name="Thornback Tortoise" x="-1" y="0" z="8" spawntime="60" />
+		<monster name="Tortoise" x="-1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="839" centery="737" centerz="8" radius="1">
+		<monster name="Tortoise" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="430" centery="738" centerz="8" radius="1">
 		<monster name="Dwarf" x="0" y="-1" z="8" spawntime="60" />
@@ -17111,69 +17350,101 @@
 		<monster name="Dwarf" x="-1" y="-1" z="8" spawntime="60" />
 		<monster name="Dwarf" x="-1" y="0" z="8" spawntime="256" />
 	</spawn>
+	<spawn centerx="856" centery="738" centerz="8" radius="1">
+		<monster name="Tortoise" x="-1" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="498" centery="739" centerz="8" radius="1">
 		<monster name="Dwarf" x="1" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="873" centery="740" centerz="8" radius="1">
+		<monster name="Tortoise" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="736" centery="741" centerz="8" radius="1">
 		<monster name="Undead Dragon" x="-1" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="847" centery="741" centerz="8" radius="30">
-		<monster name="Tortoise" x="1" y="-26" z="8" spawntime="60" />
-		<monster name="Tortoise" x="-6" y="-24" z="8" spawntime="60" />
-		<monster name="Thornback Tortoise" x="-2" y="-22" z="8" spawntime="60" />
-		<monster name="Tortoise" x="0" y="-21" z="8" spawntime="768" />
-		<monster name="Tortoise" x="1" y="-21" z="8" spawntime="60" />
-		<monster name="Thornback Tortoise" x="5" y="-18" z="8" spawntime="60" />
-		<monster name="Tortoise" x="4" y="-13" z="8" spawntime="60" />
-		<monster name="Tortoise" x="6" y="-11" z="8" spawntime="60" />
-		<monster name="Tortoise" x="3" y="-9" z="8" spawntime="60" />
-		<monster name="Thornback Tortoise" x="8" y="-6" z="8" spawntime="60" />
-		<monster name="Thornback Tortoise" x="-13" y="-4" z="8" spawntime="60" />
-		<monster name="Tortoise" x="-13" y="-3" z="8" spawntime="60" />
-		<monster name="Tortoise" x="8" y="-3" z="8" spawntime="60" />
-		<monster name="Tortoise" x="-15" y="1" z="8" spawntime="60" />
-		<monster name="Tortoise" x="-3" y="3" z="8" spawntime="60" />
-		<monster name="Thornback Tortoise" x="-15" y="4" z="8" spawntime="60" />
-		<monster name="Tortoise" x="-17" y="5" z="8" spawntime="60" />
-		<monster name="Tortoise" x="-4" y="5" z="8" spawntime="60" />
-		<monster name="Thornback Tortoise" x="13" y="5" z="8" spawntime="60" />
-		<monster name="Tortoise" x="13" y="6" z="8" spawntime="60" />
-		<monster name="Tortoise" x="-4" y="7" z="8" spawntime="60" />
-		<monster name="Tortoise" x="-11" y="8" z="8" spawntime="60" />
-		<monster name="Tortoise" x="27" y="12" z="8" spawntime="60" />
-		<monster name="Tortoise" x="9" y="14" z="8" spawntime="60" />
-		<monster name="Thornback Tortoise" x="28" y="14" z="8" spawntime="60" />
-		<monster name="Thornback Tortoise" x="5" y="15" z="8" spawntime="60" />
-		<monster name="Tortoise" x="23" y="16" z="8" spawntime="60" />
-		<monster name="Tortoise" x="7" y="17" z="8" spawntime="60" />
-		<monster name="Tortoise" x="-2" y="18" z="8" spawntime="60" />
-		<monster name="Thornback Tortoise" x="-8" y="20" z="8" spawntime="60" />
-		<monster name="Tortoise" x="-7" y="20" z="8" spawntime="60" />
-		<monster name="Thornback Tortoise" x="20" y="20" z="8" spawntime="60" />
-		<monster name="Tortoise" x="18" y="21" z="8" spawntime="60" />
-		<monster name="Tortoise" x="-7" y="24" z="8" spawntime="60" />
+	<spawn centerx="832" centery="741" centerz="8" radius="1">
+		<monster name="Tortoise" x="0" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="881" centery="741" centerz="8" radius="1">
+		<monster name="Thornback Tortoise" x="-1" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="902" centery="742" centerz="8" radius="1">
+		<monster name="Tortoise" x="1" y="0" z="8" spawntime="60" />
+		<monster name="Tortoise" x="-1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="430" centery="743" centerz="8" radius="1">
 		<monster name="Dwarf" x="0" y="1" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="867" centery="743" centerz="8" radius="1">
+		<monster name="Tortoise" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="490" centery="744" centerz="8" radius="1">
 		<monster name="Dwarf" x="-1" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="853" centery="744" centerz="8" radius="1">
+		<monster name="Tortoise" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="881" centery="744" centerz="8" radius="1">
+		<monster name="Tortoise" x="-1" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="752" centery="745" centerz="8" radius="1">
 		<monster name="Undead Dragon" x="1" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="844" centery="745" centerz="8" radius="1">
+		<monster name="Tortoise" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Tortoise" x="-1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="904" centery="745" centerz="8" radius="1">
+		<monster name="Thornback Tortoise" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="777" centery="746" centerz="8" radius="1">
 		<monster name="Undead Dragon" x="0" y="-1" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="831" centery="746" centerz="8" radius="1">
+		<monster name="Thornback Tortoise" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Tortoise" x="-1" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="861" centery="746" centerz="8" radius="1">
+		<monster name="Thornback Tortoise" x="-1" y="0" z="8" spawntime="60" />
+		<monster name="Tortoise" x="-1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="882" centery="747" centerz="8" radius="1">
+		<monster name="Thornback Tortoise" x="1" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="885" centery="747" centerz="8" radius="1">
+		<monster name="Tortoise" x="1" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="490" centery="748" centerz="8" radius="1">
 		<monster name="Dwarf" x="1" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="844" centery="748" centerz="8" radius="1">
+		<monster name="Tortoise" x="-1" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="835" centery="749" centerz="8" radius="1">
+		<monster name="Tortoise" x="1" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="430" centery="750" centerz="8" radius="1">
 		<monster name="Dwarf" x="1" y="-1" z="8" spawntime="60" />
 		<monster name="Dwarf" x="-1" y="1" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="883" centery="750" centerz="8" radius="1">
+		<monster name="Tortoise" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="855" centery="751" centerz="8" radius="1">
+		<monster name="Tortoise" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="859" centery="752" centerz="8" radius="1">
+		<monster name="Tortoise" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="730" centery="753" centerz="8" radius="1">
 		<monster name="Undead Dragon" x="0" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="875" centery="754" centerz="8" radius="1">
+		<monster name="Tortoise" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Thornback Tortoise" x="0" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="855" centery="755" centerz="8" radius="1">
+		<monster name="Tortoise" x="1" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="489" centery="756" centerz="8" radius="1">
 		<monster name="Dwarf" x="1" y="0" z="8" spawntime="60" />
@@ -17184,6 +17455,16 @@
 	<spawn centerx="764" centery="757" centerz="8" radius="1">
 		<monster name="Undead Dragon" x="0" y="-1" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="849" centery="757" centerz="8" radius="1">
+		<monster name="Tortoise" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="853" centery="757" centerz="8" radius="1">
+		<monster name="Thornback Tortoise" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Tortoise" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="869" centery="757" centerz="8" radius="1">
+		<monster name="Tortoise" x="1" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="1256" centery="757" centerz="8" radius="1">
 		<monster name="Brimstone Bug" x="1" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -17191,11 +17472,22 @@
 		<monster name="Dwarf" x="-1" y="1" z="8" spawntime="60" />
 		<monster name="Dwarf" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="844" centery="759" centerz="8" radius="1">
+		<monster name="Tortoise" x="1" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="1174" centery="760" centerz="8" radius="1">
 		<monster name="Brimstone Bug" x="-1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1209" centery="760" centerz="8" radius="1">
 		<monster name="Brimstone Bug" x="0" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="866" centery="761" centerz="8" radius="1">
+		<monster name="Thornback Tortoise" x="1" y="0" z="8" spawntime="60" />
+		<monster name="Tortoise" x="-1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="840" centery="762" centerz="8" radius="1">
+		<monster name="Thornback Tortoise" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Tortoise" x="0" y="-1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1180" centery="762" centerz="8" radius="1">
 		<monster name="Brimstone Bug" x="-1" y="0" z="8" spawntime="60" />
@@ -17247,6 +17539,9 @@
 	</spawn>
 	<spawn centerx="1211" centery="765" centerz="8" radius="1">
 		<monster name="Brimstone Bug" x="0" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="840" centery="766" centerz="8" radius="1">
+		<monster name="Tortoise" x="0" y="-1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1207" centery="766" centerz="8" radius="1">
 		<monster name="Brimstone Bug" x="-1" y="-1" z="8" spawntime="60" />
@@ -22379,7 +22674,7 @@
 		<monster name="Dwarf Guard" x="0" y="-1" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="1064" centery="891" centerz="9" radius="1">
-		<monster name="Demon" x="0" y="1" z="9" spawntime="60" />
+		<monster name="Orshabaal" x="-1" y="0" z="9" spawntime="3600" />
 	</spawn>
 	<spawn centerx="969" centery="893" centerz="9" radius="1">
 		<monster name="Dwarf" x="-1" y="-1" z="9" spawntime="60" />

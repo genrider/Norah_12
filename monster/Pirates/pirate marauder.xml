@@ -47,9 +47,9 @@
 		<item id="2464" chance="3000" /><!-- chain armor -->
 		<item id="5091" chance="910" /><!-- treasure map -->
 		<item id="5917" chance="880" /><!-- bandana-->
-		<item id="6126" chance="720" /><!-- peg leg -->
-		<item id="6097" chance="720" /><!-- hook -->
-		<item id="6098" chance="730" /><!-- eye patch -->
+		<item id="6126" chance="820" /><!-- peg leg -->
+		<item id="6097" chance="820" /><!-- hook -->
+		<item id="6098" chance="830" /><!-- eye patch -->
 		<item id="5553" chance="110" /><!-- rum flask -->
 		<item id="5928" chance="80" /><!-- empty goldfish bowl -->
 		<item id="5792" chance="90" /><!-- dice -->

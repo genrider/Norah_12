@@ -52,14 +52,13 @@
 	</voices>
 	<loot>
 		<item id="2148" countmax="20" chance="40000"/><!-- gold coin -->
-		<item id=""  chance="100000"/><!-- Gold Token -->
-		<item id=""  chance="100000"/><!-- Gold Token -->
-		<item id=""  chance="100000"/><!-- Gold Token -->
-		<item id=""  chance="100000"/><!-- Gold Token -->
-		<item id=""  chance="10000"/><!-- spark sphere -->
-		<item id=""  chance="10000"/><!-- Crystal Mace -->
-		<item id=""  chance="10000"/><!-- Collar of Red Plasma -->
-		<item id=""  chance="10000"/><!-- Spark Sphere -->
-		<item id=""  chance="10000"/><!-- Plasmatic Lightning -->
+		<item id="25377"  chance="100000"/><!-- Gold Token -->
+		<item id="25377"  chance="100000"/><!-- Gold Token -->
+		<item id="25377"  chance="100000"/><!-- Gold Token -->
+		<item id="25377"  chance="100000"/><!-- Gold Token -->
+		<item id="26174"  chance="10000"/><!-- spark sphere -->
+		<item id="2445"  chance="10000"/><!-- Crystal Mace -->
+		<item id="26184"  chance="30000"/><!-- Collar of Red Plasma -->
+		<item id="26176"  chance="10000"/><!-- Plasmatic Lightning -->
 	</loot>
 </monster>

@@ -33,7 +33,7 @@
 		<item id="2667" chance="4600" /><!-- fish -->
 		<item id="5678" countmax="2" chance="770" /><!-- tortoise egg -->
 		<item id="6131" chance="200" /><!-- tortoise shield -->
-		<item id="5899" chance="1300" /><!-- turtle shell -->
+		<item id="5899" chance="1200" /><!-- turtle shell -->
 		<item id="2417" chance="730" /><!-- battle hammer -->
 	</loot>
 </monster>

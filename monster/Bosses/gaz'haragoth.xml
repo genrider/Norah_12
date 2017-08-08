@@ -102,8 +102,8 @@
 		<item id="11260" chance="15000" /> <!-- Spiritual Charm -->
 		<item id="11259" chance="15000" /> <!-- Unity Charm -->
 		<item id="11258" chance="15000" /> <!-- Phoenix Charm -->
-		<item id="2469" chance="1800" /> <!-- dragon scale legs -->
-		<item id="2471" chance="1800" /> <!-- golden helmet -->
-		<item id="2523" chance="1800" /> <!-- blessed shield -->
+		<item id="2469" chance="500" /> <!-- dragon scale legs -->
+		<item id="2471" chance="500" /> <!-- golden helmet -->
+		<item id="2523" chance="500" /> <!-- blessed shield -->
 	</loot>
 </monster>
