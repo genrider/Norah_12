@@ -247,6 +247,9 @@
 	<spawn centerx="533" centery="760" centerz="3" radius="1">
 		<monster name="Dragon Lord" x="0" y="0" z="3" spawntime="60" />
 	</spawn>
+	<spawn centerx="541" centery="761" centerz="3" radius="1">
+		<monster name="Dragon Lord" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
 	<spawn centerx="556" centery="764" centerz="3" radius="1">
 		<monster name="Dragon Lord" x="0" y="0" z="3" spawntime="60" />
 	</spawn>
@@ -270,6 +273,12 @@
 		<monster name="Dragon Lord" x="0" y="0" z="3" spawntime="60" />
 	</spawn>
 	<spawn centerx="578" centery="775" centerz="3" radius="1">
+		<monster name="Dragon Lord" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="562" centery="776" centerz="3" radius="1">
+		<monster name="Dragon Lord" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="584" centery="778" centerz="3" radius="1">
 		<monster name="Dragon Lord" x="0" y="0" z="3" spawntime="60" />
 	</spawn>
 	<spawn centerx="574" centery="779" centerz="3" radius="1">
@@ -784,14 +793,26 @@
 	<spawn centerx="528" centery="771" centerz="4" radius="1">
 		<monster name="Dragon Lord" x="0" y="0" z="4" spawntime="60" />
 	</spawn>
+	<spawn centerx="520" centery="773" centerz="4" radius="1">
+		<monster name="Dragon Lord" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
 	<spawn centerx="533" centery="775" centerz="4" radius="1">
 		<monster name="Dragon Lord" x="1" y="0" z="4" spawntime="60" />
 	</spawn>
-	<spawn centerx="527" centery="781" centerz="4" radius="1">
-		<monster name="Dragon Lord" x="1" y="0" z="4" spawntime="60" />
+	<spawn centerx="592" centery="775" centerz="4" radius="1">
+		<monster name="Dragon Lord" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="525" centery="777" centerz="4" radius="1">
+		<monster name="Dragon Lord" x="1" y="1" z="4" spawntime="60" />
 	</spawn>
 	<spawn centerx="597" centery="783" centerz="4" radius="1">
 		<monster name="Dragon Lord" x="1" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="563" centery="785" centerz="4" radius="1">
+		<monster name="Dragon Lord" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="526" centery="787" centerz="4" radius="1">
+		<monster name="Dragon Lord" x="0" y="0" z="4" spawntime="60" />
 	</spawn>
 	<spawn centerx="581" centery="787" centerz="4" radius="1">
 		<monster name="Dragon Lord" x="0" y="0" z="4" spawntime="60" />
@@ -806,6 +827,12 @@
 	<spawn centerx="529" centery="793" centerz="4" radius="1">
 		<monster name="Dragon Lord Hatchling" x="-1" y="-1" z="4" spawntime="60" />
 		<monster name="Dragon Lord" x="1" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="515" centery="795" centerz="4" radius="1">
+		<monster name="Dragon Lord" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="524" centery="797" centerz="4" radius="1">
+		<monster name="Dragon Lord" x="0" y="0" z="4" spawntime="60" />
 	</spawn>
 	<spawn centerx="636" centery="801" centerz="4" radius="15">
 		<monster name="Dragon Lord" x="9" y="-1" z="4" spawntime="60" />
@@ -1749,6 +1776,9 @@
 	</spawn>
 	<spawn centerx="512" centery="753" centerz="5" radius="1">
 		<monster name="Dragon Lord" x="-1" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="522" centery="753" centerz="5" radius="1">
+		<monster name="Dragon Lord" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="514" centery="757" centerz="5" radius="1">
 		<monster name="Dragon Lord" x="0" y="0" z="5" spawntime="60" />
@@ -6115,14 +6145,53 @@
 		<monster name="Witch" x="-1" y="-1" z="7" spawntime="60" />
 		<monster name="Assassin" x="1" y="-1" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="556" centery="208" centerz="7" radius="1">
+		<monster name="Glooth Bandit" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Glooth Brigand" x="0" y="1" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="698" centery="208" centerz="7" radius="1">
 		<monster name="Assassin" x="1" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="481" centery="209" centerz="7" radius="1">
+		<monster name="Glooth Bandit" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Glooth Bandit" x="0" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="524" centery="209" centerz="7" radius="1">
+		<monster name="Glooth Bandit" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="558" centery="209" centerz="7" radius="1">
+		<monster name="Glooth Bandit" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Glooth Brigand" x="-1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="680" centery="209" centerz="7" radius="1">
 		<monster name="Assassin" x="-1" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="526" centery="210" centerz="7" radius="1">
+		<monster name="Glooth Brigand" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Glooth Bandit" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="482" centery="211" centerz="7" radius="1">
+		<monster name="Glooth Brigand" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Glooth Brigand" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="539" centery="211" centerz="7" radius="1">
+		<monster name="Glooth Brigand" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Glooth Bandit" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="700" centery="212" centerz="7" radius="1">
 		<monster name="Assassin" x="0" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="509" centery="213" centerz="7" radius="1">
+		<monster name="Glooth Bandit" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Glooth Bandit" x="1" y="0" z="7" spawntime="60" />
+		<monster name="Glooth Brigand" x="-1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="523" centery="213" centerz="7" radius="1">
+		<monster name="Glooth Brigand" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="542" centery="213" centerz="7" radius="1">
+		<monster name="Glooth Brigand" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Glooth Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="691" centery="213" centerz="7" radius="1">
 		<monster name="Assassin" x="-1" y="0" z="7" spawntime="60" />
@@ -6133,8 +6202,16 @@
 	<spawn centerx="477" centery="215" centerz="7" radius="1">
 		<monster name="Glooth Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="510" centery="215" centerz="7" radius="1">
+		<monster name="Glooth Brigand" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="550" centery="215" centerz="7" radius="1">
 		<monster name="Glooth Bandit" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="492" centery="216" centerz="7" radius="1">
+		<monster name="Glooth Bandit" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Glooth Brigand" x="-1" y="1" z="7" spawntime="60" />
+		<monster name="Glooth Bandit" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="497" centery="216" centerz="7" radius="1">
 		<monster name="Glooth Bandit" x="0" y="0" z="7" spawntime="60" />
@@ -6142,20 +6219,50 @@
 	<spawn centerx="536" centery="216" centerz="7" radius="1">
 		<monster name="Glooth Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="556" centery="216" centerz="7" radius="1">
+	<spawn centerx="571" centery="216" centerz="7" radius="1">
+		<monster name="Glooth Brigand" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Glooth Bandit" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="471" centery="217" centerz="7" radius="1">
+		<monster name="Glooth Bandit" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Glooth Bandit" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="556" centery="217" centerz="7" radius="1">
+		<monster name="Glooth Bandit" x="0" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="574" centery="217" centerz="7" radius="1">
+		<monster name="Glooth Bandit" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Glooth Brigand" x="1" y="0" z="7" spawntime="60" />
+		<monster name="Glooth Brigand" x="-1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="519" centery="218" centerz="7" radius="1">
 		<monster name="Glooth Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="546" centery="218" centerz="7" radius="1">
 		<monster name="Glooth Brigand" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="470" centery="219" centerz="7" radius="1">
+		<monster name="Glooth Brigand" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="493" centery="219" centerz="7" radius="1">
+		<monster name="Glooth Brigand" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="521" centery="219" centerz="7" radius="1">
+		<monster name="Glooth Brigand" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Glooth Bandit" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="525" centery="219" centerz="7" radius="1">
 		<monster name="Glooth Anemone" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="475" centery="221" centerz="7" radius="1">
+		<monster name="Glooth Brigand" x="-1" y="-1" z="7" spawntime="60" />
 		<monster name="Glooth Brigand" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="513" centery="221" centerz="7" radius="1">
 		<monster name="Glooth Bandit" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="519" centery="221" centerz="7" radius="1">
+		<monster name="Glooth Brigand" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="502" centery="222" centerz="7" radius="1">
 		<monster name="Glooth Brigand" x="0" y="0" z="7" spawntime="60" />
@@ -6174,6 +6281,12 @@
 	</spawn>
 	<spawn centerx="470" centery="228" centerz="7" radius="1">
 		<monster name="Glooth Brigand" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="469" centery="230" centerz="7" radius="1">
+		<monster name="Glooth Bandit" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="471" centery="230" centerz="7" radius="1">
+		<monster name="Glooth Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="625" centery="230" centerz="7" radius="1">
 		<monster name="Dragon Hatchling" x="-1" y="-1" z="7" spawntime="60" />
@@ -6204,6 +6317,10 @@
 		<monster name="Bear" x="0" y="1" z="7" spawntime="60" />
 		<monster name="Bear" x="1" y="1" z="7" spawntime="512" />
 	</spawn>
+	<spawn centerx="464" centery="238" centerz="7" radius="1">
+		<monster name="Glooth Bandit" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Glooth Brigand" x="1" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="507" centery="238" centerz="7" radius="1">
 		<monster name="Rustheap Golem" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -6212,6 +6329,9 @@
 	</spawn>
 	<spawn centerx="544" centery="238" centerz="7" radius="1">
 		<monster name="Glooth Golem" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="465" centery="240" centerz="7" radius="1">
+		<monster name="Glooth Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="529" centery="240" centerz="7" radius="1">
 		<monster name="Rustheap Golem" x="0" y="0" z="7" spawntime="60" />
@@ -6231,11 +6351,22 @@
 	<spawn centerx="702" centery="243" centerz="7" radius="1">
 		<monster name="Bear" x="1" y="-1" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="427" centery="244" centerz="7" radius="1">
+		<monster name="Glooth Bandit" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="429" centery="245" centerz="7" radius="1">
+		<monster name="Glooth Brigand" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Glooth Bandit" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Glooth Brigand" x="-1" y="1" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="602" centery="245" centerz="7" radius="1">
 		<monster name="Bear" x="-1" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="711" centery="245" centerz="7" radius="1">
 		<monster name="Bear" x="0" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="457" centery="247" centerz="7" radius="1">
+		<monster name="Glooth Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="531" centery="247" centerz="7" radius="1">
 		<monster name="Metal Gargoyle" x="0" y="0" z="7" spawntime="60" />
@@ -6245,6 +6376,10 @@
 	</spawn>
 	<spawn centerx="468" centery="248" centerz="7" radius="1">
 		<monster name="Glooth Brigand" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="458" centery="249" centerz="7" radius="1">
+		<monster name="Glooth Brigand" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Glooth Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="461" centery="249" centerz="7" radius="1">
 		<monster name="Glooth Bandit" x="0" y="0" z="7" spawntime="60" />
@@ -6264,6 +6399,13 @@
 		<monster name="Behemoth" x="10" y="22" z="7" spawntime="60" />
 		<monster name="Behemoth" x="-17" y="27" z="7" spawntime="60" />
 		<monster name="Behemoth" x="15" y="30" z="7" spawntime="60" />
+		<monster name="Behemoth" x="30" y="30" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="417" centery="250" centerz="7" radius="1">
+		<monster name="Glooth Bandit" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="419" centery="250" centerz="7" radius="1">
+		<monster name="Glooth Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="768" centery="250" centerz="7" radius="30">
 		<monster name="Behemoth" x="-11" y="-25" z="7" spawntime="60" />
@@ -6289,6 +6431,12 @@
 		<monster name="Rustheap Golem" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Glooth Golem" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="419" centery="252" centerz="7" radius="1">
+		<monster name="Glooth Brigand" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="435" centery="252" centerz="7" radius="1">
+		<monster name="Glooth Bandit" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="443" centery="252" centerz="7" radius="1">
 		<monster name="Glooth Anemone" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -6298,6 +6446,12 @@
 	<spawn centerx="517" centery="252" centerz="7" radius="1">
 		<monster name="Glooth Golem" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="437" centery="253" centerz="7" radius="1">
+		<monster name="Glooth Brigand" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="447" centery="253" centerz="7" radius="1">
+		<monster name="Glooth Bandit" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="521" centery="253" centerz="7" radius="1">
 		<monster name="Rustheap Golem" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -6306,6 +6460,16 @@
 	</spawn>
 	<spawn centerx="433" centery="254" centerz="7" radius="1">
 		<monster name="Glooth Brigand" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="435" centery="254" centerz="7" radius="1">
+		<monster name="Glooth Bandit" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="447" centery="255" centerz="7" radius="1">
+		<monster name="Glooth Brigand" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="449" centery="255" centerz="7" radius="1">
+		<monster name="Glooth Brigand" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Glooth Bandit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="617" centery="256" centerz="7" radius="1">
 		<monster name="Wolf" x="1" y="0" z="7" spawntime="60" />
@@ -6324,6 +6488,9 @@
 	</spawn>
 	<spawn centerx="693" centery="258" centerz="7" radius="1">
 		<monster name="Wolf" x="1" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="866" centery="258" centerz="7" radius="1">
+		<monster name="Behemoth" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="517" centery="261" centerz="7" radius="1">
 		<monster name="Metal Gargoyle" x="0" y="0" z="7" spawntime="60" />
@@ -6356,8 +6523,12 @@
 	<spawn centerx="531" centery="263" centerz="7" radius="1">
 		<monster name="Rustheap Golem" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="862" centery="266" centerz="7" radius="1">
-		<monster name="Behemoth" x="0" y="0" z="7" spawntime="60" />
+	<spawn centerx="533" centery="266" centerz="7" radius="1">
+		<monster name="Glooth Battery" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Glooth Battery" x="1" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="863" centery="266" centerz="7" radius="1">
+		<monster name="Behemoth" x="-1" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="687" centery="267" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="1" z="7" spawntime="60" />
@@ -6373,6 +6544,9 @@
 	</spawn>
 	<spawn centerx="444" centery="279" centerz="7" radius="1">
 		<monster name="Dragon Lord" x="-1" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="523" centery="281" centerz="7" radius="1">
+		<monster name="Glooth Battery" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="448" centery="283" centerz="7" radius="1">
 		<monster name="Demon" x="-1" y="0" z="7" spawntime="60" />
@@ -6474,10 +6648,12 @@
 		<monster name="Behemoth" x="3" y="-13" z="7" spawntime="60" />
 		<monster name="Behemoth" x="-27" y="-10" z="7" spawntime="60" />
 		<monster name="Behemoth" x="-6" y="-4" z="7" spawntime="60" />
+		<monster name="Behemoth" x="-21" y="0" z="7" spawntime="60" />
 		<monster name="Behemoth" x="-10" y="10" z="7" spawntime="60" />
 		<monster name="Behemoth" x="24" y="10" z="7" spawntime="60" />
 		<monster name="Behemoth" x="5" y="14" z="7" spawntime="60" />
 		<monster name="Behemoth" x="9" y="19" z="7" spawntime="60" />
+		<monster name="Behemoth" x="-15" y="23" z="7" spawntime="60" />
 		<monster name="Behemoth" x="-1" y="28" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="439" centery="302" centerz="7" radius="1">
@@ -13986,6 +14162,9 @@
 	<spawn centerx="683" centery="197" centerz="8" radius="1">
 		<monster name="Banshee" x="1" y="-1" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="522" centery="198" centerz="8" radius="1">
+		<monster name="Glooth Battery" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="537" centery="200" centerz="8" radius="1">
 		<monster name="Rustheap Golem" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -14003,6 +14182,9 @@
 	</spawn>
 	<spawn centerx="672" centery="202" centerz="8" radius="1">
 		<monster name="Banshee" x="1" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="503" centery="203" centerz="8" radius="1">
+		<monster name="Glooth Battery" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="523" centery="203" centerz="8" radius="1">
 		<monster name="Rustheap Golem" x="0" y="0" z="8" spawntime="60" />
@@ -14045,6 +14227,9 @@
 		<monster name="Metal Gargoyle" x="-1" y="0" z="8" spawntime="60" />
 		<monster name="Metal Gargoyle" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="542" centery="214" centerz="8" radius="1">
+		<monster name="Glooth Battery" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="518" centery="215" centerz="8" radius="1">
 		<monster name="Glooth Golem" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -14053,6 +14238,9 @@
 	</spawn>
 	<spawn centerx="539" centery="216" centerz="8" radius="1">
 		<monster name="Metal Gargoyle" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="564" centery="216" centerz="8" radius="1">
+		<monster name="Glooth Battery" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="537" centery="217" centerz="8" radius="1">
 		<monster name="Metal Gargoyle" x="0" y="0" z="8" spawntime="60" />
@@ -14126,6 +14314,9 @@
 	<spawn centerx="566" centery="238" centerz="8" radius="1">
 		<monster name="Metal Gargoyle" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="570" centery="238" centerz="8" radius="1">
+		<monster name="Glooth Battery" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="489" centery="240" centerz="8" radius="1">
 		<monster name="Rustheap Golem" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -14156,6 +14347,9 @@
 	<spawn centerx="543" centery="248" centerz="8" radius="1">
 		<monster name="Metal Gargoyle" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="512" centery="249" centerz="8" radius="1">
+		<monster name="Glooth Battery" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="574" centery="249" centerz="8" radius="1">
 		<monster name="Rustheap Golem" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -14168,11 +14362,17 @@
 	<spawn centerx="554" centery="252" centerz="8" radius="1">
 		<monster name="Glooth Golem" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="560" centery="252" centerz="8" radius="1">
+		<monster name="Glooth Battery" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="532" centery="253" centerz="8" radius="1">
 		<monster name="Rustheap Golem" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="543" centery="253" centerz="8" radius="1">
 		<monster name="Metal Gargoyle" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="577" centery="253" centerz="8" radius="1">
+		<monster name="Glooth Battery" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="539" centery="254" centerz="8" radius="1">
 		<monster name="Metal Gargoyle" x="-1" y="0" z="8" spawntime="60" />
