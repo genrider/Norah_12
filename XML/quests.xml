@@ -368,8 +368,8 @@
 	</quest>
 	
 	<quest name="Club Prospectors and Travelers" startstorageid="3660" startstoragevalue="1">
-		<mission name="Stolen Roc Feather" storageid="3661" startvalue="0" endvalue="1">
-			<missionstate id="1" description="You have founded stolen many years ago roc feather. For reward you got Master's Archer Armor"/>
+		<mission name="Ceremonial Mask" storageid="3661" startvalue="0" endvalue="1">
+			<missionstate id="1" description="Bring me 100 golden mugs, 300 scarab coins and 100 vampire's cape chain. For reward you got Ceremonial Mask"/>
 		</mission>
 		<mission name="Elane's Crossbow" storageid="3662" startvalue="0" endvalue="2">
 			<missionstate id="1" description="Bring Composite Hornbow, The Ironworker, Royal Crossbow, Warsinger Bow and Silkweaver Bow."/>
