@@ -13,7 +13,6 @@ local function onMovementRemoveProtection(cid, oldPosition, time)
 	addEvent(onMovementRemoveProtection, 1000, cid, oldPosition, time - 1)
 end
 
-
 function onLogin(player)
 	local loginStr = "Welcome to " .. configManager.getString(configKeys.SERVER_NAME) .. "!"
 	if player:getLastLoginSaved() <= 0 then
@@ -28,44 +27,43 @@ function onLogin(player)
 	end
 	player:sendTextMessage(MESSAGE_STATUS_DEFAULT, loginStr)
 
-	-- Stamina
-	nextUseStaminaTime[player.uid] = 0
+	local playerId = player:getId()
 
-	-- Promotion
-	local vocation = player:getVocation()
-	local promotion = vocation:getPromotion()
-	if player:isPremium() then
-		local value = player:getStorageValue(STORAGEVALUE_PROMOTION)
-		if not promotion and value ~= 1 then
-			player:setStorageValue(STORAGEVALUE_PROMOTION, 1)
-		elseif value == 1 then
-			player:setVocation(promotion)
+	-- Stamina
+	nextUseStaminaTime[playerId] = 1
+
+	-- EXP Stamina
+	nextUseXpStamina[playerId] = 1
+
+	--Prey Stamina
+	nextUseStaminaPrey[playerId+1] = {Time = 1}
+	nextUseStaminaPrey[playerId+2] = {Time = 1}
+	nextUseStaminaPrey[playerId+3] = {Time = 1}
+
+	-- Prey Data
+	if (player:getVocation():getId() ~= 0) then
+		local columnUnlocked = getUnlockedColumn(player)
+		if (not columnUnlocked) then
+			columnUnlocked = 0
 		end
-	elseif not promotion then
-		player:setVocation(vocation:getDemotion())
+
+		for i = 0, columnUnlocked do
+			sendPreyData(player, i)
+		end
 	end
-	
+
 	-- Rewards notice
 	local rewards = #player:getRewardList()
-	if rewards > 0 then
-		player:sendTextMessage(MESSAGE_EVENT_ADVANCE, string.format("You have %s %s in your reward chest.", rewards == 1 and 'one' or rewards, rewards > 1 and "rewards" or "reward"))
+	if(rewards > 0) then
+		player:sendTextMessage(MESSAGE_EVENT_ADVANCE, string.format("You have %d %s in your reward chest.", rewards, rewards > 1 and "rewards" or "reward"))
 	end
 
-	-- Update player id 
+	-- Update player id
 	local stats = player:inBossFight()
 	if stats then
 		stats.playerId = player:getId()
 	end
 
-	if player:getStorageValue(Storage.combatProtectionStorage) <= os.time() then
-		player:setStorageValue(Storage.combatProtectionStorage, os.time() + 10)
-		onMovementRemoveProtection(playerId, player:getPosition(), 10)
-	end
-	
-	if player:getStorageValue(1000) == 1 then --write ze_join_storage number here
-        player:setStorageValue(1000, 0) --write ze_join_storage number here
-    end
-	
 	-- Events
 	player:registerEvent("PlayerDeath")
 	player:registerEvent("DropLoot")
@@ -75,7 +73,12 @@ function onLogin(player)
     player:registerEvent("inServiceOfYalaharQuestsMorik")
 	player:registerEvent("SvargrondArenaKill")
 	player:registerEvent("AdvanceSave")
-	player:registerEvent("ZE_Death")
-	
+
+	if player:getStorageValue(Storage.combatProtectionStorage) <= os.time() then
+		player:setStorageValue(Storage.combatProtectionStorage, os.time() + 10)
+		onMovementRemoveProtection(playerId, player:getPosition(), 10)
+	end
+	db.query('INSERT INTO `players_online` (`player_id`) VALUES (' .. playerId .. ')')
+
 	return true
 end

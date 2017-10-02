@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Versperoth" nameDescription="versperoth" race="blood" experience="50000" speed="65" manacost="0">
+<monster name="Versperoth" nameDescription="Versperoth" race="blood" experience="20000" speed="0">
 	<health now="100000" max="100000" />
-	<look type="295" corpse="8947" />
+	<look type="295" corpse="0" />
 	<targetchange interval="5000" chance="8" />
 	<flags>
 		<flag summonable="0" />
@@ -15,17 +15,19 @@
 		<flag targetdistance="0" />
 		<flag staticattack="90" />
 		<flag runonhealth="0" />
-	<flag isblockable="1" />
+		<flag canwalkonenergy="0" />
+		<flag canwalkonfire="0" />
+		<flag canwalkonpoison="0" />
 	</flags>
 	<attacks>
-		<attack name="melee" interval="1200" skill="120" attack="100" />
+		<attack name="melee" interval="1200" min="0" max="-650" />
 		<attack name="firefield" interval="1200" chance="30" range="7" radius="4" target="0">
 			<attribute key="shootEffect" value="fire" />
 		</attack>
 		<attack name="fire" interval="1000" chance="40" range="5" length="8" spread="3" min="-700" max="-1615">
 			<attribute key="areaEffect" value="firearea" />
 		</attack>
-		<attack name="melee" interval="1000" chance="25" range="7" radius="3" target="0" min="-750" max="-1250">
+		<attack name="melee" interval="1000" chance="25" range="7" radius="3" target="0" min="-750" max="-950">
 			<attribute key="areaEffect" value="explosionarea" />
 		</attack>
 	</attacks>
@@ -45,10 +47,4 @@
 		<voice sentence="GROWL!" />
 		<voice sentence="Waaaah!" />
 	</voices>
-	<loot>
-		<item id="18423"  chance="100000" /><!-- major crystalline token -->
-		<item id="18423"  chance="100000" /><!-- major crystalline token -->
-		<item id="18423"  chance="100000" /><!-- major crystalline token -->
-		<item id="18423"  chance="100000" /><!-- major crystalline token -->
-	</loot>
 </monster>

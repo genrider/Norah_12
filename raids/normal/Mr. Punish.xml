@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<raid><!-- poi -->
-	<announce delay="1000" type="warning" message="Mr. Punish is comming!" />
-	<singlespawn delay="10000" name="Mr. Punish" x="541" y="637" z="15" />
-</raid>

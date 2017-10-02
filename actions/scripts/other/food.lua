@@ -23,9 +23,9 @@ local foods = {
 	[2686] = {9, "Crunch."}, -- corncob
 	[2687] = {2, "Crunch."}, -- cookie
 	[2688] = {2, "Munch."}, -- candy cane
-	[2689] = {12, "Crunch."}, -- bread
+	[2689] = {10, "Crunch."}, -- bread
 	[2690] = {3, "Crunch."}, -- roll
-	[2691] = {10, "Crunch."}, -- brown bread
+	[2691] = {8, "Crunch."}, -- brown bread
 	[2695] = {6, "Gulp."}, -- egg
 	[2696] = {9, "Smack."}, -- cheese
 	[2787] = {9, "Munch."}, -- white mushroom
@@ -77,7 +77,6 @@ local foods = {
 	[9114] = {5, "Crunch."}, -- bulb of garlic
 	[9996] = {0, "Slurp."}, -- banana chocolate shake
 	[10454] = {0, "Your head begins to feel better."}, -- headache pill
-	[11136] = {10, "Mmmm."}, -- crocodile steak
 	[11246] = {15, "Yum."}, -- rice ball
 	[11370] = {3, "Urgh."}, -- terramite eggs
 	[11429] = {10, "Mmmm."}, -- crocodile steak
@@ -105,13 +104,11 @@ local foods = {
 	[24843] = {50, "Chomp."}, -- roasted meat
 	[26191] = {25, "Mmmm."}, -- energy bar
 	[26201] = {15, "Mmmm."} -- energy drink
-	
-	
 }
 
 function onUse(player, item, fromPosition, target, toPosition, isHotkey)
 	local food = foods[item.itemid]
-	if food == nil then
+	if not food then
 		return false
 	end
 

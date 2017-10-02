@@ -15,7 +15,6 @@
 		<flag targetdistance="1" />
 		<flag staticattack="85" />
 		<flag runonhealth="0" />
-	<flag isblockable="1" />
 	</flags>
 	<attacks>
 		<attack name="melee" interval="2000" skill="30" attack="40" />
@@ -37,10 +36,10 @@
 	<summons maxSummons="3">
 		<summon name="Acid Blob" interval="2000" chance="10" />
 	</summons>
-	<voices interval="5000" chance="10">
+	<voices interval="2000" chance="7">
 		<voice sentence="Kzzchhh!" />
 	</voices>
 	<loot>
-		<item id="9967" chance="14285" /><!-- glob of acid -->
+		<item id="9967" chance="18585" /> <!-- glob of acid -->
 	</loot>
 </monster>

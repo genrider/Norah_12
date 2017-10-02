@@ -15,7 +15,6 @@
 		<flag targetdistance="1" />
 		<flag staticattack="90" />
 		<flag runonhealth="25" />
-	<flag isblockable="1" />
 	</flags>
 	<elements>
 		<element earthPercent="90" />
@@ -26,7 +25,7 @@
 		<element holyPercent="90" />
 		<element physicalPercent="90" />
 	</elements>
-	<voices interval="5000" chance="10">
+	<voices interval="2000" chance="7">
 		<voice sentence="Sniff" />
 		<voice sentence="Oink" />
 		<voice sentence="Oink oink" />

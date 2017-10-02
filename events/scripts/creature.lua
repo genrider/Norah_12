@@ -1,3 +1,4 @@
+__picif = {}
 function Creature:onChangeOutfit(outfit)
 	return true
 end
@@ -33,12 +34,33 @@ local function removeCombatProtection(cid)
 	end, time * 1000, cid)
 end
 
+local function addStamina(name)
+	local player = Player(name)
+	if not player then
+		staminaBonus.events[name] = nil
+	else
+		local target = player:getTarget()
+		if not target or target:getName() ~= staminaBonus.target then
+			staminaBonus.events[name] = nil
+		else
+			player:setStamina(player:getStamina() + staminaBonus.bonus)
+			staminaBonus.events[name] = addEvent(addStamina, staminaBonus.period, name)
+		end
+	end
+end
+
 function Creature:onTargetCombat(target)
 	if not self then
 		return true
 	end
-	
-	
+
+	if not __picif[target.uid] then
+		if target:isMonster() then
+			target:registerEvent("RewardSystemSlogan")
+			__picif[target.uid] = {}
+		end
+	end
+
 	if target:isPlayer() then
 		if self:isMonster() then
 			local protectionStorage = target:getStorageValue(Storage.combatProtectionStorage)
@@ -54,13 +76,13 @@ function Creature:onTargetCombat(target)
 
 				return true
 			end
-			
-		if protectionStorage >= os.time() then
+
+			if protectionStorage >= os.time() then
 				return RETURNVALUE_YOUMAYNOTATTACKTHISPLAYER
 			end
 		end
-	end	
-	
+	end
+
 	if PARTY_PROTECTION ~= 0 then
 		if self:isPlayer() and target:isPlayer() then
 			local party = self:getParty()
@@ -72,7 +94,7 @@ function Creature:onTargetCombat(target)
 			end
 		end
 	end
-	
+
 	if ADVANCED_SECURE_MODE ~= 0 then
 		if self:isPlayer() and target:isPlayer() then
 			if self:hasSecureMode() then
@@ -80,5 +102,6 @@ function Creature:onTargetCombat(target)
 			end
 		end
 	end
+
 	return true
 end

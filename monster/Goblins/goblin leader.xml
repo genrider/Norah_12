@@ -15,7 +15,6 @@
 		<flag targetdistance="1" />
 		<flag staticattack="90" />
 		<flag runonhealth="10" />
-	<flag isblockable="0" />
 	</flags>
 	<attacks>
 		<attack name="melee" interval="2000" skill="40" attack="20" />
@@ -24,22 +23,22 @@
 		</attack>
 	</attacks>
 	<defenses armor="10" defense="10" />
-	<voices interval="5000" chance="10">
+	<voices interval="2000" chance="7">
 		<voice sentence="Go go, Gobo attack !!" />
 		<voice sentence="Me the greenest and the meanest!" />
 		<voice sentence="Me have power to crush you!" />
 		<voice sentence="Goblinkiller! Catch him !!" />
 	</voices>
 	<loot>
-		<item id="2148" countmax="10" chance="40000" /><!-- gold coin -->
-		<item id="2230" chance="11500" /><!-- bone -->
-		<item id="2461" chance="16670" /><!-- leather helmet -->
-		<item id="2467" chance="5000" /><!-- leather armor -->
-		<item id="2379" chance="10300" /><!-- dagger -->
-		<item id="2667" chance="15000" /><!-- fish -->
-		<item id="2235" chance="9000" /><!-- mouldy cheese -->
-		<item id="2559" chance="12800" /><!-- small axe -->
-		<item id="2406" chance="15400" /><!-- short sword -->
-		<item id="2449" chance="1300" /><!-- bone club -->
+		<item id="2148" countmax="10" chance="49000" /> <!-- gold coin -->
+		<item id="2230" chance="11500" /> <!-- bone -->
+		<item id="2461" chance="9770" /> <!-- leather helmet -->
+		<item id="2467" chance="7500" /> <!-- leather armor -->
+		<item id="2379" chance="17400" /> <!-- dagger -->
+		<item id="2667" chance="13100" /> <!-- fish -->
+		<item id="2235" chance="7000" /> <!-- mouldy cheese -->
+		<item id="2559" chance="10800" /> <!-- small axe -->
+		<item id="2406" chance="9900" /> <!-- short sword -->
+		<item id="2449" chance="4800" /> <!-- bone club -->
 	</loot>
 </monster>

@@ -163,7 +163,7 @@
 	<house name="Nilfgaard 24" houseid="284" entryx="545" entryy="325" entryz="6" rent="0" townid="3" size="31" />
 	<house name="Nilfgaard 25" houseid="285" entryx="544" entryy="325" entryz="5" rent="0" townid="3" size="47" />
 	<house name="Nilfgaard 26" houseid="286" entryx="553" entryy="313" entryz="7" rent="0" townid="3" size="92" />
-	<house name="Nilfgaard 27" houseid="287" entryx="570" entryy="288" entryz="7" rent="0" townid="3" size="352" />
+	<house name="Nilfgaard 27" houseid="287" entryx="570" entryy="288" entryz="7" rent="0" townid="3" size="342" />
 	<house name="Nilfgaard 28" houseid="288" entryx="579" entryy="255" entryz="7" rent="0" townid="3" size="31" />
 	<house name="Nilfgaard 29" houseid="289" entryx="578" entryy="265" entryz="7" rent="0" townid="3" size="7" />
 	<house name="Nilfgaard 30" houseid="290" entryx="578" entryy="266" entryz="7" rent="0" townid="3" size="7" />
@@ -236,8 +236,8 @@
 	<house name="Arvales Alley 35" houseid="357" entryx="537" entryy="1359" entryz="6" rent="0" townid="5" size="7" />
 	<house name="Arvales Alley 36" houseid="358" entryx="537" entryy="1366" entryz="6" rent="0" townid="5" size="13" />
 	<house name="Tornel 1" houseid="359" entryx="563" entryy="1381" entryz="7" rent="0" townid="5" size="14" />
-	<house name="Tornel 2" houseid="360" entryx="546" entryy="1371" entryz="7" rent="0" townid="5" size="66" />
-	<house name="Tornel 3" houseid="361" entryx="561" entryy="1371" entryz="7" rent="0" townid="5" size="66" />
+	<house name="Tornel 2" houseid="360" entryx="546" entryy="1371" entryz="7" rent="0" townid="5" size="65" />
+	<house name="Tornel 3" houseid="361" entryx="561" entryy="1371" entryz="7" rent="0" townid="5" size="65" />
 	<house name="Tornel 4" houseid="362" entryx="512" entryy="1359" entryz="7" rent="0" townid="5" size="24" />
 	<house name="Tornel 5" houseid="363" entryx="550" entryy="1351" entryz="7" rent="0" townid="5" size="14" />
 	<house name="Tornel 6" houseid="364" entryx="559" entryy="1351" entryz="7" rent="0" townid="5" size="14" />

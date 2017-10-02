@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<raid>
-	<announce delay="1000" type="Event" message="Cublarc the Plunderer is comming!" />
-	<singlespawn delay="1000" name="Cublarc the Plunderer" x="988" y="713" z="7" />
-</raid>

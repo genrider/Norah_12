@@ -14,7 +14,6 @@
 		<flag staticattack="60" />
 		<flag targetdistance="1" />
 		<flag runonhealth="0" />
-	<flag isblockable="1" />
 	</flags>
 	<attacks>
 		<attack name="melee" interval="2000" skill="59" attack="53" poison="80" />
@@ -49,21 +48,19 @@
 		<immunity paralyze="1" />
 		<immunity invisible="1" />
 	</immunities>
-	<voices interval="5000" chance="10">
+	<voices interval="2000" chance="7">
 		<voice sentence="Tchhh!" />
 		<voice sentence="Slurp!" />
 	</voices>
 	<loot>
-		<item id="2148" countmax="100" chance="50750" /><!-- gold coin -->
-		<item id="2148" countmax="65" chance="50750" /><!-- gold coin -->
-		<item id="10584" chance="12870" /><!-- boggy dreads -->
-		<item id="7591" chance="2000" /><!-- great health potion -->
-		<item id="8912" chance="930" /><!-- springsprout rod -->
-		<item id="8472" chance="2008" /><!-- great spirit potion -->
-		<item id="2647" chance="2040" /><!-- plate legs -->
-		<item id="8473" chance="740" /><!-- ultimate health potion -->
-		<item id="8872" chance="490" /><!-- belted cape -->
-		<item id="13506" chance="820" /><!-- medicine pouch -->
-		<item id="8891" chance="300" /><!--paladin armor-->
+		<item id="2148" countmax="105" chance="92750" /> <!-- gold coin -->
+		<item id="10584" chance="9870" /> <!-- boggy dreads -->
+		<item id="7591" chance="2000" /> <!-- great health potion -->
+		<item id="8912" chance="1000" /> <!-- springsprout rod -->
+		<item id="8472" chance="2008" /> <!-- great spirit potion -->
+		<item id="2647" chance="2040" /> <!-- plate legs -->
+		<item id="8473" chance="750" /> <!-- ultimate health potion -->
+		<item id="8872" chance="590" /> <!-- belted cape -->
+		<item id="8891" chance="140" /> <!--paladin armor-->
 	</loot>
 </monster>

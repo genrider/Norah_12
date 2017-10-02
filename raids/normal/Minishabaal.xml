@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<raid>
-	<announce delay="1000" type="warning" message="Minishabaal is comming!" />
-	<singlespawn delay="10000" name="Minishabaal" x="910" y="318" z="8" />
-</raid>

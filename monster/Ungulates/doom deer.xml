@@ -15,7 +15,6 @@
 		<flag targetdistance="1" />
 		<flag staticattack="90" />
 		<flag runonhealth="25" />
-	<flag isblockable="1" />
 	</flags>
 	<attacks>
 		<attack name="melee" interval="2000" min="0" max="-100" />
@@ -34,10 +33,10 @@
 		<immunity lifedrain="1" />
 		<immunity invisible="1" />
 	</immunities>
-	<voices interval="5000" chance="10">
+	<voices interval="2000" chance="7">
 		<voice sentence="I bet it was you who killed my mom!" />
 	</voices>
 	<loot>
-		<item id="2148" countmax="100" chance="50000" />	<!-- gold coins -->
+		<item id="2148" countmax="100" chance="50000" /> <!-- gold coins -->
 	</loot>
 </monster>

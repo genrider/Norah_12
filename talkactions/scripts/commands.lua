@@ -1,44 +1,22 @@
-local page = {
-	["normal"] = {
-		"!exp",
-		"!mana",
-		"!stat",
-		-- "!antibot",
-		"!buyhouse",
-		"!leavehouse",
-		--"!bug - report a bug",
-	},
-	["event"] = {
-		--"!quit - leave event area",
-		"!events - see today's schedule",
-		--"!dhelp - dungeon system commands(event channel only)"
-	},
-	["staff"] = {"/a",
-"/t",
-"/up",
-"/down",
-"/town",
-"/goto",
-"/pos",
-"/B - broadcast",
-"/save",
-"/clean",
-"/ghost - toggle ghost mode",
-"/info - player info",
-"/antibot - put a bot check on player",
-"/kick",
-"/ban",
-"/ipban",
-"/unban",
-"/r - remove item",
-"/blogin - toggle login broadcast"}
-}
-
-function onSay(cid, words, param, channel)
-	if page[param] ~= nil then
-		doPlayerPopupFYI(cid,"Available commands in this section:\n" .. table.concat(page[param], "\n"))
+function onSay(player, words, param)
+	if player:getExhaustion(1000) <= 0 then
+		player:setExhaustion(1000, 2)
+		player:sendTextMessage(MESSAGE_STATUS_CONSOLE_BLUE, "Player commands:" .. "\n"
+			.. "!buyhouse" .. "\n"
+			.. "!leavehouse" .. "\n"
+			.. "!cast on" .. "\n"
+			.. "!cast off" .. "\n"
+			.. "!serverinfo" .. "\n"
+			.. "!online" .. "\n"
+			.. "!deathlist" .. "\n"
+			.. "!kills" .. "\n"
+			.. "!saveme" .. "\n"
+			.. "!changesex" .. "\n"
+			.. "!uptime" .. "\n"
+			.. "!buypremium" .. "\n"
+			.. "!spells")
+		return false
 	else
-		doPlayerPopupFYI(cid,"To display available commands type !help type.\nExample:  !help normal\n\nTypes of commands:\nnormal - common player commands\nevent - event commands" .. (Player(cid):getGroup():getAccess() and "\nstaff - mod/admin commands" or ""))
+		player:sendTextMessage(MESSAGE_STATUS_SMALL, 'You\'re exhausted for: '..player:getExhaustion(1000)..' seconds.')
 	end
-return false
 end

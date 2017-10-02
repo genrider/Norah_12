@@ -7,7 +7,7 @@ local useWorms = true
 
 function onUse(player, item, fromPosition, target, toPosition, isHotkey)
 	local targetId = target.itemid
-	if not isInArray(waterIds, target.itemid) then
+	if not table.contains(waterIds, target.itemid) then
 		return false
 	end
 
@@ -22,11 +22,11 @@ function onUse(player, item, fromPosition, target, toPosition, isHotkey)
 		target:remove()
 
 		local rareChance = math.random(1, 100)
-		if rareChance <=3 then
+		if rareChance == 1 then
 			player:addItem(lootVeryRare[math.random(#lootVeryRare)], 1)
-		elseif rareChance <= 8 then
+		elseif rareChance <= 3 then
 			player:addItem(lootRare[math.random(#lootRare)], 1)
-		elseif rareChance <= 18 then
+		elseif rareChance <= 10 then
 			player:addItem(lootCommon[math.random(#lootCommon)], 1)
 		else
 			player:addItem(lootTrash[math.random(#lootTrash)], 1)
@@ -56,29 +56,23 @@ function onUse(player, item, fromPosition, target, toPosition, isHotkey)
 				player:addItem(15405, 1)
 				return true
 			end
-		end
-	
-		--elseif targetId == 7236 then
-			--target:transform(targetId + 1)
-			--target:decay()
+		elseif targetId == 7236 then
+			target:transform(targetId + 1)
+			target:decay()
 
-			local rareChance = math.random(1, 200)
+			local rareChance = math.random(1, 100)
 			if rareChance == 1 then
 				player:addItem(7158, 1)
-				player:addExperience(3400,true)
 				return true
 			elseif rareChance <= 4 then
 				player:addItem(2669, 1)
-				player:addExperience(1500,true)
 				return true
 			elseif rareChance <= 10 then
 				player:addItem(7159, 1)
-				player:addExperience(600,true)
 				return true
 			end
-		--end
+		end
 		player:addItem("fish", 1)
-		player:addExperience(150,true)
 	end
 	return true
 end

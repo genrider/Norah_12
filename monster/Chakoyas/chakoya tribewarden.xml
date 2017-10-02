@@ -16,7 +16,6 @@
 		<flag lightcolor="0" />
 		<flag targetdistance="1" />
 		<flag runonhealth="0" />
-	<flag isblockable="1" />
 	</flags>
 	<attacks>
 		<attack name="melee" interval="2000" skill="20" attack="20" />
@@ -31,21 +30,21 @@
 	<immunities>
 		<immunity ice="1" />
 	</immunities>
-	<voices interval="5000" chance="10">
+	<voices interval="2000" chance="7">
 		<voice sentence="Quisavu tukavi!" />
 		<voice sentence="Si siyoqua jamjam!" />
 		<voice sentence="Achuq! jinuma!" />
 		<voice sentence="Si ji jusipa!" />
 	</voices>
 	<loot>
-		<item id="2148" countmax="30" chance="60000" /><!-- gold coin -->
-		<item id="2667" chance="20000" /><!-- fish -->
-		<item id="2541" chance="1000" /><!-- bone shield -->
-		<item id="7381" chance="300" /><!-- mammoth whopper -->
-		<item id="7158" chance="130" /><!-- rainbow trout -->
-		<item id="7159" chance="190" /><!-- green perch -->
-		<item id="2669" chance="90" /><!-- northern pike -->
-		<item id="2406" chance="4680" /><!-- short sword -->
-		<item id="22727" chance="450" /><!-- Fireproof Horn -->
+		<item id="2148" countmax="30" chance="79000" /> <!-- gold coin -->
+		<item id="2667" chance="19400" /> <!-- fish -->
+		<item id="2541" chance="1000" /> <!-- bone shield -->
+		<item id="7381" chance="130" /> <!-- mammoth whopper -->
+		<item id="7158" chance="50" /> <!-- rainbow trout -->
+		<item id="7159" chance="100" /> <!-- green perch -->
+		<item id="2669" chance="70" /> <!-- northern pike -->
+		<item id="2406" chance="4780" /> <!-- short sword -->
+		<item id="22727" chance="350" /> <!-- fireprof -->
 	</loot>
 </monster>

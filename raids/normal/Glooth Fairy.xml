@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<raid>
-	<announce delay="1000" type="Event" message="Glooth Fairy is comming!" />
-	<singlespawn delay="1000" name="Glooth Fairy" x="546" y="177" z="9" />
-</raid>

@@ -15,7 +15,6 @@
 		<flag targetdistance="1" />
 		<flag staticattack="90" />
 		<flag runonhealth="0" />
-	<flag isblockable="1" />
 	</flags>
 	<attacks>
 		<attack name="melee" interval="1200" min="0" max="-200" />
@@ -42,12 +41,12 @@
 		<immunity lifedrain="1" />
 		<immunity drown="1" />
 	</immunities>
-	<voices interval="5000" chance="10">
+	<voices interval="2000" chance="7">
 		<voice sentence="Gokgoooook" />
 		<voice sentence="Cluck Cluck" />
 		<voice sentence="I will fill MY cushion with YOUR hair! CLUCK!" />
 	</voices>
 	<loot>
-		<item id="2148" countmax="100" chance="50000" /><!-- gold coins -->
+		<item id="2148" countmax="100" chance="50000" /> <!-- gold coins -->
 	</loot>
 </monster>
