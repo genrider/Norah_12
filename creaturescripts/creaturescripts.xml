@@ -21,5 +21,9 @@
 	<event type="death" name="WhiteDeerScoutsDeath" script="other/whitedeer_scouts.lua" />
 	<event type="advance" name="AdvanceSave" script="advance_save.lua" />
 	<event type="login" name="freebless" script="freeblesslowlevel.lua"/>
+	
+	 <!-- New Summons (Pets) -->	
+    <event type="login" name="petlogin" script="pet.lua"/>
+    <event type="think" name="petthink" script="pet.lua" />
 		
 </creaturescripts>
