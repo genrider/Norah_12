@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Massacre" nameDescription="Massacre" race="blood" experience="20000" speed="390">
-	<health now="32000" max="32000" />
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Massacre" nameDescription="the massacre" race="blood" experience="9800" speed="390" manacost="0">
+	<health now="30000" max="30000" />
 	<look type="244" corpse="6336" />
 	<targetchange interval="60000" chance="0" />
 	<flags>
@@ -15,10 +15,11 @@
 		<flag targetdistance="1" />
 		<flag staticattack="90" />
 		<flag runonhealth="0" />
+	<flag isblockable="1" />
 	</flags>
 	<attacks>
-		<attack name="melee" interval="2000" min="0" max="-1200" />
-		<attack name="physical" interval="2000" chance="24" range="7" min="-280" max="-500">
+		<attack name="melee" interval="2000" skill="150" attack="150" />
+		<attack name="physical" interval="2000" chance="29" range="7" min="-280" max="-500">
 			<attribute key="shootEffect" value="largerock" />
 		</attack>
 	</attacks>
@@ -30,7 +31,7 @@
 	<immunities>
 		<immunity energy="1" />
 		<immunity fire="1" />
-		<immunity earth="1" />
+		<immunity poison="1" />
 		<immunity lifedrain="1" />
 		<immunity paralyze="1" />
 		<immunity outfit="1" />
@@ -38,6 +39,15 @@
 		<immunity invisible="1" />
 	</immunities>
 	<loot>
-		<item name="piece of Massacre's shell" chance="100000" />
+		<item id="6540" chance="100000" /><!-- massacre's shell piece -->
+		<item id="2522" chance="2200" /><!-- great shield -->
+		<item id="7403" chance="8000" /><!-- berserker -->
+		<item id="6104" chance="10100" /><!-- jewel case -->
+		<item id="2452" chance="8800" /><!-- heavy mace -->
+		<item id="5022" chance="40000" /><!-- Orichalcum Pearl -->
+		<item id="2466" chance="8000" /><!-- Golden Armor -->
+		<item id="6500" chance="45000" /><!-- Demonic Essence -->
+		<item id="2221" chance="30000" /><!-- Old Twig -->
+		<item id="5944" chance="35000" /><!-- Soul Orb -->
 	</loot>
 </monster>

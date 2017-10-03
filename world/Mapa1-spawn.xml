@@ -29755,6 +29755,12 @@
 	<spawn centerx="451" centery="603" centerz="14" radius="1">
 		<monster name="Lizard Chosen" x="0" y="1" z="14" spawntime="160" />
 	</spawn>
+	<spawn centerx="704" centery="605" centerz="14" radius="1">
+		<monster name="Human From Slime" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="708" centery="605" centerz="14" radius="1">
+		<monster name="Ancient Wyrm" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
 	<spawn centerx="439" centery="606" centerz="14" radius="1">
 		<monster name="Lizard Chosen" x="0" y="1" z="14" spawntime="160" />
 	</spawn>
@@ -30132,6 +30138,12 @@
 	<spawn centerx="632" centery="571" centerz="15" radius="1">
 		<monster name="Flame Dancer" x="0" y="0" z="15" spawntime="60" />
 	</spawn>
+	<spawn centerx="476" centery="572" centerz="15" radius="1">
+		<monster name="Sand Worm" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="485" centery="572" centerz="15" radius="1">
+		<monster name="Elder Sand Worm" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
 	<spawn centerx="613" centery="572" centerz="15" radius="1">
 		<monster name="Ancient Dragon" x="0" y="0" z="15" spawntime="60" />
 	</spawn>
@@ -30140,6 +30152,9 @@
 	</spawn>
 	<spawn centerx="664" centery="572" centerz="15" radius="2">
 		<monster name="Fury" x="-1" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="472" centery="573" centerz="15" radius="1">
+		<monster name="Sand Worm" x="0" y="0" z="15" spawntime="60" />
 	</spawn>
 	<spawn centerx="673" centery="573" centerz="15" radius="1">
 		<monster name="Elder Infernalist" x="0" y="0" z="15" spawntime="60" />
@@ -30153,20 +30168,53 @@
 	<spawn centerx="604" centery="575" centerz="15" radius="1">
 		<monster name="Ancient Dragon" x="0" y="0" z="15" spawntime="60" />
 	</spawn>
+	<spawn centerx="532" centery="576" centerz="15" radius="1">
+		<monster name="Sand Worm" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
 	<spawn centerx="616" centery="576" centerz="15" radius="1">
 		<monster name="Flame Dancer" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="488" centery="577" centerz="15" radius="1">
+		<monster name="Sand Worm" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="498" centery="577" centerz="15" radius="1">
+		<monster name="Sand Worm" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="538" centery="577" centerz="15" radius="1">
+		<monster name="Elder Sand Worm" x="0" y="0" z="15" spawntime="60" />
 	</spawn>
 	<spawn centerx="637" centery="577" centerz="15" radius="1">
 		<monster name="Ancient Dragon" x="0" y="0" z="15" spawntime="60" />
 	</spawn>
-	<spawn centerx="718" centery="577" centerz="15" radius="1">
-		<monster name="Ancient Wyrm" x="0" y="0" z="15" spawntime="60" />
+	<spawn centerx="525" centery="578" centerz="15" radius="1">
+		<monster name="Sand Worm" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="504" centery="579" centerz="15" radius="1">
+		<monster name="Elder Sand Worm" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="523" centery="579" centerz="15" radius="1">
+		<monster name="Elder Sand Worm" x="0" y="0" z="15" spawntime="60" />
 	</spawn>
 	<spawn centerx="605" centery="580" centerz="15" radius="1">
 		<monster name="Elder Infernalist" x="0" y="0" z="15" spawntime="60" />
 	</spawn>
 	<spawn centerx="634" centery="580" centerz="15" radius="1">
 		<monster name="Elder Infernalist" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="489" centery="581" centerz="15" radius="1">
+		<monster name="Elder Sand Worm" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="516" centery="581" centerz="15" radius="1">
+		<monster name="Sand Worm" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="473" centery="582" centerz="15" radius="1">
+		<monster name="Sand Worm" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="540" centery="582" centerz="15" radius="1">
+		<monster name="Sand Worm" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="533" centery="583" centerz="15" radius="1">
+		<monster name="Elder Sand Worm" x="0" y="0" z="15" spawntime="60" />
 	</spawn>
 	<spawn centerx="627" centery="583" centerz="15" radius="1">
 		<monster name="Flame Dancer" x="0" y="0" z="15" spawntime="60" />
@@ -30176,23 +30224,11 @@
 		<monster name="Warlock" x="-2" y="0" z="15" spawntime="60" />
 		<monster name="Fury" x="0" y="1" z="15" spawntime="60" />
 	</spawn>
-	<spawn centerx="714" centery="583" centerz="15" radius="1">
-		<monster name="Great Wyvern" x="0" y="0" z="15" spawntime="60" />
-	</spawn>
-	<spawn centerx="705" centery="584" centerz="15" radius="1">
-		<monster name="Great Wyvern" x="0" y="0" z="15" spawntime="60" />
-	</spawn>
-	<spawn centerx="731" centery="584" centerz="15" radius="1">
-		<monster name="Great Wyvern" x="0" y="0" z="15" spawntime="60" />
+	<spawn centerx="538" centery="585" centerz="15" radius="1">
+		<monster name="Elder Sand Worm" x="0" y="0" z="15" spawntime="60" />
 	</spawn>
 	<spawn centerx="596" centery="585" centerz="15" radius="1">
 		<monster name="Ancient Dragon" x="0" y="0" z="15" spawntime="60" />
-	</spawn>
-	<spawn centerx="710" centery="585" centerz="15" radius="1">
-		<monster name="Ancient Wyrm" x="0" y="0" z="15" spawntime="60" />
-	</spawn>
-	<spawn centerx="750" centery="585" centerz="15" radius="1">
-		<monster name="Great Wyvern" x="0" y="0" z="15" spawntime="60" />
 	</spawn>
 	<spawn centerx="593" centery="587" centerz="15" radius="1">
 		<monster name="Flame Dancer" x="0" y="0" z="15" spawntime="60" />
@@ -30203,17 +30239,8 @@
 	<spawn centerx="628" centery="587" centerz="15" radius="1">
 		<monster name="Ancient Dragon" x="0" y="0" z="15" spawntime="60" />
 	</spawn>
-	<spawn centerx="738" centery="587" centerz="15" radius="1">
-		<monster name="Ancient Wyrm" x="0" y="0" z="15" spawntime="60" />
-	</spawn>
-	<spawn centerx="757" centery="587" centerz="15" radius="1">
-		<monster name="Ancient Wyrm" x="0" y="0" z="15" spawntime="60" />
-	</spawn>
 	<spawn centerx="604" centery="588" centerz="15" radius="1">
 		<monster name="Elder Infernalist" x="0" y="0" z="15" spawntime="60" />
-	</spawn>
-	<spawn centerx="760" centery="588" centerz="15" radius="1">
-		<monster name="Human From Slime" x="0" y="0" z="15" spawntime="60" />
 	</spawn>
 	<spawn centerx="608" centery="589" centerz="15" radius="1">
 		<monster name="Ancient Dragon" x="0" y="0" z="15" spawntime="60" />
@@ -30224,8 +30251,20 @@
 	<spawn centerx="625" centery="591" centerz="15" radius="1">
 		<monster name="Elder Infernalist" x="0" y="0" z="15" spawntime="60" />
 	</spawn>
+	<spawn centerx="468" centery="592" centerz="15" radius="1">
+		<monster name="Elder Sand Worm" x="1" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="538" centery="593" centerz="15" radius="1">
+		<monster name="Sand Worm" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
 	<spawn centerx="595" centery="593" centerz="15" radius="1">
 		<monster name="Elder Infernalist" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="473" centery="594" centerz="15" radius="1">
+		<monster name="Sand Worm" x="-1" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="505" centery="594" centerz="15" radius="1">
+		<monster name="Elder Sand Worm" x="0" y="0" z="15" spawntime="60" />
 	</spawn>
 	<spawn centerx="599" centery="595" centerz="15" radius="1">
 		<monster name="Ancient Dragon" x="0" y="0" z="15" spawntime="60" />
@@ -30233,14 +30272,29 @@
 	<spawn centerx="622" centery="595" centerz="15" radius="1">
 		<monster name="Ancient Dragon" x="0" y="0" z="15" spawntime="60" />
 	</spawn>
-	<spawn centerx="759" centery="597" centerz="15" radius="1">
-		<monster name="Human From Slime" x="0" y="0" z="15" spawntime="60" />
+	<spawn centerx="479" centery="596" centerz="15" radius="1">
+		<monster name="Elder Sand Worm" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="472" centery="598" centerz="15" radius="1">
+		<monster name="Sand Worm" x="1" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="534" centery="598" centerz="15" radius="1">
+		<monster name="Sand Worm" x="0" y="0" z="15" spawntime="60" />
 	</spawn>
 	<spawn centerx="601" centery="598" centerz="15" radius="1">
 		<monster name="Flame Dancer" x="0" y="0" z="15" spawntime="60" />
 	</spawn>
 	<spawn centerx="620" centery="598" centerz="15" radius="1">
 		<monster name="Flame Dancer" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="487" centery="600" centerz="15" radius="1">
+		<monster name="Sand Worm" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="505" centery="600" centerz="15" radius="1">
+		<monster name="Sand Worm" x="1" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="535" centery="600" centerz="15" radius="1">
+		<monster name="Elder Sand Worm" x="0" y="0" z="15" spawntime="60" />
 	</spawn>
 	<spawn centerx="633" centery="600" centerz="15" radius="1">
 		<monster name="Ancient Dragon" x="0" y="-1" z="15" spawntime="60" />
@@ -30251,44 +30305,20 @@
 		<monster name="Fury" x="0" y="1" z="15" spawntime="60" />
 		<monster name="Elder Infernalist" x="0" y="5" z="15" spawntime="60" />
 	</spawn>
-	<spawn centerx="757" centery="601" centerz="15" radius="1">
-		<monster name="Ancient Wyrm" x="0" y="0" z="15" spawntime="60" />
-	</spawn>
 	<spawn centerx="615" centery="602" centerz="15" radius="1">
 		<monster name="Elder Infernalist" x="0" y="0" z="15" spawntime="60" />
 	</spawn>
-	<spawn centerx="702" centery="602" centerz="15" radius="1">
-		<monster name="Human From Slime" x="0" y="0" z="15" spawntime="60" />
+	<spawn centerx="478" centery="603" centerz="15" radius="1">
+		<monster name="Sand Worm" x="0" y="-1" z="15" spawntime="60" />
 	</spawn>
-	<spawn centerx="712" centery="602" centerz="15" radius="1">
-		<monster name="Ancient Wyrm" x="0" y="0" z="15" spawntime="60" />
+	<spawn centerx="489" centery="603" centerz="15" radius="1">
+		<monster name="Elder Sand Worm" x="0" y="0" z="15" spawntime="60" />
 	</spawn>
-	<spawn centerx="752" centery="602" centerz="15" radius="1">
-		<monster name="Human From Slime" x="0" y="0" z="15" spawntime="60" />
+	<spawn centerx="495" centery="603" centerz="15" radius="1">
+		<monster name="Sand Worm" x="-1" y="0" z="15" spawntime="60" />
 	</spawn>
-	<spawn centerx="700" centery="603" centerz="15" radius="1">
-		<monster name="Ancient Wyrm" x="0" y="0" z="15" spawntime="60" />
-	</spawn>
-	<spawn centerx="716" centery="603" centerz="15" radius="1">
-		<monster name="Human From Slime" x="0" y="0" z="15" spawntime="60" />
-	</spawn>
-	<spawn centerx="726" centery="603" centerz="15" radius="1">
-		<monster name="Human From Slime" x="0" y="0" z="15" spawntime="60" />
-	</spawn>
-	<spawn centerx="736" centery="603" centerz="15" radius="1">
-		<monster name="Human From Slime" x="0" y="0" z="15" spawntime="60" />
-	</spawn>
-	<spawn centerx="741" centery="603" centerz="15" radius="1">
-		<monster name="Great Wyvern" x="0" y="0" z="15" spawntime="60" />
-	</spawn>
-	<spawn centerx="745" centery="603" centerz="15" radius="1">
-		<monster name="Ancient Wyrm" x="0" y="0" z="15" spawntime="60" />
-	</spawn>
-	<spawn centerx="723" centery="604" centerz="15" radius="1">
-		<monster name="Great Wyvern" x="0" y="0" z="15" spawntime="60" />
-	</spawn>
-	<spawn centerx="729" centery="604" centerz="15" radius="1">
-		<monster name="Ancient Wyrm" x="0" y="0" z="15" spawntime="60" />
+	<spawn centerx="468" centery="604" centerz="15" radius="1">
+		<monster name="Elder Sand Worm" x="0" y="0" z="15" spawntime="60" />
 	</spawn>
 	<spawn centerx="616" centery="605" centerz="15" radius="1">
 		<monster name="Ancient Dragon" x="0" y="0" z="15" spawntime="60" />
@@ -30305,56 +30335,73 @@
 	<spawn centerx="628" centery="607" centerz="15" radius="1">
 		<monster name="Flame Dancer" x="0" y="0" z="15" spawntime="60" />
 	</spawn>
+	<spawn centerx="478" centery="608" centerz="15" radius="1">
+		<monster name="Elder Sand Worm" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="536" centery="608" centerz="15" radius="1">
+		<monster name="Sand Worm" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
 	<spawn centerx="602" centery="608" centerz="15" radius="1">
 		<monster name="Flame Dancer" x="0" y="0" z="15" spawntime="60" />
 	</spawn>
-	<spawn centerx="535" centery="609" centerz="15" radius="1">
-		<monster name="Haunted Treeling" x="-1" y="0" z="15" spawntime="60" />
-		<monster name="Giant Rotworm" x="1" y="1" z="15" spawntime="60" />
+	<spawn centerx="504" centery="609" centerz="15" radius="1">
+		<monster name="Elder Sand Worm" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="468" centery="611" centerz="15" radius="1">
+		<monster name="Sand Worm" x="0" y="0" z="15" spawntime="60" />
 	</spawn>
 	<spawn centerx="673" centery="611" centerz="15" radius="1">
 		<monster name="Elder Infernalist" x="0" y="0" z="15" spawntime="60" />
 	</spawn>
-	<spawn centerx="536" centery="613" centerz="15" radius="1">
-		<monster name="Haunted Treeling" x="1" y="-1" z="15" spawntime="60" />
-	</spawn>
-	<spawn centerx="539" centery="615" centerz="15" radius="1">
-		<monster name="Haunted Treeling" x="-1" y="0" z="15" spawntime="60" />
-	</spawn>
-	<spawn centerx="541" centery="615" centerz="15" radius="1">
+	<spawn centerx="535" centery="613" centerz="15" radius="1">
 		<monster name="Elder Sand Worm" x="0" y="0" z="15" spawntime="60" />
 	</spawn>
-	<spawn centerx="505" centery="618" centerz="15" radius="1" />
-	<spawn centerx="503" centery="619" centerz="15" radius="1" />
+	<spawn centerx="501" centery="616" centerz="15" radius="1">
+		<monster name="Elder Sand Worm" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="510" centery="617" centerz="15" radius="1">
+		<monster name="Sand Worm" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
 	<spawn centerx="673" centery="619" centerz="15" radius="5">
 		<monster name="Warlock" x="1" y="-4" z="15" spawntime="60" />
 		<monster name="Fury" x="0" y="-3" z="15" spawntime="60" />
 		<monster name="Lost Soul" x="0" y="1" z="15" spawntime="60" />
 	</spawn>
-	<spawn centerx="539" centery="620" centerz="15" radius="1">
-		<monster name="Haunted Treeling" x="-1" y="1" z="15" spawntime="60" />
-	</spawn>
 	<spawn centerx="503" centery="621" centerz="15" radius="1">
-		<monster name="Haunted Treeling" x="1" y="0" z="15" spawntime="60" />
-		<monster name="Haunted Treeling" x="0" y="1" z="15" spawntime="60" />
+		<monster name="Sand Worm" x="1" y="0" z="15" spawntime="60" />
 	</spawn>
-	<spawn centerx="501" centery="627" centerz="15" radius="1">
+	<spawn centerx="509" centery="622" centerz="15" radius="1">
+		<monster name="Sand Worm" x="0" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="534" centery="625" centerz="15" radius="1">
+		<monster name="Sand Worm" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="540" centery="625" centerz="15" radius="1">
 		<monster name="Elder Sand Worm" x="0" y="0" z="15" spawntime="60" />
 	</spawn>
-	<spawn centerx="538" centery="628" centerz="15" radius="1">
-		<monster name="Haunted Treeling" x="-1" y="0" z="15" spawntime="60" />
+	<spawn centerx="501" centery="626" centerz="15" radius="1">
+		<monster name="Elder Sand Worm" x="0" y="1" z="15" spawntime="60" />
 	</spawn>
-	<spawn centerx="536" centery="631" centerz="15" radius="1">
-		<monster name="Giant Rotworm" x="0" y="0" z="15" spawntime="60" />
+	<spawn centerx="533" centery="628" centerz="15" radius="1">
+		<monster name="Elder Sand Worm" x="0" y="0" z="15" spawntime="60" />
 	</spawn>
-	<spawn centerx="539" centery="633" centerz="15" radius="1">
-		<monster name="Haunted Treeling" x="0" y="-1" z="15" spawntime="60" />
+	<spawn centerx="532" centery="630" centerz="15" radius="1">
+		<monster name="Sand Worm" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="540" centery="631" centerz="15" radius="1">
+		<monster name="Sand Worm" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="503" centery="633" centerz="15" radius="1">
+		<monster name="Sand Worm" x="0" y="0" z="15" spawntime="60" />
 	</spawn>
 	<spawn centerx="577" centery="634" centerz="15" radius="1">
 		<monster name="Acid Blob" x="1" y="0" z="15" spawntime="60" />
 	</spawn>
 	<spawn centerx="583" centery="634" centerz="15" radius="1">
 		<monster name="Dieased Warrior" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="517" centery="635" centerz="15" radius="1">
+		<monster name="Sand Worm" x="1" y="0" z="15" spawntime="60" />
 	</spawn>
 	<spawn centerx="570" centery="635" centerz="15" radius="1">
 		<monster name="Dieased Warrior" x="0" y="0" z="15" spawntime="60" />
@@ -30364,6 +30411,12 @@
 	</spawn>
 	<spawn centerx="756" centery="635" centerz="15" radius="1">
 		<monster name="Greater Cryon" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="507" centery="636" centerz="15" radius="1">
+		<monster name="Elder Sand Worm" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="540" centery="636" centerz="15" radius="1">
+		<monster name="Elder Sand Worm" x="0" y="0" z="15" spawntime="60" />
 	</spawn>
 	<spawn centerx="585" centery="636" centerz="15" radius="1">
 		<monster name="Great Slime" x="0" y="0" z="15" spawntime="60" />
@@ -30380,7 +30433,9 @@
 	<spawn centerx="720" centery="638" centerz="15" radius="1">
 		<monster name="Greater Cryon" x="0" y="0" z="15" spawntime="60" />
 	</spawn>
-	<spawn centerx="514" centery="639" centerz="15" radius="1" />
+	<spawn centerx="532" centery="639" centerz="15" radius="1">
+		<monster name="Sand Worm" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
 	<spawn centerx="606" centery="640" centerz="15" radius="1">
 		<monster name="Great Slime" x="0" y="0" z="15" spawntime="60" />
 	</spawn>
@@ -30388,13 +30443,10 @@
 		<monster name="Acid Blob" x="1" y="0" z="15" spawntime="60" />
 	</spawn>
 	<spawn centerx="518" centery="641" centerz="15" radius="1">
-		<monster name="Haunted Treeling" x="0" y="-1" z="15" spawntime="60" />
+		<monster name="Sand Worm" x="1" y="-1" z="15" spawntime="60" />
 	</spawn>
 	<spawn centerx="774" centery="641" centerz="15" radius="1">
 		<monster name="Cryonid" x="0" y="1" z="15" spawntime="60" />
-	</spawn>
-	<spawn centerx="538" centery="642" centerz="15" radius="1">
-		<monster name="Elder Sand Worm" x="0" y="0" z="15" spawntime="60" />
 	</spawn>
 	<spawn centerx="579" centery="642" centerz="15" radius="1">
 		<monster name="Dieased Warrior" x="0" y="0" z="15" spawntime="60" />

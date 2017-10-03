@@ -15,6 +15,7 @@
 		<flag targetdistance="1" />
 		<flag staticattack="90" />
 		<flag runonhealth="0" />
+	<flag isblockable="1" />
 	</flags>
 	<attacks>
 		<attack name="melee" interval="2000" chance="100" skill="60" attack="100" />
@@ -39,10 +40,10 @@
 		<immunity paralyze="1" />
 		<immunity invisible="1" />
 	</immunities>
-	<voices interval="2000" chance="7">
+	<voices interval="5000" chance="10">
 		<voice sentence="Grrrr!" yell="1" />
 	</voices>
 	<loot>
-		<item id="10531" chance="8333" /> <!-- midnight shard -->
+		<item id="10531" chance="8333" /><!-- midnight shard -->
 	</loot>
 </monster>

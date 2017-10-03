@@ -15,6 +15,7 @@
 		<flag targetdistance="1" />
 		<flag staticattack="90" />
 		<flag runonhealth="0" />
+	<flag isblockable="1" />
 	</flags>
 	<attacks>
 		<attack name="melee" interval="1200" min="0" max="-100" />
@@ -31,10 +32,10 @@
 	<summons maxSummons="2">
 		<summon name="killer rabbit" interval="2000" chance="30" max="2" />
 	</summons>
-	<voices interval="2000" chance="7">
+	<voices interval="5000" chance="10">
 		<voice sentence="Who is lunch NOW?" />
 	</voices>
 	<loot>
-		<item id="2148" countmax="90" chance="50000" /> <!-- gold coins -->
+		<item id="2148" countmax="90" chance="50000" /><!-- gold coins -->
 	</loot>
 </monster>

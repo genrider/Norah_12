@@ -15,6 +15,7 @@
 		<flag targetdistance="1" />
 		<flag staticattack="90" />
 		<flag runonhealth="0" />
+	<flag isblockable="1" />
 	</flags>
 	<attacks>
 		<attack name="melee" interval="2000" min="0" max="-118" />
@@ -40,12 +41,12 @@
 	<summons maxSummons="3">
 		<summon name="Evil Sheep" interval="2000" chance="30" />
 	</summons>
-	<voices interval="2000" chance="7">
+	<voices interval="5000" chance="10">
 		<voice sentence="You can COUNT on us!" />
 		<voice sentence="Maeh!" />
 		<voice sentence="I feel you're getting sleepy! Maeh!" />
 	</voices>
 	<loot>
-		<item id="2148" countmax="60" chance="75000" /> <!-- gold coins -->
+		<item id="2148" countmax="60" chance="75000" />	<!-- gold coins -->
 	</loot>
 </monster>

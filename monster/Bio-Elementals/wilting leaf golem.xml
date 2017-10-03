@@ -13,6 +13,7 @@
 		<flag canpushitems="1" />
 		<flag canpushcreatures="0" />
 		<flag staticattack="90" />
+	<flag isblockable="1" />
 	</flags>
 	<attacks>
 		<attack name="melee" interval="1500" skill="50" attack="40" poison="300" />
@@ -33,16 +34,16 @@
 		<element firePercent="-5" />
 		<element icePercent="-1" />
 	</elements>
-	<voices interval="2000" chance="7">
+	<voices interval="5000" chance="10">
 		<voice sentence="*crackle*" />
 		<voice sentence="*swwwwishhhh*" />
 	</voices>
 	<loot>
-		<item id="2148" countmax="45" chance="97230" /> <!-- gold coin -->
-		<item id="21427" chance="11990" /> <!-- dowser -->
-		<item id="21428" chance="14930" /> <!-- fir cone -->
-		<item id="2787" countmax="3" chance="5060" /> <!-- white mushrooms -->
-		<item id="20104" chance="4800" /> <!-- swampling club -->
-		<item id="2149" chance="1000" /> <!-- small emerald -->
+		<item id="2148" countmax="45" chance="97230" /><!-- gold coin -->
+		<item id="21427" chance="10690" /><!-- dowser -->
+		<item id="21428" chance="15630" /><!-- fir cone -->
+		<item id="2787" countmax="3" chance="4860" /><!-- white mushrooms -->
+		<item id="20104" chance="4200" /><!-- swampling club -->
+		<item id="2149" chance="830" /><!-- small emerald -->
 	</loot>
 </monster>

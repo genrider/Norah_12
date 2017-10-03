@@ -15,6 +15,7 @@
 		<flag targetdistance="1" />
 		<flag staticattack="85" />
 		<flag runonhealth="0" />
+	<flag isblockable="1" />
 	</flags>
 	<attacks>
 		<attack name="melee" interval="2000" skill="30" attack="50" />
@@ -43,6 +44,6 @@
 		<summon name="Death Blob" interval="2000" chance="10" />
 	</summons>
 	<loot>
-		<item id="9968" chance="18585" /> <!-- glob of tar -->
+		<item id="9968" chance="14285" /><!-- glob of tar -->
 	</loot>
 </monster>

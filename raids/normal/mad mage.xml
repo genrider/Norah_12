@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<raid>
+	<announce delay="1000" type="warning" message="Mad Mage is back!!!" />	
+	<!--Area Spawns-->
+	<singlespawn delay="1000" name="Mad Mage" x="799" y="815" z="3" />
+</raid>

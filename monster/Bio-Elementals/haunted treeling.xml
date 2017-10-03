@@ -15,6 +15,7 @@
 		<flag targetdistance="0" />
 		<flag staticattack="85" />
 		<flag runonhealth="0" />
+	<flag isblockable="1" />
 	</flags>
 	<attacks>
 		<attack name="melee" interval="2000" skill="40" attack="60" />
@@ -46,22 +47,22 @@
 		<immunity earth="1" />
 		<immunity invisible="1" />
 	</immunities>
-	<voices interval="2000" chance="7">
+	<voices interval="5000" chance="10">
 		<voice sentence="Knarrrz" />
 		<voice sentence="Huuhuuhuuuhuuaarrr" />
 		<voice sentence="Knorrrrrr" />
 	</voices>
 	<loot>
-		<item id="2148" countmax="95" chance="91000" /> <!-- gold coin -->
-		<item id="4860" chance="30000" /> <!-- wooden trash -->
-		<item id="2788" chance="7642" /> <!-- red mushroom -->
-		<item id="2787" countmax="2" chance="5063" /> <!-- white mushroom -->
-		<item id="10600" chance="5000" /> <!-- haunted piece of wood -->
-		<item id="7618" chance="5100" /> <!-- health potion -->
-		<item id="2790" chance="1851" /> <!-- orange mushroom -->
-		<item id="7588" chance="1000" /> <!-- strong health potion -->
-		<item id="2213" chance="671" /> <!-- dwarven ring -->
-		<item id="2146" chance="630" /> <!-- small emerald -->
-		<item id="7443" chance="90" /> <!-- bullseye potion -->
+		<item id="2148" countmax="95" chance="60000" /><!-- gold coin -->
+		<item id="4860" chance="25000" /><!-- wooden trash -->
+		<item id="2788" chance="7142" /><!-- red mushroom -->
+		<item id="2787" countmax="2" chance="5263" /><!-- white mushroom -->
+		<item id="10600" chance="5000" /><!-- haunted piece of wood -->
+		<item id="7618" chance="5000" /><!-- health potion -->
+		<item id="2790" chance="1851" /><!-- orange mushroom -->
+		<item id="7588" chance="900" /><!-- strong health potion -->
+		<item id="2213" chance="621" /><!-- dwarven ring -->
+		<item id="2146" chance="585" /><!-- small emerald -->
+		<item id="7443" chance="80" /><!-- bullseye potion -->
 	</loot>
 </monster>

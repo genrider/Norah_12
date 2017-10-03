@@ -15,6 +15,7 @@
 		<flag targetdistance="1" />
 		<flag staticattack="90" />
 		<flag runonhealth="20" />
+	<flag isblockable="1" />
 	</flags>
 	<attacks>
 		<attack name="melee" interval="2000" min="0" max="-90" />
@@ -32,10 +33,10 @@
 		<element icePercent="20" />
 		<element physicalPercent="20" />
 	</elements>
-	<voices interval="2000" chance="7">
+	<voices interval="5000" chance="10">
 		<voice sentence="Grrrr" />
 	</voices>
 	<loot>
-		<item id="2148" countmax="50" chance="50000" /> <!-- gold coins -->
+		<item id="2148" countmax="50" chance="50000" />	<!-- gold coins -->
 	</loot>
 </monster>

@@ -27993,6 +27993,9 @@
 		<attribute key="floorchange" value="north" />
 	</item>
 	<item id="18975" article="a" name="ramp" />
+	<item fromid="18976" toid="18983" article="a" name="ramp">
+		<attribute key="floorchange" value="down" />
+	</item>
 	<item fromid="19107" toid="19141" article="a" name="mountain" />
 	<item id="19143" article="a" name="mountain" />
 	<item id="19145" name="grass" />
@@ -35958,10 +35961,27 @@
 		<attribute key="duration" value="600" />
 		<attribute key="corpseType" value="blood" />
 	</item>
-	<item id="21295" article="a" name="dead white pale">
+	<item id="21295" article="a" name="dead sand worm">
 		<attribute key="containerSize" value="15" />
+		<attribute key="decayTo" value="21296" />
+		<attribute key="duration" value="10" />
+		<attribute key="corpseType" value="blood" />
+	</item>
+	<item id="21296" article="a" name="dead sand worm">
+		<attribute key="containerSize" value="15" />
+		<attribute key="decayTo" value="21297" />
+		<attribute key="duration" value="900" />
+		<attribute key="corpseType" value="blood" />
+	</item>
+	<item id="21297" article="a" name="dead sand worm">
+		<attribute key="containerSize" value="15" />
+		<attribute key="decayTo" value="21298" />
+		<attribute key="duration" value="600" />
+		<attribute key="corpseType" value="blood" />
+	</item>
+	<item id="21298" article="a" name="dead sand worm">
 		<attribute key="decayTo" value="0" />
-		<attribute key="duration" value="800" />
+		<attribute key="duration" value="300" />
 		<attribute key="corpseType" value="blood" />
 	</item>
 	<item id="21291" article="a" name="dead the welter">

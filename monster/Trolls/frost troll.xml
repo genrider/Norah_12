@@ -15,6 +15,7 @@
 		<flag targetdistance="1" />
 		<flag staticattack="90" />
 		<flag runonhealth="10" />
+	<flag isblockable="1" />
 	</flags>
 	<attacks>
 		<attack name="melee" interval="2000" min="0" max="-20" />
@@ -27,18 +28,18 @@
 		<element energyPercent="-10" />
 		<element deathPercent="-15" />
 	</elements>
-	<voices interval="2000" chance="7">
+	<voices interval="5000" chance="10">
 		<voice sentence="Brrrr" />
 		<voice sentence="Broar!" />
 	</voices>
 	<loot>
-		<item id="2148" countmax="12" chance="50840" /> <!-- gold coin -->
-		<item id="2389" chance="20300" /> <!-- spear -->
-		<item id="2667" chance="18200" /> <!-- fish -->
-		<item id="2512" chance="15550" /> <!-- wooden shield -->
-		<item id="2384" chance="15400" /> <!-- rapier -->
-		<item id="2245" chance="8200" /> <!-- twigs -->
-		<item id="10565" chance="2020" /> <!-- frosty ear of a troll -->
-		<item id="2651" chance="1100" /> <!-- coat -->
+		<item id="2148" countmax="12" chance="50840" />	<!-- gold coin -->
+		<item id="2389" chance="21500" />				<!-- spear -->
+		<item id="2667" chance="18000" />				<!-- fish -->
+		<item id="2512" chance="15850" />				<!-- wooden shield -->
+		<item id="2384" chance="15500" />				<!-- rapier -->
+		<item id="2245" chance="8300" />					<!-- twigs -->
+		<item id="10565" chance="2000" />				<!-- frosty ear of a troll -->
+		<item id="2651" chance="1200" />					<!-- coat -->
 	</loot>
 </monster>

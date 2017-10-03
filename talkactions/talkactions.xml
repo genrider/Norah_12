@@ -36,11 +36,9 @@
 	<talkaction words="/raid" separator=" " script="force_raid.lua" />
 
 	<!-- player talkactions -->
-	<talkaction words="!buypremium" script="buyprem.lua" />
 	<talkaction words="!buyhouse" script="buyhouse.lua" />
 	<talkaction words="!sellhouse" separator=" " script="sellhouse.lua" />
 	<talkaction words="!leavehouse" script="leavehouse.lua" />
-	<talkaction words="!changesex" script="changesex.lua" />
 	<talkaction words="!uptime" script="uptime.lua" />
 	<talkaction words="!deathlist" script="deathlist.lua" />
 	<talkaction words="!kills" script="kills.lua" />
@@ -52,24 +50,11 @@
 		<talkaction words="!x" separator=" " script="animationeffect.lua" />
 	-->
 
-	<!-- OTX Systems -->
-		<!-- Modified Scripts from TFS
-			place_monster.lua -- RewardSystem ... isRewardBoss
-		-->
-
-		<!-- commands -->
+	<!-- commands -->
 		<talkaction words="/save" script="save.lua" />
-		<talkaction words="/addons" separator=" " script="alladdons.lua" />
-		<talkaction words="/mounts" separator=" " script="allmounts.lua" />
 		<talkaction words="/pos" separator=" " script="teleport_to_pos.lua" />
 		<talkaction words="/attr" separator=" " script="attributes.lua" />
 
-		<!-- Player -->
-		<talkaction words="!spells" script="spells.lua" />
+	<!-- Player -->
 		<talkaction words="!saveme" script="saveme.lua" />
-		<talkaction words="!commands" script="commands.lua" />
-		<talkaction words="!cast" separator=" " script="start_cast.lua" />
-		<talkaction words="!stopcast" script="stop_cast.lua" />
-		<talkaction words="!spectators" script="spectators.lua" />
-		<talkaction words="!stamina" script="staminarefil.lua"/>
 </talkactions>

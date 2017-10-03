@@ -15,14 +15,15 @@
 		<flag targetdistance="1" />
 		<flag staticattack="90" />
 		<flag runonhealth="195" />
+	<flag isblockable="1" />
 	</flags>
-	<voices interval="2000" chance="7">
+	<voices interval="5000" chance="10">
 		<voice sentence="*wheeze*" />
 		<voice sentence="ROOOAAARR!!" />
 		<voice sentence="*sniff*" />
 		<voice sentence="*bell*" />
 	</voices>
-<script>
-<event name="WhiteDeerDeath" />
-</script>
+	<script>
+		<event name="WhiteDeerDeath" />
+	</script>
 </monster>

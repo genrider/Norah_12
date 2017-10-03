@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<raid>
+	<announce delay="1000" type="Event" message="Lizards summoned dragon!" />
+	<singlespawn delay="1000" name="Hatebreeder" x="419" y="595" z="13" />
+	<singlespawn delay="1000" name="Ghastly Dragon" x="420" y="594" z="13" />
+	<singlespawn delay="1000" name="Ghastly Dragon" x="420" y="596" z="13" />
+</raid>

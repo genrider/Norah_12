@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<raid>
+	<announce delay="1000" type="warning" message="Chizzoron the Distorter is comming!" />
+	<singlespawn delay="10000" name="Chizzoron the Distorter" x="434" y="1081" z="9" />
+</raid>

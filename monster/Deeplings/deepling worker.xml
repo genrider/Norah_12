@@ -14,6 +14,7 @@
 		<flag canpushcreatures="1" />
 		<flag targetdistance="0" />
 		<flag runonhealth="20" />
+	<flag isblockable="1" />
 	</flags>
 	<attacks>
 		<attack name="melee" interval="2000" skill="30" attack="40" />
@@ -30,16 +31,16 @@
 		<immunity fire="1" />
 		<immunity ice="1" />
 	</immunities>
-	<voices interval="2000" chance="7">
+	<voices interval="5000" chance="10">
 		<voice sentence="Qjell afar gou jey!" />
 	</voices>
 	<loot>
-		<item id="2148" countmax="25" chance="75000" /> <!-- gold coin -->
-		<item id="15430" chance="6850" /> <!-- deepling scales -->
-		<item id="13838" chance="490" /> <!-- heavy trident -->
-		<item id="5895" chance="340" /> <!-- fish fin -->
-		<item id="13870" chance="283" /> <!-- eye of a deepling -->
+		<item id="2148" countmax="25" chance="70000" /> <!-- gold coin -->
+		<item id="15430" chance="6950" /> <!-- deepling scales -->
+		<item id="13838" chance="510" /> <!-- heavy trident -->
+		<item id="5895" chance="350" /><!-- fish fin -->
+		<item id="13870" chance="283" /><!-- eye of a deepling -->
 		<item id="2667" countmax="3" chance="12020" /> <!-- fish -->
-		<item id="2149" countmax="3" chance="120" /> <!-- small emerald -->
+		<item id="2149" countmax="3" chance="110" /> <!-- small emerald -->
 	</loot>
 </monster>

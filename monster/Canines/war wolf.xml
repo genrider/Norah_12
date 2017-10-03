@@ -15,6 +15,7 @@
 		<flag targetdistance="1" />
 		<flag staticattack="80" />
 		<flag runonhealth="0" />
+	<flag isblockable="1" />
 	</flags>
 	<attacks>
 		<attack name="melee" interval="2000" skill="40" attack="20" />
@@ -27,16 +28,16 @@
 		<element deathPercent="-5" />
 	</elements>
 	<immunities>
-		<immunity invisible="1" />
+		<immunity outfit="1" />
 	</immunities>
-	<voices interval="2000" chance="7">
+	<voices interval="5000" chance="10">
 		<voice sentence="Grrrrrrr" />
 		<voice sentence="Yoooohhuuuu!" yell="1" />
 	</voices>
 	<loot>
-		<item id="2671" countmax="2" chance="35000" /> <!-- ham -->
-		<item id="5897" chance="1000" /> <!-- wolf paw -->
-		<item id="3976" chance="60" /> <!-- wolf trophy -->
-		<item id="11235" chance="5000" /> <!-- warwolf fur -->
+		<item id="2671" countmax="2" chance="35000" /><!-- ham -->
+		<item id="5897" chance="710" /><!-- wolf paw -->
+		<item id="3976" chance="40" /><!-- wolf trophy -->
+		<item id="11235" chance="5230" /><!-- warwolf fur -->
 	</loot>
 </monster>

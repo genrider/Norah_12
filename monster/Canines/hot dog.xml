@@ -15,6 +15,7 @@
 		<flag targetdistance="1" />
 		<flag staticattack="90" />
 		<flag runonhealth="0" />
+	<flag isblockable="1" />
 	</flags>
 	<attacks>
 		<attack name="melee" interval="1200" min="0" max="-55" />
@@ -36,12 +37,12 @@
 		<element holyPercent="-5" />
 		<element physicalPercent="-20" />
 	</elements>
-	<voices interval="2000" chance="7">
+	<voices interval="5000" chance="10">
 		<voice sentence="Wuff Wuff" />
 		<voice sentence="Grrr Wuff" />
 		<voice sentence="Show me how good you are without some rolled newspaper!" />
 	</voices>
 	<loot>
-		<item id="2148" countmax="75" chance="74200" /> <!-- gold coins -->
+		<item id="2148" countmax="75" chance="50000" /><!-- gold coins -->
 	</loot>
 </monster>
