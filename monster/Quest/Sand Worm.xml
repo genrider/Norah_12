@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-  <monster name="Sand Worm" nameDescription="a sand worm" race="undead" experience="1450" species="ice" speed="280" manacost="0">
-    <health now="5500" max="5500"/>
+  <monster name="Sand Worm" nameDescription="a sand worm" race="undead" experience="3700" species="undead" speed="280" manacost="0">
+    <health now="8250" max="8250"/>
     <look type="564" corpse="21295"/>
     <targetchange interval="20000" chance="15"/>
     <strategy attack="100" defense="0"/>
@@ -17,38 +17,49 @@
       <flag lightcolor="0"/>
       <flag targetdistance="1"/>
       <flag runonhealth="1"/>
-    <flag isblockable="0" />
+	  <flag isblockable="1" />
 	</flags>
-<attacks>
-    <attack name="melee" interval="2000" skill="55" attack="55"/>
-<attack name="earth" interval="2000" chance="20" range="7" target="1" min="0" max="-600">
-  <attribute key="shootEffect" value="earth"/>
-    </attack>
-<attack name="ice" interval="1000" chance="10" range="6" target="1" min="0" max="-320">
-	<attribute key="shootEffect" value="snowball"/>
-	</attack>
-<attack name="ice" interval="2000" chance="18" range="4" target="1" min="0" max="-403">
-  <attribute key="shootEffect" value="smallice"/>
-    </attack>
-</attacks>
+	<attacks>
+		<attack name="melee" interval="2000" skill="90" attack="110" />
+		<attack name="earth" interval="2000" chance="20" range="5" target="1" min="-50" max="-350">
+			<attribute key="shootEffect" value="earth"/>
+		</attack>
+		<attack name="earth" interval="2000" chance="15" range="7" min="-165" max="-220">
+			<attribute key="areaEffect" value="greenbubble" />
+		</attack>
+		<attack name="earth" interval="2000" chance="15" length="5" spread="3" min="-250" max="-500">
+			<attribute key="areaEffect" value="poff" />
+		</attack>
+	</attacks>
     <defenses armor="30" defense="30">
-    <defense name="healing" interval="2000" chance="15" min="90" max="150">
-      <attribute key="areaEffect" value="blueshimmer"/>
-    </defense>
-  </defenses>
-<elements>
-		<element physicalPercent="40"/>
-</elements>
-  <immunities>
-    <immunity ice="1"/>
-  </immunities>
-    <voices interval="5000" chance="10">
-    <voice sentence="Blubb"/>
-    <voice sentence="Splipsh Splash"/>
-  </voices>
-  <loot>
-  <loot id="2148" countmax="100" chance="10000"/>
-  <loot id="8302" chance="1900"/>
-  <loot id="7839" chance="1400" countmax="3"/> 
-  </loot>
-  </monster>
+		<defense name="healing" interval="2000" chance="15" min="90" max="210">
+		<attribute key="areaEffect" value="blueshimmer"/>
+		</defense>
+	</defenses>
+	<elements>
+		<element energyPercent="30"/>
+		<element firePercent="10"/>
+	</elements>
+	<immunities>
+		<immunity earth="1"/>
+	</immunities>
+	<voices interval="5000" chance="10">
+	<voice sentence="Harrrr Harrrr!" />
+	<voice sentence="Chhhhhrrrrk!" />
+</voices>
+<loot>
+	<loot id="2148" countmax="200" chance="100000"/><!-- gold coin -->
+	<loot id="2152" countmax="6" chance="96000"/><!-- platinum coin -->
+	<loot id="5913" chance="13500"/><!-- brown piece of cloth -->
+	<loot id="2149" countmax="3" chance="6000"/><!-- small emerald -->	
+	<loot id="2151" countmax="2" chance="5500"/><!-- talon -->
+	<loot id="2147" countmax="2" chance="5500"/><!-- small ruby -->
+	<loot id="2145" countmax="2" chance="4900"/><!-- small diamond -->
+	<loot id="7886" chance="1650"/><!-- terra boots -->
+	<loot id="2154" chance="1200"/><!-- yellow gem -->
+	<loot id="2156" chance="1110"/><!-- red gem -->
+	<loot id="2158" chance="820"/><!-- blue gem -->
+	<loot id="2155" chance="760"/><!-- green gem -->
+	<loot id="18411" chance="450"/><!-- muck rod -->
+</loot>
+</monster>

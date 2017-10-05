@@ -165,13 +165,7 @@
 	<item id="23939" article="a" name="ramp">
 		<attribute key="floorchange" value="north" />
 	</item>
-	<item id="20985" article="a" name="ramp">
-		<attribute key="floorchange" value="north" />
-	</item>
 	<item id="23935" article="a" name="ramp">
-		<attribute key="floorchange" value="west" />
-	</item>
-	<item id="20981" article="a" name="ramp">
 		<attribute key="floorchange" value="west" />
 	</item>
 	<item id="23937" article="a" name="ramp">
@@ -181,13 +175,7 @@
 		<attribute key="floorchange" value="south" />
 	</item>
 	<item id="23123" article="a" name="ramp" />
-	<item id="20983" article="a" name="ramp">
-		<attribute key="floorchange" value="south" />
-	</item>
 	<item id="23933" article="a" name="ramp">
-		<attribute key="floorchange" value="east" />
-	</item>
-	<item id="20979" article="a" name="ramp">
 		<attribute key="floorchange" value="east" />
 	</item>
 	<item id="27070" article="an" name="Chocolatey Dragon Scale Legs">
@@ -26374,7 +26362,7 @@
 		<attribute key="description" value="It was created by Tibia's finest bakers for the celebration of 15 years of Tibia." />
 	</item>
 	<item id="24774" article="a" name="Tibia coin">
-		<attribute key="weight" value="0" />
+		<attribute key="weight" value="1" />
 		<attribute key="description" value="Tibia Coins are needed to shop exclusive products in the Store, including fabulous mounts, classy outfits, a Name Change or even Premium Time." />
 	</item>
 	<item id="16015" article="a" name="Chayenne's magical key">
@@ -26436,7 +26424,7 @@
 	</item>
 	<item id="16101" article="a" name="Tibia Coins">
 		<attribute key="description" value="Using this scroll will add 30 Tibia Coins to your account once." />
-		<attribute key="weight" value="0" />
+		<attribute key="weight" value="1" />
 	</item>
 	<item id="16102" article="a" name="surprise nest">
 		<attribute key="weight" value="2000" />
@@ -31058,6 +31046,70 @@
 		<attribute key="floorchange" value="north" />
 	</item>
 	<item id="20974" article="a" name="ramp" />
+	<item fromid="20977" toid="20978" article="a" name="hole">
+		<attribute key="floorchange" value="down" />
+	</item>
+	<item id="20980" article="a" name="ramp" />
+	<item id="20981" article="a" name="ramp">
+		<attribute key="floorchange" value="west" />
+	</item>
+	<item id="20982" article="a" name="ramp" />
+	<item id="20983" article="a" name="ramp">
+		<attribute key="floorchange" value="south" />
+	</item>
+	<item id="20984" article="a" name="ramp" />
+	<item id="20985" article="a" name="ramp">
+		<attribute key="floorchange" value="north" />
+	</item>
+	<item id="20986" article="a" name="ramp" />
+	<item id="20987" article="a" name="ramp">
+		<attribute key="floorchange" value="east" />
+	</item>
+	<item id="20988" article="a" name="ramp" />
+	<item id="20989" article="a" name="ramp">
+		<attribute key="floorchange" value="west" />
+	</item>
+	<item id="20990" article="a" name="ramp" />
+	<item id="20992" article="a" name="ramp" />
+	<item id="20993" article="a" name="ramp">
+		<attribute key="floorchange" value="north" />
+	</item>
+	<item id="20994" article="a" name="ramp" />
+	<item id="21007" article="a" name="ramp">
+		<attribute key="floorchange" value="east" />
+	</item>
+	<item id="21008" article="a" name="ramp" />
+	<item id="21009" article="a" name="ramp">
+		<attribute key="floorchange" value="west" />
+	</item>
+	<item id="21010" article="a" name="ramp" />
+	<item id="21011" article="a" name="ramp">
+		<attribute key="floorchange" value="south" />
+	</item>
+	<item id="21012" article="a" name="ramp" />
+	<item id="21013" article="a" name="ramp">
+		<attribute key="floorchange" value="north" />
+	</item>
+	<item id="21014" article="a" name="ramp" />
+	<item fromid="21019" toid="21022" article="a" name="ramp">
+		<attribute key="floorchange" value="down" />
+	</item>
+		<item id="21023" article="a" name="ramp">
+		<attribute key="floorchange" value="east" />
+	</item>
+	<item id="21024" article="a" name="ramp" />
+	<item id="21025" article="a" name="ramp">
+		<attribute key="floorchange" value="west" />
+	</item>
+	<item id="21026" article="a" name="ramp" />
+	<item id="21027" article="a" name="ramp">
+		<attribute key="floorchange" value="south" />
+	</item>
+	<item id="21028" article="a" name="ramp" />
+	<item id="21029" article="a" name="ramp">
+		<attribute key="floorchange" value="north" />
+	</item>
+	<item id="21030" article="a" name="ramp" />
 	<item fromid="21079" toid="21112" article="a" name="mountain" />
 	<item fromid="21113" toid="21124" name="forest floor" />
 	<item fromid="21125" toid="21130" name="wild roses" />

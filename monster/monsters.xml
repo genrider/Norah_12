@@ -35,40 +35,108 @@
 	<monster name="Glooth Brigand" file="1070/glooth brigand.xml" />
 	<monster name="Glooth Blob" file="1070/glooth blob.xml" />
 	
-	<!-- Tibia 10.95 -->
-	<monster name="Breach Brood" file="1095/breach brood.xml"/>
-	<monster name="Dread Intruder" file="1095/dread intruder.xml"/>
-	<monster name="Instable Sparkion" file="1095/instable sparkion.xml"/>
-	<monster name="Pit Battler" file="1095/pit battler.xml"/>
-	<monster name="Pit Berserker" file="1095/pit berserker.xml"/>
-	<monster name="Pit Blacking" file="1095/pit blacking.xml"/>
-	<monster name="Pit Brawler" file="1095/pit brawler.xml"/>
-	<monster name="Pit Destroyer" file="1095/pit destroyer.xml"/>
-	<monster name="Pit Groveller" file="1095/pit groveller.xml"/>
-	<monster name="Pit Grunt" file="1095/pit grunt.xml"/>
-	<monster name="Pit Lord" file="1095/pit lord.xml"/>
-	<monster name="Pit Maimer" file="1095/pit maimer.xml"/>
-	<monster name="Pit Overlord" file="1095/pit overlord.xml"/>
-	<monster name="Pit Reaver" file="1095/pit reaver.xml"/>
-	<monster name="Pit Scourge" file="1095/pit scourge.xml"/>
-	<monster name="Reality Reaver" file="1095/reality reaver.xml"/>
-	<monster name="sparkion" file="1095/sparkion.xml"/>
-	<monster name="Stabilizing Dread Intruder" file="1095/stabilizing dread intruder.xml"/>
-	<monster name="Stabilizing Reality Reaver" file="1095/stabilizing reality reaver.xml"/>
-
-	<monster name="Aftershock" file="1095/aftershock.xml"/>
-	<monster name="Eradicator" file="1095/eradicator.xml"/>
-	<monster name="eradicatorv2" file="1095/eradicatorv2.xml"/>
-	<monster name="Foreshock" file="1095/foreshock.xml"/>
-	<monster name="Rupture" file="1095/rupture.xml"/>
-	<monster name="World Devourer" file="1095/world devourer.xml"/>
-	<monster name="Anomaly" file="1095/anomaly.xml"/>
-	<monster name="Charged Anomaly" file="1095/charged anomaly.xml"/>
-	<monster name="Charging Outburst" file="1095/charging outburst.xml"/>
-	<monster name="Outburst" file="1095/outburst.xml"/>
-	<monster name="The Destruction" file="1095/the destruction.xml"/>
-	<monster name="The Hunger" file="1095/the hunger.xml"/>
-	<monster name="The Rage" file="1095/the rage.xml"/>
+	<!-- Tibia 10.80 -->
+	<monster name="Dawnfire Asura" file="1080/Dawnfire Asura.xml" />
+	<monster name="Feroxa" file="1080/Feroxa.xml" />
+	<monster name="Midnight Asura" file="1080/Midnight Asura.xml" />
+	<monster name="Omnivora" file="1080/Omnivora.xml" />
+	<monster name="Renegade Knight" file="1080/Renegade Knight.xml" />
+	<monster name="Vicious Squire" file="1080/Vicious Squire.xml" />
+	<monster name="Vile Grandmaster" file="1080/Vile Grandmaster.xml" />
+	<monster name="Werebadger" file="1080/Werebadger.xml" />
+	<monster name="Wereboar" file="1080/Wereboar.xml" />
+	<monster name="Werebear" file="1080/Werebear.xml" />
+	
+	<!-- Tibia 10.90 -->
+	<monster name="Breach Brood" file="1090/Breach Brood.xml"/>
+	<monster name="Charger" file="1090/Charger.xml" />
+	<monster name="Dread Intruder" file="1090/Dread Intruder.xml"/>
+	<monster name="Dread IntruderSummon" file="1090/Dread IntruderSummon.xml" />
+	<monster name="Instable Breach Brood" file="1090/Instable Breach BroodSummon.xml" />
+	<monster name="Instable Breach Brood" file="1090/Instable Breach Brood.xml" />
+	<monster name="Instable Sparkion" file="1090/Instable Sparkion.xml" />
+	<monster name="Reality Reaver" file="1090/Reality Reaver.xml" />
+	<monster name="sparkion" file="1090/Sparkion.xml"/>
+	<monster name="Stabilizing Dread Intruder" file="1090/stabilizing dread intruder.xml"/>
+	<monster name="Stabilizing Reality Reaver" file="1090/stabilizing reality reaver.xml"/>
+	<monster name="Aftershock" file="1090/aftershock.xml"/>
+	<monster name="Eradicator" file="1090/eradicator.xml"/>
+	<monster name="eradicatorv2" file="1090/eradicatorv2.xml"/>
+	<monster name="Foreshock" file="1090/foreshock.xml"/>
+	<monster name="Rupture" file="1090/Rupture.xml"/>
+	<monster name="World Devourer" file="1090/World Devourer.xml"/>
+	<monster name="Anomaly" file="1090/anomaly.xml"/>
+	<monster name="Charged Anomaly" file="1090/charged anomaly.xml"/>
+	<monster name="Charging Outburst" file="1090/charging outburst.xml"/>
+	<monster name="Outburst" file="1090/Outburst.xml"/>
+	<monster name="The Destruction" file="1090/the destruction.xml"/>
+	<monster name="The Hunger" file="1090/the hunger.xml"/>
+	<monster name="The Rage" file="1090/the rage.xml"/>
+	<monster name="Clomp" file="1090/Clomp.xml" />
+	<monster name="Grimeleech" file="1090/Grimeleech.xml" />
+	<monster name="Hellflayer" file="1090/Hellflayer.xml" />
+	<monster name="Ogre Brute" file="1090/Ogre Brute.xml" />
+	<monster name="Ogre Savage" file="1090/Ogre Savage.xml" />
+	<monster name="Ogre Shaman" file="1090/Ogre Shaman.xml" />
+	<monster name="Vexclaw" file="1090/Vexclaw.xml" />
+	<monster name="Mazoran" file="1090/Mazoran.xml" />
+	<monster name="Plagirath" file="1090/Plagirath.xml" />
+	<monster name="Ragiaz" file="1090/Ragiaz.xml" />
+	<monster name="Razzagorn" file="1090/Razzagorn.xml" />
+	<monster name="Shulgrax" file="1090/Shulgrax.xml" />
+	<monster name="Tarbaz" file="1090/Tarbaz.xml" />
+	<monster name="Zamulosh" file="1090/Zamulosh.xml" />
+	<monster name="Zamulosh Summom" file="1090/ZamuloshSummom.xml" />
+	
+	<!-- 11.00 -->
+	<monster name="A Shielded Astral Glyph" file="1100/A Shielded Astral Glyph.xml" />
+	<monster name="Stone Rhino" file="1100/Stone Rhino.xml" />
+	<monster name="An Observer Eye (Imune)" file="1100/An Observer Eye (Imune).xml" />
+	<monster name="Angry Plant" file="1100/Angry Plant.xml" />
+	<monster name="Animated Sword" file="1100/Animated Sword.xml" />
+	<monster name="Baby Dragon" file="1100/Baby Dragon.xml" />
+	<monster name="Bound Astral Power" file="1100/Bound Astral Power.xml" />
+	<monster name="Broken Shaper" file="1100/Broken Shaper.xml" />
+	<monster name="Cave Parrot" file="1100/Cave Parrot.xml" />
+	<monster name="Corrupted Soul" file="1100/Corrupted Soul.xml" />
+	<monster name="Cosmic Energy Prism A" file="1100/Cosmic Energy Prism A.xml" />
+	<monster name="Cosmic Energy Prism B" file="1100/Cosmic Energy Prism B.xml" />
+	<monster name="Cosmic Energy Prism C" file="1100/Cosmic Energy Prism C.xml" />
+	<monster name="Cosmic Energy Prism D" file="1100/Cosmic Energy Prism D.xml" />
+	<monster name="Diamond Servant Replica" file="1100/Diamond Servant Replica.xml" />
+	<monster name="Golden Servant Replica" file="1100/Golden Servant Replica.xml" />
+	<monster name="Dragon Essence" file="1100/Dragon Essence.xml" />
+	<monster name="Dragon Warden" file="1100/Dragon Warden.xml" />
+	<monster name="Orclops Doomhauler" file="1100/Orclops Doomhauler.xml" />
+	<monster name="Orclops Ravager" file="1100/Orclops Ravager.xml" />
+	<monster name="Twisted Shaper" file="1100/Twisted Shaper.xml" />
+	<monster name="Shaper Matriarch" file="1100/Shaper Matriarch.xml" /> 
+	
+	<!-- 11.00 Boss -->
+	<monster name="Lady Tenebris" file="1100/bosses/Lady Tenebris.xml" />
+	<monster name="Lloyd" file="1100/bosses/Lloyd.xml" />
+	<monster name="Melting Frozen Horror" file="1100/bosses/Melting Frozen Horror.xml" />
+	<monster name="The Last Lore Keeper" file="1100/bosses/The Last Lore Keeper.xml" />
+	<monster name="Sword Of Vengeance" file="1100/bosses/Sword Of Vengeance.xml" />
+	<monster name="An Observer Eye" file="1100/bosses/An Observer Eye.xml" />
+	<monster name="Dragonking Zyrtarch" file="1100/bosses/Dragonking Zyrtarch.xml" />
+	<monster name="Soul of Dragonking Zyrtarch" file="1100/bosses/Soul of Dragonking Zyrtarch.xml" />
+	<monster name="Mounted Thorn Knight" file="1100/bosses/Mounted Thorn Knight.xml" />
+	<monster name="The Shielded Thorn Knight" file="1100/bosses/The Shielded Thorn Knight.xml" />
+	<monster name="Thorn Steed" file="1100/bosses/Thorn Steed.xml" />
+	<monster name="The Enraged Thorn Knight" file="1100/bosses/The Enraged Thorn Knight.xml" />
+	
+	<!-- 11.40 -->
+	<monster name="Faun" file="1140/faun.xml" />
+	<monster name="Dark Faun" file="1140/dark_faun.xml" />
+	<monster name="Enfeebled Silencer" file="1140/enfeebled_silencer.xml" />
+	<monster name="Weakened Frazzlemaw" file="1140/weakened_frazzlemaw.xml" />	   
+	<monster name="Pixie" file="1140/pixie.xml" />	   
+	<monster name="Pooka" file="1140/pooka.xml" />	   
+	<monster name="Twisted Pooka" file="1140/twisted_pooka.xml" />	   
+	<monster name="Nymph" file="1140/nymph.xml" />	   
+	<monster name="Boogy" file="1140/boogy.xml" />	   
+	<monster name="Swan Maiden" file="1140/swan_maiden.xml" />	   
 	
 	<!--Norah -->
 	<monster name="Inoperative Uniwheel" file="Norah/inoperative uniwheel.xml" />
