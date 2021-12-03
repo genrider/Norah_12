@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <houses>
-	<house name="Elvin 1" houseid="1" entryx="660" entryy="607" entryz="7" rent="0" townid="1" size="48" />
+	<house name="Elvin 1" houseid="1" entryx="660" entryy="607" entryz="7" rent="0" townid="1" size="50" />
 	<house name="Elvin 2" houseid="2" entryx="667" entryy="615" entryz="7" rent="0" townid="1" size="23" />
 	<house name="Elvin 3" houseid="4" entryx="667" entryy="621" entryz="7" rent="0" townid="1" size="57" />
 	<house name="Elvin 4" houseid="5" entryx="665" entryy="621" entryz="7" rent="0" townid="1" size="54" />
