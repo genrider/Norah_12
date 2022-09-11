@@ -39,8 +39,8 @@
 	<house name="Fideric 7" houseid="38" entryx="703" entryy="619" entryz="7" rent="0" townid="1" size="117" />
 	<house name="Fideric 8" houseid="39" entryx="718" entryy="624" entryz="7" rent="0" townid="1" size="30" />
 	<house name="Fideric 9" houseid="40" entryx="720" entryy="635" entryz="7" rent="0" townid="1" size="92" />
-	<house name="Philen 1" houseid="41" entryx="700" entryy="592" entryz="7" rent="0" townid="1" size="18" />
-	<house name="Philen 2" houseid="42" entryx="705" entryy="592" entryz="7" rent="0" townid="1" size="18" />
+	<house name="Philen 1" houseid="41" entryx="700" entryy="592" entryz="7" rent="0" townid="1" size="35" />
+	<house name="Philen 2" houseid="42" entryx="705" entryy="592" entryz="7" rent="0" townid="1" size="35" />
 	<house name="Philen 3" houseid="43" entryx="707" entryy="598" entryz="7" rent="0" townid="1" size="32" />
 	<house name="Philen 4" houseid="44" entryx="703" entryy="609" entryz="7" rent="0" townid="1" size="44" />
 	<house name="Wilward 1" houseid="45" entryx="682" entryy="556" entryz="7" rent="0" townid="1" size="58" />
@@ -54,4 +54,41 @@
 	<house name="Cedrod 1" houseid="53" entryx="627" entryy="539" entryz="7" rent="0" townid="1" size="36" />
 	<house name="Cedrod 2" houseid="54" entryx="617" entryy="541" entryz="7" rent="0" townid="1" size="31" />
 	<house name="Cedrod 3" houseid="55" entryx="606" entryy="549" entryz="7" rent="0" townid="1" size="41" />
+	<house name="Cedrod 4" houseid="56" entryx="615" entryy="565" entryz="7" rent="0" townid="1" size="22" />
+	<house name="Cedrod 5" houseid="57" entryx="616" entryy="564" entryz="6" rent="0" townid="1" size="20" />
+	<house name="Cedrod 6" houseid="58" entryx="616" entryy="553" entryz="7" rent="0" townid="1" size="14" />
+	<house name="Cedrod 7" houseid="59" entryx="610" entryy="553" entryz="7" rent="0" townid="1" size="14" />
+	<house name="Cedrod 8" houseid="60" entryx="602" entryy="553" entryz="7" rent="0" townid="1" size="10" />
+	<house name="Cedrod 9" houseid="61" entryx="599" entryy="565" entryz="7" rent="0" townid="1" size="10" />
+	<house name="Cedrod 10" houseid="62" entryx="591" entryy="565" entryz="7" rent="0" townid="1" size="9" />
+	<house name="Cedrod 11" houseid="63" entryx="587" entryy="565" entryz="7" rent="0" townid="1" size="16" />
+	<house name="Cedrod 12" houseid="64" entryx="586" entryy="565" entryz="6" rent="0" townid="1" size="16" />
+	<house name="Bolfrey 1" houseid="65" entryx="603" entryy="596" entryz="7" rent="0" townid="1" size="18" />
+	<house name="Bolfrey 2" houseid="66" entryx="618" entryy="599" entryz="7" rent="0" townid="1" size="39" />
+	<house name="Bolfrey 3" houseid="67" entryx="618" entryy="610" entryz="7" rent="0" townid="1" size="18" />
+	<house name="Bolfrey 4" houseid="68" entryx="599" entryy="607" entryz="7" rent="0" townid="1" size="6" />
+	<house name="Bolfrey 5" houseid="69" entryx="599" entryy="610" entryz="7" rent="0" townid="1" size="10" />
+	<house name="Bolfrey 6" houseid="70" entryx="615" entryy="624" entryz="7" rent="0" townid="1" size="18" />
+	<house name="Bolfrey 7" houseid="71" entryx="610" entryy="624" entryz="7" rent="0" townid="1" size="18" />
+	<house name="Bolfrey 8" houseid="72" entryx="601" entryy="624" entryz="7" rent="0" townid="1" size="35" />
+	<house name="Bolfrey 9" houseid="73" entryx="620" entryy="631" entryz="7" rent="0" townid="1" size="69" />
+	<house name="Bolfrey 10" houseid="74" entryx="608" entryy="631" entryz="7" rent="0" townid="1" size="29" />
+	<house name="Bolfrey 11" houseid="75" entryx="601" entryy="640" entryz="7" rent="0" townid="1" size="37" />
+	<house name="Bolfrey 12" houseid="76" entryx="606" entryy="634" entryz="6" rent="0" townid="1" size="23" />
+	<house name="Bolfrey 13" houseid="77" entryx="605" entryy="637" entryz="6" rent="0" townid="1" size="13" />
+	<house name="Bolfrey 14" houseid="78" entryx="605" entryy="637" entryz="6" rent="0" townid="1" size="7" />
+	<house name="Bolfrey 15" houseid="79" entryx="589" entryy="639" entryz="6" rent="0" townid="1" size="17" />
+	<house name="Bolfrey 16" houseid="80" entryx="591" entryy="645" entryz="7" rent="0" townid="1" size="17" />
+	<house name="Bolfrey 17" houseid="81" entryx="590" entryy="646" entryz="7" rent="0" townid="1" size="11" />
+	<house name="Bolfrey 18" houseid="82" entryx="591" entryy="653" entryz="7" rent="0" townid="1" size="16" />
+	<house name="Bolfrey 19" houseid="83" entryx="600" entryy="651" entryz="7" rent="0" townid="1" size="50" />
+	<house name="Bolfrey 20" houseid="84" entryx="621" entryy="651" entryz="7" rent="0" townid="1" size="37" />
+	<house name="Bolfrey 21" houseid="85" entryx="624" entryy="653" entryz="7" rent="0" townid="1" size="5" />
+	<house name="Bolfrey 22" houseid="86" entryx="635" entryy="652" entryz="7" rent="0" townid="1" size="16" />
+	<house name="Bolfrey 23" houseid="87" entryx="637" entryy="652" entryz="7" rent="0" townid="1" size="31" />
+	<house name="Bolfrey 24" houseid="88" entryx="639" entryy="652" entryz="7" rent="0" townid="1" size="16" />
+	<house name="Bolfrey 25" houseid="89" entryx="635" entryy="652" entryz="6" rent="0" townid="1" size="19" />
+	<house name="Bolfrey 26" houseid="90" entryx="637" entryy="652" entryz="6" rent="0" townid="1" size="31" />
+	<house name="Bolfrey 27" houseid="91" entryx="639" entryy="652" entryz="6" rent="0" townid="1" size="19" />
+	<house name="Delvin 1" houseid="92" entryx="674" entryy="651" entryz="7" rent="0" townid="1" size="189" />
 </houses>
